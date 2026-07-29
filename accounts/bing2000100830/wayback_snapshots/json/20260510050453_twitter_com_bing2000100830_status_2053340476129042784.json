@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053115056976703488"
+      ],
+      "media_source_tweet_id": [
+        "2053127853961511222"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2053340476129042784",
+    "created_at": "2026-05-10T05:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053340476129042784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742842175757623296",
+          "start": 3,
+          "username": "KwgSubmadohomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2biZTh57B",
+          "end": 55,
+          "expanded_url": "https://x.com/KwgSubmadohomu/status/2053127853961511222/photo/1",
+          "media_key": "3_2053115056976703488",
+          "start": 32,
+          "url": "https://t.co/W2biZTh57B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053340476129042784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 631
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053127853961511222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KwgSubmadohomu: 5月10日はメイドの日 https://t.co/W2biZTh57B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2053115056976703488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4hRDYaMAAa1j0.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053115056976703488"
+          ],
+          "media_source_tweet_id": [
+            "2053127853961511222"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2053340476129042784",
+        "created_at": "2026-05-10T05:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053340476129042784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742842175757623296",
+              "start": 3,
+              "username": "KwgSubmadohomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2biZTh57B",
+              "end": 55,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2053127853961511222/photo/1",
+              "media_key": "3_2053115056976703488",
+              "start": 32,
+              "url": "https://t.co/W2biZTh57B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053340476129042784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 631
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053127853961511222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KwgSubmadohomu: 5月10日はメイドの日 https://t.co/W2biZTh57B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053115056976703488"
+          ]
+        },
+        "author_id": "1742842175757623296",
+        "conversation_id": "2053127853961511222",
+        "created_at": "2026-05-09T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053127853961511222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2biZTh57B",
+              "end": 35,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2053127853961511222/photo/1",
+              "media_key": "3_2053115056976703488",
+              "start": 12,
+              "url": "https://t.co/W2biZTh57B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053127853961511222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 51644,
+          "like_count": 6028,
+          "quote_count": 21,
+          "reply_count": 6,
+          "retweet_count": 631
+        },
+        "reply_settings": "everyone",
+        "text": "5月10日はメイドの日 https://t.co/W2biZTh57B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 1102,
+          "like_count": 38042,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2164
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T09:35:56.000Z",
+        "description": "まどほむ好きのまどマギファン",
+        "id": "1742842175757623296",
+        "location": "予約投稿",
+        "name": "kwg2(仮)",
+        "pinned_tweet_id": "2025397632374300862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903813656972017665/_0R1GdWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70285,
+          "following_count": 76,
+          "like_count": 14553,
+          "listed_count": 371,
+          "media_count": 931,
+          "tweet_count": 3974
+        },
+        "username": "KwgSubmadohomu",
+        "verified": false
+      }
+    ]
+  }
+}

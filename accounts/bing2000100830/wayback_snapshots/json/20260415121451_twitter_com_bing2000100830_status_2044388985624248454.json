@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2044388985624248454",
+    "created_at": "2026-04-15T12:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044388985624248454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044388985624248454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次od右美都必定尿潴留，，还潴留出规律了，我好无力啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2044388985624248454",
+        "created_at": "2026-04-15T12:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044388985624248454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044388985624248454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次od右美都必定尿潴留，，还潴留出规律了，我好无力啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 881,
+          "like_count": 30418,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1765
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

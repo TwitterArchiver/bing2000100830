@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2058917786135699577",
+    "created_at": "2026-05-25T14:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058921602738524181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055834950017208320",
+          "start": 0,
+          "username": "xxs0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058921602738524181",
+    "in_reply_to_user_id": "2055834950017208320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058917786135699577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs0721 贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2058917781370994689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK-0ERagAEzEli.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2058917786135699577",
+        "created_at": "2026-05-25T14:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058921602738524181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055834950017208320",
+              "start": 0,
+              "username": "xxs0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058921602738524181",
+        "in_reply_to_user_id": "2055834950017208320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058917786135699577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs0721 贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058917781370994689"
+          ]
+        },
+        "author_id": "2055834950017208320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2058917786135699577",
+        "created_at": "2026-05-25T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058917786135699577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/4vndQJDXqQ"
+            },
+            {
+              "display_url": "pic.x.com/1zy938oRGC",
+              "end": 64,
+              "expanded_url": "https://x.com/xxs0721/status/2058917786135699577/photo/1",
+              "media_key": "3_2058917781370994689",
+              "start": 41,
+              "url": "https://t.co/1zy938oRGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917786135699577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/4vndQJDXqQ https://t.co/1zy938oRGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1185,
+          "like_count": 41275,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2511
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "小学生2.0!参上!",
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2055888279950831823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 184,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 62
+        },
+        "username": "xxs0721",
+        "verified": false
+      }
+    ]
+  }
+}

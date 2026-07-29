@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2056099722243576094",
+    "created_at": "2026-05-18T01:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056183201111130418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056183201111130418",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056099722243576094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 滴泪球"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2056099722243576094",
+        "created_at": "2026-05-18T01:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056183201111130418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056183201111130418",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056099722243576094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 滴泪球"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2056099722243576094",
+        "created_at": "2026-05-17T19:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056099722243576094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/curiosityonx/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/curiosityonx/status/2056012837202325775",
+              "start": 13,
+              "url": "https://t.co/EXOfo80z8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056099722243576094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056012837202325775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地球也割手吗，还越割越大 https://t.co/EXOfo80z8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "BE",
+              "full_name": "Belgium",
+              "geo": {
+                "coordinates": [
+                  4.0,
+                  50.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "海王星",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1163,
+          "like_count": 39758,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 2351
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "很无聊的初二小朋友，ip：浙江，11年生人，不善交流所以可能会比较冒犯，然后如果我哪里惹到你了就和我说，声音很神秘，抽烟od割手，暂时就先这样吧…哦对了你们千万要给我私信发消息不然我就无聊死",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰牛逼",
+        "pinned_tweet_id": "2052792075297710237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040900649588768769/fUXi9OrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 96,
+          "like_count": 5593,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1433
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

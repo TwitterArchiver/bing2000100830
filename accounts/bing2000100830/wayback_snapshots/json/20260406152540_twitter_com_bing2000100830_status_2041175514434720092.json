@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041072894672003139",
+    "created_at": "2026-04-06T15:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041175514434720092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714351609977978882",
+          "start": 0,
+          "username": "TinxYxx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041175514434720092",
+    "in_reply_to_user_id": "1714351609977978882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041175331621765421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TinxYxx2 咖啡啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041072894672003139",
+        "created_at": "2026-04-06T15:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041175514434720092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714351609977978882",
+              "start": 0,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041175514434720092",
+        "in_reply_to_user_id": "1714351609977978882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175331621765421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinxYxx2 咖啡啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714351609977978882",
+        "conversation_id": "2041072894672003139",
+        "created_at": "2026-04-06T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041175331621765421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041175331621765421",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041072894672003139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 這什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 813,
+          "like_count": 27148,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1650
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T18:44:18.000Z",
+        "description": "迷路了也没关系，",
+        "id": "1714351609977978882",
+        "location": "南宁",
+        "name": "令兒",
+        "pinned_tweet_id": "2040823982933643599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040792780210085888/qOvgS_I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 953,
+          "like_count": 18453,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 4290
+        },
+        "username": "TinxYxx2",
+        "verified": false
+      }
+    ]
+  }
+}

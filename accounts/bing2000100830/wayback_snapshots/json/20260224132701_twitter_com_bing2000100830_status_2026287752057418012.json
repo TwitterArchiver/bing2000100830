@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026238147286413312",
+        "7_2026238156841111552"
+      ],
+      "media_source_tweet_id": [
+        "2026238175811912051",
+        "2026238175811912051"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2026287752057418012",
+    "created_at": "2026-02-24T13:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026287752057418012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008181604360003584",
+          "start": 3,
+          "username": "Fayoubaike000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXOBrI7mrT",
+          "end": 55,
+          "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+          "media_key": "3_2026238147286413312",
+          "start": 32,
+          "url": "https://t.co/mXOBrI7mrT"
+        },
+        {
+          "display_url": "pic.x.com/mXOBrI7mrT",
+          "end": 55,
+          "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+          "media_key": "7_2026238156841111552",
+          "start": 32,
+          "url": "https://t.co/mXOBrI7mrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026287752057418012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026238175811912051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fayoubaike000: 哎呦我草小猫都整上极乐了 https://t.co/mXOBrI7mrT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2026238147286413312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6k3AdaMAAkpoD.jpg",
+        "width": 720
+      },
+      {
+        "duration_ms": 7546,
+        "height": 1280,
+        "media_key": "7_2026238156841111552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026238156841111552/pu/img/lJQqk80nFXD-3x8q.jpg",
+        "public_metrics": {
+          "view_count": 109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026238156841111552/pu/vid/avc1/320x568/T6YkpQhSM2AZ8wDs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026238156841111552/pu/vid/avc1/480x852/BWaVXG5RCdzcOr94.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026238156841111552/pu/vid/avc1/720x1280/DRZlATtlYcFdr4Yn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026238156841111552/pu/pl/_sN6uTNgKCaaAX-m.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026238147286413312",
+            "7_2026238156841111552"
+          ],
+          "media_source_tweet_id": [
+            "2026238175811912051",
+            "2026238175811912051"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2026287752057418012",
+        "created_at": "2026-02-24T13:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026287752057418012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008181604360003584",
+              "start": 3,
+              "username": "Fayoubaike000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXOBrI7mrT",
+              "end": 55,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+              "media_key": "3_2026238147286413312",
+              "start": 32,
+              "url": "https://t.co/mXOBrI7mrT"
+            },
+            {
+              "display_url": "pic.x.com/mXOBrI7mrT",
+              "end": 55,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+              "media_key": "7_2026238156841111552",
+              "start": 32,
+              "url": "https://t.co/mXOBrI7mrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026287752057418012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026238175811912051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fayoubaike000: 哎呦我草小猫都整上极乐了 https://t.co/mXOBrI7mrT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026238147286413312",
+            "7_2026238156841111552"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2026238175811912051",
+        "created_at": "2026-02-24T10:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026238175811912051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXOBrI7mrT",
+              "end": 36,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+              "media_key": "3_2026238147286413312",
+              "start": 13,
+              "url": "https://t.co/mXOBrI7mrT"
+            },
+            {
+              "display_url": "pic.x.com/mXOBrI7mrT",
+              "end": 36,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026238175811912051/video/1",
+              "media_key": "7_2026238156841111552",
+              "start": 13,
+              "url": "https://t.co/mXOBrI7mrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026238175811912051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我草小猫都整上极乐了 https://t.co/mXOBrI7mrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "中学生(30/08/10),前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 362,
+          "like_count": 5052,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 104
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 391,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

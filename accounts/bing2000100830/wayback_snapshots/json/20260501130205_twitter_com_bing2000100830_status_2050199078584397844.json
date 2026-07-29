@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2049866857923137745",
+    "created_at": "2026-05-01T13:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050199078584397844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857461473355902978",
+          "start": 0,
+          "username": "ljtng565752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050199078584397844",
+    "in_reply_to_user_id": "1857461473355902978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050192546253729856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljtng565752 基本只有酒精的感觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2049866857923137745",
+        "created_at": "2026-05-01T13:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050199078584397844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857461473355902978",
+              "start": 0,
+              "username": "ljtng565752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050199078584397844",
+        "in_reply_to_user_id": "1857461473355902978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050192546253729856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljtng565752 基本只有酒精的感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857461473355902978",
+        "conversation_id": "2049866857923137745",
+        "created_at": "2026-05-01T12:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050192546253729856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050192546253729856",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049866857923137745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 Dxm 配酒精是什麼感覺呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 1061,
+          "like_count": 35475,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2007
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T16:31:49.000Z",
+        "description": "",
+        "id": "1857461473355902978",
+        "name": "垃圾桶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046977748829425664/wkWwT224_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "ljtng565752",
+        "verified": false
+      }
+    ]
+  }
+}

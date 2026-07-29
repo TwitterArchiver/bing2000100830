@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077767317602095105"
+      ],
+      "media_source_tweet_id": [
+        "2077767329186721801"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077956987992871274",
+    "created_at": "2026-07-17T03:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077956987992871274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1906723107550662656",
+          "start": 3,
+          "username": "landminemirror"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKlnwPL7Rb",
+          "end": 43,
+          "expanded_url": "https://x.com/landminemirror/status/2077767329186721801/photo/1",
+          "media_key": "3_2077767317602095105",
+          "start": 20,
+          "url": "https://t.co/GKlnwPL7Rb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077956987992871274",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077767329186721801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landminemirror: https://t.co/GKlnwPL7Rb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2077767317602095105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW2XeuW0AEBR-o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077767317602095105"
+          ]
+        },
+        "author_id": "1906723107550662656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077767329186721801",
+        "created_at": "2026-07-16T14:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077767329186721801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKlnwPL7Rb",
+              "end": 23,
+              "expanded_url": "https://x.com/landminemirror/status/2077767329186721801/photo/1",
+              "media_key": "3_2077767317602095105",
+              "start": 0,
+              "url": "https://t.co/GKlnwPL7Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077767329186721801",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 6262,
+          "like_count": 919,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GKlnwPL7Rb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077767317602095105"
+          ],
+          "media_source_tweet_id": [
+            "2077767329186721801"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077956987992871274",
+        "created_at": "2026-07-17T03:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077956987992871274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1906723107550662656",
+              "start": 3,
+              "username": "landminemirror"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKlnwPL7Rb",
+              "end": 43,
+              "expanded_url": "https://x.com/landminemirror/status/2077767329186721801/photo/1",
+              "media_key": "3_2077767317602095105",
+              "start": 20,
+              "url": "https://t.co/GKlnwPL7Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077956987992871274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077767329186721801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landminemirror: https://t.co/GKlnwPL7Rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1338,
+          "like_count": 52036,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3223
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:59:59.000Z",
+        "description": "deadly poison covered in sweet coating",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landminemirror.straw.page",
+                "end": 23,
+                "expanded_url": "https://landminemirror.straw.page/",
+                "start": 0,
+                "url": "https://t.co/wPP0qLS143"
+              }
+            ]
+          }
+        },
+        "id": "1906723107550662656",
+        "location": "i love my favorite person",
+        "name": "yuuna",
+        "pinned_tweet_id": "1966654903238979628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070058744424120320/izQRjshg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 181,
+          "like_count": 53018,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/wPP0qLS143",
+        "username": "landminemirror",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2027410127964528880",
+    "created_at": "2026-02-27T17:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027443212328333696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1721208231509495808",
+          "start": 0,
+          "username": "zuo369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027443212328333696",
+    "in_reply_to_user_id": "1721208231509495808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027410127964528880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo369 呃啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2027410115264167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLOwhZawAAR2et.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2027410127964528880",
+        "created_at": "2026-02-27T17:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027443212328333696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1721208231509495808",
+              "start": 0,
+              "username": "zuo369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027443212328333696",
+        "in_reply_to_user_id": "1721208231509495808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027410127964528880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo369 呃啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027410115264167936"
+          ]
+        },
+        "author_id": "1721208231509495808",
+        "conversation_id": "2027410127964528880",
+        "created_at": "2026-02-27T15:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027410127964528880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OZZWnVYa9",
+              "end": 151,
+              "expanded_url": "https://x.com/zuo369/status/2027410127964528880/photo/1",
+              "media_key": "3_2027410115264167936",
+              "start": 128,
+              "url": "https://t.co/6OZZWnVYa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027410127964528880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "助力这个（無戒禁の玄牝）互fo的宝们阿里嘎多～！\n\n本可将在评论区抽30个抽奖名额\n转发+关注+ 评论参与！\n\n①一盒150mg普瑞巴林(折25元)\n\n②两瓶魔爪 （折16元)\n\n③一盒云药愈美片（折15元)\n\n④一盒喹硫平（折10元）\n\n3月8日开奖！ https://t.co/6OZZWnVYa9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 409,
+          "like_count": 6973,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 298
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T16:50:05.000Z",
+        "description": "为幻而幻/极乐成仙//精神人格分裂/欢迎互粉/        五年精通六门佛法/试药师",
+        "id": "1721208231509495808",
+        "name": "無戒禁の玄牝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014098476372815872/N_30Mz4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 173,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 260
+        },
+        "username": "zuo369",
+        "verified": false
+      }
+    ]
+  }
+}

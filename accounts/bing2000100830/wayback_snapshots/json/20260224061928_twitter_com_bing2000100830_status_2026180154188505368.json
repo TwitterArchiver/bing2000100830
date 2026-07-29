@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026180143413415937"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2026180154188505368",
+    "created_at": "2026-02-24T06:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026180154188505368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RGzYjSfQu2",
+          "end": 23,
+          "expanded_url": "https://x.com/bing2000100830/status/2026180154188505368/photo/1",
+          "media_key": "3_2026180143413415937",
+          "start": 0,
+          "url": "https://t.co/RGzYjSfQu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026180154188505368",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RGzYjSfQu2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "3_2026180143413415937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5wGvMbUAE8GBI.png",
+        "width": 393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026180143413415937"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2026180154188505368",
+        "created_at": "2026-02-24T06:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026180154188505368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGzYjSfQu2",
+              "end": 23,
+              "expanded_url": "https://x.com/bing2000100830/status/2026180154188505368/photo/1",
+              "media_key": "3_2026180143413415937",
+              "start": 0,
+              "url": "https://t.co/RGzYjSfQu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026180154188505368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RGzYjSfQu2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "中学生(30/08/10),前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 349,
+          "like_count": 4793,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 97
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

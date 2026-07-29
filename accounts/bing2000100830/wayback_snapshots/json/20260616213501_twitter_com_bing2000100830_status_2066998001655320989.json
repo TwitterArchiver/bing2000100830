@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2066998001655320989",
+    "created_at": "2026-06-16T21:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066998001655320989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1998751032650969088",
+          "start": 3,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066998001655320989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066322829524828296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Sakura233: 广告设计套餐抽奖 抱歉号没了重新发一下\n 抽一个人送40个重量大小的数字148553-50-8或者或者500mg 左右重量的数字7558-73-8\n\n需要定制广告数字80和文字二丙基的加tg：@CuteKittenO3O\n转发抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2066998001655320989",
+        "created_at": "2026-06-16T21:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066998001655320989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1998751032650969088",
+              "start": 3,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066998001655320989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066322829524828296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Sakura233: 广告设计套餐抽奖 抱歉号没了重新发一下\n 抽一个人送40个重量大小的数字148553-50-8或者或者500mg 左右重量的数字7558-73-8\n\n需要定制广告数字80和文字二丙基的加tg：@CuteKittenO3O\n转发抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2066322829524828296",
+        "created_at": "2026-06-15T00:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066322829524828296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066322829524828296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广告设计套餐抽奖 抱歉号没了重新发一下\n 抽一个人送40个重量大小的数字148553-50-8或者或者500mg 左右重量的数字7558-73-8\n\n需要定制广告数字80和文字二丙基的加tg：@CuteKittenO3O\n转发抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 1240,
+          "like_count": 45707,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2934
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 抗うつ | くず\n | 希死念慮 | 情緒不安定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2066323708051108324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 72,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

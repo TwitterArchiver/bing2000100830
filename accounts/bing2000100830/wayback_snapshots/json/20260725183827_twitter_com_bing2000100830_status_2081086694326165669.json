@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2081086694326165669",
+    "created_at": "2026-07-25T18:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081086694326165669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Retepa8964/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Retepa8964/status/2081032814137606403",
+          "start": 6,
+          "url": "https://t.co/RX4XNwJjId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081086694326165669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081032814137606403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青u... https://t.co/RX4XNwJjId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2081032803236593664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFQTwraQAAleck.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081086694326165669",
+        "created_at": "2026-07-25T18:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081086694326165669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Retepa8964/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Retepa8964/status/2081032814137606403",
+              "start": 6,
+              "url": "https://t.co/RX4XNwJjId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081086694326165669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081032814137606403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青u... https://t.co/RX4XNwJjId"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081032803236593664"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2081032814137606403",
+        "created_at": "2026-07-25T15:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081032814137606403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1871856668818227200",
+              "start": 4,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSqJRsgaDD",
+              "end": 85,
+              "expanded_url": "https://x.com/Retepa8964/status/2081032814137606403/photo/1",
+              "media_key": "3_2081032803236593664",
+              "start": 62,
+              "url": "https://t.co/cSqJRsgaDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081032814137606403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁有青悠@SEISEI_YUYU_EX 的消息?目前失联两天了，最近求死意志很强，我们很担心他。\n如果有消息请告诉我🥺🥺🥺 https://t.co/cSqJRsgaDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海里",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1374,
+          "like_count": 53694,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 949,
+          "like_count": 27312,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": false
+      }
+    ]
+  }
+}

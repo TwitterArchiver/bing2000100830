@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041031944037884130",
+    "created_at": "2026-04-06T12:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041130446596223389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883791986643308544",
+          "start": 0,
+          "username": "FlymetoBerlin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041130446596223389",
+    "in_reply_to_user_id": "1883791986643308544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041130089262317896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlymetoBerlin_ 不想抽烟了。戒烟。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T12:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130446596223389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883791986643308544",
+              "start": 0,
+              "username": "FlymetoBerlin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130446596223389",
+        "in_reply_to_user_id": "1883791986643308544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041130089262317896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlymetoBerlin_ 不想抽烟了。戒烟。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883791986643308544",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T12:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130089262317896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130089262317896",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041031944037884130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 我妈抽的就是中南海，我第一次听到这个名字还以为是台湾那边做的，，，突然想起来是国家期起的名字因为中国烟草都是国家直营"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 813,
+          "like_count": 27125,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1641
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T08:19:50.000Z",
+        "description": "中国から来た高校生で、中国語、英語、日本語で話せます。\nいつも笑顔でいてほしいです。",
+        "id": "1883791986643308544",
+        "location": "幻想鄉",
+        "name": "柏飞丁_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040663421310373888/bVjTa_Vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 87,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 545
+        },
+        "username": "FlymetoBerlin_",
+        "verified": false
+      }
+    ]
+  }
+}

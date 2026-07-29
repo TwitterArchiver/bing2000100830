@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2066582544745971988",
+    "created_at": "2026-06-15T19:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066598490365730885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1483087280764071945",
+          "start": 0,
+          "username": "iirin_120917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066598490365730885",
+    "in_reply_to_user_id": "1483087280764071945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066593520161542451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iirin_120917 吸吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2066582544745971988",
+        "created_at": "2026-06-15T19:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066598490365730885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1483087280764071945",
+              "start": 0,
+              "username": "iirin_120917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066598490365730885",
+        "in_reply_to_user_id": "1483087280764071945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066593520161542451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iirin_120917 吸吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483087280764071945",
+        "conversation_id": "2066582544745971988",
+        "created_at": "2026-06-15T18:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066593520161542451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066593520161542451",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066590816332845361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 1238,
+          "like_count": 45552,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2925
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T14:42:25.000Z",
+        "description": "13.0\n寻回互关\n大号@Shivam3228\n主人@niconekkod\n牛马💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "niconekkod"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/SupDiuZTRD"
+              }
+            ]
+          }
+        },
+        "id": "1483087280764071945",
+        "location": "你看看你身后",
+        "name": "Selina",
+        "pinned_tweet_id": "2066414001484136584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066411684496052224/p5_CdLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 82,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/SupDiuZTRD",
+        "username": "iirin_120917",
+        "verified": false
+      }
+    ]
+  }
+}

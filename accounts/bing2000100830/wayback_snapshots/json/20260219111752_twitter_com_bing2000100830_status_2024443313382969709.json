@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2024370482158739951",
+    "created_at": "2026-02-19T11:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024443313382969709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551813602553757697",
+          "start": 0,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024443313382969709",
+    "in_reply_to_user_id": "1551813602553757697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024370482158739951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_VnV 那就睡大觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2024370482158739951",
+        "created_at": "2026-02-19T11:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024443313382969709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024443313382969709",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024370482158739951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 那就睡大觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "2024370482158739951",
+        "created_at": "2026-02-19T06:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024370482158739951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024370482158739951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到世界马上末日了，我一直在海面上漂浮，手机几乎没用信号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "中学生(30/08/10),前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 284,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才    音游吃    屎屁尿小孩    \n                                                   三次绕道喵😾\nhttps://t.co/g9bldFhSZO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 104,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 81,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008842552644935680/j_lhQCe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 665,
+          "like_count": 19017,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3953
+        },
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

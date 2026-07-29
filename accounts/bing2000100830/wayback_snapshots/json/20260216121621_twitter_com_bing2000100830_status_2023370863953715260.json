@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2023370863953715260",
+    "created_at": "2026-02-16T12:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023370863953715260"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023370863953715260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们今晚在吃什么好吃的给我看看。我家里连年夜饭都没有，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2023370863953715260",
+        "created_at": "2026-02-16T12:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023370863953715260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023370863953715260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们今晚在吃什么好吃的给我看看。我家里连年夜饭都没有，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "15岁中学生(30/08/10),前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 247,
+          "like_count": 2824,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

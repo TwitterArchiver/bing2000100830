@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030225704189878777",
+    "created_at": "2026-03-07T10:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030231522742349989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793377526542245888",
+          "start": 0,
+          "username": "CT726D_sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030231522742349989",
+    "in_reply_to_user_id": "793377526542245888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030225704189878777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CT726D_sky 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030225704189878777",
+        "created_at": "2026-03-07T10:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030231522742349989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793377526542245888",
+              "start": 0,
+              "username": "CT726D_sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030231522742349989",
+        "in_reply_to_user_id": "793377526542245888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030225704189878777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CT726D_sky 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793377526542245888",
+        "conversation_id": "2030225704189878777",
+        "created_at": "2026-03-07T10:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030225704189878777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030225704189878777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3/7 傍晚，焦慮到身體出現反應，上完廁所後又漏尿，\n\n只好換內褲。那一刻真的感覺自己已經快撐到極限。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 508,
+          "like_count": 11958,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 690
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T09:01:57.000Z",
+        "description": "37y跨女HRT🏳️‍⚧️\n身心科治療中\n泛性戀,記錄生活.\nISTJ,處女座♍️,有點傻.\n緣起緣滅，一切隨緣.",
+        "id": "793377526542245888",
+        "location": "Tainan City, Taiwan",
+        "name": "把悲傷留給自己🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988538546035281920/s0h-lEVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 2192,
+          "like_count": 75930,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 5044
+        },
+        "username": "CT726D_sky",
+        "verified": true
+      }
+    ]
+  }
+}

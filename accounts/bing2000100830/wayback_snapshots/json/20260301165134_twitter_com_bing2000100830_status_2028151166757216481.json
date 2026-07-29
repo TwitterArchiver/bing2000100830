@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2028146775597744602",
+    "created_at": "2026-03-01T16:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028151166757216481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028151166757216481",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028146775597744602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 呃一周一高原原则！想上三高先停三周药先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2028146775597744602",
+        "created_at": "2026-03-01T16:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028151166757216481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028151166757216481",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028146775597744602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 呃一周一高原原则！想上三高先停三周药先"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2028146772099608576"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2028146775597744602",
+        "created_at": "2026-03-01T16:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028146775597744602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028146775597744602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想o玉米，想试试54t怎么样，大家觉得怎么样，中间隔了4天没o！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 426,
+          "like_count": 8154,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 448
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 277,
+          "like_count": 11029,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 1174
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

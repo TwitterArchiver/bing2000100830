@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2066241614641803606",
+    "created_at": "2026-06-14T19:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066241614641803606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elna_elvie9091…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/elna_elvie9091/status/2066239405665419504",
+          "start": 5,
+          "url": "https://t.co/sxymwI0iVq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066241614641803606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066239405665419504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我指使的 https://t.co/sxymwI0iVq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2066241614641803606",
+        "created_at": "2026-06-14T19:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066241614641803606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elna_elvie9091…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/elna_elvie9091/status/2066239405665419504",
+              "start": 5,
+              "url": "https://t.co/sxymwI0iVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066241614641803606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066239405665419504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我指使的 https://t.co/sxymwI0iVq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753116711899770880",
+        "conversation_id": "2066239405665419504",
+        "created_at": "2026-06-14T19:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066239405665419504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066239405665419504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蟑螂你继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 1230,
+          "like_count": 45370,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2913
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号💊@BhawnaniSamit\n我恨蟑螂\n毒蛆网蛆_爱我请给我钱……\n12-09-17_末影人\n被幽灵ban。绝望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 276,
+          "like_count": 1427,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

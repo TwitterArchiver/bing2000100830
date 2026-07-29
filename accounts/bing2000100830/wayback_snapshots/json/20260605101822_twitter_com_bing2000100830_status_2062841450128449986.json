@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062689080589320354",
+    "created_at": "2026-06-05T10:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062841450128449986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902038884130819",
+          "start": 0,
+          "username": "AyatamaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062841450128449986",
+    "in_reply_to_user_id": "1480902038884130819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062839556701872307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyatamaNya 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062689080589320354",
+        "created_at": "2026-06-05T10:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062841450128449986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902038884130819",
+              "start": 0,
+              "username": "AyatamaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062841450128449986",
+        "in_reply_to_user_id": "1480902038884130819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062839556701872307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyatamaNya 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902038884130819",
+        "conversation_id": "2062689080589320354",
+        "created_at": "2026-06-05T10:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062839556701872307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062839556701872307",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062838281914683673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 ៷&gt;ᴗ&lt;៷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1213,
+          "like_count": 43659,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2721
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "我是绫玉/是个笨蛋/INFP/永远14岁/虽然b人很多但我友好善良/雷点很多/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/互动有概率掉落回fo",
+        "id": "1480902038884130819",
+        "location": "绝缘栅双极晶体管  调制传递函数",
+        "name": "绫玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060236379674624003/UIIpIqV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 488,
+          "like_count": 43515,
+          "listed_count": 2,
+          "media_count": 1066,
+          "tweet_count": 6736
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      }
+    ]
+  }
+}

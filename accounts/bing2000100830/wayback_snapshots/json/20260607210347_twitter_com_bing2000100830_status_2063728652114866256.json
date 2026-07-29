@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2059190409478525437",
+    "created_at": "2026-06-07T21:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063728652114866256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948038442790866945",
+          "start": 0,
+          "username": "Janeschan118623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063728652114866256",
+    "in_reply_to_user_id": "1948038442790866945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059214339446583764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janeschan118623 大狗狗。。不是 大哥哥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2059190409478525437",
+        "created_at": "2026-06-07T21:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063728652114866256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948038442790866945",
+              "start": 0,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063728652114866256",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059214339446583764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschan118623 大狗狗。。不是 大哥哥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948038442790866945",
+        "conversation_id": "2059190409478525437",
+        "created_at": "2026-05-26T10:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059214339446583764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059214339446583764",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059190409478525437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在大概是140左右，183/140"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1217,
+          "like_count": 44241,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2775
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "無關風月 | 主帳@Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Janeschanshadow"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "name": "Janes.",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062891600657997824/x89m2nQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 365,
+          "like_count": 21644,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3224
+        },
+        "username": "Janeschan118623",
+        "verified": false
+      }
+    ]
+  }
+}

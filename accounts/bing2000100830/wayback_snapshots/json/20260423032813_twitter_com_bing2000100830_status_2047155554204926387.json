@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046876363991511040"
+      ],
+      "media_source_tweet_id": [
+        "2046876369691558365"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047155554204926387",
+    "created_at": "2026-04-23T03:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047155554204926387"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 16,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1898343097354125312",
+          "start": 3,
+          "username": "nemuqli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8BAknfGNf",
+          "end": 72,
+          "expanded_url": "https://x.com/nemuqli/status/2046876369691558365/photo/1",
+          "media_key": "3_2046876363991511040",
+          "start": 49,
+          "url": "https://t.co/l8BAknfGNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047155554204926387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046876369691558365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemuqli: 標本\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/l8BAknfGNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046876363991511040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGf3NU7bcAAs7pL.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046876363991511040"
+          ],
+          "media_source_tweet_id": [
+            "2046876369691558365"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047155554204926387",
+        "created_at": "2026-04-23T03:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047155554204926387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1898343097354125312",
+              "start": 3,
+              "username": "nemuqli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8BAknfGNf",
+              "end": 72,
+              "expanded_url": "https://x.com/nemuqli/status/2046876369691558365/photo/1",
+              "media_key": "3_2046876363991511040",
+              "start": 49,
+              "url": "https://t.co/l8BAknfGNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047155554204926387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046876369691558365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemuqli: 標本\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/l8BAknfGNf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046876363991511040"
+          ]
+        },
+        "author_id": "1898343097354125312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046876369691558365",
+        "created_at": "2026-04-22T08:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046876369691558365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 3,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8BAknfGNf",
+              "end": 59,
+              "expanded_url": "https://x.com/nemuqli/status/2046876369691558365/photo/1",
+              "media_key": "3_2046876363991511040",
+              "start": 36,
+              "url": "https://t.co/l8BAknfGNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046876369691558365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 11166,
+          "like_count": 1676,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "標本\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/l8BAknfGNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 991,
+          "like_count": 33715,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1876
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T12:00:46.000Z",
+        "description": "創作 https://t.co/WgKvmsMqAx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nemuqli",
+                "end": 26,
+                "expanded_url": "https://skeb.jp/@nemuqli",
+                "start": 3,
+                "url": "https://t.co/WgKvmsMqAx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/uhyp1t382u8c3d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/uhyp1t382u8c3dx?t=RbMd9l&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/0qJPicpRQz"
+              }
+            ]
+          }
+        },
+        "id": "1898343097354125312",
+        "location": "アイコン頂き物です",
+        "name": "大トロ150円",
+        "pinned_tweet_id": "2046876369691558365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045082797539475456/LFVNzNtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 27,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/0qJPicpRQz",
+        "username": "nemuqli",
+        "verified": false
+      }
+    ]
+  }
+}

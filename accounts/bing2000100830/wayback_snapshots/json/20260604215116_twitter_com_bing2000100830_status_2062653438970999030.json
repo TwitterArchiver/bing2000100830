@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062551614268088489",
+    "created_at": "2026-06-04T21:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062653438970999030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551813602553757697",
+          "start": 0,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062653438970999030",
+    "in_reply_to_user_id": "1551813602553757697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062551614268088489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_VnV 杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062551614268088489",
+        "created_at": "2026-06-04T21:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062653438970999030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062653438970999030",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062551614268088489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "2062551614268088489",
+        "created_at": "2026-06-04T15:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062551614268088489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062551614268088489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了吧好焦虑呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1213,
+          "like_count": 43639,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2714
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才｜舞萌 osu 喵斯｜下头屎屁尿小孩\n                                          三次绕道喵😾\n🚪52/250/520 无福利纯⭕米",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 0,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "location": "雾之湖",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040858759883595776/ozwNkVkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 742,
+          "like_count": 30627,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 8188
+        },
+        "url": "https://t.co/g9bldFhSZO",
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

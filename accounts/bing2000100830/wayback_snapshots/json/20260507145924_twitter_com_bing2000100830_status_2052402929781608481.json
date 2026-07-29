@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2052402929781608481",
+    "created_at": "2026-05-07T14:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052402929781608481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031715041196875776",
+          "start": 3,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052402929781608481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052401692340375767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiJin_0v0: 互关我求你们帮帮我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2052402929781608481",
+        "created_at": "2026-05-07T14:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052402929781608481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031715041196875776",
+              "start": 3,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052402929781608481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052401692340375767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiJin_0v0: 互关我求你们帮帮我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2052401692340375767",
+        "created_at": "2026-05-07T14:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052401692340375767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yijin_0v0/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yijin_0v0/status/2052349093230629151",
+              "start": 10,
+              "url": "https://t.co/XYQveBipDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052401692340375767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052349093230629151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互关我求你们帮帮我 https://t.co/XYQveBipDt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1089,
+          "like_count": 37204,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2108
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "3.0 笑死我了\n不发帖就是犯病了（没有说发帖就不犯病的意思）\n多动-精分-双向-已放弃治疗🥳/缓慢回fo，整理账号\n永远纪念 @iirin_0917^@wu_si787878\n随时附身@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "iirin_0917"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "wu_si787878"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中二）",
+        "pinned_tweet_id": "2052349093230629151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 598,
+          "like_count": 5451,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3051
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

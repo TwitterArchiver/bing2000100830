@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2055253219631309157",
+    "created_at": "2026-05-15T13:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055279022675038464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055279022675038464",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055253219631309157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 被我吃掉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15036,
+        "height": 1280,
+        "media_key": "13_2055253126366863360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055253126366863360/img/FSgXeu-oV1EWjemW.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/320x568/EWLeX34DzJz6ebCj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/480x852/iO9tpYizT5TrXfCc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/720x1280/_DrN6DeHFrj-QZkQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055253126366863360/pl/u2BGjDSF-LOef8tO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2055253219631309157",
+        "created_at": "2026-05-15T13:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055279022675038464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279022675038464",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055253219631309157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 被我吃掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055253126366863360"
+          ]
+        },
+        "author_id": "1753116711899770880",
+        "conversation_id": "2055253219631309157",
+        "created_at": "2026-05-15T11:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055253219631309157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF3hZMwabS",
+              "end": 27,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2055253219631309157/video/1",
+              "media_key": "13_2055253126366863360",
+              "start": 4,
+              "url": "https://t.co/tF3hZMwabS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055253219631309157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缺牙齿 https://t.co/tF3hZMwabS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1141,
+          "like_count": 39214,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2273
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "大号：@Yijin_0v0\n【查成分回fo】\n歌词大意：我只是想睡个好觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你看看你身后",
+        "name": "5.霖完全体",
+        "pinned_tweet_id": "2054984503693856923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053746246196838400/-XI5NtCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 141,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 297
+        },
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

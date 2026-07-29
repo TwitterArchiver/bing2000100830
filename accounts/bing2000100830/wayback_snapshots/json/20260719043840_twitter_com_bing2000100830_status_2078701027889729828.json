@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078499323004981248"
+      ],
+      "media_source_tweet_id": [
+        "2078499338926637278"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2078701027889729828",
+    "created_at": "2026-07-19T04:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078701027889729828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 108,
+          "start": 90,
+          "tag": "NEEDYGIRLOVERDOSE"
+        },
+        {
+          "end": 115,
+          "start": 109,
+          "tag": "アニメ写真"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880549840612110336",
+          "start": 3,
+          "username": "mmmishima162"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRkrJN6Dfh",
+          "end": 139,
+          "expanded_url": "https://x.com/mmmishima162/status/2078499338926637278/photo/1",
+          "media_key": "3_2078499323004981248",
+          "start": 116,
+          "url": "https://t.co/gRkrJN6Dfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078701027889729828",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078499338926637278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmishima162: No.7/N\n\nAujourd'hui, je suis le garçon que personne n'attendait.\n\n#ニディガ #NEEDYGIRLOVERDOSE #アニメ写真 https://t.co/gRkrJN6Dfh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078499323004981248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhQHzWaEAAzwb5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078499323004981248"
+          ]
+        },
+        "author_id": "1880549840612110336",
+        "conversation_id": "2078499338926637278",
+        "created_at": "2026-07-18T15:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078499338926637278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 90,
+              "start": 72,
+              "tag": "NEEDYGIRLOVERDOSE"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "アニメ写真"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRkrJN6Dfh",
+              "end": 121,
+              "expanded_url": "https://x.com/mmmishima162/status/2078499338926637278/photo/1",
+              "media_key": "3_2078499323004981248",
+              "start": 98,
+              "url": "https://t.co/gRkrJN6Dfh"
+            },
+            {
+              "display_url": "x.com/mmmishima162/s…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/mmmishima162/status/2078305264915395025",
+              "start": 122,
+              "url": "https://t.co/vykj2QIHrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078499338926637278",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 5844,
+          "like_count": 533,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078305264915395025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No.7/N\n\nAujourd'hui, je suis le garçon que personne n'attendait.\n\n#ニディガ #NEEDYGIRLOVERDOSE #アニメ写真 https://t.co/gRkrJN6Dfh https://t.co/vykj2QIHrS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078499323004981248"
+          ],
+          "media_source_tweet_id": [
+            "2078499338926637278"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2078701027889729828",
+        "created_at": "2026-07-19T04:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078701027889729828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 108,
+              "start": 90,
+              "tag": "NEEDYGIRLOVERDOSE"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "アニメ写真"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880549840612110336",
+              "start": 3,
+              "username": "mmmishima162"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRkrJN6Dfh",
+              "end": 139,
+              "expanded_url": "https://x.com/mmmishima162/status/2078499338926637278/photo/1",
+              "media_key": "3_2078499323004981248",
+              "start": 116,
+              "url": "https://t.co/gRkrJN6Dfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078701027889729828",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078499338926637278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmishima162: No.7/N\n\nAujourd'hui, je suis le garçon que personne n'attendait.\n\n#ニディガ #NEEDYGIRLOVERDOSE #アニメ写真 https://t.co/gRkrJN6Dfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1346,
+          "like_count": 52390,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3238
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T09:36:40.000Z",
+        "description": "映画好き、あらゆる一昔前の作品が好み。\nリアクションいただければ制作オーダー受付（無料・抽選制）\nCinema lover. Fond of films from another time.\nAny characters you’d like to see? Let me know in the comments",
+        "id": "1880549840612110336",
+        "location": "加名見町",
+        "name": "ポンポコ丸@アニメ写真連載中",
+        "pinned_tweet_id": "2077325248203309554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880550654844026880/jHgZaevK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 136,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "mmmishima162",
+        "verified": false
+      }
+    ]
+  }
+}

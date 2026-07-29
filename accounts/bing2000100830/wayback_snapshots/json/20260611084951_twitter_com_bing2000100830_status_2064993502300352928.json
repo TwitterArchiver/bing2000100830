@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064983768725864524",
+    "created_at": "2026-06-11T08:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064993502300352928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045791803228459008",
+          "start": 0,
+          "username": "gygtgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064993502300352928",
+    "in_reply_to_user_id": "2045791803228459008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064993301258998252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gygtgp 我是男的你气不气 😋😋😋😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064983768725864524",
+        "created_at": "2026-06-11T08:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064993502300352928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045791803228459008",
+              "start": 0,
+              "username": "gygtgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064993502300352928",
+        "in_reply_to_user_id": "2045791803228459008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064993301258998252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gygtgp 我是男的你气不气 😋😋😋😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045791803228459008",
+        "conversation_id": "2064983768725864524",
+        "created_at": "2026-06-11T08:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064993301258998252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064993301258998252",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064992047162147100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 你爹我没急，怨妇先急了，哈哈哈笑死我了母狗你急什么？哈哈哈😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1223,
+          "like_count": 44823,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2837
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T09:11:11.000Z",
+        "description": "",
+        "id": "2045791803228459008",
+        "name": "谷雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046167304652660736/lzF33hwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 243
+        },
+        "username": "gygtgp",
+        "verified": false
+      }
+    ]
+  }
+}

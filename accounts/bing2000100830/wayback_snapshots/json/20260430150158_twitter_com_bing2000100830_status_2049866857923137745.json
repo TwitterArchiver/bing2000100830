@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049866753967345664"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2049866857923137745",
+    "created_at": "2026-04-30T15:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049866857923137745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlq7RBxy9a",
+          "end": 40,
+          "expanded_url": "https://x.com/bing2000100830/status/2049866857923137745/photo/1",
+          "media_key": "3_2049866753967345664",
+          "start": 17,
+          "url": "https://t.co/tlq7RBxy9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049866857923137745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酒精➕dxm➕memantine https://t.co/tlq7RBxy9a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2049866753967345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKW87sbUAAsx9_.jpg",
+        "width": 3968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049866753967345664"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2049866857923137745",
+        "created_at": "2026-04-30T15:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049866857923137745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlq7RBxy9a",
+              "end": 40,
+              "expanded_url": "https://x.com/bing2000100830/status/2049866857923137745/photo/1",
+              "media_key": "3_2049866753967345664",
+              "start": 17,
+              "url": "https://t.co/tlq7RBxy9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049866857923137745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒精➕dxm➕memantine https://t.co/tlq7RBxy9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1049,
+          "like_count": 35295,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1985
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

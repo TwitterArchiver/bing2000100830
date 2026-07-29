@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2048883738617188390",
+    "created_at": "2026-04-28T09:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049052175662551065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995056779433275392",
+          "start": 0,
+          "username": "Na3PO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049052175662551065",
+    "in_reply_to_user_id": "1995056779433275392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049051617375432896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Na3PO2 抛砖引玉嘛 🤤而且我觉得出于减害目的也很难真的宣传假药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2048883738617188390",
+        "created_at": "2026-04-28T09:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049052175662551065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995056779433275392",
+              "start": 0,
+              "username": "Na3PO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049052175662551065",
+        "in_reply_to_user_id": "1995056779433275392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049051617375432896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Na3PO2 抛砖引玉嘛 🤤而且我觉得出于减害目的也很难真的宣传假药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995056779433275392",
+        "conversation_id": "2048883738617188390",
+        "created_at": "2026-04-28T09:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049051617375432896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049051617375432896",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048883738617188390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 真想搞这种计划应该发在那种相对私密的匿名论坛，推还是太公开了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 1037,
+          "like_count": 34884,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1931
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "这里，可以通往任何地方，是的吧",
+        "id": "1995056779433275392",
+        "name": "Na3PO2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009810836769095680/kCvEtfjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 105,
+          "like_count": 12356,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 575
+        },
+        "username": "Na3PO2",
+        "verified": false
+      }
+    ]
+  }
+}

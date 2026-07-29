@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055220348506017792"
+      ],
+      "media_source_tweet_id": [
+        "2055220353388224517"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2055764933607100462",
+    "created_at": "2026-05-16T21:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055764933607100462"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 26,
+          "tag": "illustrationㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1943653097102065664",
+          "start": 3,
+          "username": "asa01110537"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NLcirJb9R",
+          "end": 64,
+          "expanded_url": "https://x.com/asa01110537/status/2055220353388224517/photo/1",
+          "media_key": "3_2055220348506017792",
+          "start": 41,
+          "url": "https://t.co/7NLcirJb9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055764933607100462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 706
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055220353388224517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asa01110537: Windows…\n#illustrationㅤ https://t.co/7NLcirJb9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2055220348506017792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWcBJfbEAAGO6u.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055220348506017792"
+          ],
+          "media_source_tweet_id": [
+            "2055220353388224517"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2055764933607100462",
+        "created_at": "2026-05-16T21:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055764933607100462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "illustrationㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1943653097102065664",
+              "start": 3,
+              "username": "asa01110537"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NLcirJb9R",
+              "end": 64,
+              "expanded_url": "https://x.com/asa01110537/status/2055220353388224517/photo/1",
+              "media_key": "3_2055220348506017792",
+              "start": 41,
+              "url": "https://t.co/7NLcirJb9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055764933607100462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 706
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055220353388224517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asa01110537: Windows…\n#illustrationㅤ https://t.co/7NLcirJb9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055220348506017792"
+          ]
+        },
+        "author_id": "1943653097102065664",
+        "conversation_id": "2055220353388224517",
+        "created_at": "2026-05-15T09:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055220353388224517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 9,
+              "tag": "illustrationㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NLcirJb9R",
+              "end": 47,
+              "expanded_url": "https://x.com/asa01110537/status/2055220353388224517/photo/1",
+              "media_key": "3_2055220348506017792",
+              "start": 24,
+              "url": "https://t.co/7NLcirJb9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055220353388224517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 447,
+          "impression_count": 74384,
+          "like_count": 6082,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 706
+        },
+        "reply_settings": "everyone",
+        "text": "Windows…\n#illustrationㅤ https://t.co/7NLcirJb9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1151,
+          "like_count": 39586,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2309
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T12:46:37.000Z",
+        "description": "アニメーションと背景勉強中 https://t.co/KllidNkt4b https://t.co/9Vy7Yn3O64",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ogawaasa",
+                "end": 37,
+                "expanded_url": "https://lit.link/ogawaasa",
+                "start": 14,
+                "url": "https://t.co/KllidNkt4b"
+              },
+              {
+                "display_url": "skeb.jp/@asa01110537",
+                "end": 61,
+                "expanded_url": "https://skeb.jp/@asa01110537",
+                "start": 38,
+                "url": "https://t.co/9Vy7Yn3O64"
+              }
+            ]
+          }
+        },
+        "id": "1943653097102065664",
+        "name": "小川浅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950143867715796993/3r9H_hh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 18,
+          "like_count": 159,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 153
+        },
+        "username": "asa01110537",
+        "verified": false
+      }
+    ]
+  }
+}

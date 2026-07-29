@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2052137429453148406",
+    "created_at": "2026-05-06T21:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T22:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052137429453148406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786001369587187712",
+          "start": 3,
+          "username": "quachill0312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052137429453148406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051660825153421633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quachill0312: オーバードーズはもう古い！\nこれからは薬を適量で飲むドーズの時代🫵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2052137429453148406",
+        "created_at": "2026-05-06T21:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052137429453148406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786001369587187712",
+              "start": 3,
+              "username": "quachill0312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052137429453148406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051660825153421633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quachill0312: オーバードーズはもう古い！\nこれからは薬を適量で飲むドーズの時代🫵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786001369587187712",
+        "conversation_id": "2051660825153421633",
+        "created_at": "2026-05-05T13:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051660825153421633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051660825153421633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 18543,
+          "like_count": 756,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "オーバードーズはもう古い！\nこれからは薬を適量で飲むドーズの時代🫵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1084,
+          "like_count": 37002,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2094
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:54:56.000Z",
+        "description": "社会不適合者です｜FA #く絵ちる｜リンクまとめhttps://t.co/jy1wGSpvj1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "く絵ちる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/quachill",
+                "end": 47,
+                "expanded_url": "https://lit.link/quachill",
+                "start": 24,
+                "url": "https://t.co/jy1wGSpvj1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@quachill?si=9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@quachill?si=9wpK4SC6fQ0VnZ2O",
+                "start": 0,
+                "url": "https://t.co/y5ZiCo5s7K"
+              }
+            ]
+          }
+        },
+        "id": "1786001369587187712",
+        "name": "くあちる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786019299037163520/YyEX1e00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 11,
+          "like_count": 5079,
+          "listed_count": 6,
+          "media_count": 1010,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/y5ZiCo5s7K",
+        "username": "quachill0312",
+        "verified": false
+      }
+    ]
+  }
+}

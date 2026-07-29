@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079842662212128768"
+      ],
+      "media_source_tweet_id": [
+        "2079842668742631904"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2079889678879343067",
+    "created_at": "2026-07-22T11:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079889678879343067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AobM0d6M6r",
+          "end": 36,
+          "expanded_url": "https://x.com/gdioiui/status/2079842668742631904/photo/1",
+          "media_key": "3_2079842662212128768",
+          "start": 13,
+          "url": "https://t.co/AobM0d6M6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079889678879343067",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079842668742631904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: https://t.co/AobM0d6M6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2079842662212128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0V4b3bUAASE7l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079842662212128768"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2079842668742631904",
+        "created_at": "2026-07-22T08:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079842668742631904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AobM0d6M6r",
+              "end": 23,
+              "expanded_url": "https://x.com/gdioiui/status/2079842668742631904/photo/1",
+              "media_key": "3_2079842662212128768",
+              "start": 0,
+              "url": "https://t.co/AobM0d6M6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079842668742631904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AobM0d6M6r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079842662212128768"
+          ],
+          "media_source_tweet_id": [
+            "2079842668742631904"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2079889678879343067",
+        "created_at": "2026-07-22T11:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079889678879343067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AobM0d6M6r",
+              "end": 36,
+              "expanded_url": "https://x.com/gdioiui/status/2079842668742631904/photo/1",
+              "media_key": "3_2079842662212128768",
+              "start": 13,
+              "url": "https://t.co/AobM0d6M6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079889678879343067",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079842668742631904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: https://t.co/AobM0d6M6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 1367,
+          "like_count": 53028,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 493,
+          "like_count": 4555,
+          "listed_count": 5,
+          "media_count": 1616,
+          "tweet_count": 8347
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064915095818527124",
+    "created_at": "2026-06-11T03:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064915095818527124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jaakuuna/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Jaakuuna/status/2064833444111098029",
+          "start": 7,
+          "url": "https://t.co/XOflzoF1Wr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064915095818527124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064833444111098029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好想吃这个 https://t.co/XOflzoF1Wr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2064833296345751553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfC8W0WYAEPnjK.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064915095818527124",
+        "created_at": "2026-06-11T03:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064915095818527124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jaakuuna/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Jaakuuna/status/2064833444111098029",
+              "start": 7,
+              "url": "https://t.co/XOflzoF1Wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064915095818527124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064833444111098029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想吃这个 https://t.co/XOflzoF1Wr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064833296345751553"
+          ]
+        },
+        "author_id": "1316424071542788097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064833444111098029",
+        "created_at": "2026-06-10T22:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064833444111098029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVPrKwcD44",
+              "end": 72,
+              "expanded_url": "https://x.com/Jaakuuna/status/2064833444111098029/photo/1",
+              "media_key": "3_2064833296345751553",
+              "start": 49,
+              "url": "https://t.co/hVPrKwcD44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064833444111098029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1206,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "p-chan is eating general tso's chicken and rice! https://t.co/hVPrKwcD44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1220,
+          "like_count": 44663,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2823
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T17:02:29.000Z",
+        "description": "昇り竜 🐉 \nYakuza/Metal Gear Enthusiast 🌸 \nPlaying Outlast Trials and Silent Hill F currently 🪷\ncheck strawpage for additional info",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaakuna.straw.page",
+                "end": 23,
+                "expanded_url": "https://jaakuna.straw.page/",
+                "start": 0,
+                "url": "https://t.co/cbBIAWS2uj"
+              }
+            ]
+          }
+        },
+        "id": "1316424071542788097",
+        "location": "NA EST",
+        "name": "Jaakuna 悪",
+        "pinned_tweet_id": "2059076136294879278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058052319129600/Y63uGxRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 142,
+          "like_count": 18497,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/cbBIAWS2uj",
+        "username": "Jaakuuna",
+        "verified": false
+      }
+    ]
+  }
+}

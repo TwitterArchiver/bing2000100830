@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2043976570461946366",
+    "created_at": "2026-04-14T10:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044007015547338777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948038442790866945",
+          "start": 0,
+          "username": "Janeschan118623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044007015547338777",
+    "in_reply_to_user_id": "1948038442790866945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043976570461946366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janeschan118623 😱🥺宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2043976568389939202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2p3AgasAIWte0.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2043976570461946366",
+        "created_at": "2026-04-14T10:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044007015547338777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948038442790866945",
+              "start": 0,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044007015547338777",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043976570461946366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschan118623 😱🥺宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043976568389939202"
+          ]
+        },
+        "author_id": "1948038442790866945",
+        "conversation_id": "2043976570461946366",
+        "created_at": "2026-04-14T08:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043976570461946366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5o17rw1KC",
+              "end": 27,
+              "expanded_url": "https://x.com/Janeschan118623/status/2043976570461946366/photo/1",
+              "media_key": "3_2043976568389939202",
+              "start": 4,
+              "url": "https://t.co/X5o17rw1KC"
+            },
+            {
+              "display_url": "x.com/Janeschan11862…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Janeschan118623/status/2043624018402759140",
+              "start": 28,
+              "url": "https://t.co/jTlGOzUb0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043976570461946366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043624018402759140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "母狗？ https://t.co/X5o17rw1KC https://t.co/jTlGOzUb0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 874,
+          "like_count": 30297,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1761
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "无需问询，人生漫步任我行⚡  \n|  Pinhead Larry📌@Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Janeschanshadow"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "name": "Dirty Dan💀",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039247618317189120/YNPnXHg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 355,
+          "like_count": 20942,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2955
+        },
+        "username": "Janeschan118623",
+        "verified": false
+      }
+    ]
+  }
+}

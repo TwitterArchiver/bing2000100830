@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2058169793929454017",
+    "created_at": "2026-05-23T12:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058169793929454017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing2000100830…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/bing2000100830/status/2036789172837761200",
+          "start": 17,
+          "url": "https://t.co/I4vKA4pYTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058169793929454017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036789172837761200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后我没吃到瑞士卷也没吃到解离剂 https://t.co/I4vKA4pYTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036789163450880000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQg8-na0AAEG4M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2058169793929454017",
+        "created_at": "2026-05-23T12:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058169793929454017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2036789172837761200",
+              "start": 17,
+              "url": "https://t.co/I4vKA4pYTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058169793929454017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036789172837761200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后我没吃到瑞士卷也没吃到解离剂 https://t.co/I4vKA4pYTH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036789163450880000"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036789172837761200",
+        "created_at": "2026-03-25T12:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036789172837761200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTFrdEhIls",
+              "end": 52,
+              "expanded_url": "https://x.com/bing2000100830/status/2036789172837761200/photo/1",
+              "media_key": "3_2036789163450880000",
+              "start": 29,
+              "url": "https://t.co/hTFrdEhIls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036789172837761200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1367,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发明人：饼々\n发明项目：解离瑞士卷\n判刑年份：_____ https://t.co/hTFrdEhIls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 1178,
+          "like_count": 40869,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2462
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

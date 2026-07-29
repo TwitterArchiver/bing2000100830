@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2042999504652374328",
+    "created_at": "2026-04-11T16:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043003687455592523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958561918328643584",
+          "start": 0,
+          "username": "qwq_jihoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043003687455592523",
+    "in_reply_to_user_id": "1958561918328643584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042999504652374328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_jihoon 🫂🫂🫂辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2042999504652374328",
+        "created_at": "2026-04-11T16:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043003687455592523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958561918328643584",
+              "start": 0,
+              "username": "qwq_jihoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043003687455592523",
+        "in_reply_to_user_id": "1958561918328643584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042999504652374328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_jihoon 🫂🫂🫂辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958561918328643584",
+        "conversation_id": "2042999504652374328",
+        "created_at": "2026-04-11T16:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042999504652374328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042999504652374328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爹娘们我回来了，我很难受，我很想你们，我左腿骨折，左手骨折，我甚至被车撞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 825,
+          "like_count": 28976,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1709
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:08:55.000Z",
+        "description": "查成分互fo|od自残|: @IBGDRGN|: @Lilpeep|在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光是我的荣幸。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "IBGDRGN"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "Lilpeep"
+              }
+            ]
+          }
+        },
+        "id": "1958561918328643584",
+        "location": "天国",
+        "name": "小犬_824",
+        "pinned_tweet_id": "2042999504652374328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037071123360473088/ybjqEM9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 678
+        },
+        "username": "qwq_jihoon",
+        "verified": false
+      }
+    ]
+  }
+}

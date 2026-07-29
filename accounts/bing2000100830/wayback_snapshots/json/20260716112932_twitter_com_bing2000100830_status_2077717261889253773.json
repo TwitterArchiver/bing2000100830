@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077581456780447744"
+      ],
+      "media_source_tweet_id": [
+        "2077581461075464484"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077717261889253773",
+    "created_at": "2026-07-16T11:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077717261889253773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 24,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 62,
+          "start": 42,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741204658679422976",
+          "start": 3,
+          "username": "sirium924"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBxxAGkrXm",
+          "end": 86,
+          "expanded_url": "https://x.com/sirium924/status/2077581461075464484/photo/1",
+          "media_key": "3_2077581456780447744",
+          "start": 63,
+          "url": "https://t.co/mBxxAGkrXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077717261889253773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 314
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077581461075464484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sirium924: ずっといっしょ\n​#NEEDY_pic ​#ニディガ #NEEDY_GIRL_OVERDOSE https://t.co/mBxxAGkrXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077581456780447744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUNU9NWUAA2wLa.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077581456780447744"
+          ],
+          "media_source_tweet_id": [
+            "2077581461075464484"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077717261889253773",
+        "created_at": "2026-07-16T11:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077717261889253773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 62,
+              "start": 42,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741204658679422976",
+              "start": 3,
+              "username": "sirium924"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBxxAGkrXm",
+              "end": 86,
+              "expanded_url": "https://x.com/sirium924/status/2077581461075464484/photo/1",
+              "media_key": "3_2077581456780447744",
+              "start": 63,
+              "url": "https://t.co/mBxxAGkrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717261889253773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 314
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077581461075464484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sirium924: ずっといっしょ\n​#NEEDY_pic ​#ニディガ #NEEDY_GIRL_OVERDOSE https://t.co/mBxxAGkrXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077581456780447744"
+          ]
+        },
+        "author_id": "1741204658679422976",
+        "conversation_id": "2077581461075464484",
+        "created_at": "2026-07-16T02:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077581461075464484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 47,
+              "start": 27,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBxxAGkrXm",
+              "end": 71,
+              "expanded_url": "https://x.com/sirium924/status/2077581461075464484/photo/1",
+              "media_key": "3_2077581456780447744",
+              "start": 48,
+              "url": "https://t.co/mBxxAGkrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077581461075464484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 13598,
+          "like_count": 2092,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "ずっといっしょ\n​#NEEDY_pic ​#ニディガ #NEEDY_GIRL_OVERDOSE https://t.co/mBxxAGkrXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1336,
+          "like_count": 51957,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3212
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T21:08:53.000Z",
+        "description": "draw |\nEN/JP/KR OK |\nNo AI/reposts |\nCommissions open | contact: DM/sirium924@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sirium924.carrd.co",
+                "end": 23,
+                "expanded_url": "https://sirium924.carrd.co",
+                "start": 0,
+                "url": "https://t.co/gPYi3dIbhf"
+              }
+            ]
+          }
+        },
+        "id": "1741204658679422976",
+        "name": "924",
+        "pinned_tweet_id": "2046676342910193941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045305268641185793/fl2xVBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 302,
+          "like_count": 2486,
+          "listed_count": 8,
+          "media_count": 135,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/gPYi3dIbhf",
+        "username": "sirium924",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2042905628084224333",
+    "created_at": "2026-04-12T04:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043191084764004660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754438123508146176",
+          "start": 0,
+          "username": "AhnMafuyu2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043191084764004660",
+    "in_reply_to_user_id": "1754438123508146176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043188676348530937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AhnMafuyu2009 哇马忽悠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2043188674301771776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrdRiTbwAAQXzr.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2042905628084224333",
+        "created_at": "2026-04-12T04:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043191084764004660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754438123508146176",
+              "start": 0,
+              "username": "AhnMafuyu2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043191084764004660",
+        "in_reply_to_user_id": "1754438123508146176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043188676348530937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AhnMafuyu2009 哇马忽悠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043188674301771776"
+          ]
+        },
+        "author_id": "1754438123508146176",
+        "conversation_id": "2042905628084224333",
+        "created_at": "2026-04-12T04:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043188676348530937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3adDeZQYV",
+              "end": 44,
+              "expanded_url": "https://x.com/AhnMafuyu2009/status/2043188676348530937/photo/1",
+              "media_key": "3_2043188674301771776",
+              "start": 21,
+              "url": "https://t.co/s3adDeZQYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043188676348530937",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042905628084224333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 看完中推 https://t.co/s3adDeZQYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 838,
+          "like_count": 29110,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1712
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T09:33:55.000Z",
+        "description": "25时太厉害了知道吗",
+        "id": "1754438123508146176",
+        "location": "无人「世界」",
+        "name": "马忽悠我要爱你一辈子口牙",
+        "pinned_tweet_id": "2030563162378928283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030542220714283008/sTqvXIdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 262,
+          "like_count": 1446,
+          "listed_count": 2,
+          "media_count": 681,
+          "tweet_count": 4427
+        },
+        "username": "AhnMafuyu2009",
+        "verified": false
+      }
+    ]
+  }
+}

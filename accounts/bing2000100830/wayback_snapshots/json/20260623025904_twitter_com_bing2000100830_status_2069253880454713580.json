@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2069253880454713580",
+    "created_at": "2026-06-23T02:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069253880454713580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Spr1ngW1nd/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Spr1ngW1nd/status/1612028303631855619",
+          "start": 5,
+          "url": "https://t.co/UPOWbKMKIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069253880454713580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612028303631855619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人心情 https://t.co/UPOWbKMKIe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2069253880454713580",
+        "created_at": "2026-06-23T02:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069253880454713580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngW1nd/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Spr1ngW1nd/status/1612028303631855619",
+              "start": 5,
+              "url": "https://t.co/UPOWbKMKIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069253880454713580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612028303631855619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人心情 https://t.co/UPOWbKMKIe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533024617811812352",
+        "conversation_id": "1612028303631855619",
+        "created_at": "2023-01-08T10:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T10:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1612028303631855619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1612028303631855619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 158362,
+          "like_count": 139,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在思考致幻剂没有人陪是不是有点危险 我等会把刀子那些收了和大门口给锁了先"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 1260,
+          "like_count": 47628,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6994,
+          "following_count": 357,
+          "like_count": 4379,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4947
+        },
+        "url": "",
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

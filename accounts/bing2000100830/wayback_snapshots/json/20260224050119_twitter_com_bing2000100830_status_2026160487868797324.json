@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2026160487868797324",
+    "created_at": "2026-02-24T05:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T06:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026160487868797324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jiankui_He/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Jiankui_He/status/2011369256022335928",
+          "start": 5,
+          "url": "https://t.co/Y7AIWASSTE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026160487868797324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011369256022335928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我同意了 https://t.co/Y7AIWASSTE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2011369235294060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-nRqa3aAAAoYVP.png",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2026160487868797324",
+        "created_at": "2026-02-24T05:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026160487868797324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jiankui_He/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Jiankui_He/status/2011369256022335928",
+              "start": 5,
+              "url": "https://t.co/Y7AIWASSTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026160487868797324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011369256022335928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我同意了 https://t.co/Y7AIWASSTE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011369235294060544"
+          ]
+        },
+        "author_id": "1567847595162091522",
+        "conversation_id": "2011369256022335928",
+        "created_at": "2026-01-14T09:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011369256022335928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0V2Faoefb",
+              "end": 31,
+              "expanded_url": "https://x.com/Jiankui_He/status/2011369256022335928/photo/1",
+              "media_key": "3_2011369235294060544",
+              "start": 8,
+              "url": "https://t.co/b0V2Faoefb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011369256022335928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 575229,
+          "like_count": 1331,
+          "quote_count": 183,
+          "reply_count": 557,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "我的十年规划。 https://t.co/b0V2Faoefb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "中学生(30/08/10),前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 344,
+          "like_count": 4696,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Affordable gene therapy.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147898,
+          "following_count": 1,
+          "like_count": 125,
+          "listed_count": 340,
+          "media_count": 389,
+          "tweet_count": 643
+        },
+        "username": "Jiankui_He",
+        "verified": false
+      }
+    ]
+  }
+}

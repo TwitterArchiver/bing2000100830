@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064920192027894269",
+    "created_at": "2026-06-11T04:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064923963726463456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064923963726463456",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064920192027894269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 。好好笑 看到跨性别之后急哭，又看到8964急哭，又看到性同意年龄急哭，又看到动保急哭。一生都在急哭的吃辣🐷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064920192027894269",
+        "created_at": "2026-06-11T04:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064923963726463456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064923963726463456",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064920192027894269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 。好好笑 看到跨性别之后急哭，又看到8964急哭，又看到性同意年龄急哭，又看到动保急哭。一生都在急哭的吃辣🐷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064920192027894269",
+        "created_at": "2026-06-11T03:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064920192027894269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TekeLili222/st…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/TekeLili222/status/2064626913927475546",
+              "start": 123,
+              "url": "https://t.co/ZQC1uZRS7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064920192027894269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064626913927475546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我完全不知道上调年龄到底触犯他们谁的利益了，这玩意不是只有好处几乎没有坏处吗\n再说了，你情我愿偷偷做谁管你\n自从上推以后我发现了一个能跟小红书女拳势均力敌的群体：推特男拳\n满嘴污言秽语，女性和跨性别稍微有点好他们就不高兴，人家好不好关你什么事啊 https://t.co/ZQC1uZRS7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 1222,
+          "like_count": 44695,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2825
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 167,
+          "like_count": 8838,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 5873
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2048022330421719277",
+    "created_at": "2026-04-25T12:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048022330421719277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878091007453286400",
+          "start": 3,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048022330421719277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048015307437212074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EoivLanY: 😇转发抽😇\n\n5.1之前最后一波福利来啦\n❤️pr 22一盒 十盒210/150mg的23一盒 十盒220 ❤️\n⚡️愈美片一盒21 十盒200包邮⚡️\n🫧阿普唑仑一盒20t 一盒30 十盒270🫧\n😓sns一盒60 十盒 560😓\n😧录硝一盒45…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2048022330421719277",
+        "created_at": "2026-04-25T12:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048022330421719277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878091007453286400",
+              "start": 3,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048022330421719277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048015307437212074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EoivLanY: 😇转发抽😇\n\n5.1之前最后一波福利来啦\n❤️pr 22一盒 十盒210/150mg的23一盒 十盒220 ❤️\n⚡️愈美片一盒21 十盒200包邮⚡️\n🫧阿普唑仑一盒20t 一盒30 十盒270🫧\n😓sns一盒60 十盒 560😓\n😧录硝一盒45…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878091007453286400",
+        "conversation_id": "2048015307437212074",
+        "created_at": "2026-04-25T12:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048015307437212074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048015307437212074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "😇转发抽😇\n\n5.1之前最后一波福利来啦\n❤️pr 22一盒 十盒210/150mg的23一盒 十盒220 ❤️\n⚡️愈美片一盒21 十盒200包邮⚡️\n🫧阿普唑仑一盒20t 一盒30 十盒270🫧\n😓sns一盒60 十盒 560😓\n😧录硝一盒45 十盒400😧\n精二会分批次包邮 其他全部包邮\n\n奖品为1盒sns和1盒录硝 只有两个名额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 988,
+          "like_count": 34249,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1895
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "耐药王子 10800mg普瑞耐活王 交朋友/互fo/血图od/喜欢听歌/双相/重度抑郁/重度焦虑/代购普瑞愈美片 随时发福利 价格不从高到低 多转发 多参与",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2047581773421539756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 77,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 55
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

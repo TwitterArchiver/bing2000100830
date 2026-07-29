@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077792598081892352"
+      ],
+      "media_source_tweet_id": [
+        "2077792610543157687"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077794915208351860",
+    "created_at": "2026-07-16T16:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077794915208351860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043745937298792448",
+          "start": 3,
+          "username": "ivan20221126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3NIQtkYBP",
+          "end": 79,
+          "expanded_url": "https://x.com/ivan20221126/status/2077792610543157687/photo/1",
+          "media_key": "3_2077792598081892352",
+          "start": 56,
+          "url": "https://t.co/w3NIQtkYBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077794915208351860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077792610543157687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ivan20221126: 有谁知道德克萨斯怎么了，推特头像和主页都变空白，墙内也联系不上，是被晶了吗 https://t.co/w3NIQtkYBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077792598081892352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXNW_2bcAAo6y4.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077792598081892352"
+          ],
+          "media_source_tweet_id": [
+            "2077792610543157687"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077794915208351860",
+        "created_at": "2026-07-16T16:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077794915208351860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043745937298792448",
+              "start": 3,
+              "username": "ivan20221126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3NIQtkYBP",
+              "end": 79,
+              "expanded_url": "https://x.com/ivan20221126/status/2077792610543157687/photo/1",
+              "media_key": "3_2077792598081892352",
+              "start": 56,
+              "url": "https://t.co/w3NIQtkYBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077794915208351860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077792610543157687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ivan20221126: 有谁知道德克萨斯怎么了，推特头像和主页都变空白，墙内也联系不上，是被晶了吗 https://t.co/w3NIQtkYBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077792598081892352"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2077792610543157687",
+        "created_at": "2026-07-16T16:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077792610543157687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3NIQtkYBP",
+              "end": 61,
+              "expanded_url": "https://x.com/ivan20221126/status/2077792610543157687/photo/1",
+              "media_key": "3_2077792598081892352",
+              "start": 38,
+              "url": "https://t.co/w3NIQtkYBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077792610543157687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有谁知道德克萨斯怎么了，推特头像和主页都变空白，墙内也联系不上，是被晶了吗 https://t.co/w3NIQtkYBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1338,
+          "like_count": 52014,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 137,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

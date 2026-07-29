@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041465110443524135",
+    "created_at": "2026-04-07T15:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041545615923200308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041545615923200308",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041465110443524135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 四周都是山怎么办 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041465093121355776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS9r6DbsAANaUK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041465110443524135",
+        "created_at": "2026-04-07T15:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041545615923200308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041545615923200308",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041465110443524135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 四周都是山怎么办 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041465093121355776"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041465110443524135",
+        "created_at": "2026-04-07T10:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041465110443524135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Aigq1jfrb",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041465110443524135/photo/1",
+              "media_key": "3_2041465093121355776",
+              "start": 127,
+              "url": "https://t.co/7Aigq1jfrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041465110443524135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你觉得人生迷茫，不知道该干些什么的时候，就拿上手机，去楼下扫辆共享单车，然后随便往哪个方向一直猛骑一直猛骑，绿灯就直行红灯就右转，然后骑个半小时一个小时的，接下来你就会有目标了，因为这个时候一般就会迷路，需要想方设法回到原来的地方，反正我现在就是这样 https://t.co/7Aigq1jfrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 823,
+          "like_count": 27449,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1656
+        },
+        "username": "bing2000100830",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 103,
+          "like_count": 9154,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 603
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 103,
+          "like_count": 9154,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 603
+        },
+        "username": "Oz_Garlandd",
+        "verified": true
+      }
+    ]
+  }
+}

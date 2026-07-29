@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999626870439206912"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "1999627131962425636",
+    "created_at": "2025-12-12T23:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999627131962425636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/26R7XhiUlw",
+          "end": 32,
+          "expanded_url": "https://x.com/bing2000100830/status/1999627131962425636/photo/1",
+          "media_key": "3_1999626870439206912",
+          "start": 9,
+          "url": "https://t.co/26R7XhiUlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999627131962425636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝谢谢你🥺🥺🥺 https://t.co/26R7XhiUlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1999626870439206912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AaC0_a4AAV4Xl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999626870439206912"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "1999627131962425636",
+        "created_at": "2025-12-12T23:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999627131962425636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26R7XhiUlw",
+              "end": 32,
+              "expanded_url": "https://x.com/bing2000100830/status/1999627131962425636/photo/1",
+              "media_key": "3_1999626870439206912",
+              "start": 9,
+              "url": "https://t.co/26R7XhiUlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999627131962425636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝谢谢你🥺🥺🥺 https://t.co/26R7XhiUlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 102,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2048883738617188390",
+    "created_at": "2026-04-28T07:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049026167676825987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041360911936720896",
+          "start": 0,
+          "username": "teacherYing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026167676825987",
+    "in_reply_to_user_id": "2041360911936720896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048960089512685583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacherYing_ 我当时好久没睡觉了，似乎也和o多了差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2048883738617188390",
+        "created_at": "2026-04-28T07:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049026167676825987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041360911936720896",
+              "start": 0,
+              "username": "teacherYing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026167676825987",
+        "in_reply_to_user_id": "2041360911936720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048960089512685583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacherYing_ 我当时好久没睡觉了，似乎也和o多了差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041360911936720896",
+        "conversation_id": "2048883738617188390",
+        "created_at": "2026-04-28T02:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048960089512685583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048960089512685583",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048883738617188390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 你是o多了打出的这条推文吗姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1034,
+          "like_count": 34835,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1925
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T03:43:08.000Z",
+        "description": "queer🏳️‍🌈/泛性恋/学音乐制作的毒虫大学生/重度玉米焦虑症/拉康派精神分析爱好者/药物交流/bilibili同名时不时直播打打游戏/都可互fo",
+        "id": "2041360911936720896",
+        "location": "天堂",
+        "name": "迷人的应老师",
+        "pinned_tweet_id": "2048540327309676851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041361579682480129/YnCHJwWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "username": "teacherYing_",
+        "verified": false
+      }
+    ]
+  }
+}

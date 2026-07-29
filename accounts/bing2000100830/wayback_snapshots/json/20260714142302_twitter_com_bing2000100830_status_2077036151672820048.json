@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2076317290350751959",
+    "created_at": "2026-07-14T14:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077036151672820048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        },
+        {
+          "end": 24,
+          "id": "1750466202462474240",
+          "start": 11,
+          "username": "hwhiteplmuey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077036151672820048",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077031643525910722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 @hwhiteplmuey 我和仓鼠一样任何看起来能吃的东西都要塞嘴里 😭该咋办呐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2076317290350751959",
+        "created_at": "2026-07-14T14:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077036151672820048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            },
+            {
+              "end": 24,
+              "id": "1750466202462474240",
+              "start": 11,
+              "username": "hwhiteplmuey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077036151672820048",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077031643525910722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 @hwhiteplmuey 我和仓鼠一样任何看起来能吃的东西都要塞嘴里 😭该咋办呐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967736228725575681",
+        "conversation_id": "2076317290350751959",
+        "created_at": "2026-07-14T14:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077031643525910722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1750466202462474240",
+              "start": 0,
+              "username": "hwhiteplmuey"
+            },
+            {
+              "end": 29,
+              "id": "1243590342911410176",
+              "start": 14,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077031643525910722",
+        "in_reply_to_user_id": "1750466202462474240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077029565931909222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwhiteplmuey @bing2000100830 我已经节食节出病来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1326,
+          "like_count": 51650,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 74,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:30:46.000Z",
+        "description": "大家好！我是白羽喵/喜欢吃面 喝乌龙茶（我想要吃不完的面喵！）/萌新音游入  Milthm osu mania malody 节奏大师 4k reg9 rf8- 折线 reg5/ISTJ/165cm 59kg 是正方体喵！/生产日期2011.12/在读初二 目前准备休学/坐标鸟白岛",
+        "id": "1750466202462474240",
+        "location": "鸟白岛",
+        "name": "Shiroha_白羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987397479411703808/sjuw0v_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 96,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "hwhiteplmuey",
+        "verified": false
+      }
+    ]
+  }
+}

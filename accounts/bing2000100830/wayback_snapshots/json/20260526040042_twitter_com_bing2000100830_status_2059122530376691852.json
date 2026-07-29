@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2059117574990827564",
+    "created_at": "2026-05-26T04:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059122530376691852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902038884130819",
+          "start": 0,
+          "username": "AyatamaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059122530376691852",
+    "in_reply_to_user_id": "1480902038884130819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059117574990827564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyatamaNya 抱抱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2059117574990827564",
+        "created_at": "2026-05-26T04:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059122530376691852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902038884130819",
+              "start": 0,
+              "username": "AyatamaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059122530376691852",
+        "in_reply_to_user_id": "1480902038884130819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059117574990827564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyatamaNya 抱抱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902038884130819",
+        "conversation_id": "2059117574990827564",
+        "created_at": "2026-05-26T03:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059117574990827564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059117574990827564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我又负能量了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1185,
+          "like_count": 41361,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2517
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "我是绫玉/是个笨蛋/INFP/永远14岁/虽然b人很多但我友好善良/雷点很多/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/互动有概率掉落回fo",
+        "id": "1480902038884130819",
+        "location": "绝缘栅双极晶体管  调制传递函数",
+        "name": "松坂砂糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056750336895848448/gPcsFdmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 486,
+          "like_count": 42657,
+          "listed_count": 2,
+          "media_count": 1052,
+          "tweet_count": 6548
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2060103109175583004",
+    "created_at": "2026-05-29T04:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060221510707728706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060221510707728706",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060103109175583004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 大公鸡划我（咬咬咬）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060103104108888069",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJb027kXAAUVGcF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060103104129904643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJb027pXsAMfnFr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060103103764901894",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJb026SWMAYJlyL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060103105165799427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJb02_gWMAMFkp0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2060103109175583004",
+        "created_at": "2026-05-29T04:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060221510707728706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060221510707728706",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060103109175583004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 大公鸡划我（咬咬咬）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060103104108888069",
+            "3_2060103104129904643",
+            "3_2060103103764901894",
+            "3_2060103105165799427"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060103109175583004",
+        "created_at": "2026-05-28T20:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060103109175583004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AnkHYyWwB",
+              "end": 141,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060103109175583004/photo/1",
+              "media_key": "3_2060103104108888069",
+              "start": 118,
+              "url": "https://t.co/2AnkHYyWwB"
+            },
+            {
+              "display_url": "pic.x.com/2AnkHYyWwB",
+              "end": 141,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060103109175583004/photo/1",
+              "media_key": "3_2060103104129904643",
+              "start": 118,
+              "url": "https://t.co/2AnkHYyWwB"
+            },
+            {
+              "display_url": "pic.x.com/2AnkHYyWwB",
+              "end": 141,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060103109175583004/photo/1",
+              "media_key": "3_2060103103764901894",
+              "start": 118,
+              "url": "https://t.co/2AnkHYyWwB"
+            },
+            {
+              "display_url": "pic.x.com/2AnkHYyWwB",
+              "end": 141,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060103109175583004/photo/1",
+              "media_key": "3_2060103105165799427",
+              "start": 118,
+              "url": "https://t.co/2AnkHYyWwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060103109175583004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的受不了了，，于是首次尝试 但发现我身边的刀好像都太钝了...又不敢用力 所以一点像样的伤口也没整出来 另外用的是腿和脚踝试\n不管了看来我需要一点刀片..不知道用啥比较好 一般而言美工刀或剃须刀应该就够用了吧？只能含泪滚去昏睡了💤 https://t.co/2AnkHYyWwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1190,
+          "like_count": 42053,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2540
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 277,
+          "like_count": 22797,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1710
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

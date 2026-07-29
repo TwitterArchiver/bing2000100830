@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2065973183916949652",
+    "created_at": "2026-06-14T02:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065992263612891626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885927801435611136",
+          "start": 0,
+          "username": "qixiaogonyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065992263612891626",
+    "in_reply_to_user_id": "1885927801435611136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065991419429548387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixiaogonyiyi 踩我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2065973183916949652",
+        "created_at": "2026-06-14T02:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065992263612891626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885927801435611136",
+              "start": 0,
+              "username": "qixiaogonyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065992263612891626",
+        "in_reply_to_user_id": "1885927801435611136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065991419429548387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixiaogonyiyi 踩我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885927801435611136",
+        "conversation_id": "2065973183916949652",
+        "created_at": "2026-06-14T02:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065991419429548387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065991419429548387",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065973183916949652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 和我想得一模一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1227,
+          "like_count": 45148,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2882
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T05:46:50.000Z",
+        "description": "这里乙刃绘，可以叫我乙乙，11。🏳️‍⚧️。原账号登不上了这个是新号。主要在推上分享自己喜欢的东西和碎碎念。",
+        "id": "1885927801435611136",
+        "location": "小酒馆",
+        "name": "乙乙小姐的复仇大计😈",
+        "pinned_tweet_id": "1945888889995968799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 761,
+          "like_count": 52034,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 4418
+        },
+        "username": "qixiaogonyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

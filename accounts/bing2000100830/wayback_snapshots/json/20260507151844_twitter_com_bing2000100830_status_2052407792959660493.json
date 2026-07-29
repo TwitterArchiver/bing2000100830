@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2052277805476704364",
+    "created_at": "2026-05-07T15:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052407792959660493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052407792959660493",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052277805476704364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 生日快乐🍰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052277805476704364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052277805476704364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052277805476704364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2052277805476704364",
+        "created_at": "2026-05-07T15:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052407792959660493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052407792959660493",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052277805476704364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 生日快乐🍰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1089,
+          "like_count": 37225,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2109
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "我来的时候江水很平静",
+        "id": "1816148552764252169",
+        "name": "w0dex1nHa01eNg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051680141684973568/-9ck1TEf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 810,
+          "like_count": 28757,
+          "listed_count": 3,
+          "media_count": 580,
+          "tweet_count": 12892
+        },
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056991141686657024"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056991156685492492",
+    "created_at": "2026-05-20T06:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056991156685492492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kT7Ez60FbZ",
+          "end": 29,
+          "expanded_url": "https://x.com/bing2000100830/status/2056991156685492492/photo/1",
+          "media_key": "3_2056991141686657024",
+          "start": 6,
+          "url": "https://t.co/kT7Ez60FbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056991156685492492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蹦沙卡拉卡 https://t.co/kT7Ez60FbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_2056991141686657024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvmi4JbwAAvF-J.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056991141686657024"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056991156685492492",
+        "created_at": "2026-05-20T06:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056991156685492492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kT7Ez60FbZ",
+              "end": 29,
+              "expanded_url": "https://x.com/bing2000100830/status/2056991156685492492/photo/1",
+              "media_key": "3_2056991141686657024",
+              "start": 6,
+              "url": "https://t.co/kT7Ez60FbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056991156685492492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蹦沙卡拉卡 https://t.co/kT7Ez60FbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1157,
+          "like_count": 40156,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2388
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2027951513516314889",
+    "created_at": "2026-03-01T03:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027951513516314889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiohunggu25101…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xiohunggu251015/status/2027673533971849325",
+          "start": 14,
+          "url": "https://t.co/0nQSJZyKkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027951513516314889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027673533971849325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃啊！!要把尿尿管笑出来了 https://t.co/0nQSJZyKkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32099,
+        "height": 720,
+        "media_key": "7_2027673446520655875",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027673446520655875/pu/img/tXBAIyD0x4rtsd5O.jpg",
+        "public_metrics": {
+          "view_count": 1546
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027673446520655875/pu/vid/avc1/480x270/du71CGfnFdchgd8I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027673446520655875/pu/vid/avc1/640x360/ncNzDJmt-mJCCp_u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027673446520655875/pu/vid/avc1/1280x720/ftDvTJjpqVM3BOwh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027673446520655875/pu/pl/evt2qJWzwa97b8sI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2027951513516314889",
+        "created_at": "2026-03-01T03:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027951513516314889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiohunggu25101…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xiohunggu251015/status/2027673533971849325",
+              "start": 14,
+              "url": "https://t.co/0nQSJZyKkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027951513516314889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027673533971849325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊！!要把尿尿管笑出来了 https://t.co/0nQSJZyKkt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027673446520655875"
+          ]
+        },
+        "author_id": "1752640236138684416",
+        "conversation_id": "2027673533971849325",
+        "created_at": "2026-02-28T09:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027673533971849325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHUkMlEjNj",
+              "end": 42,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2027673533971849325/video/1",
+              "media_key": "7_2027673446520655875",
+              "start": 19,
+              "url": "https://t.co/DHUkMlEjNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027673533971849325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3245,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我的抑郁就是看史消灭的\n变成狂笑症了 https://t.co/DHUkMlEjNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 410,
+          "like_count": 7335,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 372
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2025023382308487514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 872,
+          "like_count": 8508,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 1541
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

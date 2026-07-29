@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063980257296928769"
+      ],
+      "media_source_tweet_id": [
+        "2063980259796758790"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064002150565613980",
+    "created_at": "2026-06-08T15:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064002150565613980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043952988557803520",
+          "start": 3,
+          "username": "tngxngxng13171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQ8oIkvWAW",
+          "end": 58,
+          "expanded_url": "https://x.com/tngxngxng13171/status/2063980259796758790/photo/1",
+          "media_key": "3_2063980257296928769",
+          "start": 35,
+          "url": "https://t.co/qQ8oIkvWAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064002150565613980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063980259796758790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tngxngxng13171: “我是有職業資格的醫護人員” https://t.co/qQ8oIkvWAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2063980257296928769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS7G8uaUAEZw9n.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063980257296928769"
+          ],
+          "media_source_tweet_id": [
+            "2063980259796758790"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064002150565613980",
+        "created_at": "2026-06-08T15:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064002150565613980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043952988557803520",
+              "start": 3,
+              "username": "tngxngxng13171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ8oIkvWAW",
+              "end": 58,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2063980259796758790/photo/1",
+              "media_key": "3_2063980257296928769",
+              "start": 35,
+              "url": "https://t.co/qQ8oIkvWAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064002150565613980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063980259796758790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @tngxngxng13171: “我是有職業資格的醫護人員” https://t.co/qQ8oIkvWAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063980257296928769"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "conversation_id": "2063980259796758790",
+        "created_at": "2026-06-08T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063980259796758790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ8oIkvWAW",
+              "end": 38,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2063980259796758790/photo/1",
+              "media_key": "3_2063980257296928769",
+              "start": 15,
+              "url": "https://t.co/qQ8oIkvWAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063980259796758790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "“我是有職業資格的醫護人員” https://t.co/qQ8oIkvWAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1221,
+          "like_count": 44355,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2788
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "ご指定のページはございません。\n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "ご指定のページはございません。",
+        "pinned_tweet_id": "2060034786568356181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 195,
+          "like_count": 5791,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 528
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

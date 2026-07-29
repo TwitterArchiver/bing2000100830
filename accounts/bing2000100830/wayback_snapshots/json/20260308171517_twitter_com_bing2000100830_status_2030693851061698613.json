@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030693851061698613",
+    "created_at": "2026-03-08T17:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T18:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030693851061698613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009773968891469824",
+          "start": 3,
+          "username": "420bbnnkk"
+        },
+        {
+          "end": 27,
+          "id": "1919090536180600832",
+          "start": 15,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030693851061698613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030015406824640788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420bbnnkk: @dokigirlluv 我们正有这个打算，让吸毒人员学会od，od学会吸毒，大家一起互相交流学习！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030693851061698613",
+        "created_at": "2026-03-08T17:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030693851061698613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009773968891469824",
+              "start": 3,
+              "username": "420bbnnkk"
+            },
+            {
+              "end": 27,
+              "id": "1919090536180600832",
+              "start": 15,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030693851061698613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030015406824640788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420bbnnkk: @dokigirlluv 我们正有这个打算，让吸毒人员学会od，od学会吸毒，大家一起互相交流学习！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009773968891469824",
+        "conversation_id": "2029949905842925733",
+        "created_at": "2026-03-06T20:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030015406824640788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030015406824640788",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14852,
+          "like_count": 355,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029949905842925733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 我们正有这个打算，让吸毒人员学会od，od学会吸毒，大家一起互相交流学习！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 561,
+          "like_count": 13823,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 834
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 35,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 62
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030163344611807232/BxI1OBk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12918,
+          "following_count": 52,
+          "like_count": 741,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 381
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2067059242096607695",
+    "created_at": "2026-06-17T01:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067059242096607695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1335261868223590401",
+          "start": 3,
+          "username": "yerayherr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067059242096607695",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066915724732314081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yerayherr: yo en redes:\nayy como sufro ayy miren como sufro\n\nyo cuando me preguntan que me pasa:\nno se"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2067059242096607695",
+        "created_at": "2026-06-17T01:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067059242096607695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1335261868223590401",
+              "start": 3,
+              "username": "yerayherr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067059242096607695",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066915724732314081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yerayherr: yo en redes:\nayy como sufro ayy miren como sufro\n\nyo cuando me preguntan que me pasa:\nno se"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335261868223590401",
+        "conversation_id": "2066915724732314081",
+        "created_at": "2026-06-16T16:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066915724732314081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066915724732314081",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 51491,
+          "like_count": 7036,
+          "quote_count": 52,
+          "reply_count": 5,
+          "retweet_count": 2222
+        },
+        "reply_settings": "everyone",
+        "text": "yo en redes:\nayy como sufro ayy miren como sufro\n\nyo cuando me preguntan que me pasa:\nno se"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 1242,
+          "like_count": 45820,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2934
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T16:37:01.000Z",
+        "description": "tuiteó todo | promo y colab dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yeray.vpe",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yeray.vpe",
+                "start": 0,
+                "url": "https://t.co/v0K5hxumnE"
+              }
+            ]
+          }
+        },
+        "id": "1335261868223590401",
+        "location": "🇮🇨",
+        "name": "ًyeray•♡",
+        "pinned_tweet_id": "1574028456584790020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756067110114009088/t6G_H_hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9573,
+          "following_count": 94,
+          "like_count": 111659,
+          "listed_count": 42,
+          "media_count": 1172,
+          "tweet_count": 38456
+        },
+        "url": "https://t.co/v0K5hxumnE",
+        "username": "yerayherr",
+        "verified": false
+      }
+    ]
+  }
+}

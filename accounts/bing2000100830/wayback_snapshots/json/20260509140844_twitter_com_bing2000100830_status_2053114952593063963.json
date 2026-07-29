@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052714725893718016"
+      ],
+      "media_source_tweet_id": [
+        "2052714730410987526"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053114952593063963",
+    "created_at": "2026-05-09T14:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053114952593063963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922179090246991873",
+          "start": 3,
+          "username": "EoUuo7348"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VE3is5A4RA",
+          "end": 38,
+          "expanded_url": "https://x.com/EoUuo7348/status/2052714730410987526/photo/1",
+          "media_key": "3_2052714725893718016",
+          "start": 15,
+          "url": "https://t.co/VE3is5A4RA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053114952593063963",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052714730410987526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @EoUuo7348: https://t.co/VE3is5A4RA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2052714725893718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy1Kt4bwAA1WI4.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052714725893718016"
+          ],
+          "media_source_tweet_id": [
+            "2052714730410987526"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053114952593063963",
+        "created_at": "2026-05-09T14:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053114952593063963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922179090246991873",
+              "start": 3,
+              "username": "EoUuo7348"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VE3is5A4RA",
+              "end": 38,
+              "expanded_url": "https://x.com/EoUuo7348/status/2052714730410987526/photo/1",
+              "media_key": "3_2052714725893718016",
+              "start": 15,
+              "url": "https://t.co/VE3is5A4RA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053114952593063963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052714730410987526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @EoUuo7348: https://t.co/VE3is5A4RA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052714725893718016"
+          ]
+        },
+        "author_id": "1922179090246991873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052714730410987526",
+        "created_at": "2026-05-08T11:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052714730410987526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VE3is5A4RA",
+              "end": 23,
+              "expanded_url": "https://x.com/EoUuo7348/status/2052714730410987526/photo/1",
+              "media_key": "3_2052714725893718016",
+              "start": 0,
+              "url": "https://t.co/VE3is5A4RA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052714730410987526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 12299,
+          "like_count": 1115,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/VE3is5A4RA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1095,
+          "like_count": 37737,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2138
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T06:36:30.000Z",
+        "description": "𓈒 ❤︎︎ ࣪ ˖\n@sunsetsky_08 @comfort__tnddk @MARAMIKHU081117",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "sunsetsky_08"
+              },
+              {
+                "end": 39,
+                "start": 24,
+                "username": "comfort__tnddk"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "MARAMIKHU081117"
+              }
+            ]
+          }
+        },
+        "id": "1922179090246991873",
+        "location": "죽음만이 구원이다",
+        "name": "토리",
+        "pinned_tweet_id": "2048738808393613611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041793677203533826/bLc2JI0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 1039,
+          "like_count": 11300,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 2067
+        },
+        "username": "EoUuo7348",
+        "verified": false
+      }
+    ]
+  }
+}

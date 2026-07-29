@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064314206758014976"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064314218741158318",
+    "created_at": "2026-06-09T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064314218741158318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XClkwwIX9W",
+          "end": 23,
+          "expanded_url": "https://x.com/bing2000100830/status/2064314218741158318/photo/1",
+          "media_key": "3_2064314206758014976",
+          "start": 0,
+          "url": "https://t.co/XClkwwIX9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064314218741158318",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XClkwwIX9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 169,
+        "media_key": "3_2064314206758014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXq1XaakAAUqkY.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064314206758014976"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064314218741158318",
+        "created_at": "2026-06-09T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064314218741158318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XClkwwIX9W",
+              "end": 23,
+              "expanded_url": "https://x.com/bing2000100830/status/2064314218741158318/photo/1",
+              "media_key": "3_2064314206758014976",
+              "start": 0,
+              "url": "https://t.co/XClkwwIX9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064314218741158318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XClkwwIX9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 1214,
+          "like_count": 44375,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2789
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

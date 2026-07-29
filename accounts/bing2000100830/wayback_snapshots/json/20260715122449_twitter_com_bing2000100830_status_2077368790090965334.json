@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077352587465232595",
+    "created_at": "2026-07-15T12:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077368790090965334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077368790090965334",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077352587465232595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 天使唱歌了 !"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21366,
+        "height": 1280,
+        "media_key": "13_2077352517374226432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077352517374226432/img/CkSE12bm7-Q5Jvkm.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077352517374226432/vid/avc1/320x568/dfy_-InY_uFw3Fb-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077352517374226432/vid/avc1/480x852/f_1GMUVcvIrMvLK_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077352517374226432/vid/avc1/720x1280/yBSHg89iV7fiWrd6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077352517374226432/pl/1Pp839hstN9I4KIt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077352587465232595",
+        "created_at": "2026-07-15T12:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077368790090965334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077368790090965334",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077352587465232595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 天使唱歌了 !"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077352517374226432"
+          ]
+        },
+        "author_id": "2021958978834685952",
+        "conversation_id": "2077352587465232595",
+        "created_at": "2026-07-15T11:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077352587465232595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R40XL69QdJ",
+              "end": 63,
+              "expanded_url": "https://x.com/Zzerro77/status/2077352587465232595/video/1",
+              "media_key": "13_2077352517374226432",
+              "start": 40,
+              "url": "https://t.co/R40XL69QdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077352587465232595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我命令你们每个人都进来听我唱歌👿👿👿\n（在有回音的地方唱歌感觉像是上天堂了…） https://t.co/R40XL69QdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 1333,
+          "like_count": 51762,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3202
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n另一个我@Zzzero7777\n我的前世@QiuDAOyu0730\n欢迎过🚪♡=•ㅅ＜=)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Zzzero7777"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "QiuDAOyu0730"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2077201345757749263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 60,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      }
+    ]
+  }
+}

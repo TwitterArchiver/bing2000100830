@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078586511088586753"
+      ],
+      "media_source_tweet_id": [
+        "2078586518063706590"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078873263758045584",
+    "created_at": "2026-07-19T16:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078873263758045584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153373316977176576",
+          "start": 3,
+          "username": "kotoro0223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PN52ZswBvE",
+          "end": 41,
+          "expanded_url": "https://x.com/kotoro0223/status/2078586518063706590/photo/1",
+          "media_key": "3_2078586511088586753",
+          "start": 18,
+          "url": "https://t.co/PN52ZswBvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078873263758045584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078586518063706590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotoro0223: 我 https://t.co/PN52ZswBvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2078586511088586753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNifa0RakAEWgxu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078586511088586753"
+          ]
+        },
+        "author_id": "1153373316977176576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078586518063706590",
+        "created_at": "2026-07-18T21:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078586518063706590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN52ZswBvE",
+              "end": 25,
+              "expanded_url": "https://x.com/kotoro0223/status/2078586518063706590/photo/1",
+              "media_key": "3_2078586511088586753",
+              "start": 2,
+              "url": "https://t.co/PN52ZswBvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078586518063706590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29111,
+          "like_count": 827,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/PN52ZswBvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078586511088586753"
+          ],
+          "media_source_tweet_id": [
+            "2078586518063706590"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078873263758045584",
+        "created_at": "2026-07-19T16:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078873263758045584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153373316977176576",
+              "start": 3,
+              "username": "kotoro0223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN52ZswBvE",
+              "end": 41,
+              "expanded_url": "https://x.com/kotoro0223/status/2078586518063706590/photo/1",
+              "media_key": "3_2078586511088586753",
+              "start": 18,
+              "url": "https://t.co/PN52ZswBvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078873263758045584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078586518063706590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotoro0223: 我 https://t.co/PN52ZswBvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1351,
+          "like_count": 52578,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3249
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6075,
+          "following_count": 102,
+          "like_count": 1368,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

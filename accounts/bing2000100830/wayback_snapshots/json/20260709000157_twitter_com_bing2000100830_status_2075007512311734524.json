@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074922861635227648"
+      ],
+      "media_source_tweet_id": [
+        "2074922863883440606"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2075007512311734524",
+    "created_at": "2026-07-09T00:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075007512311734524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IL5RLa2GLP",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2074922863883440606/photo/1",
+          "media_key": "3_2074922861635227648",
+          "start": 25,
+          "url": "https://t.co/IL5RLa2GLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075007512311734524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074922863883440606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 今日份鸡哥印象 https://t.co/IL5RLa2GLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2074922861635227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMubWWga0AAp2GO.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074922861635227648"
+          ],
+          "media_source_tweet_id": [
+            "2074922863883440606"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2075007512311734524",
+        "created_at": "2026-07-09T00:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075007512311734524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL5RLa2GLP",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2074922863883440606/photo/1",
+              "media_key": "3_2074922861635227648",
+              "start": 25,
+              "url": "https://t.co/IL5RLa2GLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075007512311734524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074922863883440606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 今日份鸡哥印象 https://t.co/IL5RLa2GLP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074922861635227648"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2074922863883440606",
+        "created_at": "2026-07-08T18:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074922863883440606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL5RLa2GLP",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2074922863883440606/photo/1",
+              "media_key": "3_2074922861635227648",
+              "start": 8,
+              "url": "https://t.co/IL5RLa2GLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074922863883440606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份鸡哥印象 https://t.co/IL5RLa2GLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1299,
+          "like_count": 50375,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 277,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

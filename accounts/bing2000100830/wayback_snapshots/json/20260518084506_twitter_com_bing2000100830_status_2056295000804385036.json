@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2056295000804385036",
+    "created_at": "2026-05-18T08:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056295000804385036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1871856668818227200",
+          "start": 17,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056295000804385036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青悠在幻觉里和鸡哥拥吻几千年   @SEISEI_YUYU_EX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2056295000804385036",
+        "created_at": "2026-05-18T08:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056295000804385036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1871856668818227200",
+              "start": 17,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056295000804385036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青悠在幻觉里和鸡哥拥吻几千年   @SEISEI_YUYU_EX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1160,
+          "like_count": 39880,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 2369
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "OD&リスカㅣ言語学ㅣLanguage🇨🇳🇯🇵🇰🇷🇻🇳🇺🇸🇫🇷ㅣ04ㅣINFPㅣ特撮ㅣアニメㅣポケモン\n\n大好きなニコイチ@_Lucayyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "_Lucayyy"
+              }
+            ]
+          }
+        },
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2029990238769270840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474911338037248/XNMIyi5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 529,
+          "like_count": 7119,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 920
+        },
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

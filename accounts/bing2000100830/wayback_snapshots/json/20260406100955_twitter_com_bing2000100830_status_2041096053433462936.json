@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041031944037884130",
+    "created_at": "2026-04-06T10:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041096053433462936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1785134482087174144",
+          "start": 0,
+          "username": "ManInShithole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041096053433462936",
+    "in_reply_to_user_id": "1785134482087174144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041094805598740975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManInShithole 还真是。都是中央的人办的。普通民众只有旁观的分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T10:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041096053433462936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1785134482087174144",
+              "start": 0,
+              "username": "ManInShithole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041096053433462936",
+        "in_reply_to_user_id": "1785134482087174144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041094805598740975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManInShithole 还真是。都是中央的人办的。普通民众只有旁观的分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785134482087174144",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T10:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041094805598740975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041094805598740975",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041031944037884130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 人家红二代的家族企业当然能过审了，但是你想挂这个牌子就不能过审。还有北戴河、人民大会堂，这是你能注册的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 803,
+          "like_count": 27061,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1639
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T02:31:01.000Z",
+        "description": "日常反心理学、心理咨询、传统武术、冥想、瑜伽、素食主义、气候变暖/异常、低碳节能等不靠谱学说。珍爱生命，远离邪教。",
+        "id": "1785134482087174144",
+        "name": "矢中人",
+        "pinned_tweet_id": "2011868966202073431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785175359824306176/JrBYZ0Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 761,
+          "like_count": 116920,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 4660
+        },
+        "username": "ManInShithole",
+        "verified": false
+      }
+    ]
+  }
+}

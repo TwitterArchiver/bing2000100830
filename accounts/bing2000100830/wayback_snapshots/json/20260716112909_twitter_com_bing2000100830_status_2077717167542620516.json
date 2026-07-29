@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077437425442558255",
+    "created_at": "2026-07-16T11:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077717167542620516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077717167542620516",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077437425442558255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 亚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5133,
+        "height": 960,
+        "media_key": "13_2077437330810671104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077437330810671104/img/LgJsOdwM_sXfYJKE.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077437330810671104/vid/avc1/320x564/zGeSMDzdIqtGLJcK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077437330810671104/vid/avc1/480x846/-jD2lvCYBHj-guPW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077437330810671104/vid/avc1/544x960/G2pMoZyZ0CPorUcm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077437330810671104/pl/tWpGZzqGZReWvB_R.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077437425442558255",
+        "created_at": "2026-07-16T11:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077717167542620516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717167542620516",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077437425442558255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 亚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077437330810671104"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "conversation_id": "2077437425442558255",
+        "created_at": "2026-07-15T16:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077437425442558255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZnjFbWHZq",
+              "end": 23,
+              "expanded_url": "https://x.com/woaiuai0721/status/2077437425442558255/video/1",
+              "media_key": "13_2077437330810671104",
+              "start": 0,
+              "url": "https://t.co/vZnjFbWHZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077437425442558255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vZnjFbWHZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1336,
+          "like_count": 51954,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3211
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰，想要交朋友，无奈之人，欧弟歌手啥的多多少少沾一点，对人类很友善，只是不要骂我，顺男\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074377307666677760/RHHp0Zfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 162,
+          "like_count": 7837,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1916
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2079997133395284016",
+    "created_at": "2026-07-22T18:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080004131394404412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945334723628437504",
+          "start": 0,
+          "username": "10xmx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080004131394404412",
+    "in_reply_to_user_id": "1945334723628437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080003962695196980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10xmx01 做选择的勇气是我缺少的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2079997133395284016",
+        "created_at": "2026-07-22T18:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080004131394404412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080004131394404412",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080003962695196980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 做选择的勇气是我缺少的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945334723628437504",
+        "conversation_id": "2079997133395284016",
+        "created_at": "2026-07-22T18:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080003962695196980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080003962695196980",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079997133395284016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 再怎么说，这也过于鲁莽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1367,
+          "like_count": 53149,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3289
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n无用的人\nFDU数\n我🌿nm的期末",
+        "id": "1945334723628437504",
+        "location": "五角场",
+        "name": "鲨比OUO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055348696234221568/AlioBl6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 113,
+          "like_count": 21609,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1236
+        },
+        "url": "",
+        "username": "10xmx01",
+        "verified": true
+      }
+    ]
+  }
+}

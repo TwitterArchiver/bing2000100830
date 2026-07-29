@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2057873913594470625",
+    "created_at": "2026-05-23T11:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058148065207562430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        },
+        {
+          "end": 26,
+          "id": "1551813602553757697",
+          "start": 17,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058148065207562430",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058140939428745721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric @mimi_VnV 我觉得她的意思是你现实中穿的裤子和平时的AI小人很像 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2057873913594470625",
+        "created_at": "2026-05-23T11:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058148065207562430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            },
+            {
+              "end": 26,
+              "id": "1551813602553757697",
+              "start": 17,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058148065207562430",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058140939428745721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric @mimi_VnV 我觉得她的意思是你现实中穿的裤子和平时的AI小人很像 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2057873913594470625",
+        "created_at": "2026-05-23T11:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058140939428745721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140939428745721",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057996963799535641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 我无法正确翻译该消息，抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 1178,
+          "like_count": 40845,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2459
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "艺术家。非典型。不稳定。宅男。弱智中。我既不是天使也不是恶魔。我展现出的形象完全体现了我的个性。经常有人告诉我，我是纯洁的。我温柔又善良。我希望你能以善意接纳真实的我。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我无法忍受暴力。我痛恨战争和政治。我讨厌性与爱。我与你分享我的情绪状态。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBWgrr"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2046979926708924699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047474227993829378/Tpk4CX1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 147,
+          "like_count": 15119,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 4111
+        },
+        "url": "https://t.co/OARyaBWgrr",
+        "username": "Disturbeuphoric",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才｜舞萌 osu 喵斯｜下头屎屁尿小孩\n                                          三次绕道喵😾\n🚪52/250/520 无福利纯⭕米",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 0,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "location": "雾之湖",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040858759883595776/ozwNkVkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 734,
+          "like_count": 29726,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 7918
+        },
+        "url": "https://t.co/g9bldFhSZO",
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

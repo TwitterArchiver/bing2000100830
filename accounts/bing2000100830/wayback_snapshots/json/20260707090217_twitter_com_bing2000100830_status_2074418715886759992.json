@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074368129401008128"
+      ],
+      "media_source_tweet_id": [
+        "2074368132710375650"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2074418715886759992",
+    "created_at": "2026-07-07T09:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074418715886759992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1451940693061120005",
+          "start": 3,
+          "username": "foilsick_ennui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/75uFrxP5nY",
+          "end": 49,
+          "expanded_url": "https://x.com/foilsick_ennui/status/2074368132710375650/photo/1",
+          "media_key": "3_2074368129401008128",
+          "start": 26,
+          "url": "https://t.co/75uFrxP5nY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074418715886759992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074368132710375650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foilsick_ennui: つかれたー https://t.co/75uFrxP5nY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074368129401008128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmi0r5WsAAhauj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074368129401008128"
+          ],
+          "media_source_tweet_id": [
+            "2074368132710375650"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2074418715886759992",
+        "created_at": "2026-07-07T09:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074418715886759992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1451940693061120005",
+              "start": 3,
+              "username": "foilsick_ennui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/75uFrxP5nY",
+              "end": 49,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2074368132710375650/photo/1",
+              "media_key": "3_2074368129401008128",
+              "start": 26,
+              "url": "https://t.co/75uFrxP5nY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074418715886759992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074368132710375650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foilsick_ennui: つかれたー https://t.co/75uFrxP5nY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074368129401008128"
+          ]
+        },
+        "author_id": "1451940693061120005",
+        "conversation_id": "2074368132710375650",
+        "created_at": "2026-07-07T05:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074368132710375650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75uFrxP5nY",
+              "end": 29,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2074368132710375650/photo/1",
+              "media_key": "3_2074368129401008128",
+              "start": 6,
+              "url": "https://t.co/75uFrxP5nY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074368132710375650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 310,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "つかれたー https://t.co/75uFrxP5nY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1285,
+          "like_count": 49983,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T15:57:06.000Z",
+        "description": "@Foilsick_Inure — main\n@moribund_silen — priv\nAme-Chan fictive ,,not source-seperated\npersonal alter acc\nあめちゃん未分離フィクティブ | ソース依存型\nキャラクター型アルターの個人アカウント",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Foilsick_Inure"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "moribund_silen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "necroame.straw.page",
+                "end": 23,
+                "expanded_url": "https://necroame.straw.page",
+                "start": 0,
+                "url": "https://t.co/bqH5mzcyAf"
+              }
+            ]
+          }
+        },
+        "id": "1451940693061120005",
+        "name": "♰ 𓏼 あめ ◞",
+        "pinned_tweet_id": "2074274166354665765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070352229169541120/12w72rdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 79,
+          "like_count": 4344,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/bqH5mzcyAf",
+        "username": "foilsick_ennui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074571374614679552"
+      ],
+      "media_source_tweet_id": [
+        "2074616195924234435"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2074775591468060961",
+    "created_at": "2026-07-08T08:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074775591468060961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "899913599488901120",
+          "start": 3,
+          "username": "onnoveltet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BtCy9E18mO",
+          "end": 46,
+          "expanded_url": "https://x.com/onnoveltet/status/2074616195924234435/video/1",
+          "media_key": "13_2074571374614679552",
+          "start": 23,
+          "url": "https://t.co/BtCy9E18mO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074775591468060961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074616195924234435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onnoveltet: メイクアップ https://t.co/BtCy9E18mO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2074571374614679552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074571374614679552/img/w-930ZyhohHi_bKl.jpg",
+        "public_metrics": {
+          "view_count": 7336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074571374614679552/vid/avc1/480x640/O25rWl0twqvRAUD9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074571374614679552/vid/avc1/720x960/Ev_Hdr-3Vl4nnNTC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074571374614679552/vid/avc1/960x1280/_ZOpnC63vpYkbEVV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074571374614679552/pl/ySPkv7WZ2kt0QP8-.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074571374614679552/vid/avc1/320x426/rb0K0ht3yu-CY3Up.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074571374614679552"
+          ],
+          "media_source_tweet_id": [
+            "2074616195924234435"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2074775591468060961",
+        "created_at": "2026-07-08T08:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074775591468060961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "899913599488901120",
+              "start": 3,
+              "username": "onnoveltet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtCy9E18mO",
+              "end": 46,
+              "expanded_url": "https://x.com/onnoveltet/status/2074616195924234435/video/1",
+              "media_key": "13_2074571374614679552",
+              "start": 23,
+              "url": "https://t.co/BtCy9E18mO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074775591468060961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074616195924234435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onnoveltet: メイクアップ https://t.co/BtCy9E18mO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074571374614679552"
+          ]
+        },
+        "author_id": "899913599488901120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2074616195924234435",
+        "created_at": "2026-07-07T22:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074616195924234435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtCy9E18mO",
+              "end": 30,
+              "expanded_url": "https://x.com/onnoveltet/status/2074616195924234435/video/1",
+              "media_key": "13_2074571374614679552",
+              "start": 7,
+              "url": "https://t.co/BtCy9E18mO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074616195924234435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 30699,
+          "like_count": 1701,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "メイクアップ https://t.co/BtCy9E18mO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1287,
+          "like_count": 50142,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-22T08:38:16.000Z",
+        "description": "イラストレーター/🎀見た目地雷系幼馴染🎀/\nやさしいせかい→@ttyasashiisekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "ttyasashiisekai"
+              }
+            ]
+          }
+        },
+        "id": "899913599488901120",
+        "name": "tetto",
+        "pinned_tweet_id": "2074403043429470701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371119987427926016/ZjuS4yyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375316,
+          "following_count": 243,
+          "like_count": 24279,
+          "listed_count": 2082,
+          "media_count": 270,
+          "tweet_count": 7365
+        },
+        "url": "",
+        "username": "onnoveltet",
+        "verified": true
+      }
+    ]
+  }
+}

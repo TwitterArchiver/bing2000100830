@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052451536039735296"
+      ],
+      "media_source_tweet_id": [
+        "2052451549499265291"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2052550084890705997",
+    "created_at": "2026-05-08T00:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T01:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052550084890705997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860350626825404420",
+          "start": 3,
+          "username": "ikissotori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hYg08JIf5",
+          "end": 78,
+          "expanded_url": "https://x.com/ikissotori/status/2052451549499265291/photo/1",
+          "media_key": "3_2052451536039735296",
+          "start": 55,
+          "url": "https://t.co/1hYg08JIf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052550084890705997",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052451549499265291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ikissotori: maybe ame’s idea with p-chan is genius https://t.co/1hYg08JIf5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3361,
+        "media_key": "3_2052451536039735296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvFzDRacAAlLr2.jpg",
+        "width": 3846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052451536039735296"
+          ],
+          "media_source_tweet_id": [
+            "2052451549499265291"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2052550084890705997",
+        "created_at": "2026-05-08T00:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052550084890705997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860350626825404420",
+              "start": 3,
+              "username": "ikissotori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hYg08JIf5",
+              "end": 78,
+              "expanded_url": "https://x.com/ikissotori/status/2052451549499265291/photo/1",
+              "media_key": "3_2052451536039735296",
+              "start": 55,
+              "url": "https://t.co/1hYg08JIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052550084890705997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052451549499265291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ikissotori: maybe ame’s idea with p-chan is genius https://t.co/1hYg08JIf5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052451536039735296"
+          ]
+        },
+        "author_id": "1860350626825404420",
+        "conversation_id": "2052451549499265291",
+        "created_at": "2026-05-07T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052451549499265291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hYg08JIf5",
+              "end": 62,
+              "expanded_url": "https://x.com/ikissotori/status/2052451549499265291/photo/1",
+              "media_key": "3_2052451536039735296",
+              "start": 39,
+              "url": "https://t.co/1hYg08JIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052451549499265291",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 6190,
+          "like_count": 849,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 187
+        },
+        "reply_settings": "following",
+        "text": "maybe ame’s idea with p-chan is genius https://t.co/1hYg08JIf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1091,
+          "like_count": 37403,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2115
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T15:52:32.000Z",
+        "description": "emu otori oshi ♡（ゝ。∂）\ninternetgirlp side acc ┊︎rt heavy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "superwandahoi.straw.page",
+                "end": 23,
+                "expanded_url": "http://superwandahoi.straw.page",
+                "start": 0,
+                "url": "https://t.co/YT8BxnKF2y"
+              }
+            ]
+          }
+        },
+        "id": "1860350626825404420",
+        "location": "鳳えむ ❤︎",
+        "name": "ْ",
+        "pinned_tweet_id": "2008258776412074077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009359864037068800/iYZ2QFKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 185,
+          "like_count": 18503,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/YT8BxnKF2y",
+        "username": "ikissotori",
+        "verified": false
+      }
+    ]
+  }
+}

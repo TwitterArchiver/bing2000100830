@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2029422721210417207",
+    "created_at": "2026-03-06T13:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029905711866728852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658735411160821761",
+          "start": 0,
+          "username": "Cent1pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029905711866728852",
+    "in_reply_to_user_id": "1658735411160821761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029422721210417207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cent1pd 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2029422716449918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCn1NVEbEAArw2g.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2029422718563827713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCn1Nc8awAEldNc.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2029422717108412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCn1NXha4AAmocU.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2029422721210417207",
+        "created_at": "2026-03-06T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029905711866728852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658735411160821761",
+              "start": 0,
+              "username": "Cent1pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029905711866728852",
+        "in_reply_to_user_id": "1658735411160821761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029422721210417207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cent1pd 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029422716449918976",
+            "3_2029422718563827713",
+            "3_2029422717108412416"
+          ]
+        },
+        "author_id": "1658735411160821761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2029422721210417207",
+        "created_at": "2026-03-05T05:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029422721210417207"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCFx7s9Mlb",
+              "end": 177,
+              "expanded_url": "https://x.com/Cent1pd/status/2029422721210417207/photo/1",
+              "media_key": "3_2029422716449918976",
+              "start": 154,
+              "url": "https://t.co/mCFx7s9Mlb"
+            },
+            {
+              "display_url": "pic.x.com/mCFx7s9Mlb",
+              "end": 177,
+              "expanded_url": "https://x.com/Cent1pd/status/2029422721210417207/photo/1",
+              "media_key": "3_2029422718563827713",
+              "start": 154,
+              "url": "https://t.co/mCFx7s9Mlb"
+            },
+            {
+              "display_url": "pic.x.com/mCFx7s9Mlb",
+              "end": 177,
+              "expanded_url": "https://x.com/Cent1pd/status/2029422721210417207/photo/1",
+              "media_key": "3_2029422717108412416",
+              "start": 154,
+              "url": "https://t.co/mCFx7s9Mlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029422721210417207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10392,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 150,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "#抽奖\n妇女节快到啦，汉堡老师提前祝各位女堡们节日快乐！这次狠狠抽麦当劳新品汉堡宝🍔，届时由Grok开奖，公开公平公正！\n\n奖品如下图（红包折现🧧，支付宝口令）：\n🥇1人：大堡口服肉多多随心配\n🥈2人：大堡口服三件套\n🥉3人：1+1随心配\n\n参与方式：转发+评论+关注\n\n开奖日期：3月8日👩🏻\n\n麦门🫡！ https://t.co/mCFx7s9Mlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 617
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T07:25:46.000Z",
+        "description": "吃喝拉撒睡 堡门万万岁",
+        "id": "1658735411160821761",
+        "location": "🌑🌒🌓🌔🌕🌖🌗🌘🌑",
+        "name": "小胃袋食神（三月请对我好点）",
+        "pinned_tweet_id": "2024873408715194504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004232362838683648/8YEPDoAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 248,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 461
+        },
+        "username": "Cent1pd",
+        "verified": false
+      }
+    ]
+  }
+}

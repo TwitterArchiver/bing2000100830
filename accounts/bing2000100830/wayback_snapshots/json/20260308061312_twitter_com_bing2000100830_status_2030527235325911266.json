@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030422041372041353",
+    "created_at": "2026-03-08T06:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030527235325911266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "Psydrugswiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030527235325911266",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030422041372041353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psydrugswiki 好近"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2030422034837393408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2CFUKb0AA8CGe.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030422041372041353",
+        "created_at": "2026-03-08T06:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030527235325911266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030527235325911266",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030422041372041353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psydrugswiki 好近"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030422034837393408"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2030422041372041353",
+        "created_at": "2026-03-07T23:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030422041372041353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/3sFFd0qzxZ"
+            },
+            {
+              "display_url": "pic.x.com/cDJLSJI38z",
+              "end": 64,
+              "expanded_url": "https://x.com/Psydrugswiki/status/2030422041372041353/photo/1",
+              "media_key": "3_2030422034837393408",
+              "start": 41,
+              "url": "https://t.co/cDJLSJI38z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030422041372041353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/3sFFd0qzxZ https://t.co/cDJLSJI38z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 533,
+          "like_count": 12928,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 748
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏  Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普 一个神奇的工作台 https://t.co/5yfyOKiE0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 57,
+                "expanded_url": "https://psydrugs.org",
+                "start": 34,
+                "url": "https://t.co/CB9yLA9IjF"
+              },
+              {
+                "display_url": "generator.psydrugs.org",
+                "end": 100,
+                "expanded_url": "http://generator.psydrugs.org",
+                "start": 77,
+                "url": "https://t.co/5yfyOKiE0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2027743850547339526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 227,
+          "like_count": 6229,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

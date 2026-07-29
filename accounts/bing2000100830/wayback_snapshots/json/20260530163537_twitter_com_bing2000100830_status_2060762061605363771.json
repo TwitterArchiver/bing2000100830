@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2060758147581530176",
+    "created_at": "2026-05-30T16:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060762061605363771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905857832072933376",
+          "start": 0,
+          "username": "susukikii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060762061605363771",
+    "in_reply_to_user_id": "1905857832072933376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060759143972286600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susukikii 好舒服呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2060758147581530176",
+        "created_at": "2026-05-30T16:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060762061605363771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905857832072933376",
+              "start": 0,
+              "username": "susukikii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060762061605363771",
+        "in_reply_to_user_id": "1905857832072933376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060759143972286600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susukikii 好舒服呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905857832072933376",
+        "conversation_id": "2060758147581530176",
+        "created_at": "2026-05-30T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060759143972286600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060759143972286600",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060758147581530176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 捅死我捅死我捅死我捅死我捅死我（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1191,
+          "like_count": 42314,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2569
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:41:43.000Z",
+        "description": "这里是suki！想和各位交朋友！欢迎互fo小窗！会查成分回fo，也可以评论区叫我回fo！看到就回！INTP/诞生日：2010.02.25#抑郁#焦虑#自残#暴饮暴食\n@suki__TAT这里是suki2.0！\n@suki1885202这里3.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "suki__TAT"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "suki1885202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susukikii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susukikii",
+                "start": 0,
+                "url": "https://t.co/RYKO5u7AVc"
+              }
+            ]
+          }
+        },
+        "id": "1905857832072933376",
+        "name": "suki",
+        "pinned_tweet_id": "2027408748369854829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027384805680349184/1WhP74e0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 94,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/RYKO5u7AVc",
+        "username": "susukikii",
+        "verified": false
+      }
+    ]
+  }
+}

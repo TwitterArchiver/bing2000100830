@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030688192991744158",
+    "created_at": "2026-03-08T16:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030688192991744158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lomyral/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Lomyral/status/2030640553214525549",
+          "start": 9,
+          "url": "https://t.co/cWnMqLhR7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030688192991744158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030640553214525549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噼里啪啦噼里啪啦 https://t.co/cWnMqLhR7e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030688192991744158",
+        "created_at": "2026-03-08T16:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030688192991744158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Lomyral/status/2030640553214525549",
+              "start": 9,
+              "url": "https://t.co/cWnMqLhR7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030688192991744158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030640553214525549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噼里啪啦噼里啪啦 https://t.co/cWnMqLhR7e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2030640553214525549",
+        "created_at": "2026-03-08T13:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030640553214525549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030640553214525549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想校园枪击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 562,
+          "like_count": 13777,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 825
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2029721350814978345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 318,
+          "like_count": 24320,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

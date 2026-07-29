@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2056111330567049693",
+    "created_at": "2026-05-17T20:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T21:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056111330567049693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056111330567049693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056018100169146476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 有一个很重要的事情! 大家不能被物质控制了自己，你永远是你，物质是会带回你的笑容的东西。\n它不能，他也不应该让你不再开心。\n然后不能被物质带走了，不要过度依赖于它! 这样子你就不会成瘾哦！\n保持自我💖 万物与你同行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2056111330567049693",
+        "created_at": "2026-05-17T20:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056111330567049693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056111330567049693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056018100169146476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 有一个很重要的事情! 大家不能被物质控制了自己，你永远是你，物质是会带回你的笑容的东西。\n它不能，他也不应该让你不再开心。\n然后不能被物质带走了，不要过度依赖于它! 这样子你就不会成瘾哦！\n保持自我💖 万物与你同行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2056018100169146476",
+        "created_at": "2026-05-17T14:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056018100169146476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056018100169146476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1171,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有一个很重要的事情! 大家不能被物质控制了自己，你永远是你，物质是会带回你的笑容的东西。\n它不能，他也不应该让你不再开心。\n然后不能被物质带走了，不要过度依赖于它! 这样子你就不会成瘾哦！\n保持自我💖 万物与你同行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1161,
+          "like_count": 39646,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 2340
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n我们一定从出生的那天起，就一定在寻找相遇的瞬间。\n\n所以请你笑一下吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki4",
+                "start": 0,
+                "url": "https://t.co/fgmsNgMTNR"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸 提问箱➡️",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 929,
+          "like_count": 28390,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 4118
+        },
+        "url": "https://t.co/fgmsNgMTNR",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

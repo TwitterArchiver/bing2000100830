@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080681392736772096"
+      ],
+      "media_source_tweet_id": [
+        "2080681398600393135"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2080747761738338736",
+    "created_at": "2026-07-24T20:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T21:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080747761738338736"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 46,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wjazv6urNj",
+          "end": 100,
+          "expanded_url": "https://x.com/obsesslvr/status/2080681398600393135/photo/1",
+          "media_key": "3_2080681392736772096",
+          "start": 77,
+          "url": "https://t.co/Wjazv6urNj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080747761738338736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080681398600393135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: :¨ ·.· ¨: *\n `· . :¨ ·.· ¨:    #NEEDY_pic\n        `· . ♡ ˚ ₊˚ https://t.co/Wjazv6urNj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2080681392736772096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAQs-jXIAAQOXe.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080681392736772096"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2080681398600393135",
+        "created_at": "2026-07-24T15:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080681398600393135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wjazv6urNj",
+              "end": 85,
+              "expanded_url": "https://x.com/obsesslvr/status/2080681398600393135/photo/1",
+              "media_key": "3_2080681392736772096",
+              "start": 62,
+              "url": "https://t.co/Wjazv6urNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080681398600393135",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1442,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "following",
+        "text": ":¨ ·.· ¨: *\n `· . :¨ ·.· ¨:    #NEEDY_pic\n        `· . ♡ ˚ ₊˚ https://t.co/Wjazv6urNj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080681392736772096"
+          ],
+          "media_source_tweet_id": [
+            "2080681398600393135"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2080747761738338736",
+        "created_at": "2026-07-24T20:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T21:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080747761738338736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wjazv6urNj",
+              "end": 100,
+              "expanded_url": "https://x.com/obsesslvr/status/2080681398600393135/photo/1",
+              "media_key": "3_2080681392736772096",
+              "start": 77,
+              "url": "https://t.co/Wjazv6urNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080747761738338736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080681398600393135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: :¨ ·.· ¨: *\n `· . :¨ ·.· ¨:    #NEEDY_pic\n        `· . ♡ ˚ ₊˚ https://t.co/Wjazv6urNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1373,
+          "like_count": 53444,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080713625065447424/eNvX77L0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 5,
+          "like_count": 7923,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062723483507789824"
+      ],
+      "media_source_tweet_id": [
+        "2062723487886680493"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062852092751118698",
+    "created_at": "2026-06-05T11:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062852092751118698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889032009835560960",
+          "start": 3,
+          "username": "jirai_keii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MswoLp9cTx",
+          "end": 39,
+          "expanded_url": "https://x.com/jirai_keii/status/2062723487886680493/photo/1",
+          "media_key": "3_2062723483507789824",
+          "start": 16,
+          "url": "https://t.co/MswoLp9cTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062852092751118698",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062723487886680493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jirai_keii: https://t.co/MswoLp9cTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2062723483507789824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBEFFhWkAANrcy.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062723483507789824"
+          ],
+          "media_source_tweet_id": [
+            "2062723487886680493"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062852092751118698",
+        "created_at": "2026-06-05T11:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062852092751118698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889032009835560960",
+              "start": 3,
+              "username": "jirai_keii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MswoLp9cTx",
+              "end": 39,
+              "expanded_url": "https://x.com/jirai_keii/status/2062723487886680493/photo/1",
+              "media_key": "3_2062723483507789824",
+              "start": 16,
+              "url": "https://t.co/MswoLp9cTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062852092751118698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062723487886680493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jirai_keii: https://t.co/MswoLp9cTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062723483507789824"
+          ]
+        },
+        "author_id": "1889032009835560960",
+        "conversation_id": "2062723487886680493",
+        "created_at": "2026-06-05T02:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062723487886680493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MswoLp9cTx",
+              "end": 23,
+              "expanded_url": "https://x.com/jirai_keii/status/2062723487886680493/photo/1",
+              "media_key": "3_2062723483507789824",
+              "start": 0,
+              "url": "https://t.co/MswoLp9cTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062723487886680493",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4304,
+          "like_count": 749,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MswoLp9cTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1213,
+          "like_count": 43683,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2729
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:21:49.000Z",
+        "description": "Lonely internet girl\nig : satellagoddess\nᛝ(ᴗ͈ˬᴗ͈ )ᛝ",
+        "id": "1889032009835560960",
+        "name": "amelia ཐི ❤︎ ཋྀ",
+        "pinned_tweet_id": "2049716057774989506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053170985558233094/MaiSuHuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 17,
+          "like_count": 269,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 124
+        },
+        "username": "jirai_keii",
+        "verified": false
+      }
+    ]
+  }
+}

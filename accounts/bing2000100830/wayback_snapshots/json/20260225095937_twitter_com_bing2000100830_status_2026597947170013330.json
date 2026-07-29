@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2026597947170013330",
+    "created_at": "2026-02-25T09:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026597947170013330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902121418250371072",
+          "start": 3,
+          "username": "saltwatermp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026597947170013330",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 768
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026296067986280575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saltwatermp3: Can I organize a group apple eating session"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2026597947170013330",
+        "created_at": "2026-02-25T09:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026597947170013330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902121418250371072",
+              "start": 3,
+              "username": "saltwatermp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026597947170013330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 768
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026296067986280575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saltwatermp3: Can I organize a group apple eating session"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902121418250371072",
+        "conversation_id": "2026296067986280575",
+        "created_at": "2026-02-24T14:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026296067986280575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026296067986280575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 69301,
+          "like_count": 4013,
+          "quote_count": 133,
+          "reply_count": 50,
+          "retweet_count": 768
+        },
+        "reply_settings": "everyone",
+        "text": "Can I organize a group apple eating session"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "中学生,前oder,独立音乐爱好者\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 375,
+          "like_count": 5654,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 120
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-28T10:51:21.000Z",
+        "description": "All flowers in time bend towards the sun",
+        "id": "902121418250371072",
+        "name": "ирис",
+        "pinned_tweet_id": "2011551697127247927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962963079550885888/tGM6sZiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 253,
+          "like_count": 49279,
+          "listed_count": 45,
+          "media_count": 427,
+          "tweet_count": 7762
+        },
+        "username": "saltwatermp3",
+        "verified": false
+      }
+    ]
+  }
+}

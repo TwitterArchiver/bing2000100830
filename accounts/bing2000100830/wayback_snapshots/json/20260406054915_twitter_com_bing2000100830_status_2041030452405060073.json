@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041030452405060073",
+    "created_at": "2026-04-06T05:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041030452405060073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455934423614963716",
+          "start": 3,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041030452405060073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040809854181560370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jack26116326: 干嘛说我发的东西没营养？你推特里熬大骨头汤了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041030452405060073",
+        "created_at": "2026-04-06T05:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041030452405060073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455934423614963716",
+              "start": 3,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041030452405060073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040809854181560370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jack26116326: 干嘛说我发的东西没营养？你推特里熬大骨头汤了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2040809854181560370",
+        "created_at": "2026-04-05T15:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040809854181560370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040809854181560370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1468,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "干嘛说我发的东西没营养？你推特里熬大骨头汤了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 797,
+          "like_count": 26999,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1625
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "瓦历史神一接中三下三代打接陪玩其他游戏看情况接 点单私我\n小号@1tsallmyfault",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "1tsallmyfault"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xkkk16579",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xkkk16579",
+                "start": 0,
+                "url": "https://t.co/Ym5WMKEryV"
+              }
+            ]
+          }
+        },
+        "id": "1455934423614963716",
+        "location": "🚪18",
+        "name": "xkkk",
+        "pinned_tweet_id": "2032381590773576164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032125757036883968/CcHYWLyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 77,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/Ym5WMKEryV",
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

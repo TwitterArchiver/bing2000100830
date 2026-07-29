@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2067429171156967682",
+    "created_at": "2026-06-18T07:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067513619987013677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1451940693061120005",
+          "start": 0,
+          "username": "foilsick_ennui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067513619987013677",
+    "in_reply_to_user_id": "1451940693061120005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067429171156967682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foilsick_ennui 推特大概就是这样的平台吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2067429171156967682",
+        "created_at": "2026-06-18T07:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067513619987013677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1451940693061120005",
+              "start": 0,
+              "username": "foilsick_ennui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067513619987013677",
+        "in_reply_to_user_id": "1451940693061120005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067429171156967682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foilsick_ennui 推特大概就是这样的平台吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451940693061120005",
+        "conversation_id": "2067429171156967682",
+        "created_at": "2026-06-18T02:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067429171156967682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067429171156967682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I have more Chinese followers than i thought… honestly didnt think i’d reach anyone overseas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 1245,
+          "like_count": 45995,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2946
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T15:57:06.000Z",
+        "description": "@Foilsick_Inure — main\nAme-Chan fictive ,, not source-seperated\npersonal alter acc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Foilsick_Inure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "necroame.straw.page",
+                "end": 23,
+                "expanded_url": "https://necroame.straw.page",
+                "start": 0,
+                "url": "https://t.co/bqH5mzcyAf"
+              }
+            ]
+          }
+        },
+        "id": "1451940693061120005",
+        "name": "♰ 𓏼 あめ ◞",
+        "pinned_tweet_id": "2067038653004566547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065976181808062464/jNEKMBO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 52,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/bqH5mzcyAf",
+        "username": "foilsick_ennui",
+        "verified": false
+      }
+    ]
+  }
+}

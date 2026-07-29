@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2043666887779733658",
+    "created_at": "2026-04-13T15:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043707600588669183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821231795326828544",
+          "start": 0,
+          "username": "Rei_mo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043707600588669183",
+    "in_reply_to_user_id": "1821231795326828544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043666887779733658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei_mo0n 恭喜150fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2043666887779733658",
+        "created_at": "2026-04-13T15:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043707600588669183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821231795326828544",
+              "start": 0,
+              "username": "Rei_mo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043707600588669183",
+        "in_reply_to_user_id": "1821231795326828544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043666887779733658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei_mo0n 恭喜150fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821231795326828544",
+        "conversation_id": "2043666887779733658",
+        "created_at": "2026-04-13T12:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043666887779733658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043666887779733658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "150fo了嗯嗯因为百fo我忘抽了所以现在来\n1.红普瑞*1（折15）\n2.绿普瑞*1（折9）\n3.红贝印三支*3（折5）\n转关评抽 15号20:00开奖豆包随机数字 mua耐你们!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 865,
+          "like_count": 29995,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1750
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T17:08:01.000Z",
+        "description": "我只是个小孩子，有点穷，喜欢我可以给我一点钱吗？爱你们！所有人！😙",
+        "id": "1821231795326828544",
+        "location": "🚪52",
+        "name": "わたしだけをみててね",
+        "pinned_tweet_id": "2041353572521058401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924514115848212480/4v9rcCbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 62,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 484
+        },
+        "username": "Rei_mo0n",
+        "verified": false
+      }
+    ]
+  }
+}

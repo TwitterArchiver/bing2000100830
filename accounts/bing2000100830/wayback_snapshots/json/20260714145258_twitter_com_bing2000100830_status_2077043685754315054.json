@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077036348201226379",
+    "created_at": "2026-07-14T14:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077043685754315054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653666360604647424",
+          "start": 0,
+          "username": "congng1327122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077043685754315054",
+    "in_reply_to_user_id": "1653666360604647424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077036348201226379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congng1327122 玩一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077036348201226379",
+        "created_at": "2026-07-14T14:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077043685754315054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653666360604647424",
+              "start": 0,
+              "username": "congng1327122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043685754315054",
+        "in_reply_to_user_id": "1653666360604647424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077036348201226379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congng1327122 玩一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653666360604647424",
+        "conversation_id": "2077036348201226379",
+        "created_at": "2026-07-14T14:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077036348201226379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077036348201226379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1328,
+          "like_count": 51682,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 3196
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT7zX6"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "小雨愈愈",
+        "pinned_tweet_id": "2075613937496973404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076000289099046912/XGLbQTfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 287,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/eE4dYT7zX6",
+        "username": "congng1327122",
+        "verified": false
+      }
+    ]
+  }
+}

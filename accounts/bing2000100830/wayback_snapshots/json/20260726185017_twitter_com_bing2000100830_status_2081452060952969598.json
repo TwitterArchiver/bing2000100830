@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081452041843666944"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2081452060952969598",
+    "created_at": "2026-07-26T18:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081452060952969598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XcFJ92MGKv",
+          "end": 23,
+          "expanded_url": "https://x.com/bing2000100830/status/2081452060952969598/photo/1",
+          "media_key": "3_2081452041843666944",
+          "start": 0,
+          "url": "https://t.co/XcFJ92MGKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081452060952969598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XcFJ92MGKv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2081452041843666944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLNmqMacAAy55b.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081452041843666944"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081452060952969598",
+        "created_at": "2026-07-26T18:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081452060952969598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcFJ92MGKv",
+              "end": 23,
+              "expanded_url": "https://x.com/bing2000100830/status/2081452060952969598/photo/1",
+              "media_key": "3_2081452041843666944",
+              "start": 0,
+              "url": "https://t.co/XcFJ92MGKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081452060952969598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XcFJ92MGKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1384,
+          "like_count": 53912,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

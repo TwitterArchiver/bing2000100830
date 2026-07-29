@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "1998709112021098664",
+    "created_at": "2025-12-10T10:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998709112021098664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sweepkii/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sweepkii/status/1998072111064293754",
+          "start": 6,
+          "url": "https://t.co/uWwXAdURu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998709112021098664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998072111064293754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好萌🥺 https://t.co/uWwXAdURu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7800,
+        "height": 1024,
+        "media_key": "13_1998072056999493633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998072056999493633/img/x9aGwBo8wdaWN4ae.jpg",
+        "public_metrics": {
+          "view_count": 118184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998072056999493633/vid/avc1/320x568/6IL40Y59RlpnmD_j.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998072056999493633/vid/avc1/480x852/B2nDUFsvatZj529T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998072056999493633/vid/avc1/576x1024/iQP7WWkkQHdZH4Dd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998072056999493633/pl/yr29U7g9Hnv1Q8C_.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "1998709112021098664",
+        "created_at": "2025-12-10T10:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998709112021098664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sweepkii/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sweepkii/status/1998072111064293754",
+              "start": 6,
+              "url": "https://t.co/uWwXAdURu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998709112021098664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998072111064293754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好萌🥺 https://t.co/uWwXAdURu4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998072056999493633"
+          ]
+        },
+        "author_id": "1835520191133827073",
+        "conversation_id": "1998072111064293754",
+        "created_at": "2025-12-08T16:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998072111064293754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FqB4ygSOW",
+              "end": 26,
+              "expanded_url": "https://x.com/sweepkii/status/1998072111064293754/video/1",
+              "media_key": "13_1998072056999493633",
+              "start": 3,
+              "url": "https://t.co/2FqB4ygSOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998072111064293754",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3389,
+          "impression_count": 235285,
+          "like_count": 14069,
+          "quote_count": 11,
+          "reply_count": 107,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": ":3 https://t.co/2FqB4ygSOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 71,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T03:25:00.000Z",
+        "description": "just a femboy sheep ~ check bio for more hehe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/sweepkii",
+                "end": 23,
+                "expanded_url": "https://link.me/sweepkii",
+                "start": 0,
+                "url": "https://t.co/cSYAB6hZsc"
+              }
+            ]
+          }
+        },
+        "id": "1835520191133827073",
+        "name": "Sweepki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877563492925952001/ssJMtTEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34520,
+          "following_count": 129,
+          "like_count": 380,
+          "listed_count": 44,
+          "media_count": 137,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/cSYAB6hZsc",
+        "username": "sweepkii",
+        "verified": false
+      }
+    ]
+  }
+}

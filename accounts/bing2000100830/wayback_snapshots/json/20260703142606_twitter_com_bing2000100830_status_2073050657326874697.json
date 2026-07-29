@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2073050657326874697",
+    "created_at": "2026-07-03T14:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073050657326874697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sleeping_dsc/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/sleeping_dsc/status/2073049132285960397",
+          "start": 7,
+          "url": "https://t.co/YIdWW5M58T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073050657326874697",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073049132285960397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭soi.. https://t.co/YIdWW5M58T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2073050657326874697",
+        "created_at": "2026-07-03T14:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073050657326874697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sleeping_dsc/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sleeping_dsc/status/2073049132285960397",
+              "start": 7,
+              "url": "https://t.co/YIdWW5M58T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073050657326874697",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073049132285960397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭soi.. https://t.co/YIdWW5M58T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2073049132285960397",
+        "created_at": "2026-07-03T14:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073049132285960397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1243590342911410176",
+              "start": 4,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073049132285960397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经和@bing2000100830结芬了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1269,
+          "like_count": 49321,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3082
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//分身@sertralina_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "sertralina_u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "💛🤍💜🖤",
+        "name": "仅此而已的故事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071159788994502656/1kcsmcUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 278,
+          "like_count": 3459,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "sleeping_dsc",
+        "verified": true
+      }
+    ]
+  }
+}

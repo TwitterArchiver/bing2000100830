@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "174090025049399296",
+    "created_at": "2026-04-19T05:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045743173251825930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "122063375",
+          "start": 0,
+          "username": "Overdose_CPDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045743173251825930",
+    "in_reply_to_user_id": "122063375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "174095686185390080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_CPDD 好古老的账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "174090025049399296",
+        "created_at": "2026-04-19T05:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045743173251825930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "122063375",
+              "start": 0,
+              "username": "Overdose_CPDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045743173251825930",
+        "in_reply_to_user_id": "122063375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "174095686185390080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_CPDD 好古老的账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "122063375",
+        "conversation_id": "174090025049399296",
+        "created_at": "2012-02-27T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2012-02-27T12:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "174095686185390080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "174095686185390080",
+        "in_reply_to_user_id": "368385567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "174090025049399296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawanappy すごく素敵です。ノスタルジック。あたしも行って見たい。未来がカタチなったら是非伺いたいデス(^o^)待ち遠しい....。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 955,
+          "like_count": 32042,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1822
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-11T13:32:59.000Z",
+        "description": "オーバードーズが世界を救う",
+        "id": "122063375",
+        "location": "仙台市",
+        "name": "Dissociated",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045424718786998272/ss1DCZlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 70,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 170
+        },
+        "username": "Overdose_CPDD",
+        "verified": false
+      }
+    ]
+  }
+}

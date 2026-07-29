@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062927534090756184",
+    "created_at": "2026-06-05T16:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062927534090756184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xjiajiaouo/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Xjiajiaouo/status/2062552474020667865",
+          "start": 3,
+          "url": "https://t.co/tw78QrJIyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062927534090756184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062552474020667865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 https://t.co/tw78QrJIyd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062927534090756184",
+        "created_at": "2026-06-05T16:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062927534090756184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xjiajiaouo/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Xjiajiaouo/status/2062552474020667865",
+              "start": 3,
+              "url": "https://t.co/tw78QrJIyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062927534090756184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062552474020667865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/tw78QrJIyd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2062552474020667865",
+        "created_at": "2026-06-04T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062552474020667865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062552474020667865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人看到馒头逼就走不动道了，这是骨子里对碳水的热爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 1215,
+          "like_count": 43851,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 2753
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "血痂\n💊🔪🚬🩸\n我想发什么发什么，左右脑互搏是日常",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2060656426910208150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 493,
+          "like_count": 15267,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3887
+        },
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

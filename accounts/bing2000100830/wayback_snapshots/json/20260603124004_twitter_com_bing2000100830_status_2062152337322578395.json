@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062146021376045203",
+    "created_at": "2026-06-03T12:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062152337322578395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062152337322578395",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062146021376045203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi 萌我一大跳！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062146013331333120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4235eaIAAq68G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062146021376045203",
+        "created_at": "2026-06-03T12:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062152337322578395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062152337322578395",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062146021376045203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi 萌我一大跳！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062146013331333120"
+          ]
+        },
+        "author_id": "1067724520444710914",
+        "conversation_id": "2062146021376045203",
+        "created_at": "2026-06-03T12:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062146021376045203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvSpDhApfH",
+              "end": 110,
+              "expanded_url": "https://x.com/_Natsubi/status/2062146021376045203/photo/1",
+              "media_key": "3_2062146013331333120",
+              "start": 87,
+              "url": "https://t.co/YvSpDhApfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062146021376045203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是皇家所属的重巡洋舰，柴郡号！\n不过，直到见到指挥官以前，我一直都是只存在于想象之中的舰船呢。所以，我的这副身体，都是属于指挥官你的呢！\n៸៸᳐  ＞ 𐋣＜៸៸᳐ ੭ﾞ🐾 https://t.co/YvSpDhApfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1206,
+          "like_count": 43241,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2686
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "黄金的魔女与美索不达米亚的女神的幻想剧",
+        "id": "1067724520444710914",
+        "location": "活跃于评论区ʕ •ᴥ•ʔ不看私信",
+        "name": "人类夏",
+        "pinned_tweet_id": "1987646604673995078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 87,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 517
+        },
+        "username": "_Natsubi",
+        "verified": true
+      }
+    ]
+  }
+}

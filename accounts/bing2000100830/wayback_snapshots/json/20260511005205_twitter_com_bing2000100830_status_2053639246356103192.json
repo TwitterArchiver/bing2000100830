@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2053639246356103192",
+    "created_at": "2026-05-11T00:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053639246356103192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585204178460123138",
+          "start": 3,
+          "username": "sinkingmiser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053639246356103192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053607542576873736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sinkingmiser: 一个必须注意的常识是，绝大多数人类在新出现的话题上都是错的，不是部分是错的，而是全是错的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2053639246356103192",
+        "created_at": "2026-05-11T00:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053639246356103192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585204178460123138",
+              "start": 3,
+              "username": "sinkingmiser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053639246356103192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053607542576873736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sinkingmiser: 一个必须注意的常识是，绝大多数人类在新出现的话题上都是错的，不是部分是错的，而是全是错的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204178460123138",
+        "conversation_id": "2053607542576873736",
+        "created_at": "2026-05-10T22:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053607542576873736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053607542576873736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个必须注意的常识是，绝大多数人类在新出现的话题上都是错的，不是部分是错的，而是全是错的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 1102,
+          "like_count": 38108,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2178
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:07.000Z",
+        "description": "22 Fine Arts Animation/Fine arts Painting + Illustration. California. Personal Acc. 20+ ACC NO MINOR Allowed. Owner @ICEYillust",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "ICEYillust"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/FDCt7NEQG2I",
+                "end": 23,
+                "expanded_url": "https://youtu.be/FDCt7NEQG2I",
+                "start": 0,
+                "url": "https://t.co/gnOxbd8NQV"
+              }
+            ]
+          }
+        },
+        "id": "1585204178460123138",
+        "location": "USA",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028055268014362624/HC03iVW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5379,
+          "following_count": 727,
+          "like_count": 7368,
+          "listed_count": 31,
+          "media_count": 145,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/gnOxbd8NQV",
+        "username": "sinkingmiser",
+        "verified": false
+      }
+    ]
+  }
+}

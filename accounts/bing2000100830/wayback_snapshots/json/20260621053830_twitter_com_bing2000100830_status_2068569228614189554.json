@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2068392053659066618",
+    "created_at": "2026-06-21T05:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068569228614189554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897445432365821952",
+          "start": 0,
+          "username": "yoyokiiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068569228614189554",
+    "in_reply_to_user_id": "1897445432365821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068392053659066618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyokiiy 好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2068392053659066618",
+        "created_at": "2026-06-21T05:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068569228614189554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068569228614189554",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068392053659066618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068392053659066618",
+        "created_at": "2026-06-20T17:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068392053659066618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068392053659066618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2783,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天，有人完全看穿了你的挑剔、你的高傲和你的逃跑机制，却依然愿意站在原地抱住你，你会觉得被侵犯了，还是会想哭？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1256,
+          "like_count": 47035,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 211,
+          "like_count": 2877,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

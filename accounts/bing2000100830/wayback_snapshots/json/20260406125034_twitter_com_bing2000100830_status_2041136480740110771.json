@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041136480740110771",
+    "created_at": "2026-04-06T12:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041136480740110771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 34,
+          "id": "1021317681406869505",
+          "start": 18,
+          "username": "ILoveLittlePigs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041136480740110771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040166612465029394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @amber_toffee: @ILoveLittlePigs 但是，我们必须在巴勒斯坦和以色列之间二选一，必须在俄罗斯和乌克兰之间二选一，必须在自由主义和马克思主义之间二选一，必须在排跨激进女权和跨儿权益之间二选一……有时，正是为了捍卫我们心中的普世价值人文关怀和正义，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041136480740110771",
+        "created_at": "2026-04-06T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041136480740110771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 34,
+              "id": "1021317681406869505",
+              "start": 18,
+              "username": "ILoveLittlePigs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041136480740110771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040166612465029394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @amber_toffee: @ILoveLittlePigs 但是，我们必须在巴勒斯坦和以色列之间二选一，必须在俄罗斯和乌克兰之间二选一，必须在自由主义和马克思主义之间二选一，必须在排跨激进女权和跨儿权益之间二选一……有时，正是为了捍卫我们心中的普世价值人文关怀和正义，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2040146736916644352",
+        "created_at": "2026-04-03T20:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040166612465029394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1021317681406869505",
+              "start": 0,
+              "username": "ILoveLittlePigs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040166612465029394",
+        "in_reply_to_user_id": "1021317681406869505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4877,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040146736916644352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ILoveLittlePigs 但是，我们必须在巴勒斯坦和以色列之间二选一，必须在俄罗斯和乌克兰之间二选一，必须在自由主义和马克思主义之间二选一，必须在排跨激进女权和跨儿权益之间二选一……有时，正是为了捍卫我们心中的普世价值人文关怀和正义，我们才必须意识到哪些立场的根本对抗，是无法被「包容」的话语消灭的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 814,
+          "like_count": 27135,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1643
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ ☭ / ❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24542,
+          "following_count": 2830,
+          "like_count": 40024,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 21357
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-23T08:54:45.000Z",
+        "description": "Asian gay. Trans ally. Proud AuDHDer. Intersectional feminist. Anti-imperialist. Populist progressivist. Chinese dissident. 致力于在中文圈推动有人性温度的进步政治。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "share.upscrolled.com/en/user/bae1a9…",
+                "end": 23,
+                "expanded_url": "https://share.upscrolled.com/en/user/bae1a91c-1a09-461f-8881-83a4301816bb/",
+                "start": 0,
+                "url": "https://t.co/Ita8RlI2uE"
+              }
+            ]
+          }
+        },
+        "id": "1021317681406869505",
+        "name": "ProgressivePiggy🌹🏳️‍🌈🏳️‍⚧️🇳🇫🇵🇸🇺🇦🇸🇩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551378875095056384/sEa4SUxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1708,
+          "like_count": 24786,
+          "listed_count": 7,
+          "media_count": 205,
+          "tweet_count": 8157
+        },
+        "url": "https://t.co/Ita8RlI2uE",
+        "username": "ILoveLittlePigs",
+        "verified": false
+      }
+    ]
+  }
+}

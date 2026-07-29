@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2067168508312752327",
+    "created_at": "2026-06-17T08:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067168508312752327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CleverFf050755…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/CleverFf050755/status/1989690709558116600",
+          "start": 10,
+          "url": "https://t.co/5S6WTIylMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067168508312752327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989690709558116600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你真的看懂鸡哥了吗 https://t.co/5S6WTIylMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1989690706743689217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zNJ-xagAEqZMZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2067168508312752327",
+        "created_at": "2026-06-17T08:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067168508312752327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CleverFf050755…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/CleverFf050755/status/1989690709558116600",
+              "start": 10,
+              "url": "https://t.co/5S6WTIylMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067168508312752327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989690709558116600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你真的看懂鸡哥了吗 https://t.co/5S6WTIylMX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989690706743689217"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1989690709558116600",
+        "created_at": "2025-11-15T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989690709558116600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8e9ibRNJF",
+              "end": 50,
+              "expanded_url": "https://x.com/CleverFf050755/status/1989690709558116600/photo/1",
+              "media_key": "3_1989690706743689217",
+              "start": 27,
+              "url": "https://t.co/n8e9ibRNJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989690709558116600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5149,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "听说你们想搞乱欧圈的纪律，有问过我欧圈皇帝的意见吗？ https://t.co/n8e9ibRNJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 1246,
+          "like_count": 45902,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2939
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n我厌恶强权",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2025105252224274724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 265,
+          "like_count": 226,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

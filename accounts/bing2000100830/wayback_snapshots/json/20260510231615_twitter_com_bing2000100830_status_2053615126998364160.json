@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2053614090271203555",
+    "created_at": "2026-05-10T23:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T00:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053615126998364160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926506432276348928",
+          "start": 0,
+          "username": "linwei130"
+        },
+        {
+          "end": 20,
+          "id": "1643490407094030338",
+          "start": 11,
+          "username": "Usam8964"
+        },
+        {
+          "end": 37,
+          "id": "1417099624922370056",
+          "start": 21,
+          "username": "XinGZiSaMa_8964"
+        },
+        {
+          "end": 47,
+          "id": "1534344658033180672",
+          "start": 38,
+          "username": "_tom0e_x"
+        },
+        {
+          "end": 64,
+          "id": "1169174984389885952",
+          "start": 48,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053615126998364160",
+    "in_reply_to_user_id": "1926506432276348928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053614090271203555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linwei130 @Usam8964 @XinGZiSaMa_8964 @_tom0e_x @Angel_SaveUsAll 麻麻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2053614083145097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_nIMuaYAASimV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2053614090271203555",
+        "created_at": "2026-05-10T23:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053615126998364160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926506432276348928",
+              "start": 0,
+              "username": "linwei130"
+            },
+            {
+              "end": 20,
+              "id": "1643490407094030338",
+              "start": 11,
+              "username": "Usam8964"
+            },
+            {
+              "end": 37,
+              "id": "1417099624922370056",
+              "start": 21,
+              "username": "XinGZiSaMa_8964"
+            },
+            {
+              "end": 47,
+              "id": "1534344658033180672",
+              "start": 38,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 64,
+              "id": "1169174984389885952",
+              "start": 48,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053615126998364160",
+        "in_reply_to_user_id": "1926506432276348928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053614090271203555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwei130 @Usam8964 @XinGZiSaMa_8964 @_tom0e_x @Angel_SaveUsAll 麻麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053614083145097216"
+          ]
+        },
+        "author_id": "1926506432276348928",
+        "conversation_id": "2053614090271203555",
+        "created_at": "2026-05-10T23:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053614090271203555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1643490407094030338",
+              "start": 22,
+              "username": "Usam8964"
+            },
+            {
+              "end": 48,
+              "id": "1417099624922370056",
+              "start": 32,
+              "username": "XinGZiSaMa_8964"
+            },
+            {
+              "end": 64,
+              "id": "1534344658033180672",
+              "start": 55,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 86,
+              "id": "1243590342911410176",
+              "start": 71,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 103,
+              "id": "1169174984389885952",
+              "start": 87,
+              "username": "Angel_SaveUsAll"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/jVJVAJarjL"
+            },
+            {
+              "display_url": "pic.x.com/LeDAWT6mGW",
+              "end": 155,
+              "expanded_url": "https://x.com/linwei130/status/2053614090271203555/photo/1",
+              "media_key": "3_2053614083145097216",
+              "start": 132,
+              "url": "https://t.co/LeDAWT6mGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053614090271203555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Usam8964 @XinGZiSaMa_8964\n👰 配偶: @_tom0e_x\n👶 孩子: @bing2000100830 @Angel_SaveUsAll\n\n➡️ https://t.co/jVJVAJarjL https://t.co/LeDAWT6mGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1101,
+          "like_count": 38133,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2176
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.4.21｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵｜老婆@Angel_SaveUsAll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 628,
+          "like_count": 5530,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 764
+        },
+        "username": "linwei130",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 1221,
+          "like_count": 58066,
+          "listed_count": 6,
+          "media_count": 505,
+          "tweet_count": 7059
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜oder｜自残｜双相｜日语学习中｜喜欢猫｜互fo请私信喵｜提问箱https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 103,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 80,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2052910402129051867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 437,
+          "like_count": 54866,
+          "listed_count": 3,
+          "media_count": 1603,
+          "tweet_count": 10019
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ my lil sis @artsyushi 🫶🏽🩵\n私は本来よりも多く睡眠をとっています\n重度のうつ病 | BPD | BPD II | 自殺念慮 | SH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "artsyushi"
+              }
+            ]
+          }
+        },
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ✨",
+        "pinned_tweet_id": "2043807024966676506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041300414964838400/KrgD3DS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 92,
+          "like_count": 30192,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2055
+        },
+        "username": "_tom0e_x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/BPD/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「昇天」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043325022249381888/KmL2tecR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 490,
+          "like_count": 9684,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 3666
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

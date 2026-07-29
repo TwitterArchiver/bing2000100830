@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028277747077029888",
+        "3_2028277747081154560"
+      ],
+      "media_source_tweet_id": [
+        "2028277755562103240",
+        "2028277755562103240"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030598085899178474",
+    "created_at": "2026-03-08T10:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030598085899178474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014291297688055808",
+          "start": 3,
+          "username": "4ivryt32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UY5UUIJxGZ",
+          "end": 60,
+          "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+          "media_key": "3_2028277747077029888",
+          "start": 37,
+          "url": "https://t.co/UY5UUIJxGZ"
+        },
+        {
+          "display_url": "pic.x.com/UY5UUIJxGZ",
+          "end": 60,
+          "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+          "media_key": "3_2028277747081154560",
+          "start": 37,
+          "url": "https://t.co/UY5UUIJxGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030598085899178474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028277755562103240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @4ivryt32: 置顶🔝\n我很穷\n转发这条抽三个88\n一周后开 https://t.co/UY5UUIJxGZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030598085899178474].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030598085899178474",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030598085899178474"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028277747077029888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXj3VxbIAAyAg6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 785,
+        "media_key": "3_2028277747081154560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXj3VyaEAAUyO5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028277747077029888",
+            "3_2028277747081154560"
+          ]
+        },
+        "author_id": "2014291297688055808",
+        "conversation_id": "2028277755562103240",
+        "created_at": "2026-03-02T01:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028277755562103240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY5UUIJxGZ",
+              "end": 46,
+              "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+              "media_key": "3_2028277747077029888",
+              "start": 23,
+              "url": "https://t.co/UY5UUIJxGZ"
+            },
+            {
+              "display_url": "pic.x.com/UY5UUIJxGZ",
+              "end": 46,
+              "expanded_url": "https://x.com/4ivrywbu8V8/status/2028277755562103240/photo/1",
+              "media_key": "3_2028277747081154560",
+              "start": 23,
+              "url": "https://t.co/UY5UUIJxGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028277755562103240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5710,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝\n我很穷\n转发这条抽三个88\n一周后开 https://t.co/UY5UUIJxGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 551,
+          "like_count": 13468,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 794
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T10:57:46.000Z",
+        "description": "私信只回门槛口令 坐标问题均25",
+        "id": "2014291297688055808",
+        "location": "🚪188/288/520/888/1314",
+        "name": "4ivry",
+        "pinned_tweet_id": "2028277755562103240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029039019578015746/KoDPf2Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 12
+        },
+        "username": "4ivryt32",
+        "verified": false
+      }
+    ]
+  }
+}

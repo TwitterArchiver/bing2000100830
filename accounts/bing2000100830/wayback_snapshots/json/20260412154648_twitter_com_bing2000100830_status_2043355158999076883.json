@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043343921158483969"
+      ],
+      "media_source_tweet_id": [
+        "2043343932038561996"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2043355158999076883",
+    "created_at": "2026-04-12T15:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043355158999076883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628243471021789184",
+          "start": 3,
+          "username": "HdRy_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNhAfIgT7f",
+          "end": 40,
+          "expanded_url": "https://x.com/HdRy_7/status/2043343932038561996/photo/1",
+          "media_key": "3_2043343921158483969",
+          "start": 17,
+          "url": "https://t.co/rNhAfIgT7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043355158999076883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043343932038561996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HdRy_7: 好きだよ https://t.co/rNhAfIgT7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2043343921158483969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtqeF6a8AE4dbQ.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043343921158483969"
+          ],
+          "media_source_tweet_id": [
+            "2043343932038561996"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2043355158999076883",
+        "created_at": "2026-04-12T15:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043355158999076883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628243471021789184",
+              "start": 3,
+              "username": "HdRy_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNhAfIgT7f",
+              "end": 40,
+              "expanded_url": "https://x.com/HdRy_7/status/2043343932038561996/photo/1",
+              "media_key": "3_2043343921158483969",
+              "start": 17,
+              "url": "https://t.co/rNhAfIgT7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043355158999076883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043343932038561996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HdRy_7: 好きだよ https://t.co/rNhAfIgT7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043343921158483969"
+          ]
+        },
+        "author_id": "1628243471021789184",
+        "conversation_id": "2043343932038561996",
+        "created_at": "2026-04-12T15:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043343932038561996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNhAfIgT7f",
+              "end": 28,
+              "expanded_url": "https://x.com/HdRy_7/status/2043343932038561996/photo/1",
+              "media_key": "3_2043343921158483969",
+              "start": 5,
+              "url": "https://t.co/rNhAfIgT7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043343932038561996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1161,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "好きだよ https://t.co/rNhAfIgT7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 853,
+          "like_count": 29552,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1733
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T04:01:19.000Z",
+        "description": "Illustrator♡̴⟡.個人・企業様問わずお仕事受付中！hdry7illust@gmail.com or DMにて承ります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@HdRy_7",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@HdRy_7",
+                "start": 0,
+                "url": "https://t.co/WZXQoju4Vw"
+              }
+            ]
+          }
+        },
+        "id": "1628243471021789184",
+        "location": "ご依頼作業中1件",
+        "name": "内出血過多@BOOTH 2/2 22:00-",
+        "pinned_tweet_id": "1879752277642371453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834262982697910273/hhqLNiGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12504,
+          "following_count": 67,
+          "like_count": 10467,
+          "listed_count": 48,
+          "media_count": 837,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/WZXQoju4Vw",
+        "username": "HdRy_7",
+        "verified": false
+      }
+    ]
+  }
+}

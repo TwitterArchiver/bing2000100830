@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064561988546756978",
+    "created_at": "2026-06-10T04:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064561988546756978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing2000100830…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bing2000100830/status/2064560935285702947",
+          "start": 16,
+          "url": "https://t.co/zpZRtIZRki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064561988546756978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064560935285702947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "变成一个穿黑衣服装小众的傻比。 https://t.co/zpZRtIZRki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064561988546756978",
+        "created_at": "2026-06-10T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064561988546756978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2064560935285702947",
+              "start": 16,
+              "url": "https://t.co/zpZRtIZRki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064561988546756978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064560935285702947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变成一个穿黑衣服装小众的傻比。 https://t.co/zpZRtIZRki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064560935285702947",
+        "created_at": "2026-06-10T04:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064560935285702947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064560935285702947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听爷爷奶奶讲了关于自己历史的故事。你们都知道我是东北人。爷爷是矿工，因为靠工农职业通过高考当上了管理人员的职位。我觉得一个选择直接改变了后面的整个故事线很有意思啊。比如说我爷爷的爷爷在1931年死在狭窄的木头支撑的矿机里我就不会这样躺着躺椅里吮吸着奶瓶，在pr药效里傻乐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1218,
+          "like_count": 44536,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2805
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

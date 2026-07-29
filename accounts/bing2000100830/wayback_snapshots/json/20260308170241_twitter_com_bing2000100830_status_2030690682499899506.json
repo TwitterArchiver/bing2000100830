@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030689579951702215",
+    "created_at": "2026-03-08T17:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T18:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030690682499899506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030690682499899506",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030689579951702215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 什么超雄妹妹啊，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5350,
+        "height": 1280,
+        "media_key": "13_2030689510632370176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030689510632370176/img/fuHauLdgaqR3RP7j.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030689510632370176/vid/avc1/320x568/xJIkH6S1y3ztk57t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030689510632370176/vid/avc1/480x852/bugNxL-BkkcMdP1b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030689510632370176/vid/avc1/720x1280/V-P-1hmoB6pf69yQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030689510632370176/pl/wnUEp0UL5gUybUq9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030689579951702215",
+        "created_at": "2026-03-08T17:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030690682499899506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030690682499899506",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030689579951702215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 什么超雄妹妹啊，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030689510632370176"
+          ]
+        },
+        "author_id": "2013875219392585728",
+        "conversation_id": "2030689579951702215",
+        "created_at": "2026-03-08T16:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030689579951702215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIJ3bgO6GP",
+              "end": 42,
+              "expanded_url": "https://x.com/e57jcetmSs91516/status/2030689579951702215/video/1",
+              "media_key": "13_2030689510632370176",
+              "start": 19,
+              "url": "https://t.co/dIJ3bgO6GP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030689579951702215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妹拿我梳子想砸我没砸到把这个砸坏了 https://t.co/dIJ3bgO6GP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 562,
+          "like_count": 13791,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 830
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 126,
+          "like_count": 6511,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1861
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

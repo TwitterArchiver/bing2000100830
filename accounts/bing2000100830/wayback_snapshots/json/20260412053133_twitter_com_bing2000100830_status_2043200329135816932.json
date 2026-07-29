@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2042905919332524122",
+    "created_at": "2026-04-12T05:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043200329135816932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019045314246922240",
+          "start": 0,
+          "username": "Yeshenyue195770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043200329135816932",
+    "in_reply_to_user_id": "2019045314246922240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043198958357606823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeshenyue195770 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2042905919332524122",
+        "created_at": "2026-04-12T05:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043200329135816932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019045314246922240",
+              "start": 0,
+              "username": "Yeshenyue195770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043200329135816932",
+        "in_reply_to_user_id": "2019045314246922240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043198958357606823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeshenyue195770 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019045314246922240",
+        "conversation_id": "2042905919332524122",
+        "created_at": "2026-04-12T05:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043198958357606823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043198958357606823",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042905919332524122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 我之前的规划是活到18，但是现在活超了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 843,
+          "like_count": 29172,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1717
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T13:48:25.000Z",
+        "description": "18歲後每活的一天都是我欠上天的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeshebyue",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeshebyue",
+                "start": 0,
+                "url": "https://t.co/vZK0nXCDCB"
+              }
+            ]
+          }
+        },
+        "id": "2019045314246922240",
+        "location": "梦里",
+        "name": "Third Pole",
+        "pinned_tweet_id": "2031030807549403562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040777629381672960/aIoyPWys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/vZK0nXCDCB",
+        "username": "Yeshenyue195770",
+        "verified": false
+      }
+    ]
+  }
+}

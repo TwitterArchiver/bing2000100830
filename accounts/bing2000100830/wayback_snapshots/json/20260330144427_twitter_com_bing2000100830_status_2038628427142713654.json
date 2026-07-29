@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2038593489173463382",
+    "created_at": "2026-03-30T14:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038628427142713654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002072845892157441",
+          "start": 0,
+          "username": "kill_me_sakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038628427142713654",
+    "in_reply_to_user_id": "2002072845892157441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038626577576268198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_me_sakura 不会的我还活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2038593489173463382",
+        "created_at": "2026-03-30T14:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038628427142713654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002072845892157441",
+              "start": 0,
+              "username": "kill_me_sakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038628427142713654",
+        "in_reply_to_user_id": "2002072845892157441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038626577576268198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_me_sakura 不会的我还活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002072845892157441",
+        "conversation_id": "2038593489173463382",
+        "created_at": "2026-03-30T14:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038626577576268198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038626577576268198",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038593489173463382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 不不不不不不要啊啊啊啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "🕯️",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 747,
+          "like_count": 24385,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1568
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:45:47.000Z",
+        "description": "友跨 戒割戒o戒菸中🚬\n正在努力當正常人\n成分複雜 fo你表示我喜歡你呀！！！\n-\n不線下！！",
+        "id": "2002072845892157441",
+        "name": "怎麼想都是你的錯",
+        "pinned_tweet_id": "2038460668261839096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 90,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 485
+        },
+        "username": "kill_me_sakura",
+        "verified": false
+      }
+    ]
+  }
+}

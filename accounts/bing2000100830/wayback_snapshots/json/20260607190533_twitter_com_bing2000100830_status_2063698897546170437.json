@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2063698897546170437",
+    "created_at": "2026-06-07T19:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063698897546170437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808535836247609347",
+          "start": 3,
+          "username": "MisakaWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063698897546170437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063659930687545401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MisakaWiki: 已上架泰补 180米 不包邮 欢迎来订购"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2063698897546170437",
+        "created_at": "2026-06-07T19:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063698897546170437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808535836247609347",
+              "start": 3,
+              "username": "MisakaWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063698897546170437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063659930687545401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MisakaWiki: 已上架泰补 180米 不包邮 欢迎来订购"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808535836247609347",
+        "conversation_id": "2063659930687545401",
+        "created_at": "2026-06-07T16:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063659930687545401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063659930687545401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已上架泰补 180米 不包邮 欢迎来订购"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1216,
+          "like_count": 44212,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2772
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "PDW 現任審核兼編輯 welcome to meeting i am a longtime live in HongKong🇭🇰！ Chinese（TaiWan)/English /Japanese/ Cantonese/五大訴求✋☝️🏴🇭🇰/公民記者/禦坂製藥工作室唯一指定賬戶 其餘均為假冒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/eeb205XMJw"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "location": "Tainan City, Taiwan",
+        "name": "Misaka「預備中」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993247682153132032/h2rscd5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 890,
+          "like_count": 4888,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/eeb205XMJw",
+        "username": "MisakaWiki",
+        "verified": true
+      }
+    ]
+  }
+}

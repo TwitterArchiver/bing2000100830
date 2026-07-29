@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2042971204588638600",
+    "created_at": "2026-04-11T14:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042972447084015699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929886186044305409",
+          "start": 0,
+          "username": "yomyoutheartist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042972447084015699",
+    "in_reply_to_user_id": "1929886186044305409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042972169760809112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yomyoutheartist 我不行了🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2042971204588638600",
+        "created_at": "2026-04-11T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042972447084015699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929886186044305409",
+              "start": 0,
+              "username": "yomyoutheartist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042972447084015699",
+        "in_reply_to_user_id": "1929886186044305409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042972169760809112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomyoutheartist 我不行了🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929886186044305409",
+        "conversation_id": "2042971204588638600",
+        "created_at": "2026-04-11T14:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042972169760809112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042972169760809112",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042971760640037318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 老大我已經從科普up主墮落成米萊bot了(悲)這下異世相遇了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 820,
+          "like_count": 28941,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1707
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T13:01:44.000Z",
+        "description": "Commission/ Vtb Contact: Yomyoutheartist@proton.me\nEditar mis imágenes requiere permiso\n\n🌈他/they/elle🌈\n我畫畫、寫作、進行一切力所能及的創作和慈善活動，同時孜孜不倦地用多元與平等從價值觀上毆打所有需要被我毆打的人。",
+        "id": "1929886186044305409",
+        "location": "❌無断改変・AI学習/編集禁止🚫NO AI⚠️",
+        "name": "柳予明",
+        "pinned_tweet_id": "2024844609441173670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929886496523464708/ScvzSKDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 126,
+          "like_count": 9823,
+          "listed_count": 3,
+          "media_count": 539,
+          "tweet_count": 2986
+        },
+        "username": "yomyoutheartist",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2060282226131247449",
+    "created_at": "2026-05-29T08:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060282226131247449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 3,
+          "username": "5hhqiuba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060282226131247449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060281188720562416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5hhqiuba: 就那几个逼药还各派系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2060282226131247449",
+        "created_at": "2026-05-29T08:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060282226131247449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 3,
+              "username": "5hhqiuba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060282226131247449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060281188720562416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5hhqiuba: 就那几个逼药还各派系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2060281188720562416",
+        "created_at": "2026-05-29T08:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060281188720562416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2060172746647282100",
+              "start": 11,
+              "url": "https://t.co/bNiA4MUVio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060281188720562416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060172746647282100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就那几个逼药还各派系 https://t.co/bNiA4MUVio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1189,
+          "like_count": 42104,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2542
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "enby/泛性恋/负能/阴暗/餐券/抽象/边缘生物\n分身@hck7g1/匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "hck7g1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "宇宙边界",
+        "name": "洛洛落叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060151023835254784/ZbmoJ5d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 156,
+          "like_count": 1627,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "5hhqiuba",
+        "verified": false
+      }
+    ]
+  }
+}

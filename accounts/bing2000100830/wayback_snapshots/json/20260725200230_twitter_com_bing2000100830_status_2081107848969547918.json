@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2081098949025509792",
+    "created_at": "2026-07-25T20:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T21:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081107848969547918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077919234445692928",
+          "start": 0,
+          "username": "wozubbdelyta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081107848969547918",
+    "in_reply_to_user_id": "2077919234445692928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081098949025509792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozubbdelyta 我服了怎么这么好看。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18900,
+        "height": 1280,
+        "media_key": "13_2081098916297400320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081098916297400320/img/9cFS8Wr1-4Gno4A6.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081098916297400320/vid/avc1/320x624/LytenUtJI3uAJHuU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081098916297400320/vid/avc1/480x936/zJASnC1nJp3KdklB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081098916297400320/vid/avc1/656x1280/Hxa5dgvtKSa0ELeS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081098916297400320/pl/2zbrT05NNjCJbD2E.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081098949025509792",
+        "created_at": "2026-07-25T20:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081107848969547918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077919234445692928",
+              "start": 0,
+              "username": "wozubbdelyta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081107848969547918",
+        "in_reply_to_user_id": "2077919234445692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081098949025509792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozubbdelyta 我服了怎么这么好看。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081098916297400320"
+          ]
+        },
+        "author_id": "2077919234445692928",
+        "conversation_id": "2081098949025509792",
+        "created_at": "2026-07-25T19:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081098949025509792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YJszf8AQL",
+              "end": 29,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081098949025509792/video/1",
+              "media_key": "13_2081098916297400320",
+              "start": 6,
+              "url": "https://t.co/2YJszf8AQL"
+            },
+            {
+              "display_url": "x.com/wozubbdelyta/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/wozubbdelyta/status/2081091390784852249",
+              "start": 30,
+              "url": "https://t.co/IeasnSmefB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081098949025509792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081091390784852249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一年前的霖 https://t.co/2YJszf8AQL https://t.co/IeasnSmefB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海里",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1377,
+          "like_count": 53734,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3321
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T00:52:06.000Z",
+        "description": "我是霖，19号，不是冷暴力是被gban了\n性别是末影人\n我喜欢吃辣条\ngban妈妈@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "2077919234445692928",
+        "name": "19.霖，我很牛逼",
+        "pinned_tweet_id": "2081032971189117085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 25,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "wozubbdelyta",
+        "verified": false
+      }
+    ]
+  }
+}

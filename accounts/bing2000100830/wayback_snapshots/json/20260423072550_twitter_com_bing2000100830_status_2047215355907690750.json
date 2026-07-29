@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2047005456380448768"
+      ],
+      "media_source_tweet_id": [
+        "2047005498499633180"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2047215355907690750",
+    "created_at": "2026-04-23T07:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047215355907690750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978790241197502464",
+          "start": 3,
+          "username": "Novokovvvv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rzhsi6EPJB",
+          "end": 39,
+          "expanded_url": "https://x.com/Novokovvvv/status/2047005498499633180/video/1",
+          "media_key": "7_2047005456380448768",
+          "start": 16,
+          "url": "https://t.co/Rzhsi6EPJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047215355907690750",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 869
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047005498499633180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Novokovvvv: https://t.co/Rzhsi6EPJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28862,
+        "height": 1028,
+        "media_key": "7_2047005456380448768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047005456380448768/pu/img/LhIyEZFCQmVsIF5r.jpg",
+        "public_metrics": {
+          "view_count": 12757
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047005456380448768/pu/vid/avc1/320x456/dZRPg0F_tRzmu9K_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047005456380448768/pu/vid/avc1/480x684/YIjGbwuU6k92BQdK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047005456380448768/pu/vid/avc1/720x1028/4g-lMLuAHNMPD1KM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047005456380448768/pu/pl/qK6mPccWLFyaBjX8.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047005456380448768"
+          ],
+          "media_source_tweet_id": [
+            "2047005498499633180"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2047215355907690750",
+        "created_at": "2026-04-23T07:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047215355907690750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978790241197502464",
+              "start": 3,
+              "username": "Novokovvvv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rzhsi6EPJB",
+              "end": 39,
+              "expanded_url": "https://x.com/Novokovvvv/status/2047005498499633180/video/1",
+              "media_key": "7_2047005456380448768",
+              "start": 16,
+              "url": "https://t.co/Rzhsi6EPJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047215355907690750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 869
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047005498499633180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Novokovvvv: https://t.co/Rzhsi6EPJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047005456380448768"
+          ]
+        },
+        "author_id": "1978790241197502464",
+        "conversation_id": "2047005498499633180",
+        "created_at": "2026-04-22T17:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047005498499633180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rzhsi6EPJB",
+              "end": 23,
+              "expanded_url": "https://x.com/Novokovvvv/status/2047005498499633180/video/1",
+              "media_key": "7_2047005456380448768",
+              "start": 0,
+              "url": "https://t.co/Rzhsi6EPJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047005498499633180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 34274,
+          "like_count": 4152,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 869
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rzhsi6EPJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 989,
+          "like_count": 33749,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1877
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T11:49:02.000Z",
+        "description": "+18 only or ill hurt myself\n\n                https://t.co/stjW1sfxcY\nside account: @hiv299293aooe9l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "hiv299293aooe9l"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "novokov.straw.page",
+                "end": 68,
+                "expanded_url": "https://novokov.straw.page",
+                "start": 45,
+                "url": "https://t.co/stjW1sfxcY"
+              }
+            ]
+          }
+        },
+        "id": "1978790241197502464",
+        "name": "reliant niisan~18+",
+        "pinned_tweet_id": "1979271041957700075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979271574361432064/kjp9LvNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 62,
+          "like_count": 393,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 503
+        },
+        "username": "Novokovvvv",
+        "verified": false
+      }
+    ]
+  }
+}

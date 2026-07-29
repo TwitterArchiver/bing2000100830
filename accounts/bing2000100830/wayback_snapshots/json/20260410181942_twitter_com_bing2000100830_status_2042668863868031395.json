@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042525505497264128"
+      ],
+      "media_source_tweet_id": [
+        "2042525512405332473"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042668863868031395",
+    "created_at": "2026-04-10T18:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042668863868031395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1338982069586731008",
+          "start": 3,
+          "username": "x_abysskawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/51vv4Laonh",
+          "end": 64,
+          "expanded_url": "https://x.com/x_abysskawaii_x/status/2042525512405332473/photo/1",
+          "media_key": "3_2042525505497264128",
+          "start": 41,
+          "url": "https://t.co/51vv4Laonh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042668863868031395",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042525512405332473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_abysskawaii_x: CATGIRL AME IS REAL https://t.co/51vv4Laonh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2042525505497264128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiCIB_W8AAUtzI.jpg",
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042525505497264128"
+          ],
+          "media_source_tweet_id": [
+            "2042525512405332473"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042668863868031395",
+        "created_at": "2026-04-10T18:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042668863868031395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1338982069586731008",
+              "start": 3,
+              "username": "x_abysskawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/51vv4Laonh",
+              "end": 64,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2042525512405332473/photo/1",
+              "media_key": "3_2042525505497264128",
+              "start": 41,
+              "url": "https://t.co/51vv4Laonh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042668863868031395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042525512405332473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_abysskawaii_x: CATGIRL AME IS REAL https://t.co/51vv4Laonh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042525505497264128"
+          ]
+        },
+        "author_id": "1338982069586731008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042525512405332473",
+        "created_at": "2026-04-10T08:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042525512405332473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51vv4Laonh",
+              "end": 43,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2042525512405332473/photo/1",
+              "media_key": "3_2042525505497264128",
+              "start": 20,
+              "url": "https://t.co/51vv4Laonh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042525512405332473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 23859,
+          "like_count": 2762,
+          "quote_count": 22,
+          "reply_count": 10,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "CATGIRL AME IS REAL https://t.co/51vv4Laonh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 820,
+          "like_count": 28577,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1687
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T22:59:43.000Z",
+        "description": "i love ame! | ame’s most loyal follower since 11/27/2020!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "supertenchans.carrd.co",
+                "end": 23,
+                "expanded_url": "https://supertenchans.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/zMoFERMa5G"
+              }
+            ]
+          }
+        },
+        "id": "1338982069586731008",
+        "location": "19 | she | devoted 2 ame 11/27",
+        "name": "abyss",
+        "pinned_tweet_id": "2041427787987251539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020426945079779328/nHqJXrCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 516,
+          "like_count": 3088,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/zMoFERMa5G",
+        "username": "x_abysskawaii_x",
+        "verified": false
+      }
+    ]
+  }
+}

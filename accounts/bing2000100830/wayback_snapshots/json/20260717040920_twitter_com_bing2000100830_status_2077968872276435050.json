@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077717819933048985",
+    "created_at": "2026-07-17T04:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077968872276435050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245586764837695493",
+          "start": 0,
+          "username": "i0OJoOpG5NuTcjG"
+        },
+        {
+          "end": 26,
+          "id": "1999153024019869696",
+          "start": 17,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077968872276435050",
+    "in_reply_to_user_id": "1245586764837695493",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077816392049651850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0OJoOpG5NuTcjG @KKKaoru_ 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077717819933048985",
+        "created_at": "2026-07-17T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077968872276435050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            },
+            {
+              "end": 26,
+              "id": "1999153024019869696",
+              "start": 17,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077968872276435050",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077816392049651850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG @KKKaoru_ 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245586764837695493",
+        "conversation_id": "2077717819933048985",
+        "created_at": "2026-07-16T18:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077816392049651850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 25,
+              "id": "1999153024019869696",
+              "start": 16,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077816392049651850",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077717819933048985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @KKKaoru_ 91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1339,
+          "like_count": 52040,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 3224
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "一瞬的逃避是为了更好的自己，而非永久的逃避，人不可能逃避一辈子，不沉溺，不妥协，活出自己〒_〒",
+        "id": "1245586764837695493",
+        "location": "鏡の世界",
+        "name": "柘榴sukisu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 381,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "如果你认识的我叫何鸿，那我很抱歉 / 实名李彦齐 / 两个大傻逼@_Mizutani__ @bing2000100830 / 骚逼@pillsandblood",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "_Mizutani__"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "bing2000100830"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "pillsandblood"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038276630154772481/2sQdzYrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

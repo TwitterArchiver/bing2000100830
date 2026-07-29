@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2043743106999496737",
+    "created_at": "2026-04-13T17:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043743106999496737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043743106999496737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好感激低剂量的右美沙芬。它似乎把我从前段日子的抑郁状态改善了好多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2043743106999496737",
+        "created_at": "2026-04-13T17:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043743106999496737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043743106999496737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好感激低剂量的右美沙芬。它似乎把我从前段日子的抑郁状态改善了好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 871,
+          "like_count": 30137,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1752
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

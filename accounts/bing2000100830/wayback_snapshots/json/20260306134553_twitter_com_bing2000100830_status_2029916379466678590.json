@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2029812912978895049",
+    "created_at": "2026-03-06T13:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029916379466678590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779008306033639424",
+          "start": 0,
+          "username": "chikawaiiiiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029916379466678590",
+    "in_reply_to_user_id": "1779008306033639424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029915666069836078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chikawaiiiiia 好远啊我们去土星面基吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2029812912978895049",
+        "created_at": "2026-03-06T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029916379466678590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779008306033639424",
+              "start": 0,
+              "username": "chikawaiiiiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029916379466678590",
+        "in_reply_to_user_id": "1779008306033639424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029915666069836078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chikawaiiiiia 好远啊我们去土星面基吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779008306033639424",
+        "conversation_id": "2029812912978895049",
+        "created_at": "2026-03-06T13:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029915666069836078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029915666069836078",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029812912978895049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 我在天王星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 625
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:46:54.000Z",
+        "description": "高中无孩爱猫爱狗od女 喜欢抹茶 可以叫我c_aaaaat 欢迎找我互fo",
+        "id": "1779008306033639424",
+        "location": "Kawanishi-cho, Nara",
+        "name": "亖十",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791409692666912768/FETBZ0JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 64,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 183
+        },
+        "username": "chikawaiiiiia",
+        "verified": false
+      }
+    ]
+  }
+}

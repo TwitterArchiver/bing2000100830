@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041457457374113792"
+      ],
+      "media_source_tweet_id": [
+        "2041457461992042519"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041800155180216365",
+    "created_at": "2026-04-08T08:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041800155180216365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029521352785571840",
+          "start": 3,
+          "username": "x_x_x_n_y_0D"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVQ5VefLdj",
+          "end": 56,
+          "expanded_url": "https://x.com/x_x_x_n_y_0D/status/2041457461992042519/photo/1",
+          "media_key": "3_2041457457374113792",
+          "start": 33,
+          "url": "https://t.co/fVQ5VefLdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041800155180216365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041457461992042519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_x_x_n_y_0D: 片目なのはわかる人にはわかる https://t.co/fVQ5VefLdj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2041457457374113792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS2vcrbMAAgjVy.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041457457374113792"
+          ],
+          "media_source_tweet_id": [
+            "2041457461992042519"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041800155180216365",
+        "created_at": "2026-04-08T08:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041800155180216365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029521352785571840",
+              "start": 3,
+              "username": "x_x_x_n_y_0D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVQ5VefLdj",
+              "end": 56,
+              "expanded_url": "https://x.com/x_x_x_n_y_0D/status/2041457461992042519/photo/1",
+              "media_key": "3_2041457457374113792",
+              "start": 33,
+              "url": "https://t.co/fVQ5VefLdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041800155180216365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041457461992042519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_x_x_n_y_0D: 片目なのはわかる人にはわかる https://t.co/fVQ5VefLdj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041457457374113792"
+          ]
+        },
+        "author_id": "2029521352785571840",
+        "conversation_id": "2041457461992042519",
+        "created_at": "2026-04-07T10:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041457461992042519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVQ5VefLdj",
+              "end": 38,
+              "expanded_url": "https://x.com/x_x_x_n_y_0D/status/2041457461992042519/photo/1",
+              "media_key": "3_2041457457374113792",
+              "start": 15,
+              "url": "https://t.co/fVQ5VefLdj"
+            },
+            {
+              "display_url": "x.com/melody_marilan…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/melody_mariland/status/2041350300779647183",
+              "start": 39,
+              "url": "https://t.co/DGAlNp0OpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041457461992042519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2109,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041350300779647183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "片目なのはわかる人にはわかる https://t.co/fVQ5VefLdj https://t.co/DGAlNp0OpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 821,
+          "like_count": 27611,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1660
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T11:36:19.000Z",
+        "description": "￤05 ￤ 🚹 ￤ 神奈川 ￤ 双極持ってます ￤ 0D ￤ 🐿🦟 \n￤ MARETU￤ 内緒のピアス ￤ 〆ジ教 ￤💍@hklqxx\nDM、リプだいすき",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 60,
+                "username": "hklqxx"
+              }
+            ]
+          }
+        },
+        "id": "2029521352785571840",
+        "name": "めじまる",
+        "pinned_tweet_id": "2041324991011262826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036958159752093696/WskK3X1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 83,
+          "like_count": 598,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 236
+        },
+        "username": "x_x_x_n_y_0D",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2060828519308067163",
+    "created_at": "2026-06-08T12:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063963058956067324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597567529303437315",
+          "start": 0,
+          "username": "dzhdo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063963058956067324",
+    "in_reply_to_user_id": "1597567529303437315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962915775131839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhdo2 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2063962913220755457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSrVZAagAEg6nC.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2060828519308067163",
+        "created_at": "2026-06-08T12:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063963058956067324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597567529303437315",
+              "start": 0,
+              "username": "dzhdo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963058956067324",
+        "in_reply_to_user_id": "1597567529303437315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962915775131839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhdo2 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063962913220755457"
+          ]
+        },
+        "author_id": "1597567529303437315",
+        "conversation_id": "2060828519308067163",
+        "created_at": "2026-06-08T12:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962915775131839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJHXNm6vI9",
+              "end": 46,
+              "expanded_url": "https://x.com/dzhdo2/status/2063962915775131839/photo/1",
+              "media_key": "3_2063962913220755457",
+              "start": 23,
+              "url": "https://t.co/xJHXNm6vI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962915775131839",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962521321824698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 真实故事改编 https://t.co/xJHXNm6vI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1222,
+          "like_count": 44316,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2787
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T12:26:15.000Z",
+        "description": "我会爱上莫名其妙给我钱的人",
+        "id": "1597567529303437315",
+        "location": "阴影",
+        "name": "柊萌浮白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047690804970270720/OVpPWlfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1267,
+          "like_count": 9174,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 2092
+        },
+        "username": "dzhdo2",
+        "verified": false
+      }
+    ]
+  }
+}

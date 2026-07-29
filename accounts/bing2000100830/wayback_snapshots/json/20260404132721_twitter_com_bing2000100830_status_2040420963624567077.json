@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2040420814185766936",
+    "created_at": "2026-04-04T13:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040420963624567077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871856668818227200",
+          "start": 0,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040420963624567077",
+    "in_reply_to_user_id": "1871856668818227200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040420814185766936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEISEI_YUYU_EX 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2040420814185766936",
+        "created_at": "2026-04-04T13:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040420963624567077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871856668818227200",
+              "start": 0,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040420963624567077",
+        "in_reply_to_user_id": "1871856668818227200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040420814185766936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_EX 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871856668818227200",
+        "conversation_id": "2040420814185766936",
+        "created_at": "2026-04-04T13:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040420814185766936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243590342911410176",
+              "start": 3,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chronicailment…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/chronicailment/status/2039706308249849936",
+              "start": 27,
+              "url": "https://t.co/h4fiIfFKii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040420814185766936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039706308249849936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人\n@bing2000100830  你找到同类了 https://t.co/h4fiIfFKii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 783,
+          "like_count": 26101,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1607
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "OD&リスカㅣ語言學ㅣLanguage🇨🇳🇯🇵🇰🇷🇻🇳🇺🇸🇫🇷ㅣ04ㅣINFPㅣ特攝ㅣ動畫ㅣ寶可夢",
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2029990238769270840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016013527022977024/DX4QB-94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 460,
+          "like_count": 5127,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 662
+        },
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2081822013518475679",
+    "created_at": "2026-07-27T22:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T23:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081864013399593114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "hibikiwataru167"
+        },
+        {
+          "end": 26,
+          "id": "2071924874163912704",
+          "start": 17,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081864013399593114",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081822013518475679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hibikiwataru167 @EVEgojj5 99呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081822013518475679",
+        "created_at": "2026-07-27T22:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081864013399593114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "hibikiwataru167"
+            },
+            {
+              "end": 26,
+              "id": "2071924874163912704",
+              "start": 17,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081864013399593114",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081822013518475679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hibikiwataru167 @EVEgojj5 99呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "conversation_id": "2081822013518475679",
+        "created_at": "2026-07-27T19:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081822013518475679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 96,
+              "id": "2071924874163912704",
+              "start": 87,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081822013518475679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我家的小金魚聊天的時候聊到一個傻逼老登說的“女人如衣服”\n然後小金魚突然跟我賣萌説：“hbk不要把我當做衣服好不好”\n我：“放心 我會把你當做古著對待的😭一件比我命還貴”\n@EVEgojj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1388,
+          "like_count": 54060,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3357
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2081734565341929541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 97,
+          "like_count": 6409,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "hibikiwataru167",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我喜歡長發男",
+        "id": "2071924874163912704",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2071995187539111969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071925633051934720/R23GN4U-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 228,
+          "like_count": 1638,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false
+      }
+    ]
+  }
+}

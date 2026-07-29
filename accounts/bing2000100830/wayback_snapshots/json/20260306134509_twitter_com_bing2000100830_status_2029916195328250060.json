@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2029916195328250060",
+    "created_at": "2026-03-06T13:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029916195328250060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike001/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fayoubaike001/status/2029915385970184606",
+          "start": 7,
+          "url": "https://t.co/6b1faQDzpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029916195328250060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029915385970184606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五高不如职高 https://t.co/6b1faQDzpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2029915383051038720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu1STLbsAA0azU.jpg",
+        "width": 720
+      },
+      {
+        "height": 617,
+        "media_key": "3_2029915382610546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu1SRiaUAAU_WX.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2029916195328250060",
+        "created_at": "2026-03-06T13:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029916195328250060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike001/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fayoubaike001/status/2029915385970184606",
+              "start": 7,
+              "url": "https://t.co/6b1faQDzpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029916195328250060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029915385970184606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五高不如职高 https://t.co/6b1faQDzpk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029915383051038720",
+            "3_2029915382610546688"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029915385970184606",
+        "created_at": "2026-03-06T13:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029915385970184606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQAIk2pIP4",
+              "end": 45,
+              "expanded_url": "https://x.com/fayoubaike001/status/2029915385970184606/photo/1",
+              "media_key": "3_2029915383051038720",
+              "start": 22,
+              "url": "https://t.co/CQAIk2pIP4"
+            },
+            {
+              "display_url": "pic.x.com/CQAIk2pIP4",
+              "end": 45,
+              "expanded_url": "https://x.com/fayoubaike001/status/2029915385970184606/photo/1",
+              "media_key": "3_2029915382610546688",
+              "start": 22,
+              "url": "https://t.co/CQAIk2pIP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029915385970184606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "600mg dxm \n我将成为高原上的传说 https://t.co/CQAIk2pIP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 624
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 283,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 281
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

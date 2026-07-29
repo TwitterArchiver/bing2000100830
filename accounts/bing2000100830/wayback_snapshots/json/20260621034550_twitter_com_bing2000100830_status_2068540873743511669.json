@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068514118336913408"
+      ],
+      "media_source_tweet_id": [
+        "2068514124234215547"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2068540873743511669",
+    "created_at": "2026-06-21T03:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068540873743511669"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 13,
+          "tag": "GirlsLastTour"
+        },
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "少女終末旅行"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623989879377137664",
+          "start": 3,
+          "username": "Wsd917s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GXyElD0z0R",
+          "end": 59,
+          "expanded_url": "https://x.com/Wsd917s/status/2068514124234215547/photo/1",
+          "media_key": "3_2068514118336913408",
+          "start": 36,
+          "url": "https://t.co/GXyElD0z0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068540873743511669",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068514124234215547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wsd917s: #GirlsLastTour #少女終末旅行 https://t.co/GXyElD0z0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2068514118336913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTWoZRaIAAJh8_.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068514118336913408"
+          ],
+          "media_source_tweet_id": [
+            "2068514124234215547"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2068540873743511669",
+        "created_at": "2026-06-21T03:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068540873743511669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "GirlsLastTour"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623989879377137664",
+              "start": 3,
+              "username": "Wsd917s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXyElD0z0R",
+              "end": 59,
+              "expanded_url": "https://x.com/Wsd917s/status/2068514124234215547/photo/1",
+              "media_key": "3_2068514118336913408",
+              "start": 36,
+              "url": "https://t.co/GXyElD0z0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068540873743511669",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068514124234215547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wsd917s: #GirlsLastTour #少女終末旅行 https://t.co/GXyElD0z0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068514118336913408"
+          ]
+        },
+        "author_id": "1623989879377137664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2068514124234215547",
+        "created_at": "2026-06-21T01:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068514124234215547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "GirlsLastTour"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXyElD0z0R",
+              "end": 46,
+              "expanded_url": "https://x.com/Wsd917s/status/2068514124234215547/photo/1",
+              "media_key": "3_2068514118336913408",
+              "start": 23,
+              "url": "https://t.co/GXyElD0z0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068514124234215547",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 823,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "#GirlsLastTour #少女終末旅行 https://t.co/GXyElD0z0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1256,
+          "like_count": 46978,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T10:19:05.000Z",
+        "description": "I draww  fanarts and anything i like",
+        "id": "1623989879377137664",
+        "name": "wsd917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972295957791571968/jFXQyccz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 71,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Wsd917s",
+        "verified": false
+      }
+    ]
+  }
+}

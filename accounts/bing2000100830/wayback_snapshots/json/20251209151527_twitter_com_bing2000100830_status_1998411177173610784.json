@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "1998411177173610784",
+    "created_at": "2025-12-09T15:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998411177173610784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998411177173610784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "征集缺爱伪娘本子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "1998411177173610784",
+        "created_at": "2025-12-09T15:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998411177173610784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998411177173610784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "征集缺爱伪娘本子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087645688963072/J8WE0ccZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

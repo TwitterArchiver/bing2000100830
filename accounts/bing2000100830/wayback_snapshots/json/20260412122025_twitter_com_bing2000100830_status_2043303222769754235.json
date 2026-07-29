@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2043293808100790395",
+    "created_at": "2026-04-12T12:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043303222769754235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877920404561690624",
+          "start": 0,
+          "username": "EncounRain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043303222769754235",
+    "in_reply_to_user_id": "1877920404561690624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043293808100790395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EncounRain 🥺🥺🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2043293808100790395",
+        "created_at": "2026-04-12T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043303222769754235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877920404561690624",
+              "start": 0,
+              "username": "EncounRain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043303222769754235",
+        "in_reply_to_user_id": "1877920404561690624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043293808100790395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EncounRain 🥺🥺🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920404561690624",
+        "conversation_id": "2043293808100790395",
+        "created_at": "2026-04-12T11:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043293808100790395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043293808100790395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心情好好。。开个抽奖玩肿么样??\n圈点粉❌参与的话关注转发加评论喵\n抽一人三盒玉米片（折现18rmb）\n抽三人一盒玉米片（折现6rmb）\n抽两人赞赏你5.2rmb\n再抽个特殊好了\n抽奶茶一杯（折现20rmb）\nem下周二晚上9点截止!〒_〒\n互关来玩我给你们黑箱（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 851,
+          "like_count": 29435,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1728
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:28:16.000Z",
+        "description": "宝宝你的号是不是被用来刷恶评了\n吐黑泥碎碎念。互fo。。",
+        "id": "1877920404561690624",
+        "location": "東京 新宿区",
+        "name": "wishele",
+        "pinned_tweet_id": "2027287927903129679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042872077460606978/DzMkazwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 277,
+          "like_count": 10409,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 713
+        },
+        "username": "EncounRain",
+        "verified": false
+      }
+    ]
+  }
+}

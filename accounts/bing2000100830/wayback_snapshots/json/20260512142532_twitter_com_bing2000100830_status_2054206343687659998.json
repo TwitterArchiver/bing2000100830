@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2054206343687659998",
+    "created_at": "2026-05-12T14:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054206343687659998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/12sgcsb/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/12sgcsb/status/2054094373688868965",
+          "start": 30,
+          "url": "https://t.co/38yYyeFASQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054206343687659998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054094373688868965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师说推特上什么都有原来不是骗人的，比如居然有我的12麻麻 https://t.co/38yYyeFASQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2054206343687659998",
+        "created_at": "2026-05-12T14:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054206343687659998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/12sgcsb/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/12sgcsb/status/2054094373688868965",
+              "start": 30,
+              "url": "https://t.co/38yYyeFASQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054206343687659998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054094373688868965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师说推特上什么都有原来不是骗人的，比如居然有我的12麻麻 https://t.co/38yYyeFASQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039759562815733760",
+        "conversation_id": "2054094373688868965",
+        "created_at": "2026-05-12T07:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054094373688868965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054094373688868965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2430,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍一下吧\n我叫12 真名黄家盛 你们可以叫我阿盛也可以叫我12\n之前干点烟袋被马斯克拿下了，现在只能偷偷干了🥵\n喜欢抽烟\n目前很焦虑\n被大学开除了\n正在取保候审"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1108,
+          "like_count": 38353,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2193
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "cn",
+        "name": "12（已老实）",
+        "pinned_tweet_id": "2054094373688868965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 62,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

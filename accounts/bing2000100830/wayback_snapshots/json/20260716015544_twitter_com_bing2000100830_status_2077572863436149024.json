@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077401398883586048"
+      ],
+      "media_source_tweet_id": [
+        "2077401405640601791"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2077572863436149024",
+    "created_at": "2026-07-16T01:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077572863436149024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571860407052283907",
+          "start": 3,
+          "username": "imaichichan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3bCP4le6k2",
+          "end": 40,
+          "expanded_url": "https://x.com/imaichichan/status/2077401405640601791/photo/1",
+          "media_key": "3_2077401398883586048",
+          "start": 17,
+          "url": "https://t.co/3bCP4le6k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077572863436149024",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 711
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077401405640601791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @imaichichan: https://t.co/3bCP4le6k2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2077401398883586048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRpkNRbEAAhN3u.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077401398883586048"
+          ],
+          "media_source_tweet_id": [
+            "2077401405640601791"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2077572863436149024",
+        "created_at": "2026-07-16T01:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077572863436149024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571860407052283907",
+              "start": 3,
+              "username": "imaichichan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bCP4le6k2",
+              "end": 40,
+              "expanded_url": "https://x.com/imaichichan/status/2077401405640601791/photo/1",
+              "media_key": "3_2077401398883586048",
+              "start": 17,
+              "url": "https://t.co/3bCP4le6k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077572863436149024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 711
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077401405640601791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @imaichichan: https://t.co/3bCP4le6k2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077401398883586048"
+          ]
+        },
+        "author_id": "1571860407052283907",
+        "conversation_id": "2077401405640601791",
+        "created_at": "2026-07-15T14:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077401405640601791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bCP4le6k2",
+              "end": 23,
+              "expanded_url": "https://x.com/imaichichan/status/2077401405640601791/photo/1",
+              "media_key": "3_2077401398883586048",
+              "start": 0,
+              "url": "https://t.co/3bCP4le6k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077401405640601791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 26471,
+          "like_count": 4340,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 711
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/3bCP4le6k2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1337,
+          "like_count": 51835,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3209
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T13:55:31.000Z",
+        "description": "20^ 雑多 🤍イラストを見て楽しんでもらえたら嬉しいです！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/imaichichan",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/imaichichan",
+                "start": 0,
+                "url": "https://t.co/0qebocx1nr"
+              }
+            ]
+          }
+        },
+        "id": "1571860407052283907",
+        "location": "🇵🇭🇯🇵",
+        "name": "まい",
+        "pinned_tweet_id": "1972552881527292147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052693710740275200/m6GlyK5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18326,
+          "following_count": 1765,
+          "like_count": 28406,
+          "listed_count": 56,
+          "media_count": 480,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/0qebocx1nr",
+        "username": "imaichichan",
+        "verified": false
+      }
+    ]
+  }
+}

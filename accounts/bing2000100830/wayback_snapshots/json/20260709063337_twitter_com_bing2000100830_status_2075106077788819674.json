@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2075106077788819674",
+    "created_at": "2026-07-09T06:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075106077788819674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/amber_digit/status/2071480056619163699",
+          "start": 4,
+          "url": "https://t.co/vPRM6V9bH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075106077788819674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480056619163699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要学。 https://t.co/vPRM6V9bH8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101763,
+        "height": 1920,
+        "media_key": "13_2071476450603958272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071476450603958272/img/VzWSCP-R7ZhSyfFa.jpg",
+        "public_metrics": {
+          "view_count": 4399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/720x1280/WIoaQWe69dVjne40.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/pl/pc_RbkE5zQzFOZhE.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/480x852/FfC2FnFjeZFVgqxo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/320x568/P3zyK5BuPBMWEWWL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/1080x1920/-YnMJWLW8gAMtFnT.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2075106077788819674",
+        "created_at": "2026-07-09T06:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075106077788819674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/amber_digit/status/2071480056619163699",
+              "start": 4,
+              "url": "https://t.co/vPRM6V9bH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075106077788819674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480056619163699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要学。 https://t.co/vPRM6V9bH8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071476450603958272"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071480056619163699",
+        "created_at": "2026-06-29T06:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:11:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071476573849416142",
+          "2071480056619163699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNg3sAFOwu",
+              "end": 75,
+              "expanded_url": "https://x.com/amber_digit/status/2071480056619163699/video/1",
+              "media_key": "13_2071476450603958272",
+              "start": 52,
+              "url": "https://t.co/lNg3sAFOwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480056619163699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 16984,
+          "like_count": 219,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "之前有小朋友找我服侍肉棒的口交教程，所以在这里录个深喉的小视频稍微说明一下，也算是展示一下业务能力哼哼 https://t.co/lNg3sAFOwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1298,
+          "like_count": 50456,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3135
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "📍多伦多Toronto #mtf #ts\n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "mtf"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "ts"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2071480056619163699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 310,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

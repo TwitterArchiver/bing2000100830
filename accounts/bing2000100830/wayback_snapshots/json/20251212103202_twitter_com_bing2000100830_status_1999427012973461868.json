@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999427001275604992",
+        "3_1999427001300713477"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "1999427012973461868",
+    "created_at": "2025-12-12T10:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999427012973461868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyMePeRgK4",
+          "end": 31,
+          "expanded_url": "https://x.com/bing2000100830/status/1999427012973461868/photo/1",
+          "media_key": "3_1999427001275604992",
+          "start": 8,
+          "url": "https://t.co/SyMePeRgK4"
+        },
+        {
+          "display_url": "pic.x.com/SyMePeRgK4",
+          "end": 31,
+          "expanded_url": "https://x.com/bing2000100830/status/1999427012973461868/photo/1",
+          "media_key": "3_1999427001300713477",
+          "start": 8,
+          "url": "https://t.co/SyMePeRgK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999427012973461868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人我喜欢你🥺 https://t.co/SyMePeRgK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1999427001275604992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79kQ6VbYAA6ROl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1999427001300713477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79kQ6bagAUdurD.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999427001275604992",
+            "3_1999427001300713477"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "1999427012973461868",
+        "created_at": "2025-12-12T10:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999427012973461868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyMePeRgK4",
+              "end": 31,
+              "expanded_url": "https://x.com/bing2000100830/status/1999427012973461868/photo/1",
+              "media_key": "3_1999427001275604992",
+              "start": 8,
+              "url": "https://t.co/SyMePeRgK4"
+            },
+            {
+              "display_url": "pic.x.com/SyMePeRgK4",
+              "end": 31,
+              "expanded_url": "https://x.com/bing2000100830/status/1999427012973461868/photo/1",
+              "media_key": "3_1999427001300713477",
+              "start": 8,
+              "url": "https://t.co/SyMePeRgK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999427012973461868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人我喜欢你🥺 https://t.co/SyMePeRgK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 93,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 73
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

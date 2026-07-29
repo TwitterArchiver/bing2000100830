@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998953937026859008"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "1998953969964691577",
+    "created_at": "2025-12-11T03:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998953969964691577"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "推特小剧场"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oplM8525s3",
+          "end": 30,
+          "expanded_url": "https://x.com/bing2000100830/status/1998953969964691577/photo/1",
+          "media_key": "3_1998953937026859008",
+          "start": 7,
+          "url": "https://t.co/oplM8525s3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998953969964691577",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推特小剧场 https://t.co/oplM8525s3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998953937026859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G722A8rawAAYDRk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998953937026859008"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "1998953969964691577",
+        "created_at": "2025-12-11T03:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998953969964691577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "推特小剧场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oplM8525s3",
+              "end": 30,
+              "expanded_url": "https://x.com/bing2000100830/status/1998953969964691577/photo/1",
+              "media_key": "3_1998953937026859008",
+              "start": 7,
+              "url": "https://t.co/oplM8525s3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998953969964691577",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推特小剧场 https://t.co/oplM8525s3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 79,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

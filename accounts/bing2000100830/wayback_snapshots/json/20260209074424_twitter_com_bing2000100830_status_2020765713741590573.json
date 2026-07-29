@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020287774797291520"
+      ],
+      "media_source_tweet_id": [
+        "2020287784838471782"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2020765713741590573",
+    "created_at": "2026-02-09T07:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020765713741590573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2008943608695840768",
+          "start": 3,
+          "username": "electronic_dirt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rqgy8UFo7C",
+          "end": 96,
+          "expanded_url": "https://x.com/electronic_dirt/status/2020287784838471782/photo/1",
+          "media_key": "3_2020287774797291520",
+          "start": 73,
+          "url": "https://t.co/rqgy8UFo7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020765713741590573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020287784838471782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @electronic_dirt: 300fo达成！抽5位粉丝\n一人一盒75mg pr   明天13:00开奖\n\n💗转发、关注 、点赞参与 https://t.co/rqgy8UFo7C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020287774797291520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmBBvjbYAAX4DS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020287774797291520"
+          ],
+          "media_source_tweet_id": [
+            "2020287784838471782"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2020765713741590573",
+        "created_at": "2026-02-09T07:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020765713741590573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2008943608695840768",
+              "start": 3,
+              "username": "electronic_dirt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqgy8UFo7C",
+              "end": 96,
+              "expanded_url": "https://x.com/electronic_dirt/status/2020287784838471782/photo/1",
+              "media_key": "3_2020287774797291520",
+              "start": 73,
+              "url": "https://t.co/rqgy8UFo7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020765713741590573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020287784838471782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @electronic_dirt: 300fo达成！抽5位粉丝\n一人一盒75mg pr   明天13:00开奖\n\n💗转发、关注 、点赞参与 https://t.co/rqgy8UFo7C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020287774797291520"
+          ]
+        },
+        "author_id": "2008943608695840768",
+        "conversation_id": "2020287784838471782",
+        "created_at": "2026-02-08T00:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020287784838471782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqgy8UFo7C",
+              "end": 75,
+              "expanded_url": "https://x.com/electronic_dirt/status/2020287784838471782/photo/1",
+              "media_key": "3_2020287774797291520",
+              "start": 52,
+              "url": "https://t.co/rqgy8UFo7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020287784838471782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20818,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "300fo达成！抽5位粉丝\n一人一盒75mg pr   明天13:00开奖\n\n💗转发、关注 、点赞参与 https://t.co/rqgy8UFo7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 109,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵 可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉电子垢💡",
+        "pinned_tweet_id": "2019978992556908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 142,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 437
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

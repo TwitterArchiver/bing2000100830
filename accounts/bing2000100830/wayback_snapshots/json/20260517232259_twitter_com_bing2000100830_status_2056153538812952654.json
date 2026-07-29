@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2056153538812952654",
+    "created_at": "2026-05-17T23:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056153538812952654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "46612574",
+          "start": 12,
+          "username": "seisei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Kyanu_tut/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Kyanu_tut/status/2055839978928930979",
+          "start": 20,
+          "url": "https://t.co/fulFvg3x50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056153538812952654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055839978928930979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青悠偷井盖给自己买杯子 @seisei https://t.co/fulFvg3x50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2056153538812952654",
+        "created_at": "2026-05-17T23:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056153538812952654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "46612574",
+              "start": 12,
+              "username": "seisei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Kyanu_tut/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Kyanu_tut/status/2055839978928930979",
+              "start": 20,
+              "url": "https://t.co/fulFvg3x50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056153538812952654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055839978928930979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青悠偷井盖给自己买杯子 @seisei https://t.co/fulFvg3x50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2055839978928930979",
+        "created_at": "2026-05-17T02:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055839978928930979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055839978928930979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 52979,
+          "like_count": 950,
+          "quote_count": 13,
+          "reply_count": 169,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "你最想带哪个男孩回家？\n​1.爱家暴的山东男孩\n​2.爱偷井盖的河南男孩\n​3.爱嚼槟榔的湖南男孩\n​4.爱歧视本地外地人的上海男孩\n​5.爱导管子辱女辱男一事无成的可爱男孩（也就是我）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1161,
+          "like_count": 39702,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 2344
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T08:38:03.000Z",
+        "description": "海と熊本がたいぎゃ好き。メディア畑育ち。",
+        "id": "46612574",
+        "location": "東京都世田谷区",
+        "name": "せーや",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165404465/seiya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 33,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 92
+        },
+        "username": "seisei",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 409,
+          "like_count": 724,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 2041
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

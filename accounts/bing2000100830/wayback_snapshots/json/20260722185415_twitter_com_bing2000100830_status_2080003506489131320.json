@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079943286505279488"
+      ],
+      "media_source_tweet_id": [
+        "2079943292767383754"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2080003506489131320",
+    "created_at": "2026-07-22T18:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080003506489131320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776227060262088704",
+          "start": 3,
+          "username": "119_kqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NUum3nVVn7",
+          "end": 41,
+          "expanded_url": "https://x.com/119_kqz/status/2079943292767383754/photo/1",
+          "media_key": "3_2079943286505279488",
+          "start": 18,
+          "url": "https://t.co/NUum3nVVn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080003506489131320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079943292767383754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @119_kqz: 敵は己の https://t.co/NUum3nVVn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2079943286505279488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1xZikbEAAIGFG.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079943286505279488"
+          ]
+        },
+        "author_id": "1776227060262088704",
+        "conversation_id": "2079943292767383754",
+        "created_at": "2026-07-22T14:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079943292767383754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUum3nVVn7",
+              "end": 28,
+              "expanded_url": "https://x.com/119_kqz/status/2079943292767383754/photo/1",
+              "media_key": "3_2079943286505279488",
+              "start": 5,
+              "url": "https://t.co/NUum3nVVn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079943292767383754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1095,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "敵は己の https://t.co/NUum3nVVn7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079943286505279488"
+          ],
+          "media_source_tweet_id": [
+            "2079943292767383754"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2080003506489131320",
+        "created_at": "2026-07-22T18:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080003506489131320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776227060262088704",
+              "start": 3,
+              "username": "119_kqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUum3nVVn7",
+              "end": 41,
+              "expanded_url": "https://x.com/119_kqz/status/2079943292767383754/photo/1",
+              "media_key": "3_2079943286505279488",
+              "start": 18,
+              "url": "https://t.co/NUum3nVVn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080003506489131320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079943292767383754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @119_kqz: 敵は己の https://t.co/NUum3nVVn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1367,
+          "like_count": 53148,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T12:35:16.000Z",
+        "description": "𓆑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/t_n_kqirai",
+                "end": 23,
+                "expanded_url": "https://lit.link/t_n_kqirai",
+                "start": 0,
+                "url": "https://t.co/p22DUn0WDf"
+              }
+            ]
+          }
+        },
+        "id": "1776227060262088704",
+        "location": "学生 ↑20  ⬇️ご依頼 絵:無断の転載、AI学習禁止  ",
+        "name": "低脳。",
+        "pinned_tweet_id": "2026595014944673800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776320454871203841/K5AyNsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5133,
+          "following_count": 36,
+          "like_count": 4575,
+          "listed_count": 15,
+          "media_count": 66,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/p22DUn0WDf",
+        "username": "119_kqz",
+        "verified": false
+      }
+    ]
+  }
+}

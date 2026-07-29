@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2080859074451927135",
+    "created_at": "2026-07-25T10:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080962791368962138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        },
+        {
+          "end": 22,
+          "id": "1816053084164087813",
+          "start": 13,
+          "username": "HYumerin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080962791368962138",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080903476557885802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing @HYumerin 塔菲被你骂哭了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2080859074451927135",
+        "created_at": "2026-07-25T10:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080962791368962138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            },
+            {
+              "end": 22,
+              "id": "1816053084164087813",
+              "start": 13,
+              "username": "HYumerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080962791368962138",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080903476557885802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing @HYumerin 塔菲被你骂哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974036716727201792",
+        "conversation_id": "2080859074451927135",
+        "created_at": "2026-07-25T06:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080903476557885802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816053084164087813",
+              "start": 0,
+              "username": "HYumerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080903476557885802",
+        "in_reply_to_user_id": "1816053084164087813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080901533085073754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYumerin 太胖了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海里",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1373,
+          "like_count": 53583,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "我的姐姐@miaowuqvq @kumatamasan\n@zbc107024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "miaowuqvq"
+              },
+              {
+                "end": 27,
+                "start": 15,
+                "username": "kumatamasan"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "zbc107024"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了齐刘海",
+        "pinned_tweet_id": "2035581763452641526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 497,
+          "like_count": 50872,
+          "listed_count": 5,
+          "media_count": 1297,
+          "tweet_count": 18885
+        },
+        "url": "",
+        "username": "jilianmeing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T10:09:37.000Z",
+        "description": "不行不行不是不可能？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/higashitaniyume",
+                "end": 23,
+                "expanded_url": "https://github.com/higashitaniyume",
+                "start": 0,
+                "url": "https://t.co/2gL2MATpkr"
+              }
+            ]
+          }
+        },
+        "id": "1816053084164087813",
+        "location": "Earth",
+        "name": "企饿饿",
+        "pinned_tweet_id": "2064505773997392302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387067696685056/Auw18Jca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 397,
+          "like_count": 37229,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/2gL2MATpkr",
+        "username": "HYumerin",
+        "verified": false
+      }
+    ]
+  }
+}

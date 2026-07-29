@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2061855106698547483",
+    "created_at": "2026-06-02T18:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061883888939737381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915746863741046784",
+          "start": 0,
+          "username": "m0ristxrving"
+        },
+        {
+          "end": 29,
+          "id": "1856846930485415936",
+          "start": 14,
+          "username": "Mon0_no_aware_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061883888939737381",
+    "in_reply_to_user_id": "1915746863741046784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061855106698547483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m0ristxrving @Mon0_no_aware_ 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2061855090156126208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0uR8MWQAArAxr.jpg",
+        "width": 574
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2061855100486791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0uSirXsAAd3S1.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2061855106698547483",
+        "created_at": "2026-06-02T18:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061883888939737381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915746863741046784",
+              "start": 0,
+              "username": "m0ristxrving"
+            },
+            {
+              "end": 29,
+              "id": "1856846930485415936",
+              "start": 14,
+              "username": "Mon0_no_aware_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061883888939737381",
+        "in_reply_to_user_id": "1915746863741046784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061855106698547483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m0ristxrving @Mon0_no_aware_ 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061855090156126208",
+            "3_2061855100486791168"
+          ]
+        },
+        "author_id": "1915746863741046784",
+        "conversation_id": "2061855106698547483",
+        "created_at": "2026-06-02T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061855106698547483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "coketwt"
+            },
+            {
+              "end": 100,
+              "start": 92,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sBvCsMCIk",
+              "end": 124,
+              "expanded_url": "https://x.com/m0ristxrving/status/2061855106698547483/photo/1",
+              "media_key": "3_2061855090156126208",
+              "start": 101,
+              "url": "https://t.co/2sBvCsMCIk"
+            },
+            {
+              "display_url": "pic.x.com/2sBvCsMCIk",
+              "end": 124,
+              "expanded_url": "https://x.com/m0ristxrving/status/2061855106698547483/photo/1",
+              "media_key": "3_2061855100486791168",
+              "start": 101,
+              "url": "https://t.co/2sBvCsMCIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061855106698547483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Tryin th coke our 🔌 gave us to see wht we got tt bc he changes it frm time to time\n#coketwt #drugtwt https://t.co/2sBvCsMCIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 1203,
+          "like_count": 43203,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2683
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T12:37:08.000Z",
+        "description": "♱、19y/o︱it/they︱did system ˙𖥔₊ㅤㅤ  ㅤ #yantwt ︱𖹭 @Mon0_no_aware_ 𖹭 ˏ˙₊ㅤㅤ #drugtwt ︱#shedtwt ︱70attmps ٭˒ ִֶָ˙ㅤㅤㅤㅤ        ⚠︎、  ✧ block， don't report! ✧    ₊𖥔˙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "yantwt"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Mon0_no_aware_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "div1nevi0lent.straw.page",
+                "end": 23,
+                "expanded_url": "https://div1nevi0lent.straw.page",
+                "start": 0,
+                "url": "https://t.co/0aITyLfItR"
+              }
+            ]
+          }
+        },
+        "id": "1915746863741046784",
+        "location": "ˎ🪽；bmi 15.6𖥔˙₊",
+        "name": "ᴠɪᴏʟᴇɴᴛ╷꒰ঌᵃⁿᵍᵉˡ ᵒᶠ 🪒🍽ᵗʷᵗ໒꒱",
+        "pinned_tweet_id": "1915783701209768380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016405000138719233/zVCQ-v9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 519,
+          "like_count": 28610,
+          "listed_count": 21,
+          "media_count": 1246,
+          "tweet_count": 13412
+        },
+        "url": "https://t.co/0aITyLfItR",
+        "username": "m0ristxrving",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T23:49:56.000Z",
+        "description": "✒ 24y/o | he/they | #shedtwt ⊹ ࣪ ˖ #yantwt | DID System                                      \n ꨄ⊹ ࣪ ˖  @m0ristxrving  ⊹ ࣪ ˖ଓ           ⚠︎.ᐟ block,don’t report.ᐟ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "yantwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "m0ristxrving"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mon0noaware.straw.page",
+                "end": 23,
+                "expanded_url": "https://mon0noaware.straw.page",
+                "start": 0,
+                "url": "https://t.co/v6QyK6AYxh"
+              }
+            ]
+          }
+        },
+        "id": "1856846930485415936",
+        "location": "†𝑽𝒆𝒓𝒔𝒂𝒊𝒍𝒍𝒆 𝒅𝒖𝒔𝒕†",
+        "name": "ʀᴀᴋᴋᴜ╷𓆩ᵈᵉᵐᵒⁿ ᵒᶠ 🪒🍽ᵗʷᵗ𓆪",
+        "pinned_tweet_id": "1923457968701346244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020907606806802432/7bFDBaKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 453,
+          "like_count": 20604,
+          "listed_count": 17,
+          "media_count": 276,
+          "tweet_count": 16298
+        },
+        "url": "https://t.co/v6QyK6AYxh",
+        "username": "Mon0_no_aware_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988306990943141888"
+      ],
+      "media_source_tweet_id": [
+        "1988307042273292368"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998677452151750893",
+    "created_at": "2025-12-10T08:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998677452151750893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946800399593480192",
+          "start": 3,
+          "username": "Shitpost_2048"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UH0ecav11w",
+          "end": 42,
+          "expanded_url": "https://x.com/Shitpost_2048/status/1988307042273292368/video/1",
+          "media_key": "13_1988306990943141888",
+          "start": 19,
+          "url": "https://t.co/UH0ecav11w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998677452151750893",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 715
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988307042273292368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shitpost_2048: https://t.co/UH0ecav11w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15348,
+        "height": 1108,
+        "media_key": "13_1988306990943141888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988306990943141888/img/i33rLqgdH7l2jwzt.jpg",
+        "public_metrics": {
+          "view_count": 94156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988306990943141888/vid/avc1/320x328/E4Ji4VEH39vLb8Y6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988306990943141888/vid/avc1/480x492/bsGq7z9Xp808BYUF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988306990943141888/vid/avc1/720x738/UyjGJgmwVLS5yeS7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988306990943141888/pl/MUuOqvUYSBmVPc1i.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988306990943141888"
+          ],
+          "media_source_tweet_id": [
+            "1988307042273292368"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998677452151750893",
+        "created_at": "2025-12-10T08:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998677452151750893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946800399593480192",
+              "start": 3,
+              "username": "Shitpost_2048"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH0ecav11w",
+              "end": 42,
+              "expanded_url": "https://x.com/Shitpost_2048/status/1988307042273292368/video/1",
+              "media_key": "13_1988306990943141888",
+              "start": 19,
+              "url": "https://t.co/UH0ecav11w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998677452151750893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 715
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988307042273292368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shitpost_2048: https://t.co/UH0ecav11w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988306990943141888"
+          ]
+        },
+        "author_id": "1946800399593480192",
+        "conversation_id": "1988307042273292368",
+        "created_at": "2025-11-11T18:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988307042273292368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH0ecav11w",
+              "end": 23,
+              "expanded_url": "https://x.com/Shitpost_2048/status/1988307042273292368/video/1",
+              "media_key": "13_1988306990943141888",
+              "start": 0,
+              "url": "https://t.co/UH0ecav11w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988307042273292368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1114,
+          "impression_count": 139888,
+          "like_count": 7051,
+          "quote_count": 27,
+          "reply_count": 26,
+          "retweet_count": 715
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UH0ecav11w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 69,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T05:12:47.000Z",
+        "description": "Shitposting until 2048\n\nI do not own anything, DM for credits/removal",
+        "id": "1946800399593480192",
+        "name": "Shitpost 2048",
+        "pinned_tweet_id": "1959088211273097381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946801230803542016/OBC9BZ-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 8,
+          "like_count": 3046,
+          "listed_count": 7,
+          "media_count": 930,
+          "tweet_count": 958
+        },
+        "username": "Shitpost_2048",
+        "verified": true
+      }
+    ]
+  }
+}

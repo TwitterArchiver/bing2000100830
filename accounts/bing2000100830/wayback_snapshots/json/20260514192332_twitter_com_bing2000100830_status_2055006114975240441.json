@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2055006114975240441",
+    "created_at": "2026-05-14T19:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055006114975240441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055006114975240441",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "baby is time for you to face the weather,open your eyes as long as we are together"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2055006114975240441",
+        "created_at": "2026-05-14T19:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055006114975240441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055006114975240441",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "baby is time for you to face the weather,open your eyes as long as we are together"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 1142,
+          "like_count": 39025,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2258
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

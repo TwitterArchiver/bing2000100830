@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046200588506112001"
+      ],
+      "media_source_tweet_id": [
+        "2046200595011555397"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2046259935759986697",
+    "created_at": "2026-04-20T16:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046259935759986697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "824530891644874754",
+          "start": 3,
+          "username": "Darkmangomania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/baj5LrZjIP",
+          "end": 63,
+          "expanded_url": "https://x.com/Darkmangomania/status/2046200595011555397/photo/1",
+          "media_key": "3_2046200588506112001",
+          "start": 40,
+          "url": "https://t.co/baj5LrZjIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046259935759986697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046200595011555397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Darkmangomania: おまけ　\n劇場用ポスター aバージョン https://t.co/baj5LrZjIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046200588506112001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWQmBEaIAE0uOb.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046200588506112001"
+          ],
+          "media_source_tweet_id": [
+            "2046200595011555397"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2046259935759986697",
+        "created_at": "2026-04-20T16:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046259935759986697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "824530891644874754",
+              "start": 3,
+              "username": "Darkmangomania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/baj5LrZjIP",
+              "end": 63,
+              "expanded_url": "https://x.com/Darkmangomania/status/2046200595011555397/photo/1",
+              "media_key": "3_2046200588506112001",
+              "start": 40,
+              "url": "https://t.co/baj5LrZjIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259935759986697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046200595011555397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Darkmangomania: おまけ　\n劇場用ポスター aバージョン https://t.co/baj5LrZjIP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046200588506112001"
+          ]
+        },
+        "author_id": "824530891644874754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2046200595011555397",
+        "created_at": "2026-04-20T12:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046200595011555397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baj5LrZjIP",
+              "end": 43,
+              "expanded_url": "https://x.com/Darkmangomania/status/2046200595011555397/photo/1",
+              "media_key": "3_2046200588506112001",
+              "start": 20,
+              "url": "https://t.co/baj5LrZjIP"
+            },
+            {
+              "display_url": "x.com/darkmangomania…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/darkmangomania/status/2045661462769844390",
+              "start": 44,
+              "url": "https://t.co/RVb24DoLmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046200595011555397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3209,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045661462769844390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おまけ　\n劇場用ポスター aバージョン https://t.co/baj5LrZjIP https://t.co/RVb24DoLmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 981,
+          "like_count": 32723,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1833
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-26T08:14:18.000Z",
+        "description": "ENG OK/日本語勉強中\nまどマギで絵が描く\n⚫線画、鉛筆画、デジ絵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/darkmangochen?…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/darkmangochen?igshid=ZGUzMzM3NWJiOQ==",
+                "start": 0,
+                "url": "https://t.co/z4Ppq4nD7v"
+              }
+            ]
+          }
+        },
+        "id": "824530891644874754",
+        "name": "DARKMANGO",
+        "pinned_tweet_id": "1796572768412242340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008904655678672896/E8U6Nw2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 786,
+          "like_count": 34427,
+          "listed_count": 16,
+          "media_count": 1533,
+          "tweet_count": 12822
+        },
+        "url": "https://t.co/z4Ppq4nD7v",
+        "username": "Darkmangomania",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080300613938610176"
+      ],
+      "media_source_tweet_id": [
+        "2080300619852571036"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080597327245664425",
+    "created_at": "2026-07-24T10:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080597327245664425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYLcfHu8kf",
+          "end": 91,
+          "expanded_url": "https://x.com/obsesslvr/status/2080300619852571036/photo/1",
+          "media_key": "3_2080300613938610176",
+          "start": 68,
+          "url": "https://t.co/bYLcfHu8kf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080597327245664425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080300619852571036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: ⠀            ⠀  ⠀\n｡ﾟﾟ･｡･ﾟﾟ.    \nﾟ.  ⠀ 　      \n　ﾟ･｡･ﾟ https://t.co/bYLcfHu8kf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2080300613938610176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN62Yu_WgAA7Od2.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080300613938610176"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080300619852571036",
+        "created_at": "2026-07-23T14:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080300619852571036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYLcfHu8kf",
+              "end": 76,
+              "expanded_url": "https://x.com/obsesslvr/status/2080300619852571036/photo/1",
+              "media_key": "3_2080300613938610176",
+              "start": 53,
+              "url": "https://t.co/bYLcfHu8kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080300619852571036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 29823,
+          "like_count": 3096,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 312
+        },
+        "reply_settings": "following",
+        "text": "⠀            ⠀  ⠀\n｡ﾟﾟ･｡･ﾟﾟ.    \nﾟ.  ⠀ 　      \n　ﾟ･｡･ﾟ https://t.co/bYLcfHu8kf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080300613938610176"
+          ],
+          "media_source_tweet_id": [
+            "2080300619852571036"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080597327245664425",
+        "created_at": "2026-07-24T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080597327245664425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYLcfHu8kf",
+              "end": 91,
+              "expanded_url": "https://x.com/obsesslvr/status/2080300619852571036/photo/1",
+              "media_key": "3_2080300613938610176",
+              "start": 68,
+              "url": "https://t.co/bYLcfHu8kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080597327245664425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080300619852571036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: ⠀            ⠀  ⠀\n｡ﾟﾟ･｡･ﾟﾟ.    \nﾟ.  ⠀ 　      \n　ﾟ･｡･ﾟ https://t.co/bYLcfHu8kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1367,
+          "like_count": 53321,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3304
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077893443095764992/zW86PvTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 5,
+          "like_count": 7919,
+          "listed_count": 11,
+          "media_count": 25,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

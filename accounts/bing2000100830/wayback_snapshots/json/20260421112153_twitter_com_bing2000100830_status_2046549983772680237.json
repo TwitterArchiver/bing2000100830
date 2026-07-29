@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2046549983772680237",
+    "created_at": "2026-04-21T11:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046549983772680237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1665304321066684416",
+          "start": 3,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046549983772680237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046534891610005874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoOooo0518: 做了个网页，大家一起来为普瑞巴林上柱香吧呜呜呜😭\nhttp://47.111.176.66/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2046549983772680237",
+        "created_at": "2026-04-21T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046549983772680237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1665304321066684416",
+              "start": 3,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046549983772680237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046534891610005874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoOooo0518: 做了个网页，大家一起来为普瑞巴林上柱香吧呜呜呜😭\nhttp://47.111.176.66/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665304321066684416",
+        "conversation_id": "2046534891610005874",
+        "created_at": "2026-04-21T10:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046534891610005874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046534891610005874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "做了个网页，大家一起来为普瑞巴林上柱香吧呜呜呜😭\nhttp://47.111.176.66/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 987,
+          "like_count": 33098,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1838
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎来找我聊天 欢迎互fo 妹妹: @FanQie_CaoDamn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "FanQie_CaoDamn"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "location": "杭州",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2022698531300217050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014666428276748288/-muJkPIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 327,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 804
+        },
+        "username": "OoOooo0518",
+        "verified": true
+      }
+    ]
+  }
+}

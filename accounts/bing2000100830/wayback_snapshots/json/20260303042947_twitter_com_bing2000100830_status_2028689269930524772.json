@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028689249655193600"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2028087132288663595",
+    "created_at": "2026-03-03T04:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028689269930524772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027346225893404673",
+          "start": 0,
+          "username": "JDollyshit7786"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6w9KnSK3c8",
+          "end": 56,
+          "expanded_url": "https://x.com/bing2000100830/status/2028689269930524772/photo/1",
+          "media_key": "3_2028689249655193600",
+          "start": 33,
+          "url": "https://t.co/6w9KnSK3c8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028689269930524772",
+    "in_reply_to_user_id": "2027346225893404673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028688952132243791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDollyshit7786 呃啊老师，你对我好好不割 了！！ https://t.co/6w9KnSK3c8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2028689249655193600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdaH8VaAAASXV5.jpg",
+        "width": 360
+      },
+      {
+        "height": 734,
+        "media_key": "3_2028688949829652480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdZ2fZbUAAjUX_.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028689249655193600"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2028087132288663595",
+        "created_at": "2026-03-03T04:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028689269930524772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027346225893404673",
+              "start": 0,
+              "username": "JDollyshit7786"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w9KnSK3c8",
+              "end": 56,
+              "expanded_url": "https://x.com/bing2000100830/status/2028689269930524772/photo/1",
+              "media_key": "3_2028689249655193600",
+              "start": 33,
+              "url": "https://t.co/6w9KnSK3c8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028689269930524772",
+        "in_reply_to_user_id": "2027346225893404673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028688952132243791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDollyshit7786 呃啊老师，你对我好好不割 了！！ https://t.co/6w9KnSK3c8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028688949829652480"
+          ]
+        },
+        "author_id": "2027346225893404673",
+        "conversation_id": "2028087132288663595",
+        "created_at": "2026-03-03T04:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028688952132243791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SvF9TzCI2",
+              "end": 59,
+              "expanded_url": "https://x.com/JDollyshit7786/status/2028688952132243791/photo/1",
+              "media_key": "3_2028688949829652480",
+              "start": 36,
+              "url": "https://t.co/5SvF9TzCI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028688952132243791",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028087132288663595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 不可以割啊老师，你要是一直割我就一直哭 https://t.co/5SvF9TzCI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "面条是条型的饼，汉堡是夹了东西的饼，冰淇淋是化了的饼。其实世界是由饼构成的\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023071864201814016/ZGkmV_76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 448,
+          "like_count": 9083,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 483
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:33:12.000Z",
+        "description": "代写文，h文，po文，强制，欢迎所有美丽的女人（男勿扰）都来找我写，不要米，纯免费，🐧是906843827，每天最开心的事就是和美丽女人聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://bilibili.com",
+                "start": 0,
+                "url": "https://t.co/eLEtmV8IR9"
+              }
+            ]
+          }
+        },
+        "id": "2027346225893404673",
+        "location": "你的心里❤️",
+        "name": "洋葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027948724555599872/eDXc8KmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 60,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/eLEtmV8IR9",
+        "username": "JDollyshit7786",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2041136435009622278",
+    "created_at": "2026-04-06T12:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041136435009622278"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041136435009622278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就嗑药我就嗑药我就嗑药呜呜呜呜呜你别欺负我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2041136435009622278",
+        "created_at": "2026-04-06T12:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041136435009622278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041136435009622278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就嗑药我就嗑药我就嗑药呜呜呜呜呜你别欺负我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 814,
+          "like_count": 27133,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1642
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

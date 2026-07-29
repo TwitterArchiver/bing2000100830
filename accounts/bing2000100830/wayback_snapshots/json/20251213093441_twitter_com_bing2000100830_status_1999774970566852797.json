@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999774882742300672"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "1999774970566852797",
+    "created_at": "2025-12-13T09:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T10:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999774970566852797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OA9Udqcg6f",
+          "end": 38,
+          "expanded_url": "https://x.com/bing2000100830/status/1999774970566852797/photo/1",
+          "media_key": "3_1999774882742300672",
+          "start": 15,
+          "url": "https://t.co/OA9Udqcg6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999774970566852797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们还能拥有那些时候的快乐吗 https://t.co/OA9Udqcg6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999774882742300672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CgqRyacAAWrKM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999774882742300672"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "1999774970566852797",
+        "created_at": "2025-12-13T09:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999774970566852797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OA9Udqcg6f",
+              "end": 38,
+              "expanded_url": "https://x.com/bing2000100830/status/1999774970566852797/photo/1",
+              "media_key": "3_1999774882742300672",
+              "start": 15,
+              "url": "https://t.co/OA9Udqcg6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999774970566852797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们还能拥有那些时候的快乐吗 https://t.co/OA9Udqcg6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "前世@bing20001228023 可以叫我饼或者饼饼以及任何你想称呼的名字！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "bing20001228023"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "shenzhen",
+        "name": "bing200010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998627283943493632/EyO5kO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 104,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 77
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

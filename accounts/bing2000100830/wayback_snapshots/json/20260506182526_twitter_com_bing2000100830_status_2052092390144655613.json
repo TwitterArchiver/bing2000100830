@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051667150268776448"
+      ],
+      "media_source_tweet_id": [
+        "2051667158682534395"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2052092390144655613",
+    "created_at": "2026-05-06T18:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052092390144655613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664989558298267650",
+          "start": 3,
+          "username": "surou_il"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KBwafoWAe4",
+          "end": 44,
+          "expanded_url": "https://x.com/surou_il/status/2051667158682534395/photo/1",
+          "media_key": "3_2051667150268776448",
+          "start": 21,
+          "url": "https://t.co/KBwafoWAe4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052092390144655613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051667158682534395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @surou_il: 波に消えたい https://t.co/KBwafoWAe4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051667150268776448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj8ZykbwAAgHf7.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051667150268776448"
+          ],
+          "media_source_tweet_id": [
+            "2051667158682534395"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2052092390144655613",
+        "created_at": "2026-05-06T18:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052092390144655613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664989558298267650",
+              "start": 3,
+              "username": "surou_il"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBwafoWAe4",
+              "end": 44,
+              "expanded_url": "https://x.com/surou_il/status/2051667158682534395/photo/1",
+              "media_key": "3_2051667150268776448",
+              "start": 21,
+              "url": "https://t.co/KBwafoWAe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052092390144655613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051667158682534395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @surou_il: 波に消えたい https://t.co/KBwafoWAe4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051667150268776448"
+          ]
+        },
+        "author_id": "1664989558298267650",
+        "conversation_id": "2051667158682534395",
+        "created_at": "2026-05-05T14:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051667158682534395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBwafoWAe4",
+              "end": 30,
+              "expanded_url": "https://x.com/surou_il/status/2051667158682534395/photo/1",
+              "media_key": "3_2051667150268776448",
+              "start": 7,
+              "url": "https://t.co/KBwafoWAe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051667158682534395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 7282,
+          "like_count": 613,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "波に消えたい https://t.co/KBwafoWAe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 1081,
+          "like_count": 36903,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2089
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:37:09.000Z",
+        "description": "https://t.co/hM0vFxpObL https://t.co/ao7A6NYbVd\n\nお仕事のご依頼はインスタからDMからメールにてお気軽にご連絡くださいませ。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nagi21945",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nagi21945",
+                "start": 0,
+                "url": "https://t.co/hM0vFxpObL"
+              },
+              {
+                "display_url": "youtu.be/NsGv46UrR34",
+                "end": 47,
+                "expanded_url": "https://youtu.be/NsGv46UrR34",
+                "start": 24,
+                "url": "https://t.co/ao7A6NYbVd"
+              }
+            ]
+          }
+        },
+        "id": "1664989558298267650",
+        "location": "日本",
+        "name": "スロウ",
+        "pinned_tweet_id": "2045140110921146564",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 7,
+          "like_count": 109,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 691
+        },
+        "username": "surou_il",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2071697117794509168",
+    "created_at": "2026-06-30T03:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071799043639160882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        },
+        {
+          "end": 23,
+          "id": "1637363426967318528",
+          "start": 11,
+          "username": "0724linxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071799043639160882",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071757490518384873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 @0724linxing 对最有远见最嬉皮士的那群人都要么被毛杀了要么嗑药死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2071697117794509168",
+        "created_at": "2026-06-30T03:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071799043639160882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            },
+            {
+              "end": 23,
+              "id": "1637363426967318528",
+              "start": 11,
+              "username": "0724linxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071799043639160882",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071757490518384873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 @0724linxing 对最有远见最嬉皮士的那群人都要么被毛杀了要么嗑药死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2071697117794509168",
+        "created_at": "2026-06-30T00:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071757490518384873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1637363426967318528",
+              "start": 0,
+              "username": "0724linxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071757490518384873",
+        "in_reply_to_user_id": "1637363426967318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071697117794509168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0724linxing 因为青少年时的老头老太太早在五六十年前自杀完了。敌敌畏都给喝停产了 剩下的都是健全的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1268,
+          "like_count": 48921,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 3067
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "爱人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 464,
+          "like_count": 55289,
+          "listed_count": 1,
+          "media_count": 1692,
+          "tweet_count": 16525
+        },
+        "url": "",
+        "username": "wmy072011",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T08:00:54.000Z",
+        "description": "090909老公是好闺闺。封心锁爱中 欢迎来提问箱找我玩🦋#极品女高 int/fp天蝎 @shushusdl1105 我没有陪聊的义务。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "极品女高"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "shushusdl1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qswlbgnwl_1155…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qswlbgnwl_1155hhh1",
+                "start": 0,
+                "url": "https://t.co/1tbw7H8Cb5"
+              }
+            ]
+          }
+        },
+        "id": "1637363426967318528",
+        "location": "汁 ",
+        "name": "小枝大王",
+        "pinned_tweet_id": "1961117705517588536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956670645334667264/10lk2JvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 527,
+          "like_count": 11751,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 3239
+        },
+        "url": "https://t.co/1tbw7H8Cb5",
+        "username": "0724linxing",
+        "verified": false
+      }
+    ]
+  }
+}

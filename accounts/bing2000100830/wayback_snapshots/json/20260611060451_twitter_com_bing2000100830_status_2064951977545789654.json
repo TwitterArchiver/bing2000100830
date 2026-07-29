@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064951977545789654",
+    "created_at": "2026-06-11T06:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064951977545789654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1437724402293018625",
+          "start": 3,
+          "username": "2Pikus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064951977545789654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064950910355464250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2Pikus: 账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064951977545789654",
+        "created_at": "2026-06-11T06:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064951977545789654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1437724402293018625",
+              "start": 3,
+              "username": "2Pikus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064951977545789654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064950910355464250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2Pikus: 账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437724402293018625",
+        "conversation_id": "2064950910355464250",
+        "created_at": "2026-06-11T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064950910355464250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064950910355464250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1224,
+          "like_count": 44749,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2834
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T10:26:35.000Z",
+        "description": "这里只有一条棉签...【寻回互fo】\n幽灵ban的僵尸。不卖药，不吸毒\n平等溺爱所有猫咪🐱\n双生子@BhawnaniSamit💊\n猫零食tg：@LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "BhawnaniSamit"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/LSeSQhkVT5"
+              }
+            ]
+          }
+        },
+        "id": "1437724402293018625",
+        "location": "猫粮→",
+        "name": "vivie",
+        "pinned_tweet_id": "2064330567710306545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324176748695552/Avikgr1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 47,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/LSeSQhkVT5",
+        "username": "2Pikus",
+        "verified": false
+      }
+    ]
+  }
+}

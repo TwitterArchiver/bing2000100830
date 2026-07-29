@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2075897074047160709",
+    "created_at": "2026-07-12T06:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076199197062451358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994060768099356676",
+          "start": 0,
+          "username": "pingqimuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076199197062451358",
+    "in_reply_to_user_id": "1994060768099356676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075897074047160709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingqimuo 不要呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2075895167010459648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Pp-Sb0AAkj1Q.png",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2075897074047160709",
+        "created_at": "2026-07-12T06:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076199197062451358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994060768099356676",
+              "start": 0,
+              "username": "pingqimuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076199197062451358",
+        "in_reply_to_user_id": "1994060768099356676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075897074047160709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingqimuo 不要呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075895167010459648"
+          ]
+        },
+        "author_id": "1994060768099356676",
+        "conversation_id": "2075897074047160709",
+        "created_at": "2026-07-11T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075897074047160709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1U8Rr0IkR",
+              "end": 147,
+              "expanded_url": "https://x.com/pingqimuo/status/2075897074047160709/photo/1",
+              "media_key": "3_2075895167010459648",
+              "start": 124,
+              "url": "https://t.co/n1U8Rr0IkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897074047160709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明记得5月份写过生日遗书，谁替我删了😢，还是说最后交给ai润色的时候和谐掉了，算了3天后在说，敌敌畏就在床底，我自有打算，看表现吧，如果我连自己都不满意就结束了\n\n还有我个人觉得藤本树没我忧郁，因为他自杀都要拉上别人垫背🤓，纯属隐性的反社会人格 https://t.co/n1U8Rr0IkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1303,
+          "like_count": 50896,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3156
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:09:06.000Z",
+        "description": "hi 我是秋秋/快18了\n请我吃饭喵\nhttps://t.co/wRiyjCBNTJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ifdian.net/a/rumi-ai",
+                "end": 42,
+                "expanded_url": "https://ifdian.net/a/rumi-ai",
+                "start": 19,
+                "url": "https://t.co/wRiyjCBNTJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jerry-site-phi.vercel.app",
+                "end": 23,
+                "expanded_url": "https://jerry-site-phi.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/1GlYcbwgy5"
+              }
+            ]
+          }
+        },
+        "id": "1994060768099356676",
+        "location": "苏州姑苏区",
+        "name": "秋🏳️‍⚧️(轻生版)",
+        "pinned_tweet_id": "2061256919910908272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069598933622673408/rRVHuYm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 27,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/1GlYcbwgy5",
+        "username": "pingqimuo",
+        "verified": false
+      }
+    ]
+  }
+}

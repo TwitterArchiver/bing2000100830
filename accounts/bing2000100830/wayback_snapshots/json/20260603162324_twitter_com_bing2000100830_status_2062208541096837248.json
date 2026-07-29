@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062045105574334464"
+      ],
+      "media_source_tweet_id": [
+        "2062045107054887190"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2062208541096837248",
+    "created_at": "2026-06-03T16:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062208541096837248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1420194317013069826",
+          "start": 3,
+          "username": "R4INCANDY_ANGEL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NupM5zQjZU",
+          "end": 44,
+          "expanded_url": "https://x.com/R4INCANDY_ANGEL/status/2062045107054887190/photo/1",
+          "media_key": "3_2062045105574334464",
+          "start": 21,
+          "url": "https://t.co/NupM5zQjZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062208541096837248",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062045107054887190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4INCANDY_ANGEL: https://t.co/NupM5zQjZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2062045105574334464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3bGSyXUAA54Dt.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062045105574334464"
+          ],
+          "media_source_tweet_id": [
+            "2062045107054887190"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2062208541096837248",
+        "created_at": "2026-06-03T16:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062208541096837248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1420194317013069826",
+              "start": 3,
+              "username": "R4INCANDY_ANGEL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NupM5zQjZU",
+              "end": 44,
+              "expanded_url": "https://x.com/R4INCANDY_ANGEL/status/2062045107054887190/photo/1",
+              "media_key": "3_2062045105574334464",
+              "start": 21,
+              "url": "https://t.co/NupM5zQjZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062208541096837248",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062045107054887190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4INCANDY_ANGEL: https://t.co/NupM5zQjZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062045105574334464"
+          ]
+        },
+        "author_id": "1420194317013069826",
+        "conversation_id": "2062045107054887190",
+        "created_at": "2026-06-03T05:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062045107054887190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NupM5zQjZU",
+              "end": 23,
+              "expanded_url": "https://x.com/R4INCANDY_ANGEL/status/2062045107054887190/photo/1",
+              "media_key": "3_2062045105574334464",
+              "start": 0,
+              "url": "https://t.co/NupM5zQjZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062045107054887190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3455,
+          "like_count": 437,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NupM5zQjZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1209,
+          "like_count": 43347,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2692
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T01:28:18.000Z",
+        "description": "˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ '𝔱𝔥𝔢 𝔦𝔫𝔱𝔢𝔯𝔫𝔢𝔱 𝔡𝔦𝔢𝔡... 𝔞𝔫𝔡 𝔦 𝔴𝔞𝔰 𝔤𝔦𝔳𝔢𝔫 𝔩𝔦𝔣𝔢.'                 𑣲⋆lia • she/her • 7teen",
+        "id": "1420194317013069826",
+        "location": "WINDOSE",
+        "name": "˚₊‧꒰ა lia ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2056381334692491283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055415941811314688/eU4IDOer_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 2208,
+          "like_count": 72293,
+          "listed_count": 5,
+          "media_count": 988,
+          "tweet_count": 8597
+        },
+        "username": "R4INCANDY_ANGEL",
+        "verified": false
+      }
+    ]
+  }
+}

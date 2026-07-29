@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2064785455212614025",
+    "created_at": "2026-06-11T07:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064967792877797865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        },
+        {
+          "end": 26,
+          "id": "1743330426985594881",
+          "start": 13,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064967792877797865",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064785455212614025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd @jianggejiang 吃手手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064785383984865280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeXXfXWIAAB1N_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064785382030389248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeXXYFXMAA1URY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064785382760198145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeXXazXMAEK5fz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064785384580460544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeXXhlWMAAil32.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2064785455212614025",
+        "created_at": "2026-06-11T07:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064967792877797865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 26,
+              "id": "1743330426985594881",
+              "start": 13,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064967792877797865",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064785455212614025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd @jianggejiang 吃手手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064785383984865280",
+            "3_2064785382030389248",
+            "3_2064785382760198145",
+            "3_2064785384580460544"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2064785455212614025",
+        "created_at": "2026-06-10T19:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064785455212614025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1743330426985594881",
+              "start": 25,
+              "username": "jianggejiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/63HDD4fUrR",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2064785455212614025/photo/1",
+              "media_key": "3_2064785383984865280",
+              "start": 39,
+              "url": "https://t.co/63HDD4fUrR"
+            },
+            {
+              "display_url": "pic.x.com/63HDD4fUrR",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2064785455212614025/photo/1",
+              "media_key": "3_2064785382030389248",
+              "start": 39,
+              "url": "https://t.co/63HDD4fUrR"
+            },
+            {
+              "display_url": "pic.x.com/63HDD4fUrR",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2064785455212614025/photo/1",
+              "media_key": "3_2064785382760198145",
+              "start": 39,
+              "url": "https://t.co/63HDD4fUrR"
+            },
+            {
+              "display_url": "pic.x.com/63HDD4fUrR",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2064785455212614025/photo/1",
+              "media_key": "3_2064785384580460544",
+              "start": 39,
+              "url": "https://t.co/63HDD4fUrR"
+            },
+            {
+              "display_url": "x.com/jianggejiang/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/jianggejiang/status/2064613513172332651",
+              "start": 63,
+              "url": "https://t.co/XCZVeVh8Dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064785455212614025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 394,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064613513172332651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持一下~\np1为好看版 p2~3为动作标准版😉\n@jianggejiang https://t.co/63HDD4fUrR https://t.co/XCZVeVh8Dg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 1224,
+          "like_count": 44791,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2833
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 392,
+          "like_count": 27170,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 2163
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2DNcJ"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2061207593213906975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 932,
+          "like_count": 7532,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/VAA7v2DNcJ",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

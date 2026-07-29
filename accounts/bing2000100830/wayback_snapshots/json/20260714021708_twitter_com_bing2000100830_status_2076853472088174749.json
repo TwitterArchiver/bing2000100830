@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2076853472088174749",
+    "created_at": "2026-07-14T02:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076853472088174749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2998529749",
+          "start": 3,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076853472088174749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076785604982100130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @STULRS: 目前和精神病唯一区别是没有在精神病院。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2076853472088174749",
+        "created_at": "2026-07-14T02:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076853472088174749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2998529749",
+              "start": 3,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076853472088174749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076785604982100130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @STULRS: 目前和精神病唯一区别是没有在精神病院。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2076785604982100130",
+        "created_at": "2026-07-13T21:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076785604982100130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076785604982100130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前和精神病唯一区别是没有在精神病院。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1320,
+          "like_count": 51390,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 3170
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（18↓）|双向情感障碍|重度焦虑|抽烟|od|戒割|悲观|cult片（理解能力有问题，冒泡勿喷） |想到啥说啥|碎碎念| 无纯绿  无门槛🚪  （（（\n匿名提问箱https://t.co/FrlpTzXkgZ随缘回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kismet37921",
+                "end": 110,
+                "expanded_url": "https://ngl.link/kismet37921",
+                "start": 87,
+                "url": "https://t.co/FrlpTzXkgZ"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "零碎（2.0寻互关",
+        "pinned_tweet_id": "2076000202704728108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 588,
+          "like_count": 42159,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 13388
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

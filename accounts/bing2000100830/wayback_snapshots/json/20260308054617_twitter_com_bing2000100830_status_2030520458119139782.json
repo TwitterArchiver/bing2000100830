@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2030473955468071128",
+    "created_at": "2026-03-08T05:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030520458119139782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030520458119139782",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030473955468071128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 and i love you my best friend"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93437,
+        "height": 582,
+        "media_key": "7_2030473839155818496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030473839155818496/pu/img/1wvCRs5oMOYIr4t_.jpg",
+        "public_metrics": {
+          "view_count": 94
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030473839155818496/pu/vid/avc1/592x270/XpVSB5R0Bk4n7l7s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030473839155818496/pu/vid/avc1/790x360/QVI_Or49QZbzHTJZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030473839155818496/pu/vid/avc1/1280x582/Y_MD615tCR6Q8_Kq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030473839155818496/pu/pl/KmLEA0JNOnkxC0Hm.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2030473955468071128",
+        "created_at": "2026-03-08T05:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030520458119139782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030520458119139782",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030473955468071128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 and i love you my best friend"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030473839155818496"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "conversation_id": "2030473955468071128",
+        "created_at": "2026-03-08T02:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030473955468071128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03w70RE3SB",
+              "end": 33,
+              "expanded_url": "https://x.com/fayoubaike001/status/2030473955468071128/video/1",
+              "media_key": "7_2030473839155818496",
+              "start": 10,
+              "url": "https://t.co/03w70RE3SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030473955468071128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 270,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＂信上帝者得永生＂ https://t.co/03w70RE3SB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "今年的夏天和前十五年也别无二致吧！\n\n这里是一个中学生,前oder,独立音乐爱好者,幼稚鬼的主页\n谢谢你们每一个人愿意和我玩",
+        "id": "1243590342911410176",
+        "location": "shenzhen  其实是2010年的",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 532,
+          "like_count": 12844,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 743
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 335,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 323
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}
