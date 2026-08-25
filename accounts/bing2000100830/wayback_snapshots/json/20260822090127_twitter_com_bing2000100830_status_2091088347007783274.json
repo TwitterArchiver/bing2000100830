@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2091088347007783274",
+    "created_at": "2026-08-22T09:01:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091088347007783274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3232373401",
+          "start": 3,
+          "username": "k6rm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091088347007783274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090988643565637909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k6rm6: な〜にが「健全」だ。そうやって追いやられた子たちは、これまでよりさらに危険なフィールドで、リスクを一身に受けるハメになるというのに。見えるところでやっていてくれれば、命だけは繋がるかもしれないのに。「ODする若者たち」を救いたがるわりには、追い詰めるような…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2091088347007783274",
+        "created_at": "2026-08-22T09:01:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091088347007783274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3232373401",
+              "start": 3,
+              "username": "k6rm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091088347007783274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090988643565637909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k6rm6: な〜にが「健全」だ。そうやって追いやられた子たちは、これまでよりさらに危険なフィールドで、リスクを一身に受けるハメになるというのに。見えるところでやっていてくれれば、命だけは繋がるかもしれないのに。「ODする若者たち」を救いたがるわりには、追い詰めるような…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3232373401",
+        "conversation_id": "2090988643565637909",
+        "created_at": "2026-08-22T02:25:15.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090988643565637909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikkei/status/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/nikkei/status/2090771139618361396",
+              "start": 139,
+              "url": "https://t.co/wVCtfzPyC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090988643565637909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 124899,
+          "like_count": 777,
+          "quote_count": 22,
+          "reply_count": 18,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090771139618361396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "な〜にが「健全」だ。そうやって追いやられた子たちは、これまでよりさらに危険なフィールドで、リスクを一身に受けるハメになるというのに。見えるところでやっていてくれれば、命だけは繋がるかもしれないのに。「ODする若者たち」を救いたがるわりには、追い詰めるようなことしかしないのね。 https://t.co/wVCtfzPyC3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2091088347007783274",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1396,
+          "like_count": 60404,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3593
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-01T07:32:16.000Z",
+        "description": "新刊『「回復」という毒――支援に埋め込まれた構造的暴力』（日本評論社）予約受付中｜認定NPO法人ASK @askhumancare｜一般社団法人Void @aftercare_ncy｜北里大学 医療衛生学部（社会系医療学）非常勤教員｜このアカウントは個人の以下略",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "askhumancare"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "aftercare_ncy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akatsuki_kazama",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akatsuki_kazama",
+                "start": 0,
+                "url": "https://t.co/BmSEDmXbqf"
+              }
+            ]
+          }
+        },
+        "id": "3232373401",
+        "is_identity_verified": false,
+        "location": "若者支援と依存症支援の間（あわい）",
+        "most_recent_tweet_id": "2091037588224455060",
+        "name": "風間 暁｜Akatsuki kazama",
+        "pinned_tweet_id": "2080660065372254301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232373401/1781807612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964162825875836930/dCeZr1w2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23634,
+          "following_count": 969,
+          "like_count": 40791,
+          "listed_count": 86,
+          "media_count": 672,
+          "tweet_count": 13991
+        },
+        "url": "https://t.co/BmSEDmXbqf",
+        "username": "k6rm6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

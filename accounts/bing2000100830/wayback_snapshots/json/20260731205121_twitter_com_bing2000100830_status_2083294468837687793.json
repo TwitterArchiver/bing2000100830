@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083135212033294638",
+    "created_at": "2026-07-31T20:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083294468837687793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083294468837687793",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083135212033294638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083135212033294638",
+        "created_at": "2026-07-31T20:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083294468837687793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083294468837687793",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083135212033294638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2083135212033294638",
+        "created_at": "2026-07-31T10:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083135212033294638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheB17w153/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/TheB17w153/status/2083128260385439791",
+              "start": 4,
+              "url": "https://t.co/KdbjEJZmXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083135212033294638",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1031,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083128260385439791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👎🏻。 https://t.co/KdbjEJZmXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1398,
+          "like_count": 55040,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit|下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWB0xk"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 469,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/WpWmwWB0xk",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

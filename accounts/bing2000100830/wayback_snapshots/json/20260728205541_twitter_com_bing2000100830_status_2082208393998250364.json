@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2082208393998250364",
+    "created_at": "2026-07-28T20:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082208393998250364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971244609943564290",
+          "start": 3,
+          "username": "Donna1054957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082208393998250364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082130205074919509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donna1054957: 很无聊 于是我们来抽奖吧 正好大家一直在关注我😺\n第一名:20r\n第二名:10r\n第三名:5r三位\n抽奖采用gork随机开奖 点赞转发评论即可参与🐺🐺🐺🐺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2082208393998250364",
+        "created_at": "2026-07-28T20:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082208393998250364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971244609943564290",
+              "start": 3,
+              "username": "Donna1054957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082208393998250364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082130205074919509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donna1054957: 很无聊 于是我们来抽奖吧 正好大家一直在关注我😺\n第一名:20r\n第二名:10r\n第三名:5r三位\n抽奖采用gork随机开奖 点赞转发评论即可参与🐺🐺🐺🐺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2082130205074919509",
+        "created_at": "2026-07-28T15:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130205074919509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082130205074919509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "很无聊 于是我们来抽奖吧 正好大家一直在关注我😺\n第一名:20r\n第二名:10r\n第三名:5r三位\n抽奖采用gork随机开奖 点赞转发评论即可参与🐺🐺🐺🐺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1385,
+          "like_count": 54283,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 206,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

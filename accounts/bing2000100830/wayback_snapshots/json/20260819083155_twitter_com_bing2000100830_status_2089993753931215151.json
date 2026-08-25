@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2089993753931215151",
+    "created_at": "2026-08-19T08:31:55.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089993753931215151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916227800891330560",
+          "start": 3,
+          "username": "YHox_xo678964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089993753931215151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089776465802043863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @YHox_xo678964: 事已至此只有发布习近平今天突发高血压发布暴毙身亡的仆告才能平息我的怒火了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2089993753931215151",
+        "created_at": "2026-08-19T08:31:55.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089993753931215151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916227800891330560",
+              "start": 3,
+              "username": "YHox_xo678964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089993753931215151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089776465802043863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @YHox_xo678964: 事已至此只有发布习近平今天突发高血压发布暴毙身亡的仆告才能平息我的怒火了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916227800891330560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2089776465802043863",
+        "created_at": "2026-08-18T18:08:30.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089776465802043863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089776465802043863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 886,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "事已至此只有发布习近平今天突发高血压发布暴毙身亡的仆告才能平息我的怒火了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089993753931215151",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1392,
+          "like_count": 59504,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3587
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T20:28:23.000Z",
+        "description": "公畜点进我主页自动暴毙 背景图那俩是我仇人",
+        "id": "1916227800891330560",
+        "is_identity_verified": false,
+        "location": "通州到中关村的距离",
+        "most_recent_tweet_id": "2089804168349565204",
+        "name": "习近平下台—您很狂？",
+        "pinned_tweet_id": "2088550129544679732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916227800891330560/1782503402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089804111210594304/KmyysGK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 64,
+          "like_count": 9141,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4740
+        },
+        "url": "",
+        "username": "YHox_xo678964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

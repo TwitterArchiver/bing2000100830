@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083873741193585055",
+    "created_at": "2026-08-02T19:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083992663498662128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705087107849703424",
+          "start": 0,
+          "username": "NomfusiSetlhodi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083992663498662128",
+    "in_reply_to_user_id": "705087107849703424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083988504758079582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomfusiSetlhodi 哪个呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083873741193585055",
+        "created_at": "2026-08-02T19:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083992663498662128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705087107849703424",
+              "start": 0,
+              "username": "NomfusiSetlhodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083992663498662128",
+        "in_reply_to_user_id": "705087107849703424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083988504758079582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomfusiSetlhodi 哪个呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705087107849703424",
+        "conversation_id": "2083873741193585055",
+        "created_at": "2026-08-02T18:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083988504758079582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083988504758079582",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083984683134857241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 许愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1408,
+          "like_count": 55393,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 72,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

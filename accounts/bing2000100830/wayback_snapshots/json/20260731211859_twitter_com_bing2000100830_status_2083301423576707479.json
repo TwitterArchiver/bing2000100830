@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083292584798302208"
+      ],
+      "media_source_tweet_id": [
+        "2083292588946460795"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083301423576707479",
+    "created_at": "2026-07-31T21:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083301423576707479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686395036139950080",
+          "start": 3,
+          "username": "Ichi5oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtasWyfgpH",
+          "end": 49,
+          "expanded_url": "https://x.com/Ichi5oxo/status/2083292588946460795/photo/1",
+          "media_key": "3_2083292584798302208",
+          "start": 26,
+          "url": "https://t.co/ZtasWyfgpH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083301423576707479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083292588946460795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ichi5oxo: あなたと私の絶対ルール https://t.co/ZtasWyfgpH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2083292584798302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlXkXAbsAAD5n0.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083292584798302208"
+          ]
+        },
+        "author_id": "1686395036139950080",
+        "conversation_id": "2083292588946460795",
+        "created_at": "2026-07-31T20:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083292588946460795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtasWyfgpH",
+              "end": 35,
+              "expanded_url": "https://x.com/Ichi5oxo/status/2083292588946460795/photo/1",
+              "media_key": "3_2083292584798302208",
+              "start": 12,
+              "url": "https://t.co/ZtasWyfgpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083292588946460795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "あなたと私の絶対ルール https://t.co/ZtasWyfgpH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083292584798302208"
+          ],
+          "media_source_tweet_id": [
+            "2083292588946460795"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083301423576707479",
+        "created_at": "2026-07-31T21:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083301423576707479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686395036139950080",
+              "start": 3,
+              "username": "Ichi5oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtasWyfgpH",
+              "end": 49,
+              "expanded_url": "https://x.com/Ichi5oxo/status/2083292588946460795/photo/1",
+              "media_key": "3_2083292584798302208",
+              "start": 26,
+              "url": "https://t.co/ZtasWyfgpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083301423576707479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083292588946460795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ichi5oxo: あなたと私の絶対ルール https://t.co/ZtasWyfgpH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1400,
+          "like_count": 55139,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3424
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T15:15:12.000Z",
+        "description": "中身@yuuuyu_uuu FA垢@pur1n_n9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yuuuyu_uuu"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "pur1n_n9"
+              }
+            ]
+          }
+        },
+        "id": "1686395036139950080",
+        "location": "たまに過激だよ自衛してね💕",
+        "name": "苺てゃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083062398865514496/y_rOPve0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 10,
+          "like_count": 190,
+          "listed_count": 19,
+          "media_count": 70,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "Ichi5oxo",
+        "verified": false
+      }
+    ]
+  }
+}

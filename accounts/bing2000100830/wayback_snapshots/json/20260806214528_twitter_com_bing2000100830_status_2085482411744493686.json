@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2085257221068206114",
+    "created_at": "2026-08-06T21:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085482411744493686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085482411744493686",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085257221068206114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2085257221068206114",
+        "created_at": "2026-08-06T21:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085482411744493686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085482411744493686",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085257221068206114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085257221068206114",
+        "created_at": "2026-08-06T06:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085257221068206114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laneunya_qwq/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/laneunya_qwq/status/2084665516350918929",
+              "start": 140,
+              "url": "https://t.co/R29EnwSMha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085257221068206114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10110,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084665516350918929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝贝，你一定要当人妖啊，妈妈好开心啊，你现在学也不用上，妈妈帮你天天请假去看医生，你能告诉妈妈现在感觉怎样吗？你看现在穿上t恤已经会凸出圆锥胸型了。妈妈最爱你了，一定要吃人妖药，你是妈妈的心肝啊，妈妈今天晚上一定能睡个好觉了，一定要变性啊！妈妈现在真的更爱你了，你真的变得好漂亮 https://t.co/R29EnwSMha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1399,
+          "like_count": 55940,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3456
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 766,
+          "like_count": 2623,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

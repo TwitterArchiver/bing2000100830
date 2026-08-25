@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2089827425157103963",
+    "created_at": "2026-08-18T21:34:41.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089828352643481657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089828352643481657",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089827425157103963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7098,
+        "height": 1920,
+        "media_key": "13_2089827391724261376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089827391724261376/img/nWlQF6Foz8ap8myx.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/720x1280/JpmmDkMWzqHonr5b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/pl/_U2sZIV_tozvwO1D.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/320x568/dpuTTC7sdS_Nmiwv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/480x852/Ej2RZvMpFBg1KbzJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089827391724261376/vid/avc1/1080x1920/kZ7bVN8UWPCpqWnA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2089827425157103963",
+        "created_at": "2026-08-18T21:34:41.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089828352643481657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089828352643481657",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089827425157103963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089827391724261376"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089827425157103963",
+        "created_at": "2026-08-18T21:30:59.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089827425157103963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBuyDAzt4b",
+              "end": 143,
+              "expanded_url": "https://x.com/Mintink3/status/2089827425157103963/video/1",
+              "media_key": "13_2089827391724261376",
+              "start": 120,
+              "url": "https://t.co/iBuyDAzt4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089827425157103963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089827391724261376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， 在场的所有客户都是一年多前我刚做夜场就认识的，我自认为算我最信任的客户来。在我的客户喝多走后，客户的朋友让我留下来喝一回，怪我太容易相信别人了，而且点我的客户也特别素质全程没碰我，结果客户的朋友却趁他走后强吻我，我一直难受到现在。\n\n我们并排而坐，我在右他在左，他突然叫住我转过头然后强吻我，我的左手被沙发和我俩点身体夹住抽不出来，右手扬起欲扇他一巴掌，结果被他预判了，他的左手抓住我的右手，我一介女流的力气怎能比得过他一个三十多岁的男人，我一直挣扎不愿被他敲开嘴唇，手还在挣扎中被他抓伤了一点（不严重只是红肿了，但也是我反抗过的证明）\n\n可能有些人会觉得我太矫情了，一个陪酒女被亲一下，写这么长小作文，但是或许我有病吧，我现在也有喜欢的爱的人，我真的很难受很介意。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不觉得“霸道”这个词是一个褒义词，可总有很多普信男觉得很多女生会吃“霸道总裁”那一套。\n\n我很讨厌自以为是的人，讨厌觉得自己“霸王硬上弓”很帅的男人。强迫别人并没有什么帅的，只是武力压制而已，并不能使我的心屈服。\n\n今天第三场酒局， https://t.co/iBuyDAzt4b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089828352643481657",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1409,
+          "like_count": 59083,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3582
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089827425157103963",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 999,
+          "like_count": 7849,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

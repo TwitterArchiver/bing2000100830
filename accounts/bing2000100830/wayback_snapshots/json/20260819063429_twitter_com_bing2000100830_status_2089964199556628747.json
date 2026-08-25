@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2089964199556628747",
+    "created_at": "2026-08-19T06:34:29.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089964199556628747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Science_010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/vituh__/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/vituh__/status/2089845544201990301",
+          "start": 13,
+          "url": "https://t.co/0S4ZIDkr3T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089964199556628747",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089845544201990301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Science_010 https://t.co/0S4ZIDkr3T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 720,
+        "media_key": "13_2089845515508690944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089845515508690944/img/OFTQ6Q6hEs6cgUAw.jpg",
+        "public_metrics": {
+          "view_count": 111218
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089845515508690944/vid/avc1/480x270/9SS6042sdVMnriRP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089845515508690944/vid/avc1/640x360/tYaIgQnDQHI--xsH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089845515508690944/vid/avc1/1280x720/kYThSh3MKMf_65Ou.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089845515508690944/pl/cdON54ag0paPDjmy.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2089964199556628747",
+        "created_at": "2026-08-19T06:34:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089964199556628747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vituh__/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/vituh__/status/2089845544201990301",
+              "start": 13,
+              "url": "https://t.co/0S4ZIDkr3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089964199556628747",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089845544201990301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 https://t.co/0S4ZIDkr3T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089845515508690944"
+          ]
+        },
+        "author_id": "1100488415575977986",
+        "conversation_id": "2089845544201990301",
+        "created_at": "2026-08-18T22:42:59.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089845544201990301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEa8Ocgz9p",
+              "end": 175,
+              "expanded_url": "https://x.com/vituh__/status/2089845544201990301/video/1",
+              "media_key": "13_2089845515508690944",
+              "start": 152,
+              "url": "https://t.co/NEa8Ocgz9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089845544201990301",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089845515508690944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 895,
+          "impression_count": 184997,
+          "like_count": 13154,
+          "quote_count": 141,
+          "reply_count": 86,
+          "retweet_count": 742
+        },
+        "reply_settings": "everyone",
+        "text": "Um amigo do meu pai quase caiu em um golpe de 500 reais, pq alguém postou esse video nos status falando q tava vendendo mini dinossauro e ele acreditou https://t.co/NEa8Ocgz9p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089964199556628747",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1409,
+          "like_count": 59379,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3585
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "世界上最区的人 男的 18 4i ISFJ/喜欢东方/平泽进/cs2/钢四/后室/术/宇宙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XqtK"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089953027876933803",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500855672480489475/1769914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087092802748616704/4WPyJ9kY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1037,
+          "like_count": 4117,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/Lu4Wy2XqtK",
+        "username": "Science_010",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-26T20:10:59.000Z",
+        "description": "21y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vitor.smb/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/vitor.smb/",
+                "start": 0,
+                "url": "https://t.co/spS6gwYy9W"
+              }
+            ]
+          }
+        },
+        "id": "1100488415575977986",
+        "is_identity_verified": false,
+        "location": "Belo Horizonte, Brasil",
+        "most_recent_tweet_id": "2089890974042333434",
+        "name": "Bonnie👻| VAI VER O AESPA",
+        "pinned_tweet_id": "1751243849249309131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100488415575977986/1773231916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906006059833049088/mIC_QVPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1701,
+          "like_count": 87424,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 6982
+        },
+        "url": "https://t.co/spS6gwYy9W",
+        "username": "vituh__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

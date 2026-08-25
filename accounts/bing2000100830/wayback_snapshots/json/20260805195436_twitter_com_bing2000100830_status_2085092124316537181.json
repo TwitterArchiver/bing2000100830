@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2085063516256350541",
+    "created_at": "2026-08-05T19:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085092124316537181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041095876417122305",
+          "start": 0,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085092124316537181",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085063516256350541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yihuiam 什么金矿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2085063497981812737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-iNEtW4AEynRo.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2085063516256350541",
+        "created_at": "2026-08-05T19:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085092124316537181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085092124316537181",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085063516256350541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 什么金矿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085063497981812737"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085063516256350541",
+        "created_at": "2026-08-05T18:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085063516256350541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4P6mySl9V",
+              "end": 29,
+              "expanded_url": "https://x.com/Yihuiam/status/2085063516256350541/photo/1",
+              "media_key": "3_2085063497981812737",
+              "start": 6,
+              "url": "https://t.co/i4P6mySl9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085063516256350541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挖什么金矿 https://t.co/i4P6mySl9V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1405,
+          "like_count": 55811,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 969,
+          "like_count": 6490,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

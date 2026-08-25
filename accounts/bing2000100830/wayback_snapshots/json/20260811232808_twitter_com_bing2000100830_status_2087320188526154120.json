@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2087282491728261283",
+    "created_at": "2026-08-11T23:28:08.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087320188526154120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085535031368273920",
+          "start": 0,
+          "username": "shierdian6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087320188526154120",
+    "in_reply_to_user_id": "2085535031368273920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087319311367168358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shierdian6639 原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2087282491728261283",
+        "created_at": "2026-08-11T23:28:08.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087320188526154120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085535031368273920",
+              "start": 0,
+              "username": "shierdian6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087320188526154120",
+        "in_reply_to_user_id": "2085535031368273920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087319311367168358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shierdian6639 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085535031368273920",
+        "conversation_id": "2087282491728261283",
+        "created_at": "2026-08-11T23:24:39.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087319311367168358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087319311367168358",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087282491728261283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 有人说好吃有人说不好吃。反正我觉得不好吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2087320188526154120",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1404,
+          "like_count": 57163,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3524
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T01:15:22.000Z",
+        "description": "",
+        "id": "2085535031368273920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087319311367168358",
+        "name": "12.",
+        "pinned_tweet_id": "2085903657829372221",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085876788404826112/pBkwIuqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 78,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "shierdian6639",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

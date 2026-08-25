@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2088664314093912312",
+    "created_at": "2026-08-16T15:20:45.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089009476959699135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775522951749591040",
+          "start": 0,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089009476959699135",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088664314093912312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binbin77930833 姐姐抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088664314093912312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088664314093912312",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088664314093912312"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2088664314093912312",
+        "created_at": "2026-08-16T15:20:45.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089009476959699135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089009476959699135",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088664314093912312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 姐姐抱抱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2089009476959699135",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1402,
+          "like_count": 58220,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨一切曾经的错误最后都要买单，最后谁都逃不掉 匿名提问https://t.co/72Eg4eXf8L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 99,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 76,
+                "url": "https://t.co/72Eg4eXf8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk93yzh"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "is_identity_verified": false,
+        "location": "普瑞巴林工厂🏭",
+        "most_recent_tweet_id": "2088333405415203320",
+        "name": "Rosemary🍥🏳️‍⚧️️‍",
+        "pinned_tweet_id": "2070154449046437916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775522951749591040/1775291647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 368,
+          "like_count": 1831,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/JSuLk93yzh",
+        "username": "binbin77930833",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

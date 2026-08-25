@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086115569728954368"
+      ],
+      "media_source_tweet_id": [
+        "2086115577710743889"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086225081240531277",
+    "created_at": "2026-08-08T22:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T23:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086225081240531277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 21,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1209537362411212800",
+          "start": 3,
+          "username": "n2_room202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooea3ObUls",
+          "end": 77,
+          "expanded_url": "https://x.com/n2_room202/status/2086115577710743889/photo/1",
+          "media_key": "3_2086115569728954368",
+          "start": 54,
+          "url": "https://t.co/ooea3ObUls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086225081240531277",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086115577710743889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n2_room202: ame!\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/ooea3ObUls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2086115569728954368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNfDtYbIAAeC3F.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086115569728954368"
+          ]
+        },
+        "author_id": "1209537362411212800",
+        "conversation_id": "2086115577710743889",
+        "created_at": "2026-08-08T15:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086115577710743889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 5,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooea3ObUls",
+              "end": 61,
+              "expanded_url": "https://x.com/n2_room202/status/2086115577710743889/photo/1",
+              "media_key": "3_2086115569728954368",
+              "start": 38,
+              "url": "https://t.co/ooea3ObUls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086115577710743889",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 1620,
+          "like_count": 277,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "ame!\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/ooea3ObUls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086115569728954368"
+          ],
+          "media_source_tweet_id": [
+            "2086115577710743889"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086225081240531277",
+        "created_at": "2026-08-08T22:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T23:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086225081240531277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 21,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1209537362411212800",
+              "start": 3,
+              "username": "n2_room202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooea3ObUls",
+              "end": 77,
+              "expanded_url": "https://x.com/n2_room202/status/2086115577710743889/photo/1",
+              "media_key": "3_2086115569728954368",
+              "start": 54,
+              "url": "https://t.co/ooea3ObUls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086225081240531277",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086115577710743889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n2_room202: ame!\n#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/ooea3ObUls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1403,
+          "like_count": 56350,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3476
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T18:12:40.000Z",
+        "description": "ドールとお絵描き！\ndollmaker for @teacvp_snail 🎀🍵🐌\n無断転載・使用・AI学習禁止 / No reposting, use or AI training.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "teacvp_snail"
+              }
+            ]
+          }
+        },
+        "id": "1209537362411212800",
+        "name": "弐助/Nisuke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074846120006885376/gYaJJAc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 99,
+          "like_count": 7891,
+          "listed_count": 10,
+          "media_count": 660,
+          "tweet_count": 3246
+        },
+        "url": "",
+        "username": "n2_room202",
+        "verified": false
+      }
+    ]
+  }
+}

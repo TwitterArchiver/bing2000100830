@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2089964771059900579",
+    "created_at": "2026-08-19T06:36:45.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089964771059900579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077732421488054272",
+          "start": 3,
+          "username": "FreePGBPlz"
+        },
+        {
+          "end": 47,
+          "id": "2089674593304997888",
+          "start": 36,
+          "username": "bainaba114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089964771059900579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089952470797836436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreePGBPlz: 号被🐜🐲丰了三天，，，以后的项目都在新家@bainaba114 上做。大家快点迁移过去吧。\n目前的项目：\n公益化学试剂出售，只要你能够证明你用于科学或教学，就可以以原粉价格1.7/g购买普瑞试剂与40/100mg异丙试剂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2089964771059900579",
+        "created_at": "2026-08-19T06:36:45.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089964771059900579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077732421488054272",
+              "start": 3,
+              "username": "FreePGBPlz"
+            },
+            {
+              "end": 47,
+              "id": "2089674593304997888",
+              "start": 36,
+              "username": "bainaba114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089964771059900579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089952470797836436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreePGBPlz: 号被🐜🐲丰了三天，，，以后的项目都在新家@bainaba114 上做。大家快点迁移过去吧。\n目前的项目：\n公益化学试剂出售，只要你能够证明你用于科学或教学，就可以以原粉价格1.7/g购买普瑞试剂与40/100mg异丙试剂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077732421488054272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2089952470797836436",
+        "created_at": "2026-08-19T05:47:53.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089952470797836436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2089674593304997888",
+              "start": 20,
+              "username": "bainaba114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089952470797836436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "号被🐜🐲丰了三天，，，以后的项目都在新家@bainaba114 上做。大家快点迁移过去吧。\n目前的项目：\n公益化学试剂出售，只要你能够证明你用于科学或教学，就可以以原粉价格1.7/g购买普瑞试剂与40/100mg异丙试剂。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089964771059900579",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1410,
+          "like_count": 59383,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3586
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089952470797836436",
+        "name": "PGB",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T11:26:06.000Z",
+        "description": "pr 1.7/g，私信购买",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freepgbplz",
+                "end": 23,
+                "expanded_url": "http://t.me/freepgbplz",
+                "start": 0,
+                "url": "https://t.co/OcmbU7KxcW"
+              }
+            ]
+          }
+        },
+        "id": "2089674593304997888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089958607102300439",
+        "name": "霾兔",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089676321630945280/BL8JD3Ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/OcmbU7KxcW",
+        "username": "bainaba114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

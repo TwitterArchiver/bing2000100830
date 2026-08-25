@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2089605786293182517",
+    "created_at": "2026-08-18T06:55:10.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089607017472385294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089607017472385294",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089605786293182517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 我悄悄抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2089605776621080576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_FYfQakAA9mey.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2089605786293182517",
+        "created_at": "2026-08-18T06:55:10.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089607017472385294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089607017472385294",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089605786293182517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 我悄悄抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089605776621080576"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2089605786293182517",
+        "created_at": "2026-08-18T06:50:17.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089605786293182517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/heqNpYAr5L",
+              "end": 97,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2089605786293182517/photo/1",
+              "media_key": "3_2089605776621080576",
+              "start": 74,
+              "url": "https://t.co/heqNpYAr5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089605786293182517",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089605776621080576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦唛糕...我的互关又消失了，马斯克好坏喔。\n互关们，你们在哪里...我刚刚遭受很严峻的打击，不可以再失去你们噜。\n想割手手，但是我已经要戒割了。 https://t.co/heqNpYAr5L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089607017472385294",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1402,
+          "like_count": 58826,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3571
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089605786293182517",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 724,
+          "like_count": 35403,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086678264312123436",
+    "created_at": "2026-08-10T05:30:53.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086686704761762075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086686704761762075",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086678264312123436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ 我想吃咖喱..咖喱咖喱.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086678264312123436",
+        "created_at": "2026-08-10T05:30:53.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086686704761762075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086686704761762075",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086678264312123436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 我想吃咖喱..咖喱咖喱.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2086678264312123436",
+        "created_at": "2026-08-10T04:57:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086678264312123436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzhazha69/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yuzhazha69/status/2086672893740744928",
+              "start": 6,
+              "url": "https://t.co/Njjhj9wlzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086678264312123436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086672893740744928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好吃…… https://t.co/Njjhj9wlzG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086686704761762075",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1407,
+          "like_count": 56722,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3500
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2086684277434101901",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 88,
+          "like_count": 6171,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2479
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

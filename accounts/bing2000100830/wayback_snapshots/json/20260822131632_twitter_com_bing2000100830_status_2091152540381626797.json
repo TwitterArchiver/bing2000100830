@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090360262159384576"
+      ],
+      "media_source_tweet_id": [
+        "2090360583476658576"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2091152540381626797",
+    "created_at": "2026-08-22T13:16:32.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091152540381626797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "154013376",
+          "start": 3,
+          "username": "dekai3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9WGskbXeh",
+          "end": 67,
+          "expanded_url": "https://x.com/dekai3/status/2090360583476658576/video/1",
+          "media_key": "13_2090360262159384576",
+          "start": 44,
+          "url": "https://t.co/r9WGskbXeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091152540381626797",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090360262159384576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3851
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090360583476658576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dekai3: スイカをレンチンしてぶよぶよにするという怪しい料理を作りました https://t.co/r9WGskbXeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11711,
+        "height": 1080,
+        "media_key": "13_2090360262159384576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090360262159384576/img/ayVaIPFyIGowmZC1.jpg",
+        "public_metrics": {
+          "view_count": 3092166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090360262159384576/vid/avc1/480x270/FUB2UfZwEwz_BRtS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090360262159384576/vid/avc1/640x360/erzrqh_bwTSdfhf0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090360262159384576/vid/avc1/1280x720/rzmB69pAmqqtNEnf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090360262159384576/pl/01xhrY3ner22B0IQ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090360262159384576"
+          ],
+          "media_source_tweet_id": [
+            "2090360583476658576"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2091152540381626797",
+        "created_at": "2026-08-22T13:16:32.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091152540381626797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "154013376",
+              "start": 3,
+              "username": "dekai3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9WGskbXeh",
+              "end": 67,
+              "expanded_url": "https://x.com/dekai3/status/2090360583476658576/video/1",
+              "media_key": "13_2090360262159384576",
+              "start": 44,
+              "url": "https://t.co/r9WGskbXeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091152540381626797",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090360262159384576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090360583476658576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dekai3: スイカをレンチンしてぶよぶよにするという怪しい料理を作りました https://t.co/r9WGskbXeh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090360262159384576"
+          ]
+        },
+        "author_id": "154013376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2090360583476658576",
+        "created_at": "2026-08-20T08:49:34.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090360583476658576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9WGskbXeh",
+              "end": 55,
+              "expanded_url": "https://x.com/dekai3/status/2090360583476658576/video/1",
+              "media_key": "13_2090360262159384576",
+              "start": 32,
+              "url": "https://t.co/r9WGskbXeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090360583476658576",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090360262159384576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6805,
+          "impression_count": 6624417,
+          "like_count": 70894,
+          "quote_count": 1399,
+          "reply_count": 354,
+          "retweet_count": 3851
+        },
+        "reply_settings": "everyone",
+        "text": "スイカをレンチンしてぶよぶよにするという怪しい料理を作りました https://t.co/r9WGskbXeh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2091152540381626797",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1397,
+          "like_count": 60464,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3598
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-10T04:09:48.000Z",
+        "description": "だいたい食べ物とロボットの女の子の事を考えて生きてる。カクヨムでロボットの女の子が出る作品書いてる。カクヨム（https://t.co/n296AWHBxY）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kakuyomu.jp/users/dekai3",
+                "end": 78,
+                "expanded_url": "http://kakuyomu.jp/users/dekai3",
+                "start": 55,
+                "url": "https://t.co/n296AWHBxY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "femc.jp",
+                "end": 23,
+                "expanded_url": "http://www.femc.jp/",
+                "start": 0,
+                "url": "https://t.co/2KYpREVBPB"
+              }
+            ]
+          }
+        },
+        "id": "154013376",
+        "is_identity_verified": false,
+        "location": "すがきやは神の味",
+        "most_recent_tweet_id": "2091067528021934375",
+        "name": "でかいさん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154013376/1718663313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948768822913368069/vnPZwN0x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 570,
+          "like_count": 44763,
+          "listed_count": 47,
+          "media_count": 7148,
+          "tweet_count": 368462
+        },
+        "url": "https://t.co/2KYpREVBPB",
+        "username": "dekai3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

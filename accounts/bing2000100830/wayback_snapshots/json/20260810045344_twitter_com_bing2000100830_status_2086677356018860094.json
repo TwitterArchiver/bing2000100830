@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086675715764953329",
+    "created_at": "2026-08-10T04:53:44.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086677356018860094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "LeeYooSun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086677356018860094",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086677215912263738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeYooSun_ 无限的解离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086675715764953329",
+        "created_at": "2026-08-10T04:53:44.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086677356018860094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "LeeYooSun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086677356018860094",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086677215912263738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeYooSun_ 无限的解离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086675715764953329",
+        "created_at": "2026-08-10T04:53:11.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086677215912263738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086677215912263738",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086675715764953329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 坏饼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086677356018860094",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1406,
+          "like_count": 56713,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3496
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2086677215912263738",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1786326747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 329,
+          "like_count": 7337,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

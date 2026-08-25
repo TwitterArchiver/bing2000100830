@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2089023254191276088",
+    "created_at": "2026-08-16T16:15:30.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089023254191276088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823405068034744320",
+          "start": 3,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089023254191276088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088967620506914854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hown530150: 感谢公主殿下今晚的指名\n        🫗\n         🍸\n       🍸🍸\n      🍸🍸🍸\n     🍸🍸🍸🍸\n   🍸🍸🍸🍸🍸\n 🍸🍸🍸🍸🍸🍸\n🍸🍸🍸🍸🍸🍸🍸\n比起香槟塔我更想要公主幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2089023254191276088",
+        "created_at": "2026-08-16T16:15:30.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089023254191276088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823405068034744320",
+              "start": 3,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089023254191276088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088967620506914854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hown530150: 感谢公主殿下今晚的指名\n        🫗\n         🍸\n       🍸🍸\n      🍸🍸🍸\n     🍸🍸🍸🍸\n   🍸🍸🍸🍸🍸\n 🍸🍸🍸🍸🍸🍸\n🍸🍸🍸🍸🍸🍸🍸\n比起香槟塔我更想要公主幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823405068034744320",
+        "conversation_id": "2088967620506914854",
+        "created_at": "2026-08-16T12:34:26.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088967620506914854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088967620506914854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢公主殿下今晚的指名\n        🫗\n         🍸\n       🍸🍸\n      🍸🍸🍸\n     🍸🍸🍸🍸\n   🍸🍸🍸🍸🍸\n 🍸🍸🍸🍸🍸🍸\n🍸🍸🍸🍸🍸🍸🍸\n比起香槟塔我更想要公主幸福"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2089023254191276088",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1404,
+          "like_count": 58244,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3548
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "我也不太了解她",
+        "id": "1823405068034744320",
+        "is_identity_verified": false,
+        "location": "188cm",
+        "most_recent_tweet_id": "2089003775839342622",
+        "name": "喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823405068034744320/1764075936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 954,
+          "like_count": 15649,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 11605
+        },
+        "url": "",
+        "username": "hown530150",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

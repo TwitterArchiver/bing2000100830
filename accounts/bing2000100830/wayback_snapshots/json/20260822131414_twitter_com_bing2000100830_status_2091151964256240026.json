@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2091149876424016346",
+    "created_at": "2026-08-22T13:14:14.000Z",
+    "display_text_range": [
+      10,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091151964256240026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091151964256240026",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091151692276605302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 如果是一根接着一根的话 似乎可以抽6到7根也不会无聊\n\n但如果是嘴里同时塞着多少根烟的话就不知道了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2091149876424016346",
+        "created_at": "2026-08-22T13:14:14.000Z",
+        "display_text_range": [
+          10,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091151964256240026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091151964256240026",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091151692276605302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 如果是一根接着一根的话 似乎可以抽6到7根也不会无聊\n\n但如果是嘴里同时塞着多少根烟的话就不知道了www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2091149876424016346",
+        "created_at": "2026-08-22T13:13:09.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091151692276605302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091151692276605302",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091149876424016346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 话说回来，一次最多能够同时抽几根🚬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2091151964256240026",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1397,
+          "like_count": 60459,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3597
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n普通人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2091151692276605302",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1784604220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 583,
+          "like_count": 10084,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 4998
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

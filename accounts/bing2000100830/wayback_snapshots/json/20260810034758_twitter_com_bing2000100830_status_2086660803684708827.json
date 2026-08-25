@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086660735837540353"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086660803684708827",
+    "created_at": "2026-08-10T03:47:58.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086660803684708827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ezQ0q7uKP",
+          "end": 23,
+          "expanded_url": "https://x.com/bing2000100830/status/2086660803684708827/photo/1",
+          "media_key": "3_2086660735837540353",
+          "start": 0,
+          "url": "https://t.co/5ezQ0q7uKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086660803684708827",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086660735837540353"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5ezQ0q7uKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086660735837540353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVO4jZaEAEPsb4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086660735837540353"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086660803684708827",
+        "created_at": "2026-08-10T03:47:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086660803684708827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ezQ0q7uKP",
+              "end": 23,
+              "expanded_url": "https://x.com/bing2000100830/status/2086660803684708827/photo/1",
+              "media_key": "3_2086660735837540353",
+              "start": 0,
+              "url": "https://t.co/5ezQ0q7uKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086660803684708827",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086660735837540353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ezQ0q7uKP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086660803684708827",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1405,
+          "like_count": 56678,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3491
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

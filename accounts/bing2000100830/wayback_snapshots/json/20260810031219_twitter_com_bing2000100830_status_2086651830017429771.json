@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086650629108416665",
+    "created_at": "2026-08-10T03:12:19.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086651830017429771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852135214795100164",
+          "start": 0,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086651830017429771",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086650629108416665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayameeii 据说不能o!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086650629108416665",
+        "created_at": "2026-08-10T03:12:19.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086651830017429771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086651830017429771",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086650629108416665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 据说不能o!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2086650629108416665",
+        "created_at": "2026-08-10T03:07:32.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086650629108416665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086650629108416665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在线征求意见 那个auvelity怎么样啊 可以娱乐吗 正经用好用吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086651830017429771",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1404,
+          "like_count": 56656,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3487
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2086650629108416665",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 730,
+          "like_count": 10860,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 4438
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

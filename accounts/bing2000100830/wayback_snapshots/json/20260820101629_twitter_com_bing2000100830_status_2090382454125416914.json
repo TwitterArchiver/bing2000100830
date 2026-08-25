@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2090364514156113974",
+    "created_at": "2026-08-20T10:16:29.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090382454125416914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052771960225243136",
+          "start": 0,
+          "username": "pillsandblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090382454125416914",
+    "in_reply_to_user_id": "2052771960225243136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090364514156113974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pillsandblood 外国人.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090364505276788736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ3cTwbsAAF8eo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2090364514156113974",
+        "created_at": "2026-08-20T10:16:29.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090382454125416914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052771960225243136",
+              "start": 0,
+              "username": "pillsandblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090382454125416914",
+        "in_reply_to_user_id": "2052771960225243136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090364514156113974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pillsandblood 外国人.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090364505276788736"
+          ]
+        },
+        "author_id": "2052771960225243136",
+        "conversation_id": "2090364514156113974",
+        "created_at": "2026-08-20T09:05:11.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090364514156113974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoSHTCY8qe",
+              "end": 30,
+              "expanded_url": "https://x.com/pillsandblood/status/2090364514156113974/photo/1",
+              "media_key": "3_2090364505276788736",
+              "start": 7,
+              "url": "https://t.co/WoSHTCY8qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090364514156113974",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090364505276788736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不安です。。 https://t.co/WoSHTCY8qe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2090382454125416914",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1394,
+          "like_count": 60117,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3592
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T15:28:41.000Z",
+        "description": "🌰💕👽\nhe/they bpd。 #shtwt、#odtwt。喜各类摇滚和cult，每日高强度冲浪中。负能，日常吐苦水，友所有群体，迪哥们来找我互fo。\nmy beloved twin💗👽@0nemoresec \n和00的神秘共号里推@0nemoremin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "shtwt"
+              },
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "0nemoremin"
+              }
+            ]
+          }
+        },
+        "id": "2052771960225243136",
+        "is_identity_verified": false,
+        "location": "000",
+        "most_recent_tweet_id": "2090364514156113974",
+        "name": "リジー 3.0",
+        "pinned_tweet_id": "2088269909092667467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052771960225243136/1786828907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088267883109568512/R3RpywA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 200,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "pillsandblood",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

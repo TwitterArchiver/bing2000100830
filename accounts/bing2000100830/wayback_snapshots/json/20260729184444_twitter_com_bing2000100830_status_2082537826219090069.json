@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2081462731685896268",
+    "created_at": "2026-07-29T18:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082537826219090069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019112285017632777",
+          "start": 0,
+          "username": "Nyx1131422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082537826219090069",
+    "in_reply_to_user_id": "2019112285017632777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081567420616229061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyx1131422 一直想买他们的cd来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081462731685896268",
+        "created_at": "2026-07-29T18:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082537826219090069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019112285017632777",
+              "start": 0,
+              "username": "Nyx1131422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082537826219090069",
+        "in_reply_to_user_id": "2019112285017632777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081567420616229061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyx1131422 一直想买他们的cd来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019112285017632777",
+        "conversation_id": "2081462731685896268",
+        "created_at": "2026-07-27T02:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081567420616229061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081567420616229061",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081462731685896268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 V是兔子！有品哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1385,
+          "like_count": 54465,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T18:14:29.000Z",
+        "description": "这里是Nyx📍\n绝望的屌丝，忧郁的蠢猪\n二次元鉴证摇滚都沾点\n请找我玩",
+        "id": "2019112285017632777",
+        "name": "Nyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019114933687074816/-cV2hYOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 229,
+          "like_count": 2869,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Nyx1131422",
+        "verified": true
+      }
+    ]
+  }
+}

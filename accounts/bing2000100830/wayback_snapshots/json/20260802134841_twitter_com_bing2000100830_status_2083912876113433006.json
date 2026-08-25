@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083904580283404535",
+    "created_at": "2026-08-02T13:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083912876113433006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Jack114514233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083912876113433006",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083904580283404535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack114514233 出生是宇宙的异常状态"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2083904572523970560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuEKu8agAAWfqW.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083904580283404535",
+        "created_at": "2026-08-02T13:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083912876113433006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Jack114514233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083912876113433006",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083904580283404535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack114514233 出生是宇宙的异常状态"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083904572523970560"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083904580283404535",
+        "created_at": "2026-08-02T13:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083904580283404535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gR7fSaKFw",
+              "end": 139,
+              "expanded_url": "https://x.com/Jack114514233/status/2083904580283404535/photo/1",
+              "media_key": "3_2083904572523970560",
+              "start": 116,
+              "url": "https://t.co/6gR7fSaKFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083904580283404535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宇宙诞生于一场凋零，因为生命建立在神祇的尸体之上，创世主的肉身腐烂带来的是崭新的生命大爆发，迈兰德的死亡本体论告诉我们，死亡意志既是语言的终点，也是人类\n前起始状态的生命本初，而文明及劳动正是人类对自然进行分阶式解体与消耗的产物。 https://t.co/6gR7fSaKFw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1408,
+          "like_count": 55347,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3433
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Jack",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 790,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Jack114514233",
+        "verified": false
+      }
+    ]
+  }
+}

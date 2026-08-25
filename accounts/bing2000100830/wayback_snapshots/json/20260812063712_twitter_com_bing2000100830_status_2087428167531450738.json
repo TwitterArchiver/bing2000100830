@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2087428167531450738",
+    "created_at": "2026-08-12T06:37:12.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087428167531450738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087428167531450738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087425960409026937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 天使中央委员会选举我 \n继续担任「超绝最可爱天使酱」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2087428167531450738",
+        "created_at": "2026-08-12T06:37:12.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087428167531450738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087428167531450738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087425960409026937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 天使中央委员会选举我 \n继续担任「超绝最可爱天使酱」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2087425960409026937",
+        "created_at": "2026-08-12T06:28:26.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087425960409026937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087425960409026937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "天使中央委员会选举我 \n继续担任「超绝最可爱天使酱」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2087428167531450738",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1403,
+          "like_count": 57293,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3528
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质和0D知识整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2087425960409026937",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1785668634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 287,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2087152430031290718",
+    "created_at": "2026-08-11T20:54:44.000Z",
+    "display_text_range": [
+      27,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087281586505142439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        },
+        {
+          "end": 26,
+          "id": "1904929733856636928",
+          "start": 14,
+          "username": "shenmu20666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087281586505142439",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087189202370978238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT @shenmu20666 🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2087152430031290718",
+        "created_at": "2026-08-11T20:54:44.000Z",
+        "display_text_range": [
+          27,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087281586505142439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 26,
+              "id": "1904929733856636928",
+              "start": 14,
+              "username": "shenmu20666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087281586505142439",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087189202370978238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @shenmu20666 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2087152430031290718",
+        "created_at": "2026-08-11T14:47:38.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087189202370978238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904929733856636928",
+              "start": 0,
+              "username": "shenmu20666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189202370978238",
+        "in_reply_to_user_id": "1904929733856636928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087181452408689029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenmu20666 謝謝。我是還是反差騷逼魅魔呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2087281586505142439",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1404,
+          "like_count": 57068,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087254027109380268",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 65,
+          "like_count": 3788,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T16:13:43.000Z",
+        "description": "普通人（男）\n（无心理疾病）\n（目前日子还过得去）",
+        "id": "1904929733856636928",
+        "is_identity_verified": false,
+        "location": "坎特伯雷",
+        "most_recent_tweet_id": "2087234527915885010",
+        "name": "沈牧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904929733856636928/1786225857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925583512901402624/bXkfKiw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 85,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "shenmu20666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

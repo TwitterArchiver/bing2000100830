@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2082593507718664630",
+    "created_at": "2026-07-29T23:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T00:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082604613887492421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "MISTERK0937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082604613887492421",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082604363680559282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MISTERK0937 不是本人 😭😭想表达的是是自己od的时候基本和视频一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2082593507718664630",
+        "created_at": "2026-07-29T23:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082604613887492421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "MISTERK0937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082604613887492421",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082604363680559282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MISTERK0937 不是本人 😭😭想表达的是是自己od的时候基本和视频一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2082593507718664630",
+        "created_at": "2026-07-29T23:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082604363680559282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082604363680559282",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082604110420025796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 小妹妹你你你不要吓我😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1386,
+          "like_count": 54561,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3382
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "本质毒蛆精神病\n♡炮友欧友宝宝主人妈妈♡@xiaotunovo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "xiaotunovo0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/curse37",
+                "end": 23,
+                "expanded_url": "https://ngl.link/curse37",
+                "start": 0,
+                "url": "https://t.co/BoOyx5gTDQ"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "location": "PR80",
+        "name": "Curse✟",
+        "pinned_tweet_id": "2082372910061330660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169865146949632/CxpDCaV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 402,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/BoOyx5gTDQ",
+        "username": "MISTERK0937",
+        "verified": false
+      }
+    ]
+  }
+}

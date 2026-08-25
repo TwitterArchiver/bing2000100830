@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086852517724582042",
+    "created_at": "2026-08-10T18:38:34.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086884932081885466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        },
+        {
+          "end": 29,
+          "id": "1975129821111074816",
+          "start": 17,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086884932081885466",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086852517724582042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ @woaiuai0721 爆炒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086852449021882372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX9PuqacAQjZyn.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2086852448917057536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX9PuRa8AAv5MW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086852517724582042",
+        "created_at": "2026-08-10T18:38:34.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086884932081885466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            },
+            {
+              "end": 29,
+              "id": "1975129821111074816",
+              "start": 17,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086884932081885466",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086852517724582042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ @woaiuai0721 爆炒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086852449021882372",
+            "3_2086852448917057536"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2086852517724582042",
+        "created_at": "2026-08-10T16:29:46.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086852517724582042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1975129821111074816",
+              "start": 9,
+              "username": "woaiuai0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/69f730ESi7",
+              "end": 45,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2086852517724582042/photo/1",
+              "media_key": "3_2086852449021882372",
+              "start": 22,
+              "url": "https://t.co/69f730ESi7"
+            },
+            {
+              "display_url": "pic.x.com/69f730ESi7",
+              "end": 45,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2086852517724582042/photo/1",
+              "media_key": "3_2086852448917057536",
+              "start": 22,
+              "url": "https://t.co/69f730ESi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086852517724582042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086852449021882372"
+          },
+          {
+            "media_key": "3_2086852448917057536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们应该没看过这个@woaiuai0721 https://t.co/69f730ESi7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086884932081885466",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1407,
+          "like_count": 56765,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3506
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀家族耻辱@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2086883673757106679",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 103,
+          "like_count": 6405,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰或者别的 很友善 别对我有太多恶意呀 直fo就是觉得你很好 互fo都是好人 骂我什么的随便吧\n@yumumu_msknb 挂上了\nip：浙江",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yumumu_msknb"
+              }
+            ]
+          }
+        },
+        "id": "1975129821111074816",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2086678582957670714",
+        "name": "朱雨辰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975129821111074816/1780457001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296700907839488/2A_JIihW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 177,
+          "like_count": 8305,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2097
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

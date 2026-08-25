@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2091051788816507159",
+    "created_at": "2026-08-22T12:50:38.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091146024555528351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747805105200480256",
+          "start": 0,
+          "username": "Bestvavvst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091146024555528351",
+    "in_reply_to_user_id": "1747805105200480256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091051788816507159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bestvavvst hi是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2091051788816507159",
+        "created_at": "2026-08-22T12:50:38.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091146024555528351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747805105200480256",
+              "start": 0,
+              "username": "Bestvavvst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091146024555528351",
+        "in_reply_to_user_id": "1747805105200480256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091051788816507159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bestvavvst hi是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747805105200480256",
+        "conversation_id": "2091051788816507159",
+        "created_at": "2026-08-22T06:36:10.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091051788816507159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091051788816507159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 625,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对于喜欢磕的朋友 泰国目前是最低成本可以去的地方 \n如果有稳定收入比如自媒体这种一技之长的话 能去就赶紧去吧 \n泰国🧊🥥的人非常多 但是那边不可以hi \n喜欢氯胺酮的可以看看老挝/马来西亚/迪拜/柬埔寨 \n马来西亚的电子烟便宜 柬埔寨的k便宜 但是我没有去过老挝 我有朋友说那边的k非常正点 🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2091146024555528351",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1397,
+          "like_count": 60436,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3594
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091144649310355563",
+        "name": "Vavvst「未成年不要fo」",
+        "pinned_tweet_id": "2090339322612645940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787073574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 71,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "Bestvavvst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "American musician",
+          "id": "1070731909250961410",
+          "name": "MUST DIE!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "American musician",
+          "id": "1070731909250961410",
+          "name": "MUST DIE!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Electronic",
+          "id": "849684313704611840",
+          "name": "Electronic music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1285999703704743938",
+          "name": "Dance & electronic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Electronic",
+          "id": "849684313704611840",
+          "name": "Electronic music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "American musician",
+          "id": "1070731909250961410",
+          "name": "MUST DIE!"
+        }
+      }
+    ],
+    "conversation_id": "2087544895246393774",
+    "created_at": "2026-08-14T10:23:14.000Z",
+    "display_text_range": [
+      20,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088209825331294509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072042591885901824",
+          "start": 0,
+          "username": "beepiglol"
+        },
+        {
+          "end": 19,
+          "id": "1781759398693507072",
+          "start": 11,
+          "username": "bnipill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088209825331294509",
+    "in_reply_to_user_id": "2072042591885901824",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087765296941588927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beepiglol @bnipill u must die after i die"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American musician",
+              "id": "1070731909250961410",
+              "name": "MUST DIE!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "American musician",
+              "id": "1070731909250961410",
+              "name": "MUST DIE!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American musician",
+              "id": "1070731909250961410",
+              "name": "MUST DIE!"
+            }
+          }
+        ],
+        "conversation_id": "2087544895246393774",
+        "created_at": "2026-08-14T10:23:14.000Z",
+        "display_text_range": [
+          20,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088209825331294509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072042591885901824",
+              "start": 0,
+              "username": "beepiglol"
+            },
+            {
+              "end": 19,
+              "id": "1781759398693507072",
+              "start": 11,
+              "username": "bnipill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088209825331294509",
+        "in_reply_to_user_id": "2072042591885901824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087765296941588927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beepiglol @bnipill u must die after i die"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072042591885901824",
+        "conversation_id": "2087544895246393774",
+        "created_at": "2026-08-13T04:56:50.000Z",
+        "display_text_range": [
+          9,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087765296941588927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1781759398693507072",
+              "start": 0,
+              "username": "bnipill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087765296941588927",
+        "in_reply_to_user_id": "1781759398693507072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2468,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087544895246393774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnipill that doesn't sound fun cuz that means u die"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2088209825331294509",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1404,
+          "like_count": 57686,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3535
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T19:41:05.000Z",
+        "description": "hi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ulakoriszx/abo…",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ulakoriszx/about",
+                "start": 0,
+                "url": "https://t.co/yetY0BY4AM"
+              }
+            ]
+          }
+        },
+        "id": "2072042591885901824",
+        "is_identity_verified": false,
+        "location": "lowelo",
+        "most_recent_tweet_id": "2088173637362745525",
+        "name": "beepig",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072042591885901824/1782956992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072492631494463489/D2Wjxj_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 2,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/yetY0BY4AM",
+        "username": "beepiglol",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:58:46.000Z",
+        "description": "moonlike princess",
+        "id": "1781759398693507072",
+        "is_identity_verified": false,
+        "location": "19y ♡",
+        "most_recent_tweet_id": "2087942212877197599",
+        "name": "bell",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781759398693507072/1784971975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087926433586761728/9Of68bOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 65,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "bnipill",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

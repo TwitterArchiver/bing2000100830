@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2082554054383972367",
+    "created_at": "2026-07-29T19:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082554054383972367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kawaiiangel/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Kawaiiangel/status/2078412415801414102",
+          "start": 3,
+          "url": "https://t.co/DONgOGZLus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082554054383972367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078412415801414102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿p https://t.co/DONgOGZLus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078412404627841024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgBEfKboAASbXN.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2082554054383972367",
+        "created_at": "2026-07-29T19:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082554054383972367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kawaiiangel/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Kawaiiangel/status/2078412415801414102",
+              "start": 3,
+              "url": "https://t.co/DONgOGZLus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082554054383972367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078412415801414102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿p https://t.co/DONgOGZLus"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078412404627841024"
+          ]
+        },
+        "author_id": "1875088110683566081",
+        "conversation_id": "2078412415801414102",
+        "created_at": "2026-07-18T09:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078412415801414102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8a8RdcaXEO",
+              "end": 43,
+              "expanded_url": "https://x.com/Kawaiiangel/status/2078412415801414102/photo/1",
+              "media_key": "3_2078412404627841024",
+              "start": 20,
+              "url": "https://t.co/8a8RdcaXEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078412415801414102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 5859,
+          "like_count": 552,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "Pienggyback-riding… https://t.co/8a8RdcaXEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1385,
+          "like_count": 54496,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T07:54:10.000Z",
+        "description": "Cutest kitty cat in the whole world11!11!111!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pchan",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pchan",
+                "start": 0,
+                "url": "https://t.co/JJI4wl1NKl"
+              }
+            ]
+          }
+        },
+        "id": "1875088110683566081",
+        "location": "@LarpAngel (YT and Twitch)",
+        "name": "₊˚⊹ 『P-chan』 ₊˚⊹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082344453256491008/xUQQF4p7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 197,
+          "like_count": 31001,
+          "listed_count": 2,
+          "media_count": 1370,
+          "tweet_count": 7120
+        },
+        "url": "https://t.co/JJI4wl1NKl",
+        "username": "Kawaiiangel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082541730528743424"
+      ],
+      "media_source_tweet_id": [
+        "2082541735457022032"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2082956343124918304",
+    "created_at": "2026-07-30T22:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082956343124918304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IgmZDvyNVy",
+          "end": 38,
+          "expanded_url": "https://x.com/obsesslvr/status/2082541735457022032/photo/1",
+          "media_key": "3_2082541730528743424",
+          "start": 15,
+          "url": "https://t.co/IgmZDvyNVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082956343124918304",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082541735457022032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: https://t.co/IgmZDvyNVy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2082541730528743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOasq44X0AASxdz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082541730528743424"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2082541735457022032",
+        "created_at": "2026-07-29T19:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082541735457022032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgmZDvyNVy",
+              "end": 23,
+              "expanded_url": "https://x.com/obsesslvr/status/2082541735457022032/photo/1",
+              "media_key": "3_2082541730528743424",
+              "start": 0,
+              "url": "https://t.co/IgmZDvyNVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082541735457022032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 11667,
+          "like_count": 1545,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 274
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/IgmZDvyNVy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082541730528743424"
+          ],
+          "media_source_tweet_id": [
+            "2082541735457022032"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2082956343124918304",
+        "created_at": "2026-07-30T22:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082956343124918304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgmZDvyNVy",
+              "end": 38,
+              "expanded_url": "https://x.com/obsesslvr/status/2082541735457022032/photo/1",
+              "media_key": "3_2082541730528743424",
+              "start": 15,
+              "url": "https://t.co/IgmZDvyNVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082956343124918304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082541735457022032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: https://t.co/IgmZDvyNVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1386,
+          "like_count": 54737,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3389
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082489498676473856/VpvpPhL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 5,
+          "like_count": 8177,
+          "listed_count": 13,
+          "media_count": 46,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2089652396834381970",
+    "created_at": "2026-08-18T21:06:03.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089821146816602213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "bubblelisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089821146816602213",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089753527757533640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblelisu 找回来了ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2089652396834381970",
+        "created_at": "2026-08-18T21:06:03.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089821146816602213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "bubblelisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089821146816602213",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089753527757533640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblelisu 找回来了ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2089652396834381970",
+        "created_at": "2026-08-18T16:37:21.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089753527757533640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089753527757533640",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089652396834381970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 宝宝我们的还有吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。\n｜成为天使的方法 https://t.co/CbAyzpvoMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 49,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 26,
+                "url": "https://t.co/CbAyzpvoMS"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2089821146816602213",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1409,
+          "like_count": 59045,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3581
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "#drugtwt / Genderfluid",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SIsWtJ"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2089784529812906129",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1786326747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 331,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2297
+        },
+        "url": "https://t.co/Q2C2SIsWtJ",
+        "username": "bubblelisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

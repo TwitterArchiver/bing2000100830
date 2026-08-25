@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083297081637347466",
+    "created_at": "2026-07-31T21:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083300699761418492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        },
+        {
+          "end": 29,
+          "id": "705087107849703424",
+          "start": 13,
+          "username": "NomfusiSetlhodi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083300699761418492",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083299168769220674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 @NomfusiSetlhodi 报警了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2083299156375019520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOldi4CaoAAlUAD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083297081637347466",
+        "created_at": "2026-07-31T21:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083300699761418492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            },
+            {
+              "end": 29,
+              "id": "705087107849703424",
+              "start": 13,
+              "username": "NomfusiSetlhodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083300699761418492",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083299168769220674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 @NomfusiSetlhodi 报警了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083299156375019520"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "conversation_id": "2083297081637347466",
+        "created_at": "2026-07-31T21:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083299168769220674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705087107849703424",
+              "start": 0,
+              "username": "NomfusiSetlhodi"
+            },
+            {
+              "end": 32,
+              "id": "1243590342911410176",
+              "start": 17,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvchb2pYh2",
+              "end": 69,
+              "expanded_url": "https://x.com/woaiuai0721/status/2083299168769220674/photo/1",
+              "media_key": "3_2083299156375019520",
+              "start": 46,
+              "url": "https://t.co/tvchb2pYh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083299168769220674",
+        "in_reply_to_user_id": "705087107849703424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083298873754448082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomfusiSetlhodi @bing2000100830 你是怎么找到这种东西的。 https://t.co/tvchb2pYh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1400,
+          "like_count": 55128,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3422
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰或者别的 很友善 别对我有太多恶意呀 直fo就是觉得你很好 互fo都是好人 骂我什么的随便吧\n@yumumu_msknb 挂上了\nip：浙江",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yumumu_msknb"
+              }
+            ]
+          }
+        },
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296700907839488/2A_JIihW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 174,
+          "like_count": 8269,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2077
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 20,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086687916148023693",
+    "created_at": "2026-08-11T07:52:47.000Z",
+    "display_text_range": [
+      43,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087084803481121153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921605352191356928",
+          "start": 0,
+          "username": "shengrentuoma"
+        },
+        {
+          "end": 28,
+          "id": "895650217676034048",
+          "start": 15,
+          "username": "ayashikinoco"
+        },
+        {
+          "end": 42,
+          "id": "1784109678953480192",
+          "start": 29,
+          "username": "chidianmaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087084803481121153",
+    "in_reply_to_user_id": "1921605352191356928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087045246249046079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengrentuoma @ayashikinoco @chidianmaima 你已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086687916148023693",
+        "created_at": "2026-08-11T07:52:47.000Z",
+        "display_text_range": [
+          43,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087084803481121153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921605352191356928",
+              "start": 0,
+              "username": "shengrentuoma"
+            },
+            {
+              "end": 28,
+              "id": "895650217676034048",
+              "start": 15,
+              "username": "ayashikinoco"
+            },
+            {
+              "end": 42,
+              "id": "1784109678953480192",
+              "start": 29,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087084803481121153",
+        "in_reply_to_user_id": "1921605352191356928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087045246249046079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengrentuoma @ayashikinoco @chidianmaima 你已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921605352191356928",
+        "conversation_id": "2086687916148023693",
+        "created_at": "2026-08-11T05:15:36.000Z",
+        "display_text_range": [
+          28,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087045246249046079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895650217676034048",
+              "start": 0,
+              "username": "ayashikinoco"
+            },
+            {
+              "end": 27,
+              "id": "1784109678953480192",
+              "start": 14,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087045246249046079",
+        "in_reply_to_user_id": "895650217676034048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086845459403002122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayashikinoco @chidianmaima 你他妈是傻逼吗？这都能拐啊，你拉不出屎怪地心引力对吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2087084803481121153",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1409,
+          "like_count": 57036,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3519
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-11T16:37:23.000Z",
+        "description": "",
+        "id": "1921605352191356928",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore",
+        "most_recent_tweet_id": "2087045246249046079",
+        "name": "汪精卫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056355404305547264/HxOEBMa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "shengrentuoma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-10T14:17:07.000Z",
+        "description": "投资反向标 给我10u我第一时间告诉你我买了哪些股票方便你减仓 这是我cp @N0rthern_Land",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "895650217676034048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087044460664512588",
+        "name": "可疑的小蘑菇",
+        "pinned_tweet_id": "2071645626174165354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895650217676034048/1751287529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063220332207751168/lBf8O3DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15119,
+          "following_count": 316,
+          "like_count": 5065,
+          "listed_count": 79,
+          "media_count": 185,
+          "tweet_count": 3905
+        },
+        "url": "",
+        "username": "ayashikinoco",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2087075065552908331",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 93,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2086692634559762677",
+    "created_at": "2026-08-10T06:24:39.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086700234743427174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841527273385840640",
+          "start": 0,
+          "username": "kansya123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086700234743427174",
+    "in_reply_to_user_id": "1841527273385840640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086699964999082115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansya123 呜呜呜 (。•ω•。)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2086692634559762677",
+        "created_at": "2026-08-10T06:24:39.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086700234743427174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841527273385840640",
+              "start": 0,
+              "username": "kansya123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086700234743427174",
+        "in_reply_to_user_id": "1841527273385840640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086699964999082115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansya123 呜呜呜 (。•ω•。)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841527273385840640",
+        "conversation_id": "2086692634559762677",
+        "created_at": "2026-08-10T06:23:35.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086699964999082115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086699964999082115",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086699614246404188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 饼～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2086700234743427174",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1408,
+          "like_count": 56763,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3505
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T17:15:06.000Z",
+        "description": "普通的学生 overd*se 中国语 日本語",
+        "id": "1841527273385840640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086699964999082115",
+        "name": "utu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841527273385840640/1762623939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973336055777722368/e4eWFUFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 38,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "kansya123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

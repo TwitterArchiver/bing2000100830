@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2091465181171998862",
+    "created_at": "2026-08-24T06:53:29.000Z",
+    "display_text_range": [
+      31,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091780921116729365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948038442790866945",
+          "start": 0,
+          "username": "Janeschan118623"
+        },
+        {
+          "end": 30,
+          "id": "1948550509801127936",
+          "start": 17,
+          "username": "JangHeya8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091780921116729365",
+    "in_reply_to_user_id": "1948038442790866945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091763340997787898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janeschan118623 @JangHeya8964 偷吃伊卡烟烟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091763340997787898].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091763340997787898",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091763340997787898"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2091465181171998862",
+        "created_at": "2026-08-24T06:53:29.000Z",
+        "display_text_range": [
+          31,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091780921116729365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948038442790866945",
+              "start": 0,
+              "username": "Janeschan118623"
+            },
+            {
+              "end": 30,
+              "id": "1948550509801127936",
+              "start": 17,
+              "username": "JangHeya8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091780921116729365",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091763340997787898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschan118623 @JangHeya8964 偷吃伊卡烟烟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2091780921116729365",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1403,
+          "like_count": 60834,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3611
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "无需问询，人生漫步任我行⚡ | Pinhead Larry📌 @Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "Janeschanshadow"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2077148048627753222",
+        "name": "Dirty Dan💀",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948038442790866945/1780866050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070165602220806144/LvqqQGNu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 346,
+          "like_count": 22240,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 3386
+        },
+        "url": "",
+        "username": "Janeschan118623",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T01:07:08.000Z",
+        "description": "一种相思花自飘零水自流",
+        "id": "1948550509801127936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091774855041692035",
+        "name": "葱之蹄",
+        "pinned_tweet_id": "2084220701834375665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948550509801127936/1785764445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834476346601472/7FgK4s-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 113,
+          "like_count": 3084,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 834
+        },
+        "url": "",
+        "username": "JangHeya8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

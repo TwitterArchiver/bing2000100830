@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2088634182855766094",
+    "created_at": "2026-08-15T22:47:00.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088759391516549629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "hibikiwataru167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088759391516549629",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088634182855766094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hibikiwataru167 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2088634182855766094",
+        "created_at": "2026-08-15T22:47:00.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088759391516549629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "hibikiwataru167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088759391516549629",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088634182855766094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hibikiwataru167 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "conversation_id": "2088634182855766094",
+        "created_at": "2026-08-15T14:29:28.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088634182855766094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088634182855766094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滾你媽的一群蠢貨\n報警抓我回去我照樣跑\n滾遠點"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2088759391516549629",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1403,
+          "like_count": 57958,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3539
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4FCgb"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "is_identity_verified": false,
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "most_recent_tweet_id": "2088647560508682669",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2081734565341929541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039986041218592768/1775208525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 94,
+          "like_count": 7338,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/5WmYE4FCgb",
+        "username": "hibikiwataru167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

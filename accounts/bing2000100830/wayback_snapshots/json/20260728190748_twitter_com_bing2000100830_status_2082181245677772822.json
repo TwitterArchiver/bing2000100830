@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2082181245677772822",
+    "created_at": "2026-07-28T19:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082181245677772822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007439875726028800",
+          "start": 3,
+          "username": "Hakumei_reimaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082181245677772822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060980661582991859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakumei_reimaku: 因为过早接触互联网导致人生开了二倍速"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2082181245677772822",
+        "created_at": "2026-07-28T19:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082181245677772822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007439875726028800",
+              "start": 3,
+              "username": "Hakumei_reimaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082181245677772822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060980661582991859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakumei_reimaku: 因为过早接触互联网导致人生开了二倍速"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2060980661582991859",
+        "created_at": "2026-05-31T07:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060980661582991859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shivam3228/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Shivam3228/status/2060693360311189952",
+              "start": 19,
+              "url": "https://t.co/EpPMGhXlAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060980661582991859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060693360311189952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为过早接触互联网导致人生开了二倍速 https://t.co/EpPMGhXlAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1386,
+          "like_count": 54250,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3369
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌DX14208/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_/可代水货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2079848643755225495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 410,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "Hakumei_reimaku",
+        "verified": false
+      }
+    ]
+  }
+}

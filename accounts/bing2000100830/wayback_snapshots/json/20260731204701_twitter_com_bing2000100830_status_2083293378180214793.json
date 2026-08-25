@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083292152012972334",
+    "created_at": "2026-07-31T20:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083293378180214793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083293378180214793",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083292152012972334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x 好可爱的袜子 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083292146682015744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlXK25XsAA2GXj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083292152012972334",
+        "created_at": "2026-07-31T20:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083293378180214793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083293378180214793",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083292152012972334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x 好可爱的袜子 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083292146682015744"
+          ]
+        },
+        "author_id": "1534344658033180672",
+        "conversation_id": "2083292152012972334",
+        "created_at": "2026-07-31T20:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083292152012972334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWN7zyZyf5",
+              "end": 81,
+              "expanded_url": "https://x.com/_tom0e_x/status/2083292152012972334/photo/1",
+              "media_key": "3_2083292146682015744",
+              "start": 58,
+              "url": "https://t.co/vWN7zyZyf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083292152012972334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仇恨者会说吧 ‘they’re an outfit repeater !’\n#病み垢さんと繋がりたい #自撮り界隈 https://t.co/vWN7zyZyf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1398,
+          "like_count": 55024,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3411
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2082287037265146250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076612225880506368/0wrap7kI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 177,
+          "like_count": 56423,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 2888
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

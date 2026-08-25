@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2088739374578237648",
+    "created_at": "2026-08-15T22:39:45.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088757564586824162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088757564586824162",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088739374578237648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 布丁塔菲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2088739374578237648",
+        "created_at": "2026-08-15T22:39:45.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088757564586824162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088757564586824162",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088739374578237648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 布丁塔菲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2088739374578237648",
+        "created_at": "2026-08-15T21:27:28.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088739374578237648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088739374578237648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗我直播途中默默来了24t右美沙芬本来想下播爽一下结果因为直播前有事让我吃了1mg劳拉0.8mg四字常见苯二氮卓类药物然后我下播就躺在床上成大傻逼了闭上眼睛再睁开就是现在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "海",
+        "most_recent_tweet_id": "2088757564586824162",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1403,
+          "like_count": 57939,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3538
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "is_identity_verified": false,
+        "location": "メジコン",
+        "most_recent_tweet_id": "2088739374578237648",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949348575378644992/1773215594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 406,
+          "like_count": 4198,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2927
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

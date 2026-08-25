@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2083209716298322249",
+    "created_at": "2026-07-31T15:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083209716298322249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kawaiiangel/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Kawaiiangel/status/2083160908537462895",
+          "start": 6,
+          "url": "https://t.co/ZFigA4DZn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083209716298322249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083160908537462895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天使请救我 https://t.co/ZFigA4DZn3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2083160897875501056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjfzK_aYAAL5xg.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2083209716298322249",
+        "created_at": "2026-07-31T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083209716298322249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kawaiiangel/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Kawaiiangel/status/2083160908537462895",
+              "start": 6,
+              "url": "https://t.co/ZFigA4DZn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083209716298322249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083160908537462895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天使请救我 https://t.co/ZFigA4DZn3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083160897875501056"
+          ]
+        },
+        "author_id": "1875088110683566081",
+        "conversation_id": "2083160908537462895",
+        "created_at": "2026-07-31T12:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083160908537462895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8lv91IrAt",
+              "end": 55,
+              "expanded_url": "https://x.com/Kawaiiangel/status/2083160908537462895/photo/1",
+              "media_key": "3_2083160897875501056",
+              "start": 32,
+              "url": "https://t.co/f8lv91IrAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083160908537462895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 338,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "It’s okay Pien I forgive u mwah https://t.co/f8lv91IrAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 1389,
+          "like_count": 54842,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3395
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T07:54:10.000Z",
+        "description": "| lvl 18 ♂ | Christian ✟ | taken ♡ | P-chan’s strongest soldier | Actually a Streamer | EU-time | #1 ranked on #larptwt | 16- DNI | (All Parody)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 111,
+                "tag": "larptwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pchan",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pchan",
+                "start": 0,
+                "url": "https://t.co/JJI4wl1fUN"
+              }
+            ]
+          }
+        },
+        "id": "1875088110683566081",
+        "location": "@LarpAngel (YT and Twitch)",
+        "name": "✟🎀OMGKawaiiAngel!!🎀✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083097522822926338/WDz9AvLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 193,
+          "like_count": 31132,
+          "listed_count": 2,
+          "media_count": 1378,
+          "tweet_count": 7153
+        },
+        "url": "https://t.co/JJI4wl1fUN",
+        "username": "Kawaiiangel",
+        "verified": true
+      }
+    ]
+  }
+}
