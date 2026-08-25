@@ -1,25 +1,12 @@
 {
   "name": "饼",
   "username": "@bing2000100830",
-  "bio": "世界还有很多值得我们逃避的东西。   最爱: @LeeYooSun_ 第一好: @KKKaoru_",
-  "location": "海",
+  "bio": "世界还有很多值得我们逃避的东西。",
+  "location": "可以躲起来的软软的地方",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "1962056142768730568",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 34,
-        "start": 23,
-        "username": "LeeYooSun_"
-      },
-      {
-        "end": 49,
-        "start": 40,
-        "username": "KKKaoru_"
-      }
-    ]
-  },
+  "bio_entities": {},
   "_avatar_source": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg"
 }
