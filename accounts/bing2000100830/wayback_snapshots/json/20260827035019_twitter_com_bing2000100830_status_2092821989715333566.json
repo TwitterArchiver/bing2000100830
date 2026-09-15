@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081703809580220417"
+      ],
+      "media_source_tweet_id": [
+        "2081703815821369393"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2092821989715333566",
+    "created_at": "2026-08-27T03:50:19.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092821989715333566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927729739843948544",
+          "start": 3,
+          "username": "rnlex4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EC4dbeTs1J",
+          "end": 35,
+          "expanded_url": "https://x.com/rnlex4/status/2081703815821369393/photo/1",
+          "media_key": "3_2081703809580220417",
+          "start": 12,
+          "url": "https://t.co/EC4dbeTs1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092821989715333566",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2081703809580220417"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081703815821369393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnlex4: https://t.co/EC4dbeTs1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081703809580220417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOyleGbQAE_5Q5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081703809580220417"
+          ],
+          "media_source_tweet_id": [
+            "2081703815821369393"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2092821989715333566",
+        "created_at": "2026-08-27T03:50:19.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092821989715333566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927729739843948544",
+              "start": 3,
+              "username": "rnlex4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC4dbeTs1J",
+              "end": 35,
+              "expanded_url": "https://x.com/rnlex4/status/2081703815821369393/photo/1",
+              "media_key": "3_2081703809580220417",
+              "start": 12,
+              "url": "https://t.co/EC4dbeTs1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092821989715333566",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2081703809580220417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081703815821369393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnlex4: https://t.co/EC4dbeTs1J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081703809580220417"
+          ]
+        },
+        "author_id": "1927729739843948544",
+        "conversation_id": "2081703815821369393",
+        "created_at": "2026-07-27T11:30:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081703815821369393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC4dbeTs1J",
+              "end": 23,
+              "expanded_url": "https://x.com/rnlex4/status/2081703815821369393/photo/1",
+              "media_key": "3_2081703809580220417",
+              "start": 0,
+              "url": "https://t.co/EC4dbeTs1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081703815821369393",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2081703809580220417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4875,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EC4dbeTs1J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2092821989715333566",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1409,
+          "like_count": 61385,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3632
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T14:12:58.000Z",
+        "description": "",
+        "id": "1927729739843948544",
+        "is_identity_verified": false,
+        "location": "ざな",
+        "most_recent_tweet_id": "2091857505249018282",
+        "name": "👁",
+        "pinned_tweet_id": "1958789025852268874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927729739843948544/1782728251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035243974420832261/bfGEDbab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 53,
+          "like_count": 2427,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "rnlex4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

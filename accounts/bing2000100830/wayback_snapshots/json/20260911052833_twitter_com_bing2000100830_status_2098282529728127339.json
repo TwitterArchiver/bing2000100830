@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1438916416346853378",
+          "name": "Setembro Amarelo (Yellow September)"
+        }
+      }
+    ],
+    "conversation_id": "2098282529728127339",
+    "created_at": "2026-09-11T05:28:33.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T06:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098282529728127339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014892303895150592",
+          "start": 3,
+          "username": "iwalyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098282529728127339",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098131080012353598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwalyvu: Desculpa setembro amarelo mas infelizmente eu vou ter que me matar ainda esse mês"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1438916416346853378",
+              "name": "Setembro Amarelo (Yellow September)"
+            }
+          }
+        ],
+        "conversation_id": "2098282529728127339",
+        "created_at": "2026-09-11T05:28:33.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098282529728127339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014892303895150592",
+              "start": 3,
+              "username": "iwalyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098282529728127339",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098131080012353598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwalyvu: Desculpa setembro amarelo mas infelizmente eu vou ter que me matar ainda esse mês"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014892303895150592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1438916416346853378",
+              "name": "Setembro Amarelo (Yellow September)"
+            }
+          }
+        ],
+        "conversation_id": "2098131080012353598",
+        "created_at": "2026-09-10T19:26:45.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098131080012353598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098131080012353598",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 18381,
+          "like_count": 2269,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "Desculpa setembro amarelo mas infelizmente eu vou ter que me matar ainda esse mês"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098282529728127339",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1464,
+          "like_count": 64764,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3889
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-24T02:45:47.000Z",
+        "description": "cinéraire.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/e2cSv",
+                "end": 23,
+                "expanded_url": "https://boxd.it/e2cSv",
+                "start": 0,
+                "url": "https://t.co/UTFOEmwhht"
+              }
+            ]
+          }
+        },
+        "id": "2014892303895150592",
+        "is_identity_verified": false,
+        "location": "‎  ۘ ⠀he/she",
+        "most_recent_tweet_id": "2098225907513053479",
+        "name": "makei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014892303895150592/1788725494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096244762147704833/JZhNHS5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 80,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/UTFOEmwhht",
+        "username": "iwalyvu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

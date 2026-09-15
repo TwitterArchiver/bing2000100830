@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098077776725291099",
+    "created_at": "2026-09-10T15:54:57.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098077776725291099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951804097340067840",
+          "start": 3,
+          "username": "_satumanoriko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098077776725291099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097921819772932237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_satumanoriko: いじめられてるわけじゃないのに学校行きたくない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098077776725291099",
+        "created_at": "2026-09-10T15:54:57.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098077776725291099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1951804097340067840",
+              "start": 3,
+              "username": "_satumanoriko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098077776725291099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097921819772932237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_satumanoriko: いじめられてるわけじゃないのに学校行きたくない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951804097340067840",
+        "conversation_id": "2097921819772932237",
+        "created_at": "2026-09-10T05:35:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097921819772932237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097921819772932237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 16707,
+          "like_count": 1562,
+          "quote_count": 23,
+          "reply_count": 2,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "いじめられてるわけじゃないのに学校行きたくない"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098077776725291099",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1463,
+          "like_count": 64681,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3866
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-03T00:35:54.000Z",
+        "description": "ljc/👊🏻🩸/顔面コンプ　無言フォロー失礼します",
+        "id": "1951804097340067840",
+        "is_identity_verified": false,
+        "location": "ツイ消し常習犯",
+        "most_recent_tweet_id": "2098021138496692276",
+        "name": "はなこんぷ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951804097340067840/1787473196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097921265738956800/mUGzoi-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 117,
+          "like_count": 2095,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "_satumanoriko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

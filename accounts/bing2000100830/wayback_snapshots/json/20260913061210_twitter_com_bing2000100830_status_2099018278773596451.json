@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2098895608853778432"
+      ],
+      "media_source_tweet_id": [
+        "2098896494824980487"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099018278773596451",
+    "created_at": "2026-09-13T06:12:10.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099018278773596451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781405364245737472",
+          "start": 3,
+          "username": "G0NE____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CPDEMamVH",
+          "end": 37,
+          "expanded_url": "https://x.com/G0NE____/status/2098896494824980487/photo/1",
+          "media_key": "16_2098895608853778432",
+          "start": 14,
+          "url": "https://t.co/5CPDEMamVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099018278773596451",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2098895608853778432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098896494824980487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G0NE____: https://t.co/5CPDEMamVH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "16_2098895608853778432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSDGb5JbUAAkCp9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSDGb5JbUAAkCp9.mp4"
+          }
+        ],
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098895608853778432"
+          ],
+          "media_source_tweet_id": [
+            "2098896494824980487"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099018278773596451",
+        "created_at": "2026-09-13T06:12:10.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099018278773596451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781405364245737472",
+              "start": 3,
+              "username": "G0NE____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CPDEMamVH",
+              "end": 37,
+              "expanded_url": "https://x.com/G0NE____/status/2098896494824980487/photo/1",
+              "media_key": "16_2098895608853778432",
+              "start": 14,
+              "url": "https://t.co/5CPDEMamVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099018278773596451",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2098895608853778432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098896494824980487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G0NE____: https://t.co/5CPDEMamVH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098895608853778432"
+          ]
+        },
+        "author_id": "1781405364245737472",
+        "conversation_id": "2098896494824980487",
+        "created_at": "2026-09-12T22:08:14.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T23:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098896494824980487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CPDEMamVH",
+              "end": 23,
+              "expanded_url": "https://x.com/G0NE____/status/2098896494824980487/photo/1",
+              "media_key": "16_2098895608853778432",
+              "start": 0,
+              "url": "https://t.co/5CPDEMamVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098896494824980487",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2098895608853778432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2312,
+          "impression_count": 126418,
+          "like_count": 8822,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5CPDEMamVH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099018278773596451",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 65055,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3965
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-19T19:31:59.000Z",
+        "description": "@McGrill11 the 3rd 🦆 \nJust a duck at ur local pond 『22』\nI make shitty gifs\nalt: @Burner00900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "McGrill11"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Burner00900"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "media.tenor.com/2wPCzBrKJP8AAA…",
+                "end": 23,
+                "expanded_url": "https://media.tenor.com/2wPCzBrKJP8AAAAM/hyper-anime.gif",
+                "start": 0,
+                "url": "https://t.co/7PgUvOuh0q"
+              }
+            ]
+          }
+        },
+        "id": "1781405364245737472",
+        "is_identity_verified": false,
+        "location": "Tiananmen Square ",
+        "most_recent_tweet_id": "2098994131225968907",
+        "name": "McGriller🦆",
+        "pinned_tweet_id": "2049810872369926285",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781405364245737472/1758311221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022899560280911872/vr3SqGPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6189,
+          "following_count": 1304,
+          "like_count": 54092,
+          "listed_count": 24,
+          "media_count": 2069,
+          "tweet_count": 5539
+        },
+        "url": "https://t.co/7PgUvOuh0q",
+        "username": "G0NE____",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2093975817164619776"
+      ],
+      "media_source_tweet_id": [
+        "2093975827738501236"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094245797953159241",
+    "created_at": "2026-08-31T02:08:02.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094245797953159241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965505324879953920",
+          "start": 3,
+          "username": "__1yclli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/es4bPd2TjC",
+          "end": 37,
+          "expanded_url": "https://x.com/__1yclli/status/2093975827738501236/photo/1",
+          "media_key": "16_2093975817164619776",
+          "start": 14,
+          "url": "https://t.co/es4bPd2TjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094245797953159241",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2093975817164619776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093975827738501236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__1yclli: https://t.co/es4bPd2TjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "16_2093975817164619776",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQ9L6U5bAAAaFE6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQ9L6U5bAAAaFE6.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093975817164619776"
+          ],
+          "media_source_tweet_id": [
+            "2093975827738501236"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094245797953159241",
+        "created_at": "2026-08-31T02:08:02.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094245797953159241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965505324879953920",
+              "start": 3,
+              "username": "__1yclli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/es4bPd2TjC",
+              "end": 37,
+              "expanded_url": "https://x.com/__1yclli/status/2093975827738501236/photo/1",
+              "media_key": "16_2093975817164619776",
+              "start": 14,
+              "url": "https://t.co/es4bPd2TjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094245797953159241",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2093975817164619776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093975827738501236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__1yclli: https://t.co/es4bPd2TjC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093975817164619776"
+          ]
+        },
+        "author_id": "1965505324879953920",
+        "conversation_id": "2093975827738501236",
+        "created_at": "2026-08-30T08:15:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093975827738501236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/es4bPd2TjC",
+              "end": 23,
+              "expanded_url": "https://x.com/__1yclli/status/2093975827738501236/photo/1",
+              "media_key": "16_2093975817164619776",
+              "start": 0,
+              "url": "https://t.co/es4bPd2TjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093975827738501236",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2093975817164619776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 17070,
+          "like_count": 1936,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/es4bPd2TjC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094245797953159241",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1415,
+          "like_count": 62154,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T19:59:34.000Z",
+        "description": "@yuz9_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "yuz9_i"
+              }
+            ]
+          }
+        },
+        "id": "1965505324879953920",
+        "is_identity_verified": false,
+        "location": "❤︎あいさちゃん",
+        "most_recent_tweet_id": "2094232769807425572",
+        "name": "俺のせいじゃない",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965505324879953920/1782059823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092151318718930944/E-vgPfxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 224,
+          "like_count": 3996,
+          "listed_count": 7,
+          "media_count": 67,
+          "tweet_count": 4160
+        },
+        "url": "",
+        "username": "__1yclli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

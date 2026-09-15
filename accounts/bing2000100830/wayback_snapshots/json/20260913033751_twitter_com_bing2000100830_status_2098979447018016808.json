@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098979447018016808",
+    "created_at": "2026-09-13T03:37:51.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098979447018016808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933651983443111938",
+          "start": 3,
+          "username": "qichuanshangshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098979447018016808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098872667285893299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qichuanshangshu: 你以前喜欢过的那个婊子是什么样子？她家庭比我健康吗？精神比我正常吗？长的很漂亮吗？也会像我这样疑神疑鬼吗？我好恨啊为什么我不是你第一个喜欢的人。。为什么你认识这么多婊子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098979447018016808",
+        "created_at": "2026-09-13T03:37:51.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098979447018016808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933651983443111938",
+              "start": 3,
+              "username": "qichuanshangshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098979447018016808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098872667285893299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qichuanshangshu: 你以前喜欢过的那个婊子是什么样子？她家庭比我健康吗？精神比我正常吗？长的很漂亮吗？也会像我这样疑神疑鬼吗？我好恨啊为什么我不是你第一个喜欢的人。。为什么你认识这么多婊子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933651983443111938",
+        "conversation_id": "2098872667285893299",
+        "created_at": "2026-09-12T20:33:33.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098872667285893299"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "8bd61930ae4f642d"
+        },
+        "id": "2098872667285893299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你以前喜欢过的那个婊子是什么样子？她家庭比我健康吗？精神比我正常吗？长的很漂亮吗？也会像我这样疑神疑鬼吗？我好恨啊为什么我不是你第一个喜欢的人。。为什么你认识这么多婊子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098979447018016808",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 64970,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3934
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-13T22:25:42.000Z",
+        "description": "我是雨が降る｜主人@Sep_Hyxw｜友跨顺女｜同类互fo大欢迎｜舞萌/负能/餐券｜请来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Sep_Hyxw"
+              }
+            ]
+          }
+        },
+        "id": "1933651983443111938",
+        "is_identity_verified": false,
+        "location": "你心里♡",
+        "most_recent_tweet_id": "2098872667285893299",
+        "name": "雨が降る",
+        "pinned_tweet_id": "2098126720608120928",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933651983443111938/1755360001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098124864288849921/vddOPjDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 167,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "qichuanshangshu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

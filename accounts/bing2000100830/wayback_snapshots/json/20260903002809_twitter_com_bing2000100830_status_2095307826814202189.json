@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095307826814202189",
+    "created_at": "2026-09-03T00:28:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T01:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095307826814202189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "135134664",
+          "start": 3,
+          "username": "yume_icky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095307826814202189",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095127716366618914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yume_icky: im supposed to be productive. instead here i am making dumb shi like this... (im not sorry) i just love nso and ame ok? http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16256,
+        "height": 1080,
+        "media_key": "13_2095127385343766528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095127385343766528/img/GonJQ6QIm-cW5miC.jpg",
+        "public_metrics": {
+          "view_count": 260
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095127385343766528/pl/LeqRvAlIciukT-wI.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095127385343766528/vid/avc1/540x540/Jq7DgpvmAOjiQ_tk.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095127385343766528/vid/avc1/720x720/kajOSCMjPmxptHYQ.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095127385343766528/vid/avc1/1080x1080/6GeOhHS-OHbZ_ovj.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095127385343766528/vid/avc1/320x320/p7o6zs77wkgSy4Or.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095307826814202189",
+        "created_at": "2026-09-03T00:28:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T01:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095307826814202189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "135134664",
+              "start": 3,
+              "username": "yume_icky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095307826814202189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095127716366618914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yume_icky: im supposed to be productive. instead here i am making dumb shi like this... (im not sorry) i just love nso and ame ok? http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095127385343766528"
+          ]
+        },
+        "author_id": "135134664",
+        "conversation_id": "2095127716366618914",
+        "created_at": "2026-09-02T12:32:27.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095127716366618914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpBJf1OPMV",
+              "end": 143,
+              "expanded_url": "https://x.com/yume_icky/status/2095127716366618914/video/1",
+              "media_key": "13_2095127385343766528",
+              "start": 120,
+              "url": "https://t.co/hpBJf1OPMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095127716366618914",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095127385343766528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 941,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "im supposed to be productive. instead here i am making dumb shi like this... (im not sorry) i just love nso and ame ok? https://t.co/hpBJf1OPMV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095307826814202189",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1434,
+          "like_count": 63114,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-20T12:39:49.000Z",
+        "description": "˚ʚ♡ɞ˚ hikikomori girlfailure ˚ʚ♡ɞ˚\n\nhad to delete b4 :(\ni make AMVs sometimes\nhopelessly addicted to sad media ꨄ︎\n@pinkphosphylite 's #1 FAN!\n\ntaken 𖹭.ᐟ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "pinkphosphylite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yume-icky.straw.page",
+                "end": 23,
+                "expanded_url": "https://yume-icky.straw.page/",
+                "start": 0,
+                "url": "https://t.co/1HfIGsb4b0"
+              }
+            ]
+          }
+        },
+        "id": "135134664",
+        "is_identity_verified": false,
+        "location": "(25f) Cyberia (eng/rus)",
+        "most_recent_tweet_id": "2095306623736820083",
+        "name": "Yume Icky",
+        "pinned_tweet_id": "2093584543559401900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135134664/1786771030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094274406264745984/m7APZf1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 204,
+          "like_count": 2023,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/1HfIGsb4b0",
+        "username": "yume_icky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

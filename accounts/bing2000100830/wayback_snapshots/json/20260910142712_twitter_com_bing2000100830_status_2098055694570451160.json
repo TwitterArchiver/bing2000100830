@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098055694570451160",
+    "created_at": "2026-09-10T14:27:12.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098055694570451160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1698581212678553600",
+          "start": 3,
+          "username": "nSIhkpGbsc34142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098055694570451160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 646
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097828349292978338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nSIhkpGbsc34142: 死が人生の選択肢に入ってからマジで怠惰になった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098055694570451160",
+        "created_at": "2026-09-10T14:27:12.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098055694570451160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1698581212678553600",
+              "start": 3,
+              "username": "nSIhkpGbsc34142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098055694570451160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097828349292978338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nSIhkpGbsc34142: 死が人生の選択肢に入ってからマジで怠惰になった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698581212678553600",
+        "conversation_id": "2097828349292978338",
+        "created_at": "2026-09-09T23:23:48.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097828349292978338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ceriz_floroj/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ceriz_floroj/status/2097590993134731385",
+              "start": 24,
+              "url": "https://t.co/a3dS6Cak9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097828349292978338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 651,
+          "impression_count": 641048,
+          "like_count": 8643,
+          "quote_count": 142,
+          "reply_count": 0,
+          "retweet_count": 646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097590993134731385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死が人生の選択肢に入ってからマジで怠惰になった https://t.co/a3dS6Cak9k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098055694570451160",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1463,
+          "like_count": 64662,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-04T06:18:41.000Z",
+        "description": "ずっと大失敗 👊🩸/顔面コンプ/人生コンプ/無言フォロー失礼します🙇🏻‍♀️💦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com",
+                "start": 0,
+                "url": "https://t.co/HurM1Akaqc"
+              }
+            ]
+          }
+        },
+        "id": "1698581212678553600",
+        "is_identity_verified": false,
+        "location": "顔面キャンセル界隈",
+        "most_recent_tweet_id": "2098045502449451028",
+        "name": "毎日疲れた",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698581212678553600/1694429229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701185609040338944/mb4ylGsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 537,
+          "like_count": 24045,
+          "listed_count": 11,
+          "media_count": 101,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/HurM1Akaqc",
+        "username": "nSIhkpGbsc34142",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

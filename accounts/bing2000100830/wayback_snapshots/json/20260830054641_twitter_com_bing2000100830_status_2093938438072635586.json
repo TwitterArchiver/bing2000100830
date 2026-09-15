@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093862126809235596",
+    "created_at": "2026-08-30T05:46:41.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093938438072635586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810616157059301376",
+          "start": 0,
+          "username": "Bocchi_Kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093938438072635586",
+    "in_reply_to_user_id": "1810616157059301376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093933710257373311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi_Kk1 好耶波奇大王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T05:46:41.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093938438072635586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810616157059301376",
+              "start": 0,
+              "username": "Bocchi_Kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093938438072635586",
+        "in_reply_to_user_id": "1810616157059301376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093933710257373311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi_Kk1 好耶波奇大王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810616157059301376",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T05:27:54.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093933710257373311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093933710257373311",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093862126809235596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 生日快乐！！！🥳🥳🥳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093938438072635586",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1413,
+          "like_count": 61992,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3662
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "我是傻逼/想和别人互fo",
+        "id": "1810616157059301376",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2093933710257373311",
+        "name": "可爱波奇大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810616157059301376/1777911847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 271,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

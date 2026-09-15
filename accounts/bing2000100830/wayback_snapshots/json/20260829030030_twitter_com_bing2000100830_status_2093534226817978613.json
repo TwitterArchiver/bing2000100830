@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093511854928596992"
+      ],
+      "media_source_tweet_id": [
+        "2093511861757001894"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093534226817978613",
+    "created_at": "2026-08-29T03:00:30.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093534226817978613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772058587134631937",
+          "start": 3,
+          "username": "meowjaaiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKEEHbz8EB",
+          "end": 77,
+          "expanded_url": "https://x.com/meowjaaiii/status/2093511861757001894/photo/1",
+          "media_key": "3_2093511854928596992",
+          "start": 54,
+          "url": "https://t.co/gKEEHbz8EB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093534226817978613",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2093511854928596992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093511861757001894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowjaaiii: P-chan también quiere ser streamer :( https://t.co/gKEEHbz8EB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1794,
+        "media_key": "3_2093511854928596992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2l8K4WkAAZ3Gd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093511854928596992"
+          ],
+          "media_source_tweet_id": [
+            "2093511861757001894"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093534226817978613",
+        "created_at": "2026-08-29T03:00:30.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093534226817978613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772058587134631937",
+              "start": 3,
+              "username": "meowjaaiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKEEHbz8EB",
+              "end": 77,
+              "expanded_url": "https://x.com/meowjaaiii/status/2093511861757001894/photo/1",
+              "media_key": "3_2093511854928596992",
+              "start": 54,
+              "url": "https://t.co/gKEEHbz8EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093534226817978613",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2093511854928596992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093511861757001894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowjaaiii: P-chan también quiere ser streamer :( https://t.co/gKEEHbz8EB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093511854928596992"
+          ]
+        },
+        "author_id": "1772058587134631937",
+        "conversation_id": "2093511861757001894",
+        "created_at": "2026-08-29T01:31:38.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093511861757001894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKEEHbz8EB",
+              "end": 61,
+              "expanded_url": "https://x.com/meowjaaiii/status/2093511861757001894/photo/1",
+              "media_key": "3_2093511854928596992",
+              "start": 38,
+              "url": "https://t.co/gKEEHbz8EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093511861757001894",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2093511854928596992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1408,
+          "like_count": 315,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "P-chan también quiere ser streamer :( https://t.co/gKEEHbz8EB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093534226817978613",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1406,
+          "like_count": 61589,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3638
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-25T00:31:17.000Z",
+        "description": "estabilidad mental y plata son 2 cosas q no tengo\n#obstwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 50,
+                "tag": "obstwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@amecidio?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@amecidio?_r=1&_t=ZS-98VWo45Pa89",
+                "start": 0,
+                "url": "https://t.co/7PhwaNWHro"
+              }
+            ]
+          }
+        },
+        "id": "1772058587134631937",
+        "is_identity_verified": false,
+        "location": "momazos ame chan",
+        "most_recent_tweet_id": "2093511861757001894",
+        "name": "ame :3",
+        "pinned_tweet_id": "2046325152749597113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772058587134631937/1786734438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056108293173526528/n7HXLCjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 362,
+          "like_count": 29485,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 17838
+        },
+        "url": "https://t.co/7PhwaNWHro",
+        "username": "meowjaaiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

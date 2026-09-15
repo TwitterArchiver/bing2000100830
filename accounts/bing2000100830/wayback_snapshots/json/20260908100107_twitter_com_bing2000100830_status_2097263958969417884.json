@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2097256688378356023",
+    "created_at": "2026-09-08T10:01:07.000Z",
+    "display_text_range": [
+      30,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097263958969417884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        },
+        {
+          "end": 29,
+          "id": "1820207828931424256",
+          "start": 17,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097263958969417884",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097258176009977874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ @neko0202002 杯杯霖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2097256688378356023",
+        "created_at": "2026-09-08T10:01:07.000Z",
+        "display_text_range": [
+          30,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097263958969417884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            },
+            {
+              "end": 29,
+              "id": "1820207828931424256",
+              "start": 17,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097263958969417884",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097258176009977874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ @neko0202002 杯杯霖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2097256688378356023",
+        "created_at": "2026-09-08T09:38:08.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097258176009977874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097258176009977874",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097258091029106759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 乐子霖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2097263958969417884",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1457,
+          "like_count": 64384,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3832
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "霖21号机\n开学淡推不闲聊，消息晚上回我住宿\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@rin917_8964❀狗侄子@woaiuai0721❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "rin917_8964"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlUpGv"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2097260676083540101",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1787985006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 140,
+          "like_count": 8921,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/CHH7qlUpGv",
+        "username": "IiRin_00917_QwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097259589679071505",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 542,
+          "like_count": 2753,
+          "listed_count": 4,
+          "media_count": 2644,
+          "tweet_count": 7475
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

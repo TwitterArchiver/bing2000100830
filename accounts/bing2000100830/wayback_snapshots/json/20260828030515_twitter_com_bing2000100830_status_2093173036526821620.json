@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093023855128584408",
+    "created_at": "2026-08-28T03:05:15.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093173036526821620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070541460659924992",
+          "start": 0,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093173036526821620",
+    "in_reply_to_user_id": "2070541460659924992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093023855128584408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiri_yume1 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093023855128584408",
+        "created_at": "2026-08-28T03:05:15.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093173036526821620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070541460659924992",
+              "start": 0,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093173036526821620",
+        "in_reply_to_user_id": "2070541460659924992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093023855128584408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiri_yume1 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2093023855128584408",
+        "created_at": "2026-08-27T17:12:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093023855128584408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093023855128584408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 972,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多陪陪我吧 我没有几天了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093173036526821620",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1407,
+          "like_count": 61407,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3634
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "其实是ロプ三代目 || 放弃世界",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093039530958025097",
+        "name": "ロプ（Kiriyume）",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1787152678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091589297510182912/n7vG1Puo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 151,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

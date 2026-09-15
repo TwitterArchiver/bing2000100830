@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095465859582193731",
+    "created_at": "2026-09-03T10:56:07.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095465859582193731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1841527273385840640",
+          "start": 3,
+          "username": "kansya123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095465859582193731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095168442848711033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kansya123: 好害怕大社会，想磕一辈子的药，一辈子待在小圈子里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095465859582193731",
+        "created_at": "2026-09-03T10:56:07.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095465859582193731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1841527273385840640",
+              "start": 3,
+              "username": "kansya123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095465859582193731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095168442848711033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kansya123: 好害怕大社会，想磕一辈子的药，一辈子待在小圈子里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841527273385840640",
+        "conversation_id": "2095168442848711033",
+        "created_at": "2026-09-02T15:14:17.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095168442848711033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095168442848711033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好害怕大社会，想磕一辈子的药，一辈子待在小圈子里"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095465859582193731",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1442,
+          "like_count": 63382,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3749
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T17:15:06.000Z",
+        "description": "想变得健全 中国语 日本語",
+        "id": "1841527273385840640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095398095890850301",
+        "name": "utu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841527273385840640/1762623939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088297041822961664/jlq1eOuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 47,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "kansya123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

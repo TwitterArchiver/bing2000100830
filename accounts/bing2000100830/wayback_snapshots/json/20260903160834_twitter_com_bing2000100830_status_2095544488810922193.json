@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095544488810922193",
+    "created_at": "2026-09-03T16:08:34.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095544488810922193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881737265195692032",
+          "start": 3,
+          "username": "nuk0_f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095544488810922193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095491313684914371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuk0_f: 本当に辛くて腕を切る時と、傷が薄くなっちゃって焦って義務的に切る時と、暇だから切る時と、あとなんだ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095544488810922193",
+        "created_at": "2026-09-03T16:08:34.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095544488810922193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881737265195692032",
+              "start": 3,
+              "username": "nuk0_f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095544488810922193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095491313684914371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuk0_f: 本当に辛くて腕を切る時と、傷が薄くなっちゃって焦って義務的に切る時と、暇だから切る時と、あとなんだ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881737265195692032",
+        "conversation_id": "2095491313684914371",
+        "created_at": "2026-09-03T12:37:16.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095491313684914371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095491313684914371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2098,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "本当に辛くて腕を切る時と、傷が薄くなっちゃって焦って義務的に切る時と、暇だから切る時と、あとなんだ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095544488810922193",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1443,
+          "like_count": 63455,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3754
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-21T16:15:09.000Z",
+        "description": "?⃞",
+        "id": "1881737265195692032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095537535858651590",
+        "name": "雨",
+        "pinned_tweet_id": "2021787387739963784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881737265195692032/1770306536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949085186337259520/Qz0ryKyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 127,
+          "like_count": 8013,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 3046
+        },
+        "url": "",
+        "username": "nuk0_f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

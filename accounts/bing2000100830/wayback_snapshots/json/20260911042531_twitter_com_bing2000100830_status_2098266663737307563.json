@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098266663737307563",
+    "created_at": "2026-09-11T04:25:31.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098266663737307563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844830572306460673",
+          "start": 3,
+          "username": "benboiola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098266663737307563",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3711
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098169101579399591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benboiola: me prometeram que adolescência era muita bebida, droga e sexo; mas eu só desenvolvi depressão, t.a e anemia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098266663737307563",
+        "created_at": "2026-09-11T04:25:31.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098266663737307563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844830572306460673",
+              "start": 3,
+              "username": "benboiola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098266663737307563",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3711
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098169101579399591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benboiola: me prometeram que adolescência era muita bebida, droga e sexo; mas eu só desenvolvi depressão, t.a e anemia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844830572306460673",
+        "conversation_id": "2098169101579399591",
+        "created_at": "2026-09-10T21:57:50.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098169101579399591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098169101579399591",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 65215,
+          "like_count": 12267,
+          "quote_count": 99,
+          "reply_count": 26,
+          "retweet_count": 3711
+        },
+        "reply_settings": "everyone",
+        "text": "me prometeram que adolescência era muita bebida, droga e sexo; mas eu só desenvolvi depressão, t.a e anemia"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098266663737307563",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1464,
+          "like_count": 64732,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3879
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-11T20:01:07.000Z",
+        "description": "gay, ansioso e louco ✩ written by Troye Sivan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "⚣.br",
+                "end": 23,
+                "expanded_url": "https://xn--77h.br",
+                "start": 0,
+                "url": "https://t.co/TghRZeMmRM"
+              }
+            ]
+          }
+        },
+        "id": "1844830572306460673",
+        "is_identity_verified": false,
+        "location": "in my head 🎧",
+        "most_recent_tweet_id": "2098258873396146250",
+        "name": "benjinhaᶜʳᶠ.⋆",
+        "pinned_tweet_id": "1873573220189970682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844830572306460673/1784081055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096654514086408192/vAKUfXa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 297,
+          "like_count": 6577,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 4984
+        },
+        "url": "https://t.co/TghRZeMmRM",
+        "username": "benboiola",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

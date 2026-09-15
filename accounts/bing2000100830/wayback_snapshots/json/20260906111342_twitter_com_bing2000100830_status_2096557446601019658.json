@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096557446601019658",
+    "created_at": "2026-09-06T11:13:42.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096557446601019658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838228945008984064",
+          "start": 3,
+          "username": "Mimimim1216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096557446601019658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096525905858597171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mimimim1216: なにもできない弱い人間だ、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096557446601019658",
+        "created_at": "2026-09-06T11:13:42.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096557446601019658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838228945008984064",
+              "start": 3,
+              "username": "Mimimim1216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096557446601019658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096525905858597171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mimimim1216: なにもできない弱い人間だ、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838228945008984064",
+        "conversation_id": "2096525905858597171",
+        "created_at": "2026-09-06T09:08:22.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096525905858597171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096525905858597171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "なにもできない弱い人間だ、"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096557446601019658",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1450,
+          "like_count": 64151,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3819
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-23T14:48:58.000Z",
+        "description": "やみあか 中3 不安定 無言フォローでお迎え🎀\n通院￤不登校￤えんか△です.ᐟ.ᐟ💗\nサブ垢あります 金欠😭😭\n@Mimimimimia1612 ↩︎鍵垢･愚痴垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Mimimimimia1612"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2ZXMKJN32EQCH?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/HswzNyk1Bh"
+              }
+            ]
+          }
+        },
+        "id": "1838228945008984064",
+        "is_identity_verified": false,
+        "location": "♡",
+        "most_recent_tweet_id": "2096548341731745910",
+        "name": "しろいろ",
+        "pinned_tweet_id": "2009568858701762654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838228945008984064/1767385877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054041700495224832/iaRlequ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 1251,
+          "like_count": 20850,
+          "listed_count": 49,
+          "media_count": 200,
+          "tweet_count": 6002
+        },
+        "url": "https://t.co/HswzNyk1Bh",
+        "username": "Mimimim1216",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092507448477425664"
+      ],
+      "media_source_tweet_id": [
+        "2092507453435056480"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2092566945535262799",
+    "created_at": "2026-08-26T10:56:52.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092566945535262799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 34,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 65,
+          "start": 45,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814484555174424578",
+          "start": 3,
+          "username": "tsuyu_hiiragi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FsCkTKS2WW",
+          "end": 89,
+          "expanded_url": "https://x.com/tsuyu_hiiragi/status/2092507453435056480/photo/1",
+          "media_key": "3_2092507448477425664",
+          "start": 66,
+          "url": "https://t.co/FsCkTKS2WW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092566945535262799",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092507448477425664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092507453435056480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuyu_hiiragi: ✝️電車に衝突して昇天✝️\n\n#NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/FsCkTKS2WW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092507448477425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoUcBRbIAAHHCV.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092507448477425664"
+          ],
+          "media_source_tweet_id": [
+            "2092507453435056480"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2092566945535262799",
+        "created_at": "2026-08-26T10:56:52.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092566945535262799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 34,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 65,
+              "start": 45,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814484555174424578",
+              "start": 3,
+              "username": "tsuyu_hiiragi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsCkTKS2WW",
+              "end": 89,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2092507453435056480/photo/1",
+              "media_key": "3_2092507448477425664",
+              "start": 66,
+              "url": "https://t.co/FsCkTKS2WW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092566945535262799",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092507448477425664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092507453435056480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsuyu_hiiragi: ✝️電車に衝突して昇天✝️\n\n#NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/FsCkTKS2WW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092507448477425664"
+          ]
+        },
+        "author_id": "1814484555174424578",
+        "conversation_id": "2092507453435056480",
+        "created_at": "2026-08-26T07:00:28.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092507453435056480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 46,
+              "start": 26,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsCkTKS2WW",
+              "end": 70,
+              "expanded_url": "https://x.com/tsuyu_hiiragi/status/2092507453435056480/photo/1",
+              "media_key": "3_2092507448477425664",
+              "start": 47,
+              "url": "https://t.co/FsCkTKS2WW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092507453435056480",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092507448477425664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 6587,
+          "like_count": 1000,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "✝️電車に衝突して昇天✝️\n\n#NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/FsCkTKS2WW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2092566945535262799",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1412,
+          "like_count": 61319,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3629
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-20T02:17:07.000Z",
+        "description": "",
+        "id": "1814484555174424578",
+        "is_identity_verified": false,
+        "location": "どこか",
+        "most_recent_tweet_id": "2092507453435056480",
+        "name": "柊露/SugarAru",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814484555174424578/1735322114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872702288567123974/DqXbvu22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 69,
+          "like_count": 850,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "tsuyu_hiiragi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

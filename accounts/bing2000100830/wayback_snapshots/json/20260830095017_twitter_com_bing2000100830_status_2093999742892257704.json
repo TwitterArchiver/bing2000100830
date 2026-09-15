@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093862126809235596",
+    "created_at": "2026-08-30T09:50:17.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093999742892257704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063809217488982016",
+          "start": 0,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093999742892257704",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093994042497581530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark2 谢谢nijika"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T09:50:17.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093999742892257704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093999742892257704",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093994042497581530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 谢谢nijika"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T09:27:38.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093994042497581530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093994042497581530",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093862126809235596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093999742892257704",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1411,
+          "like_count": 62025,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3674
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2093999457415184700",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 185,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

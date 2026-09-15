@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098803944239861785",
+    "created_at": "2026-09-12T16:00:28.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098803944239861785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095537801030967296",
+          "start": 3,
+          "username": "zetubou111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098803944239861785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 435
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098446691343233340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zetubou111: ちょっと楽しいことがあった日も結局寝る頃には死にたい\n色んな感覚が薄い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098803944239861785",
+        "created_at": "2026-09-12T16:00:28.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098803944239861785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095537801030967296",
+              "start": 3,
+              "username": "zetubou111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098803944239861785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 435
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098446691343233340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zetubou111: ちょっと楽しいことがあった日も結局寝る頃には死にたい\n色んな感覚が薄い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095537801030967296",
+        "conversation_id": "2098446691343233340",
+        "created_at": "2026-09-11T16:20:53.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098446691343233340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098446691343233340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 109224,
+          "like_count": 4593,
+          "quote_count": 41,
+          "reply_count": 2,
+          "retweet_count": 435
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと楽しいことがあった日も結局寝る頃には死にたい\n色んな感覚が薄い"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098803944239861785",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64918,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3918
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T15:43:37.000Z",
+        "description": "死にたいねって言って夕陽が沈むのを眺める友達が欲しい\n躁鬱病",
+        "id": "2095537801030967296",
+        "is_identity_verified": false,
+        "location": "名古屋",
+        "most_recent_tweet_id": "2098803354617176482",
+        "name": "絶望",
+        "pinned_tweet_id": "2095541278071312768",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 115,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "zetubou111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

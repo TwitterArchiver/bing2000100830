@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095833561677082644",
+    "created_at": "2026-09-05T01:15:28.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T02:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096044509318832609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2095558512848023552",
+          "start": 0,
+          "username": "yumeng_0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096044509318832609",
+    "in_reply_to_user_id": "2095558512848023552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095833561677082644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng_0721 🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2095832694227931136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXkuzAbEAAaGFv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 808,
+        "media_key": "3_2095832731259404288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXkw89agAATupu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095833315169419264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXlS8MaQAAwpn9.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095833548355997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXlgg4bEAA4t9h.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095833561677082644",
+        "created_at": "2026-09-05T01:15:28.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096044509318832609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2095558512848023552",
+              "start": 0,
+              "username": "yumeng_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096044509318832609",
+        "in_reply_to_user_id": "2095558512848023552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095833561677082644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng_0721 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095832694227931136",
+            "3_2095832731259404288",
+            "3_2095833315169419264",
+            "3_2095833548355997696"
+          ]
+        },
+        "author_id": "2095558512848023552",
+        "conversation_id": "2095833561677082644",
+        "created_at": "2026-09-04T11:17:14.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095833561677082644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz9eRxBkOY",
+              "end": 125,
+              "expanded_url": "https://x.com/yumeng_0721/status/2095833561677082644/photo/1",
+              "media_key": "3_2095832694227931136",
+              "start": 102,
+              "url": "https://t.co/yz9eRxBkOY"
+            },
+            {
+              "display_url": "pic.x.com/yz9eRxBkOY",
+              "end": 125,
+              "expanded_url": "https://x.com/yumeng_0721/status/2095833561677082644/photo/1",
+              "media_key": "3_2095832731259404288",
+              "start": 102,
+              "url": "https://t.co/yz9eRxBkOY"
+            },
+            {
+              "display_url": "pic.x.com/yz9eRxBkOY",
+              "end": 125,
+              "expanded_url": "https://x.com/yumeng_0721/status/2095833561677082644/photo/1",
+              "media_key": "3_2095833315169419264",
+              "start": 102,
+              "url": "https://t.co/yz9eRxBkOY"
+            },
+            {
+              "display_url": "pic.x.com/yz9eRxBkOY",
+              "end": 125,
+              "expanded_url": "https://x.com/yumeng_0721/status/2095833561677082644/photo/1",
+              "media_key": "3_2095833548355997696",
+              "start": 102,
+              "url": "https://t.co/yz9eRxBkOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095833561677082644",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095832694227931136"
+          },
+          {
+            "media_key": "3_2095832731259404288"
+          },
+          {
+            "media_key": "3_2095833315169419264"
+          },
+          {
+            "media_key": "3_2095833548355997696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2193,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见，我是Meng。我没消失，我已经和鸡哥割裂退出网站他夺了推特账号我现在与任何团体无关。自去年七月二十七日至今我编写的三十六篇文章全部删除，我声明任何个人或网站未经允许禁止转载我的文章，详见贴图。 https://t.co/yz9eRxBkOY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096044509318832609",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1445,
+          "like_count": 63779,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3769
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T17:08:05.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/Lp01040s9g DC频道https://t.co/GGKGuobdqJ 个人频道https://t.co/rXjyEV4O09",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/Lp01040s9g"
+              },
+              {
+                "display_url": "discord.gg/MUPW3pRsSU",
+                "end": 63,
+                "expanded_url": "https://discord.gg/MUPW3pRsSU",
+                "start": 40,
+                "url": "https://t.co/GGKGuobdqJ"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 91,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 68,
+                "url": "https://t.co/rXjyEV4O09"
+              }
+            ]
+          }
+        },
+        "id": "2095558512848023552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095883634083614947",
+        "name": "Meng",
+        "pinned_tweet_id": "2095833561677082644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095558512848023552/1788456727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "yumeng_0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

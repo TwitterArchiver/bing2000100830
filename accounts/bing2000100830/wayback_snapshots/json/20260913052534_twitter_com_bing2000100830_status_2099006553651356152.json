@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098788995576864768"
+      ],
+      "media_source_tweet_id": [
+        "2098789002627404170"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099006553651356152",
+    "created_at": "2026-09-13T05:25:34.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099006553651356152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628243471021789184",
+          "start": 3,
+          "username": "HdRy_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5vlBsHmT8",
+          "end": 47,
+          "expanded_url": "https://x.com/HdRy_7/status/2098789002627404170/photo/1",
+          "media_key": "3_2098788995576864768",
+          "start": 24,
+          "url": "https://t.co/F5vlBsHmT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099006553651356152",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098788995576864768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098789002627404170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HdRy_7: HELP p chan https://t.co/F5vlBsHmT8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_2098788995576864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBleLvboAA0ZQN.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098788995576864768"
+          ],
+          "media_source_tweet_id": [
+            "2098789002627404170"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099006553651356152",
+        "created_at": "2026-09-13T05:25:34.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099006553651356152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628243471021789184",
+              "start": 3,
+              "username": "HdRy_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5vlBsHmT8",
+              "end": 47,
+              "expanded_url": "https://x.com/HdRy_7/status/2098789002627404170/photo/1",
+              "media_key": "3_2098788995576864768",
+              "start": 24,
+              "url": "https://t.co/F5vlBsHmT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099006553651356152",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098788995576864768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098789002627404170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HdRy_7: HELP p chan https://t.co/F5vlBsHmT8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098788995576864768"
+          ]
+        },
+        "author_id": "1628243471021789184",
+        "conversation_id": "2098789002627404170",
+        "created_at": "2026-09-12T15:01:06.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098789002627404170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5vlBsHmT8",
+              "end": 35,
+              "expanded_url": "https://x.com/HdRy_7/status/2098789002627404170/photo/1",
+              "media_key": "3_2098788995576864768",
+              "start": 12,
+              "url": "https://t.co/F5vlBsHmT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098789002627404170",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098788995576864768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 6119,
+          "like_count": 951,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "HELP p chan https://t.co/F5vlBsHmT8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099006562979414138",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 65031,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3960
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-22T04:01:19.000Z",
+        "description": "Illustrator♡̴⟡.個人・企業様問わずお仕事受付中！hdry7illust@gmail.com or DMにて承ります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hdry.booth.pm",
+                "end": 23,
+                "expanded_url": "https://hdry.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/s6V7UL1aRE"
+              }
+            ]
+          }
+        },
+        "id": "1628243471021789184",
+        "is_identity_verified": false,
+        "location": "8/15 コミケ108 BOOTH→",
+        "most_recent_tweet_id": "2098833419719586283",
+        "name": "内出血過多@BOOTH 8/15 23:00(11PM)",
+        "pinned_tweet_id": "2088629183316701671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628243471021789184/1707136727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834262982697910273/hhqLNiGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13135,
+          "following_count": 65,
+          "like_count": 11845,
+          "listed_count": 52,
+          "media_count": 958,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/s6V7UL1aRE",
+        "username": "HdRy_7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

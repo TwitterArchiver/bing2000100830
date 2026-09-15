@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096093371790143780",
+    "created_at": "2026-09-06T00:34:38.000Z",
+    "display_text_range": [
+      24,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096396622347575392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920835986142973952",
+          "start": 0,
+          "username": "lilin123a"
+        },
+        {
+          "end": 23,
+          "id": "2065888398875992064",
+          "start": 11,
+          "username": "shanxunm5e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096396622347575392",
+    "in_reply_to_user_id": "1920835986142973952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096131702200426740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilin123a @shanxunm5e5 胡锦涛的口音是哪里的 有点怪怪的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096093371790143780",
+        "created_at": "2026-09-06T00:34:38.000Z",
+        "display_text_range": [
+          24,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096396622347575392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920835986142973952",
+              "start": 0,
+              "username": "lilin123a"
+            },
+            {
+              "end": 23,
+              "id": "2065888398875992064",
+              "start": 11,
+              "username": "shanxunm5e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096396622347575392",
+        "in_reply_to_user_id": "1920835986142973952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096131702200426740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilin123a @shanxunm5e5 胡锦涛的口音是哪里的 有点怪怪的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920835986142973952",
+        "conversation_id": "2096093371790143780",
+        "created_at": "2026-09-05T07:01:56.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096131702200426740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065888398875992064",
+              "start": 0,
+              "username": "shanxunm5e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096131702200426740",
+        "in_reply_to_user_id": "2065888398875992064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4283,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096093371790143780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanxunm5e5 胡爷爷是非常喜欢小孩子的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096396622347575392",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1445,
+          "like_count": 63997,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3792
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-09T13:39:40.000Z",
+        "description": "我坚决拥护共产党的领导\n我热爱人民，热爱党\n同时我是一名基督徒，并且也是胡锦涛爷爷的忠实粉丝",
+        "id": "1920835986142973952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096382531549495498",
+        "name": "胡锦涛爷爷的忠实粉丝",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092494148238753792/nCtvXbPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "lilin123a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T20:06:11.000Z",
+        "description": "反胡贼wcnm 🍑粉 誓死守卫胡锦涛 \n共产党是世界最廉洁的政党 我是中国人 中华人民国万岁祖国越来越好 求晶哥别抓我谢谢\n宝宝@WhoJeanToW🥰😘 小号@hjtnb6666\n粉丝群https://t.co/OxyYKAZSNn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "WhoJeanToW"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "hjtnb6666"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2079813722013647145/1gQHliBw6w",
+                "start": 94,
+                "url": "https://t.co/OxyYKAZSNn"
+              }
+            ]
+          }
+        },
+        "id": "2065888398875992064",
+        "is_identity_verified": false,
+        "location": "爱🍑 TV",
+        "most_recent_tweet_id": "2096294251298521151",
+        "name": "AAA清华水利胡哥",
+        "pinned_tweet_id": "2089654430845301150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065888398875992064/1783721202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089409998212517888/gFdFJ3LT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 156,
+          "like_count": 2562,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "shanxunm5e5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094750700970582114",
+    "created_at": "2026-09-01T11:34:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094750700970582114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724031948803248128",
+          "start": 3,
+          "username": "sirenslatte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094750700970582114",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1910
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094501205934551520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sirenslatte: el problema de los fandoms actuales es que la gente tiene mucho miedo a dar cringre, amiga porfa: escribí ese fanfic de yn…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094750700970582114",
+        "created_at": "2026-09-01T11:34:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094750700970582114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724031948803248128",
+              "start": 3,
+              "username": "sirenslatte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094750700970582114",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1910
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094501205934551520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sirenslatte: el problema de los fandoms actuales es que la gente tiene mucho miedo a dar cringre, amiga porfa: escribí ese fanfic de yn…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724031948803248128",
+        "conversation_id": "2094501205934551520",
+        "created_at": "2026-08-31T19:02:56.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094501205934551520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094501205934551520",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 42274,
+          "like_count": 6848,
+          "quote_count": 62,
+          "reply_count": 24,
+          "retweet_count": 1910
+        },
+        "reply_settings": "everyone",
+        "text": "el problema de los fandoms actuales es que la gente tiene mucho miedo a dar cringre, amiga porfa: escribí ese fanfic de yn/todos, crea ese oc que ronda tu cabeza, hace ese yumeship, dibuja ese fanart aunque tus capacidades artísticas sean malisímas, crea ese grupo de roleplay"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094750700970582114",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1423,
+          "like_count": 62640,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3698
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-13T11:51:51.000Z",
+        "description": "brown things are amazing, like coffee and someone's eyes ⋆𐙚 2004 #booktwt  #ladstwt #anitwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "booktwt"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "ladstwt"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "anitwt"
+              }
+            ]
+          }
+        },
+        "id": "1724031948803248128",
+        "is_identity_verified": false,
+        "location": "mystic falls",
+        "most_recent_tweet_id": "2094645697941299530",
+        "name": "darcy ໒🐈‍⬛",
+        "pinned_tweet_id": "2007341831533801697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724031948803248128/1788183884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087953995876667392/kWVG93Gj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 4099,
+          "like_count": 312334,
+          "listed_count": 17,
+          "media_count": 2900,
+          "tweet_count": 32292
+        },
+        "url": "",
+        "username": "sirenslatte",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

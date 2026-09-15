@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099081513874911577",
+    "created_at": "2026-09-13T10:23:26.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099081513874911577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994221672577298432",
+          "start": 3,
+          "username": "ugtp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099081513874911577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099016125409562860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ugtp4: あのね「死なないで」って言葉、どれだけ鋭い刃物よりも恐ろしいことに気づいて欲しい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099081513874911577",
+        "created_at": "2026-09-13T10:23:26.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099081513874911577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994221672577298432",
+              "start": 3,
+              "username": "ugtp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099081513874911577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099016125409562860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ugtp4: あのね「死なないで」って言葉、どれだけ鋭い刃物よりも恐ろしいことに気づいて欲しい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994221672577298432",
+        "conversation_id": "2099016125409562860",
+        "created_at": "2026-09-13T06:03:36.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099016125409562860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099016125409562860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3790,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "あのね「死なないで」って言葉、どれだけ鋭い刃物よりも恐ろしいことに気づいて欲しい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099081513874911577",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1455,
+          "like_count": 65081,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-28T01:48:31.000Z",
+        "description": "境界性パーソナリティ障害🗝@Yu1_021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Yu1_021"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/41tcs9qsbxg489…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/41tcs9qsbxg489j?t=dGvTfX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Omo7Ibco1h"
+              }
+            ]
+          }
+        },
+        "id": "1994221672577298432",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2099072157737460190",
+        "name": "無理ちゃ",
+        "pinned_tweet_id": "2055973098013532422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994221672577298432/1766836482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002312551141629952/S16yZ2lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 161,
+          "like_count": 40299,
+          "listed_count": 18,
+          "media_count": 28,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/Omo7Ibco1h",
+        "username": "ugtp4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

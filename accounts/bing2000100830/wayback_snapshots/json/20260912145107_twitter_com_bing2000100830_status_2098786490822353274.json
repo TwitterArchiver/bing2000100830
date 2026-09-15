@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098786490822353274",
+    "created_at": "2026-09-12T14:51:07.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098786490822353274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1500855672480489475",
+          "start": 3,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098786490822353274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098747975812194653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Science_010: 大脑里在想的东西和分泌的物质紧密联系，快乐的物质分泌少了就会想焦虑后悔难受的事情，多了就突然又觉得这些事情无所谓了觉得周边的一切挺好的\n所以我们也是那些精神物质的仆人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098786490822353274",
+        "created_at": "2026-09-12T14:51:07.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098786490822353274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1500855672480489475",
+              "start": 3,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098786490822353274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098747975812194653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Science_010: 大脑里在想的东西和分泌的物质紧密联系，快乐的物质分泌少了就会想焦虑后悔难受的事情，多了就突然又觉得这些事情无所谓了觉得周边的一切挺好的\n所以我们也是那些精神物质的仆人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2098747975812194653",
+        "created_at": "2026-09-12T12:18:04.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098747975812194653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098747975812194653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大脑里在想的东西和分泌的物质紧密联系，快乐的物质分泌少了就会想焦虑后悔难受的事情，多了就突然又觉得这些事情无所谓了觉得周边的一切挺好的\n所以我们也是那些精神物质的仆人啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098786490822353274",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 64847,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3898
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "世界上最区的人 男的 18 4i ISFJ/喜欢东方/平泽进/cs2/钢四/后室/术/宇宙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XqtK"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098747975812194653",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500855672480489475/1769914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087092802748616704/4WPyJ9kY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 1072,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/Lu4Wy2XqtK",
+        "username": "Science_010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

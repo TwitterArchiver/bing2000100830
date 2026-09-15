@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098999169788809354",
+    "created_at": "2026-09-13T04:57:26.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098999473959817339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096847118581551104",
+          "start": 0,
+          "username": "3YeEzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098999473959817339",
+    "in_reply_to_user_id": "2096847118581551104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098999169788809354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3YeEzzZ 回家回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098999169788809354",
+        "created_at": "2026-09-13T04:57:26.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098999473959817339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096847118581551104",
+              "start": 0,
+              "username": "3YeEzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098999473959817339",
+        "in_reply_to_user_id": "2096847118581551104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098999169788809354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3YeEzzZ 回家回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096847118581551104",
+        "conversation_id": "2098999169788809354",
+        "created_at": "2026-09-13T04:56:14.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098999169788809354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098999169788809354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没办法回家了，想回家，想回家，我一个人不能呆在这里，受不了了，想回家，好多人看我，想回家，想回家，我想回家，我现在就想回家，动不了，好难受，动不了，好多人走进我，黑色的矮矮的人，动不了，我想回家，我想回家，想回家，想回家，想回家去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098999473959817339",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 65020,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3954
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098999169788809354",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2097118095290904850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 263,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094241135275470848",
+        "13_2094241170549530624",
+        "3_2094241191890227200"
+      ],
+      "media_source_tweet_id": [
+        "2094241201511919666",
+        "2094241201511919666",
+        "2094241201511919666"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094378278752530935",
+    "created_at": "2026-08-31T10:54:27.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094378278752530935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2090840793854746629",
+          "start": 3,
+          "username": "3596281252_g5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vW52izRfxb",
+          "end": 56,
+          "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+          "media_key": "13_2094241135275470848",
+          "start": 33,
+          "url": "https://t.co/vW52izRfxb"
+        },
+        {
+          "display_url": "pic.x.com/vW52izRfxb",
+          "end": 56,
+          "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+          "media_key": "13_2094241170549530624",
+          "start": 33,
+          "url": "https://t.co/vW52izRfxb"
+        },
+        {
+          "display_url": "pic.x.com/vW52izRfxb",
+          "end": 56,
+          "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+          "media_key": "3_2094241191890227200",
+          "start": 33,
+          "url": "https://t.co/vW52izRfxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094378278752530935",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094241135275470848"
+      },
+      {
+        "media_key": "13_2094241170549530624"
+      },
+      {
+        "media_key": "3_2094241191890227200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094241201511919666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3596281252_g5: 第 三 次 中 日 戦 争 https://t.co/vW52izRfxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46021,
+        "height": 708,
+        "media_key": "13_2094241135275470848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094241135275470848/img/g5Nd5k3v0Dm_C55X.jpg",
+        "public_metrics": {
+          "view_count": 25468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094241135275470848/vid/avc1/320x472/lRq4IvJhbSAl9jia.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094241135275470848/vid/avc1/480x708/xdT2-pH4A87NOKic.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094241135275470848/pl/zob3sROijM2dR8_Y.m3u8"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "duration_ms": 13583,
+        "height": 582,
+        "media_key": "13_2094241170549530624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094241170549530624/img/Ce1J_pwzPV7yk-7J.jpg",
+        "public_metrics": {
+          "view_count": 12993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094241170549530624/vid/avc1/320x582/EbW8C7ciabCyeS4t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094241170549530624/pl/9-RBS4qdwiF-PRuk.m3u8?v=29c"
+          }
+        ],
+        "width": 320
+      },
+      {
+        "height": 2378,
+        "media_key": "3_2094241191890227200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRA9RKybkAAkzPO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094241135275470848",
+            "13_2094241170549530624",
+            "3_2094241191890227200"
+          ],
+          "media_source_tweet_id": [
+            "2094241201511919666",
+            "2094241201511919666",
+            "2094241201511919666"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094378278752530935",
+        "created_at": "2026-08-31T10:54:27.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094378278752530935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2090840793854746629",
+              "start": 3,
+              "username": "3596281252_g5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 56,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "13_2094241135275470848",
+              "start": 33,
+              "url": "https://t.co/vW52izRfxb"
+            },
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 56,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "13_2094241170549530624",
+              "start": 33,
+              "url": "https://t.co/vW52izRfxb"
+            },
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 56,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "3_2094241191890227200",
+              "start": 33,
+              "url": "https://t.co/vW52izRfxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094378278752530935",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094241135275470848"
+          },
+          {
+            "media_key": "13_2094241170549530624"
+          },
+          {
+            "media_key": "3_2094241191890227200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094241201511919666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3596281252_g5: 第 三 次 中 日 戦 争 https://t.co/vW52izRfxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094241135275470848",
+            "13_2094241170549530624",
+            "3_2094241191890227200"
+          ]
+        },
+        "author_id": "2090840793854746629",
+        "conversation_id": "2094241201511919666",
+        "created_at": "2026-08-31T01:49:46.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094241201511919666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 37,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "13_2094241135275470848",
+              "start": 14,
+              "url": "https://t.co/vW52izRfxb"
+            },
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 37,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "13_2094241170549530624",
+              "start": 14,
+              "url": "https://t.co/vW52izRfxb"
+            },
+            {
+              "display_url": "pic.x.com/vW52izRfxb",
+              "end": 37,
+              "expanded_url": "https://x.com/3596281252_g5/status/2094241201511919666/video/1",
+              "media_key": "3_2094241191890227200",
+              "start": 14,
+              "url": "https://t.co/vW52izRfxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094241201511919666",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094241135275470848"
+          },
+          {
+            "media_key": "13_2094241170549530624"
+          },
+          {
+            "media_key": "3_2094241191890227200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 48690,
+          "like_count": 968,
+          "quote_count": 19,
+          "reply_count": 30,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "第 三 次 中 日 戦 争 https://t.co/vW52izRfxb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094378278752530935",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1418,
+          "like_count": 62303,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T16:39:19.000Z",
+        "description": "",
+        "id": "2090840793854746629",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094377508481421642",
+        "name": "うさぎ_3rd",
+        "pinned_tweet_id": "2093712210568868301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090840793854746629/1787330557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090841924848730112/wJuT0OOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 58,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "3596281252_g5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

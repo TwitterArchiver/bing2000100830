@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093862126809235596",
+    "created_at": "2026-08-30T09:13:14.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093990415414542557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034952020202061824",
+          "start": 0,
+          "username": "bbw1173381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093990415414542557",
+    "in_reply_to_user_id": "2034952020202061824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093945703794135418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbw1173381 谢谢你!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T09:13:14.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093990415414542557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034952020202061824",
+              "start": 0,
+              "username": "bbw1173381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093990415414542557",
+        "in_reply_to_user_id": "2034952020202061824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093945703794135418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbw1173381 谢谢你!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034952020202061824",
+        "conversation_id": "2093862126809235596",
+        "created_at": "2026-08-30T06:15:34.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093945703794135418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093945703794135418",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093862126809235596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 生日快乐呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093990415414542557",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1411,
+          "like_count": 62011,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3673
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T11:16:06.000Z",
+        "description": "",
+        "id": "2034952020202061824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093945703794135418",
+        "name": "bbw",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036002101290274816/041Ajdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "bbw1173381",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

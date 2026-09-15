@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2097569997052837944",
+    "created_at": "2026-09-09T11:28:26.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097648318801428972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087780625726218240",
+          "start": 0,
+          "username": "IzayoiRin16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097648318801428972",
+    "in_reply_to_user_id": "2087780625726218240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097569997052837944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiRin16 再见呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097569983052369920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwQyUNb0AAzBUS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2097569997052837944",
+        "created_at": "2026-09-09T11:28:26.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097648318801428972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087780625726218240",
+              "start": 0,
+              "username": "IzayoiRin16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097648318801428972",
+        "in_reply_to_user_id": "2087780625726218240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097569997052837944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiRin16 再见呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097569983052369920"
+          ]
+        },
+        "author_id": "2087780625726218240",
+        "conversation_id": "2097569997052837944",
+        "created_at": "2026-09-09T06:17:12.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097569997052837944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAkSl5S6qW",
+              "end": 112,
+              "expanded_url": "https://x.com/IzayoiRin16/status/2097569997052837944/photo/1",
+              "media_key": "3_2097569983052369920",
+              "start": 89,
+              "url": "https://t.co/AAkSl5S6qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097569997052837944",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097569983052369920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈地雷系右美之神思思的再见贴\n这里曾经承载了她经历的酸甜苦辣\n她已经找到了属于自己的居所与幸福吧\n就在这里说再见吧\n也许有缘还会再见嘛\n再见不是离别 是为了再次相见的的魔法 https://t.co/AAkSl5S6qW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2097648318801428972",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1456,
+          "like_count": 64510,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3838
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T05:59:49.000Z",
+        "description": "家人们我是思思💙！我转生归来了！前世スパイシスペース通称スス！統合失調症プラス躁鬱❤️‍🩹 性同一性障害 病垢の皆と仲良くなりたい 大学心理学在读 梦想是帮助大家战胜疾病！🫶免费心理相关咨询请随时喊我！只要能帮上忙我一定愿意做点什么！爱你们～",
+        "id": "2087780625726218240",
+        "is_identity_verified": false,
+        "location": "💙在与你约定的应许之地💙",
+        "most_recent_tweet_id": "2097569997052837944",
+        "name": "イザヨイ凛@(思思)",
+        "pinned_tweet_id": "2087784514131304938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087780625726218240/1786601805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087781554944892928/C9ukNfyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 134,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "IzayoiRin16",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

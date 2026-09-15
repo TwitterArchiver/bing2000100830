@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096515370878214632",
+    "created_at": "2026-09-06T08:26:30.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096515370878214632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090032263383703552",
+          "start": 3,
+          "username": "cyanid3HcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096515370878214632",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096177476300910953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyanid3HcN: nada disso estaria acontecendo se eu tivesse me matado em 2024"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096515370878214632",
+        "created_at": "2026-09-06T08:26:30.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096515370878214632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090032263383703552",
+              "start": 3,
+              "username": "cyanid3HcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096515370878214632",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096177476300910953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyanid3HcN: nada disso estaria acontecendo se eu tivesse me matado em 2024"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090032263383703552",
+        "conversation_id": "2096177476300910953",
+        "created_at": "2026-09-05T10:03:50.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096177476300910953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096177476300910953",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 113696,
+          "like_count": 10473,
+          "quote_count": 253,
+          "reply_count": 56,
+          "retweet_count": 3828
+        },
+        "reply_settings": "everyone",
+        "text": "nada disso estaria acontecendo se eu tivesse me matado em 2024"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096515375139606894",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1448,
+          "like_count": 64072,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3801
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:43.000Z",
+        "description": "",
+        "id": "2090032263383703552",
+        "is_identity_verified": false,
+        "location": "plutão",
+        "most_recent_tweet_id": "2096230874559713396",
+        "name": "ma",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032263383703552/1787137913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090033366347177984/k98EPKtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "cyanid3HcN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

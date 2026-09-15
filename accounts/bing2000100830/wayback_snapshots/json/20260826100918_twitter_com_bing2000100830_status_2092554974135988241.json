@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092554887246884864",
+        "3_2092554927600173057"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092554974135988241",
+    "created_at": "2026-08-26T10:09:18.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092554974135988241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E3Rw4snXw7",
+          "end": 58,
+          "expanded_url": "https://x.com/bing2000100830/status/2092554974135988241/photo/1",
+          "media_key": "3_2092554887246884864",
+          "start": 35,
+          "url": "https://t.co/E3Rw4snXw7"
+        },
+        {
+          "display_url": "pic.x.com/E3Rw4snXw7",
+          "end": 58,
+          "expanded_url": "https://x.com/bing2000100830/status/2092554974135988241/photo/1",
+          "media_key": "3_2092554927600173057",
+          "start": 35,
+          "url": "https://t.co/E3Rw4snXw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092554974135988241",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092554887246884864"
+      },
+      {
+        "media_key": "3_2092554927600173057"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "北京高铁站的庆丰包子铺\n托盘是弯的..粥会撒出来。包子也不是特别好吃 https://t.co/E3Rw4snXw7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2092554887246884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo_lUdbsAAIQDn.jpg",
+        "width": 3060
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2092554927600173057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo_nqyaAAE4Tf5.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092554887246884864",
+            "3_2092554927600173057"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092554974135988241",
+        "created_at": "2026-08-26T10:09:18.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092554974135988241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3Rw4snXw7",
+              "end": 58,
+              "expanded_url": "https://x.com/bing2000100830/status/2092554974135988241/photo/1",
+              "media_key": "3_2092554887246884864",
+              "start": 35,
+              "url": "https://t.co/E3Rw4snXw7"
+            },
+            {
+              "display_url": "pic.x.com/E3Rw4snXw7",
+              "end": 58,
+              "expanded_url": "https://x.com/bing2000100830/status/2092554974135988241/photo/1",
+              "media_key": "3_2092554927600173057",
+              "start": 35,
+              "url": "https://t.co/E3Rw4snXw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092554974135988241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092554887246884864"
+          },
+          {
+            "media_key": "3_2092554927600173057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京高铁站的庆丰包子铺\n托盘是弯的..粥会撒出来。包子也不是特别好吃 https://t.co/E3Rw4snXw7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2092554974135988241",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1414,
+          "like_count": 61294,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098802952265994464",
+    "created_at": "2026-09-12T15:56:32.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098802952265994464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1797969750498459648",
+          "start": 3,
+          "username": "yoshitatsu_iei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098802952265994464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098284304786993542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshitatsu_iei: 中学生の時に病んでて\n手に包丁ブッ刺したこと思い出した"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098802952265994464",
+        "created_at": "2026-09-12T15:56:32.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098802952265994464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1797969750498459648",
+              "start": 3,
+              "username": "yoshitatsu_iei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098802952265994464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098284304786993542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshitatsu_iei: 中学生の時に病んでて\n手に包丁ブッ刺したこと思い出した"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797969750498459648",
+        "conversation_id": "2098284304786993542",
+        "created_at": "2026-09-11T05:35:37.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098284304786993542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098284304786993542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 95334,
+          "like_count": 4532,
+          "quote_count": 38,
+          "reply_count": 30,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "中学生の時に病んでて\n手に包丁ブッ刺したこと思い出した"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098802961145319872",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64908,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3914
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-04T12:33:37.000Z",
+        "description": "正気と引き換えに何かを得た",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…hitatsuyoshitatsu0520-maker.github.io/Rodriguez-Home…",
+                "end": 23,
+                "expanded_url": "https://yoshitatsuyoshitatsu0520-maker.github.io/Rodriguez-Homepage/",
+                "start": 0,
+                "url": "https://t.co/WQBybwKIgk"
+              }
+            ]
+          }
+        },
+        "id": "1797969750498459648",
+        "is_identity_verified": false,
+        "location": "開發邸",
+        "most_recent_tweet_id": "2098798237872488642",
+        "name": "伊藤ロドリゲス",
+        "pinned_tweet_id": "2096583150042501299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797969750498459648/1785865469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096913667396931584/gXpfK-WJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 984,
+          "like_count": 36171,
+          "listed_count": 17,
+          "media_count": 1317,
+          "tweet_count": 11855
+        },
+        "url": "https://t.co/WQBybwKIgk",
+        "username": "yoshitatsu_iei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

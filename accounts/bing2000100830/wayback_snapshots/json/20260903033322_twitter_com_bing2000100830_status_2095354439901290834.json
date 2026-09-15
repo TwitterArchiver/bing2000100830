@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094114893779668992"
+      ],
+      "media_source_tweet_id": [
+        "2094114911085363678"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095354439901290834",
+    "created_at": "2026-09-03T03:33:22.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095354439901290834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2071663683369914368",
+          "start": 3,
+          "username": "Tookok_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZAizK7hl4",
+          "end": 74,
+          "expanded_url": "https://x.com/souvascodagama_/status/2094114911085363678/video/1",
+          "media_key": "13_2094114893779668992",
+          "start": 51,
+          "url": "https://t.co/LZAizK7hl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095354439901290834",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2094114893779668992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095271644822462870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tookok_: Bem no mês amarelo a depressão piora  https://t.co/LZAizK7hl4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10797,
+        "height": 410,
+        "media_key": "13_2094114893779668992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094114893779668992/img/LN8oWLyKdkHM9mVX.jpg",
+        "public_metrics": {
+          "view_count": 543235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094114893779668992/vid/avc1/350x270/RkUObaw5Bpf3pq1E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094114893779668992/vid/avc1/532x410/MOrkSDc-2lTopB9s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094114893779668992/pl/Pelpkvwv3cEF7zRJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094114893779668992"
+          ],
+          "media_source_tweet_id": [
+            "2094114911085363678"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095354439901290834",
+        "created_at": "2026-09-03T03:33:22.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095354439901290834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2071663683369914368",
+              "start": 3,
+              "username": "Tookok_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZAizK7hl4",
+              "end": 74,
+              "expanded_url": "https://x.com/souvascodagama_/status/2094114911085363678/video/1",
+              "media_key": "13_2094114893779668992",
+              "start": 51,
+              "url": "https://t.co/LZAizK7hl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095354439901290834",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2094114893779668992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095271644822462870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tookok_: Bem no mês amarelo a depressão piora  https://t.co/LZAizK7hl4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094114893779668992"
+          ],
+          "media_source_tweet_id": [
+            "2094114911085363678"
+          ]
+        },
+        "author_id": "2071663683369914368",
+        "conversation_id": "2095271644822462870",
+        "created_at": "2026-09-02T22:04:23.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095271644822462870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZAizK7hl4",
+              "end": 61,
+              "expanded_url": "https://x.com/souvascodagama_/status/2094114911085363678/video/1",
+              "media_key": "13_2094114893779668992",
+              "start": 38,
+              "url": "https://t.co/LZAizK7hl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095271644822462870",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2094114893779668992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10150,
+          "like_count": 1181,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "Bem no mês amarelo a depressão piora  https://t.co/LZAizK7hl4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094114893779668992"
+          ]
+        },
+        "author_id": "1972104697696673792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Julián ÁLVAREZ",
+              "id": "1105948412409581570",
+              "name": "Julián ÁLVAREZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382065281791512576",
+              "name": "Julián Álvarez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Julián ÁLVAREZ",
+              "id": "1105948412409581570",
+              "name": "Julián ÁLVAREZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1382065281791512576",
+              "name": "Julián Álvarez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382065281791512576",
+              "name": "Julián Álvarez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774724975616001",
+              "name": "Gabriel Jesus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226241894752257",
+              "name": "Arsenal"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774724975616001",
+              "name": "Gabriel Jesus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226241894752257",
+              "name": "Arsenal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774724975616001",
+              "name": "Gabriel Jesus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2094114911085363678",
+        "created_at": "2026-08-30T17:27:56.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094114911085363678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8Lt97YktA",
+              "end": 52,
+              "expanded_url": "https://x.com/souvascodagama_/status/2094114911085363678/video/1",
+              "media_key": "13_2094114893779668992",
+              "start": 29,
+              "url": "https://t.co/B8Lt97YktA"
+            },
+            {
+              "display_url": "x.com/futebol_info/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/futebol_info/status/2094044576528871904",
+              "start": 53,
+              "url": "https://t.co/J6Ihwzk4xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094114911085363678",
+        "lang": "it",
+        "media_metadata": [
+          {
+            "media_key": "13_2094114893779668992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 674,
+          "impression_count": 655154,
+          "like_count": 22558,
+          "quote_count": 9,
+          "reply_count": 33,
+          "retweet_count": 1148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094044576528871904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Julian Alvarez nesse momento https://t.co/B8Lt97YktA https://t.co/J6Ihwzk4xq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095354439901290834",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1436,
+          "like_count": 63260,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3738
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T18:36:18.000Z",
+        "description": "\"𝑰 𝒌𝒘𝒐𝒏 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒐𝒐𝒌𝒆𝒅 𝒇𝒐𝒓 𝒎𝒆 𝒊'𝒅 𝒍𝒐𝒐𝒌 𝒚𝒐𝒖 𝒊𝒏 𝒕𝒉𝒆 𝒆𝒚𝒆\"\n\n        ╋━━━━━━                              𝑬𝒍𝒆/𝒅𝒆𝒍𝒆",
+        "id": "2071663683369914368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095311480065323092",
+        "name": "𝑳𝒆𝒗𝒊 .✦ ݁˖",
+        "pinned_tweet_id": "2083959922878816294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071663683369914368/1788216208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094556704729948161/QwdN0Z0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 434,
+          "like_count": 4512,
+          "listed_count": 2,
+          "media_count": 928,
+          "tweet_count": 2017
+        },
+        "url": "",
+        "username": "Tookok_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

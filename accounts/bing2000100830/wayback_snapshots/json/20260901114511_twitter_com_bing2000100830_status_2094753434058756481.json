@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094753434058756481",
+    "created_at": "2026-09-01T11:45:11.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094753434058756481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971821300470763521",
+          "start": 3,
+          "username": "u26s_ci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094753434058756481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094304050439414134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @u26s_ci: 産まれてきたのが間違えだった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094753434058756481",
+        "created_at": "2026-09-01T11:45:11.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094753434058756481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971821300470763521",
+              "start": 3,
+              "username": "u26s_ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094753434058756481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094304050439414134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @u26s_ci: 産まれてきたのが間違えだった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971821300470763521",
+        "conversation_id": "2094304050439414134",
+        "created_at": "2026-08-31T05:59:30.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094304050439414134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094304050439414134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 21170,
+          "like_count": 1852,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "産まれてきたのが間違えだった"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094753434058756481",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1423,
+          "like_count": 62649,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3699
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T06:17:42.000Z",
+        "description": "高3",
+        "id": "1971821300470763521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094716676935925927",
+        "name": "ꪔ̤̮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971821300470763521/1776773143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971822810957074436/RrGmb2sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 51,
+          "like_count": 11187,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "u26s_ci",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

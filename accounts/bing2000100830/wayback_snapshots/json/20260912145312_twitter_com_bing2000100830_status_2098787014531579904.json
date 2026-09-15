@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098787014531579904",
+    "created_at": "2026-09-12T14:53:12.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098787014531579904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095537801030967296",
+          "start": 3,
+          "username": "zetubou111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098787014531579904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098487951034638687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zetubou111: この時間に鬱病集めて散歩したいな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098787014531579904",
+        "created_at": "2026-09-12T14:53:12.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787014531579904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095537801030967296",
+              "start": 3,
+              "username": "zetubou111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787014531579904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098487951034638687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zetubou111: この時間に鬱病集めて散歩したいな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095537801030967296",
+        "conversation_id": "2098487951034638687",
+        "created_at": "2026-09-11T19:04:50.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098487951034638687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098487951034638687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 1150215,
+          "like_count": 20069,
+          "quote_count": 153,
+          "reply_count": 49,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "この時間に鬱病集めて散歩したいな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098787014531579904",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 64855,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T15:43:37.000Z",
+        "description": "死にたいねって言って夕陽が沈むのを眺める友達が欲しい\n躁鬱病",
+        "id": "2095537801030967296",
+        "is_identity_verified": false,
+        "location": "名古屋",
+        "most_recent_tweet_id": "2098675214666408364",
+        "name": "絶望",
+        "pinned_tweet_id": "2095541278071312768",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 112,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "zetubou111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

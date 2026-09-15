@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098818251367293029",
+    "created_at": "2026-09-12T16:57:19.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098818251367293029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054893836309282816",
+          "start": 3,
+          "username": "bad3rrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098818251367293029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8042
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098438490350657966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bad3rrn: 推しが好きすぎてガチで泣いたことある人は全員友達"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098818251367293029",
+        "created_at": "2026-09-12T16:57:19.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098818251367293029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054893836309282816",
+              "start": 3,
+              "username": "bad3rrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098818251367293029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8042
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098438490350657966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bad3rrn: 推しが好きすぎてガチで泣いたことある人は全員友達"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054893836309282816",
+        "conversation_id": "2098438490350657966",
+        "created_at": "2026-09-11T15:48:17.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098438490350657966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098438490350657966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2222,
+          "impression_count": 1696650,
+          "like_count": 66182,
+          "quote_count": 3127,
+          "reply_count": 66,
+          "retweet_count": 8043
+        },
+        "reply_settings": "everyone",
+        "text": "推しが好きすぎてガチで泣いたことある人は全員友達"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098818251367293029",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1455,
+          "like_count": 64977,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3929
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T11:58:10.000Z",
+        "description": "👊🩸／19🚺／雑多／アニメ\n無言フォロー初手タメも大歓迎🫶\n無言フォローも失礼するかもです‼️",
+        "id": "2054893836309282816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098791128866885668",
+        "name": "てぃー",
+        "pinned_tweet_id": "2057103516091748683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054893836309282816/1786896605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054895233037664256/yW4U9tsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 124,
+          "like_count": 1986,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "bad3rrn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

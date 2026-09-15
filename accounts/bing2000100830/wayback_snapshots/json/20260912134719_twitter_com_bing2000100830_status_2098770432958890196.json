@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098313232708751360",
+        "3_2098313238060642304",
+        "3_2098313243207069696",
+        "3_2098313249267814400"
+      ],
+      "media_source_tweet_id": [
+        "2098313255404065164",
+        "2098313255404065164",
+        "2098313255404065164",
+        "2098313255404065164"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098770432958890196",
+    "created_at": "2026-09-12T13:47:19.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098770432958890196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1979177023227719680",
+          "start": 3,
+          "username": "_______amotan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XNzQL7Xrru",
+          "end": 53,
+          "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+          "media_key": "3_2098313232708751360",
+          "start": 30,
+          "url": "https://t.co/XNzQL7Xrru"
+        },
+        {
+          "display_url": "pic.x.com/XNzQL7Xrru",
+          "end": 53,
+          "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+          "media_key": "3_2098313238060642304",
+          "start": 30,
+          "url": "https://t.co/XNzQL7Xrru"
+        },
+        {
+          "display_url": "pic.x.com/XNzQL7Xrru",
+          "end": 53,
+          "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+          "media_key": "3_2098313243207069696",
+          "start": 30,
+          "url": "https://t.co/XNzQL7Xrru"
+        },
+        {
+          "display_url": "pic.x.com/XNzQL7Xrru",
+          "end": 53,
+          "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+          "media_key": "3_2098313249267814400",
+          "start": 30,
+          "url": "https://t.co/XNzQL7Xrru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098770432958890196",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098313232708751360"
+      },
+      {
+        "media_key": "3_2098313238060642304"
+      },
+      {
+        "media_key": "3_2098313243207069696"
+      },
+      {
+        "media_key": "3_2098313249267814400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098313255404065164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_______amotan: 𝒔𝒐 𝒄𝒖𝒕𝒆... https://t.co/XNzQL7Xrru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2098313232708751360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR60xI8bUAAUVq_.jpg",
+        "width": 768
+      },
+      {
+        "height": 431,
+        "media_key": "3_2098313238060642304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR60xc4asAAM2Xv.jpg",
+        "width": 767
+      },
+      {
+        "height": 401,
+        "media_key": "3_2098313243207069696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR60xwDa8AAL7w5.jpg",
+        "width": 766
+      },
+      {
+        "height": 675,
+        "media_key": "3_2098313249267814400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR60yGoakAAUW3_.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098313232708751360",
+            "3_2098313238060642304",
+            "3_2098313243207069696",
+            "3_2098313249267814400"
+          ],
+          "media_source_tweet_id": [
+            "2098313255404065164",
+            "2098313255404065164",
+            "2098313255404065164",
+            "2098313255404065164"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098770432958890196",
+        "created_at": "2026-09-12T13:47:19.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098770432958890196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1979177023227719680",
+              "start": 3,
+              "username": "_______amotan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 53,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313232708751360",
+              "start": 30,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 53,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313238060642304",
+              "start": 30,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 53,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313243207069696",
+              "start": 30,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 53,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313249267814400",
+              "start": 30,
+              "url": "https://t.co/XNzQL7Xrru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098770432958890196",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098313232708751360"
+          },
+          {
+            "media_key": "3_2098313238060642304"
+          },
+          {
+            "media_key": "3_2098313243207069696"
+          },
+          {
+            "media_key": "3_2098313249267814400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098313255404065164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_______amotan: 𝒔𝒐 𝒄𝒖𝒕𝒆... https://t.co/XNzQL7Xrru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098313232708751360",
+            "3_2098313238060642304",
+            "3_2098313243207069696",
+            "3_2098313249267814400"
+          ]
+        },
+        "author_id": "1979177023227719680",
+        "conversation_id": "2098313255404065164",
+        "created_at": "2026-09-11T07:30:39.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098313255404065164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 34,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313232708751360",
+              "start": 11,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 34,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313238060642304",
+              "start": 11,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 34,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313243207069696",
+              "start": 11,
+              "url": "https://t.co/XNzQL7Xrru"
+            },
+            {
+              "display_url": "pic.x.com/XNzQL7Xrru",
+              "end": 34,
+              "expanded_url": "https://x.com/_______amotan/status/2098313255404065164/photo/1",
+              "media_key": "3_2098313249267814400",
+              "start": 11,
+              "url": "https://t.co/XNzQL7Xrru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098313255404065164",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098313232708751360"
+          },
+          {
+            "media_key": "3_2098313238060642304"
+          },
+          {
+            "media_key": "3_2098313243207069696"
+          },
+          {
+            "media_key": "3_2098313249267814400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 6347,
+          "like_count": 1031,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "𝒔𝒐 𝒄𝒖𝒕𝒆... https://t.co/XNzQL7Xrru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098770432958890196",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64836,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3896
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T13:25:56.000Z",
+        "description": "ﾆﾃﾞｨｶﾞの考察をしたり絵とか感想あげたり🧬🎀┇本体▶▶@_______sungi  🔞▶▶@sixxxxx_yyyyy ┇転載＆AI学習🚫Do not re-upload, reproduce, or use.┇リクエストはdmまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "_______sungi"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "sixxxxx_yyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pink_twin_tails",
+                "end": 23,
+                "expanded_url": "https://lit.link/pink_twin_tails",
+                "start": 0,
+                "url": "https://t.co/Lb18P5tT48"
+              }
+            ]
+          }
+        },
+        "id": "1979177023227719680",
+        "is_identity_verified": false,
+        "location": "𝕃𝕠𝕝𝕝𝕚𝕡𝕠𝕡 𝕕𝕒𝕟𝕔𝕖",
+        "most_recent_tweet_id": "2098682592405197117",
+        "name": "♡あもるん♡",
+        "pinned_tweet_id": "2074146376100000241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979177023227719680/1788089274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094024306250665985/PJ3NSLsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 813,
+          "like_count": 9176,
+          "listed_count": 9,
+          "media_count": 325,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/Lb18P5tT48",
+        "username": "_______amotan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098989708382699945",
+    "created_at": "2026-09-13T04:18:38.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098989708382699945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025945131501985792",
+          "start": 3,
+          "username": "0iblhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098989708382699945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 604
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098650835404390612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @0iblhy: 自分の中の好きとか可愛いを、どうか殺さないでね。周りが潰そうとしてきても、君が君を守ってあげてね。世間が勝手に決めたくだらない線引きで、君を失わないでほしい。女らしく、男らしく、の前にさ。君が君らしくいることの方が、何倍も何百倍も大事だから。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098989708382699945",
+        "created_at": "2026-09-13T04:18:38.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098989708382699945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025945131501985792",
+              "start": 3,
+              "username": "0iblhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098989708382699945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 604
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098650835404390612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @0iblhy: 自分の中の好きとか可愛いを、どうか殺さないでね。周りが潰そうとしてきても、君が君を守ってあげてね。世間が勝手に決めたくだらない線引きで、君を失わないでほしい。女らしく、男らしく、の前にさ。君が君らしくいることの方が、何倍も何百倍も大事だから。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025945131501985792",
+        "conversation_id": "2098650835404390612",
+        "created_at": "2026-09-12T05:52:04.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098650835404390612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098650835404390612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 657,
+          "impression_count": 61263,
+          "like_count": 3542,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 604
+        },
+        "reply_settings": "following",
+        "text": "自分の中の好きとか可愛いを、どうか殺さないでね。周りが潰そうとしてきても、君が君を守ってあげてね。世間が勝手に決めたくだらない線引きで、君を失わないでほしい。女らしく、男らしく、の前にさ。君が君らしくいることの方が、何倍も何百倍も大事だから。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098989708382699945",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 65008,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3952
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T14:46:05.000Z",
+        "description": "おひるね通信\n\n@qnilsrn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "qnilsrn"
+              }
+            ]
+          }
+        },
+        "id": "2025945131501985792",
+        "is_identity_verified": false,
+        "location": "フォロリクいやだったら×押してね♩",
+        "most_recent_tweet_id": "2098657609784103411",
+        "name": "ْ",
+        "pinned_tweet_id": "2078485891212091678",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055477993460662272/Jhpw1Vzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 91,
+          "like_count": 1055,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "0iblhy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

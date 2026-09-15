@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098786999620730975",
+    "created_at": "2026-09-12T14:53:08.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098786999620730975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1441575897241296908",
+          "start": 3,
+          "username": "ForceIndia369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098786999620730975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098558491279626624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForceIndia369: 私リスカ依存してた時毎日切らなきゃって義務みたいになってた。今考えると頭おかしかった。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098786999620730975",
+        "created_at": "2026-09-12T14:53:08.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098786999620730975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1441575897241296908",
+              "start": 3,
+              "username": "ForceIndia369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098786999620730975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098558491279626624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForceIndia369: 私リスカ依存してた時毎日切らなきゃって義務みたいになってた。今考えると頭おかしかった。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441575897241296908",
+        "conversation_id": "2098558491279626624",
+        "created_at": "2026-09-11T23:45:08.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098558491279626624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098558491279626624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 32875,
+          "like_count": 1610,
+          "quote_count": 26,
+          "reply_count": 9,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "私リスカ依存してた時毎日切らなきゃって義務みたいになってた。今考えると頭おかしかった。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098787014531579904",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 64855,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-25T01:31:08.000Z",
+        "description": "07/♀/大学1年/心理学/薬物依存/閉鎖2回/うつ病/強迫性障害/愛着障害/摂食障害/",
+        "id": "1441575897241296908",
+        "is_identity_verified": false,
+        "location": "いつか会う君へ",
+        "most_recent_tweet_id": "2098617278892024313",
+        "name": "あい",
+        "pinned_tweet_id": "2011052466016747832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1441575897241296908/1783469444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073719510327267328/Cjt600_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 179,
+          "like_count": 4104,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "ForceIndia369",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

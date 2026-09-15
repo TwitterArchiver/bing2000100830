@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096231337548263870",
+    "created_at": "2026-09-06T00:06:50.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096389625413865495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660883504115204096",
+          "start": 0,
+          "username": "ruriyuzuki0373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096389625413865495",
+    "in_reply_to_user_id": "1660883504115204096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096231337548263870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruriyuzuki0373 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096231337548263870",
+        "created_at": "2026-09-06T00:06:50.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096389625413865495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660883504115204096",
+              "start": 0,
+              "username": "ruriyuzuki0373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096389625413865495",
+        "in_reply_to_user_id": "1660883504115204096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096231337548263870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruriyuzuki0373 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660883504115204096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2096231337548263870",
+        "created_at": "2026-09-05T13:37:51.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096231337548263870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096231337548263870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3753,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国真的完蛋了，日本每个月有文化祭，而中国只有无尽的考试😂😂😂你们就卷起来吧，老娘休学了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096389625413865495",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1445,
+          "like_count": 63946,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3788
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T05:41:20.000Z",
+        "description": "这里是结月，这个账号分享od报告或是负面情绪🩸（有时候会晕过去可能就没有了—）",
+        "id": "1660883504115204096",
+        "is_identity_verified": false,
+        "location": "Yau Tsim Mong District",
+        "most_recent_tweet_id": "2096231337548263870",
+        "name": "結月",
+        "pinned_tweet_id": "2095174514414067937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660883504115204096/1730215709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995421974282338304/4uSzqOwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 153,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "ruriyuzuki0373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

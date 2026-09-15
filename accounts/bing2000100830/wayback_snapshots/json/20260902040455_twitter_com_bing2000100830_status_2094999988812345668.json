@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094999988812345668",
+    "created_at": "2026-09-02T04:04:55.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094999988812345668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035342407777263616",
+          "start": 3,
+          "username": "vvectorx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094999988812345668",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094752386946404488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vvectorx3: suicide september🥳🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094999988812345668",
+        "created_at": "2026-09-02T04:04:55.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094999988812345668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035342407777263616",
+              "start": 3,
+              "username": "vvectorx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094999988812345668",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094752386946404488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vvectorx3: suicide september🥳🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035342407777263616",
+        "conversation_id": "2094752386946404488",
+        "created_at": "2026-09-01T11:41:02.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094752386946404488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094752386946404488",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 72085,
+          "like_count": 7763,
+          "quote_count": 48,
+          "reply_count": 26,
+          "retweet_count": 2452
+        },
+        "reply_settings": "everyone",
+        "text": "suicide september🥳🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094999988812345668",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1424,
+          "like_count": 62848,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3711
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T13:07:05.000Z",
+        "description": "no one special just a loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vvectorx3.straw.page",
+                "end": 23,
+                "expanded_url": "https://vvectorx3.straw.page",
+                "start": 0,
+                "url": "https://t.co/xFTXkLqEoE"
+              }
+            ]
+          }
+        },
+        "id": "2035342407777263616",
+        "is_identity_verified": false,
+        "location": "ill die alone with my xanns",
+        "most_recent_tweet_id": "2094975856766599613",
+        "name": "bv3ctor ★",
+        "pinned_tweet_id": "2092971024639815746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035342407777263616/1787102430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090980111365320704/b0Zquop3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 261,
+          "like_count": 5606,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/xFTXkLqEoE",
+        "username": "vvectorx3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

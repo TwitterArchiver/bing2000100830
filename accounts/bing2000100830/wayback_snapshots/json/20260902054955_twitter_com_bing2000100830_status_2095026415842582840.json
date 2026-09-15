@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095021143484989440"
+      ],
+      "media_source_tweet_id": [
+        "2095021158907408791"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095026415842582840",
+    "created_at": "2026-09-02T05:49:55.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095026415842582840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875088110683566081",
+          "start": 3,
+          "username": "Kawaiiangel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HuC0689alR",
+          "end": 70,
+          "expanded_url": "https://x.com/Kawaiiangel/status/2095021158907408791/photo/1",
+          "media_key": "3_2095021143484989440",
+          "start": 47,
+          "url": "https://t.co/HuC0689alR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095026415842582840",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095021143484989440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095021158907408791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kawaiiangel: P-CHAN WHERE THE HELL AM I?!? https://t.co/HuC0689alR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2095021143484989440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMCoU5bAAAT9D8.jpg",
+        "width": 1057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095021143484989440"
+          ],
+          "media_source_tweet_id": [
+            "2095021158907408791"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095026415842582840",
+        "created_at": "2026-09-02T05:49:55.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095026415842582840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875088110683566081",
+              "start": 3,
+              "username": "Kawaiiangel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuC0689alR",
+              "end": 70,
+              "expanded_url": "https://x.com/Kawaiiangel/status/2095021158907408791/photo/1",
+              "media_key": "3_2095021143484989440",
+              "start": 47,
+              "url": "https://t.co/HuC0689alR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095026415842582840",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095021143484989440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095021158907408791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kawaiiangel: P-CHAN WHERE THE HELL AM I?!? https://t.co/HuC0689alR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095021143484989440"
+          ]
+        },
+        "author_id": "1875088110683566081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095021158907408791",
+        "created_at": "2026-09-02T05:29:02.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095021158907408791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuC0689alR",
+              "end": 53,
+              "expanded_url": "https://x.com/Kawaiiangel/status/2095021158907408791/photo/1",
+              "media_key": "3_2095021143484989440",
+              "start": 30,
+              "url": "https://t.co/HuC0689alR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095021158907408791",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095021143484989440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "P-CHAN WHERE THE HELL AM I?!? https://t.co/HuC0689alR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095026415842582840",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1426,
+          "like_count": 62903,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3713
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-03T07:54:10.000Z",
+        "description": "ピちゃんの最強の兵士 ✟\n生まれ変わった。天使として。\nこの世界のオタクを救うために。\n(EN/CN/JP/RU) — OK!\n#larptwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "larptwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pchan",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pchan",
+                "start": 0,
+                "url": "https://t.co/JJI4wl1fUN"
+              }
+            ]
+          }
+        },
+        "id": "1875088110683566081",
+        "is_identity_verified": false,
+        "location": "@LarpAngel (YT and Twitch)",
+        "most_recent_tweet_id": "2095021771279978822",
+        "name": "✟🎀OMGKawaiiAngel!!🎀✟",
+        "pinned_tweet_id": "2094249778712551425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875088110683566081/1787019548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083097522822926338/WDz9AvLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5392,
+          "following_count": 208,
+          "like_count": 34277,
+          "listed_count": 2,
+          "media_count": 1576,
+          "tweet_count": 7776
+        },
+        "url": "https://t.co/JJI4wl1fUN",
+        "username": "Kawaiiangel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

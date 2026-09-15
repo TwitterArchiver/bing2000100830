@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098743436593799168"
+      ],
+      "media_source_tweet_id": [
+        "2098743443535409653"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098801822718976121",
+    "created_at": "2026-09-12T15:52:03.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098801822718976121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1722952488268259328",
+          "start": 3,
+          "username": "dd6_16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X5TVKkcAkL",
+          "end": 59,
+          "expanded_url": "https://x.com/dd6_16/status/2098743443535409653/photo/1",
+          "media_key": "3_2098743436593799168",
+          "start": 36,
+          "url": "https://t.co/X5TVKkcAkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098801822718976121",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098743436593799168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098743443535409653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dd6_16: 朝起きたらあめちゃんが猫化してた（part2） https://t.co/X5TVKkcAkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2098743436593799168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA8CTTbIAAKOnV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098743436593799168"
+          ],
+          "media_source_tweet_id": [
+            "2098743443535409653"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098801822718976121",
+        "created_at": "2026-09-12T15:52:03.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098801822718976121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722952488268259328",
+              "start": 3,
+              "username": "dd6_16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5TVKkcAkL",
+              "end": 59,
+              "expanded_url": "https://x.com/dd6_16/status/2098743443535409653/photo/1",
+              "media_key": "3_2098743436593799168",
+              "start": 36,
+              "url": "https://t.co/X5TVKkcAkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098801822718976121",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098743436593799168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098743443535409653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dd6_16: 朝起きたらあめちゃんが猫化してた（part2） https://t.co/X5TVKkcAkL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098743436593799168"
+          ]
+        },
+        "author_id": "1722952488268259328",
+        "conversation_id": "2098743443535409653",
+        "created_at": "2026-09-12T12:00:04.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098743443535409653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5TVKkcAkL",
+              "end": 47,
+              "expanded_url": "https://x.com/dd6_16/status/2098743443535409653/photo/1",
+              "media_key": "3_2098743436593799168",
+              "start": 24,
+              "url": "https://t.co/X5TVKkcAkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098743443535409653",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098743436593799168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 3372,
+          "like_count": 300,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "朝起きたらあめちゃんが猫化してた（part2） https://t.co/X5TVKkcAkL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098801822718976121",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64892,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3910
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T12:21:14.000Z",
+        "description": "よんです。見つけてくれてありがとう （通知が鳴らないので色々気付かないこと多いですᵕ̩ ̫ ᵕ̩̩）@pl6ru サブアカウント",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 50,
+                "username": "pl6ru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mizoresan",
+                "end": 23,
+                "expanded_url": "https://lit.link/mizoresan",
+                "start": 0,
+                "url": "https://t.co/Js6fI5fhf0"
+              }
+            ]
+          }
+        },
+        "id": "1722952488268259328",
+        "is_identity_verified": false,
+        "location": "いんたーねっとの海",
+        "most_recent_tweet_id": "2098743483502916072",
+        "name": "4",
+        "pinned_tweet_id": "1998695826562937324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722952488268259328/1787480741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995813388388327424/CNPxvTTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 98,
+          "like_count": 20149,
+          "listed_count": 11,
+          "media_count": 44,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/Js6fI5fhf0",
+        "username": "dd6_16",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

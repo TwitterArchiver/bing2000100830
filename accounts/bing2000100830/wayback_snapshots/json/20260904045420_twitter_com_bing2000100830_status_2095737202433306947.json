@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095737202433306947",
+    "created_at": "2026-09-04T04:54:20.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095737202433306947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059615488171536384",
+          "start": 3,
+          "username": "szpqzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095737202433306947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095664901197119811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @szpqzs: 今日学校行ってない人集合ね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095737202433306947",
+        "created_at": "2026-09-04T04:54:20.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095737202433306947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059615488171536384",
+              "start": 3,
+              "username": "szpqzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095737202433306947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095664901197119811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @szpqzs: 今日学校行ってない人集合ね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059615488171536384",
+        "conversation_id": "2095664901197119811",
+        "created_at": "2026-09-04T00:07:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T01:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095664901197119811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095664901197119811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 29431,
+          "like_count": 1502,
+          "quote_count": 24,
+          "reply_count": 57,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "今日学校行ってない人集合ね"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095737202433306947",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1443,
+          "like_count": 63552,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3762
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T12:39:33.000Z",
+        "description": "全日FJK /🌳/👊🩸/全コンプ\n無言フォロー失礼します",
+        "id": "2059615488171536384",
+        "is_identity_verified": false,
+        "location": "来世は人間以外に。",
+        "most_recent_tweet_id": "2095673671486759293",
+        "name": "社会",
+        "pinned_tweet_id": "2071482910717497839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059615488171536384/1782897964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077356014580707328/cxS4FGhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 144,
+          "like_count": 455,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "szpqzs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

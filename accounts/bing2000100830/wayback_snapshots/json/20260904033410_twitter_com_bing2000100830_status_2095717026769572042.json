@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095717026769572042",
+    "created_at": "2026-09-04T03:34:10.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095717026769572042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2081678175189557249",
+          "start": 3,
+          "username": "9acgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095717026769572042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095524825272074736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9acgy: 薬局の人、私に薬売ったから犯罪者なんだ( ≖ᴗ≖​)ﾆﾔｯ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095717026769572042",
+        "created_at": "2026-09-04T03:34:10.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095717026769572042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2081678175189557249",
+              "start": 3,
+              "username": "9acgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095717026769572042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095524825272074736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9acgy: 薬局の人、私に薬売ったから犯罪者なんだ( ≖ᴗ≖​)ﾆﾔｯ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081678175189557249",
+        "conversation_id": "2095524825272074736",
+        "created_at": "2026-09-03T14:50:25.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095524825272074736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095524825272074736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1608,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "薬局の人、私に薬売ったから犯罪者なんだ( ≖ᴗ≖​)ﾆﾔｯ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095717026769572042",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1442,
+          "like_count": 63525,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T09:49:30.000Z",
+        "description": "TikTok❥c_h0503     別垢❥c_h05003\ninstagram❥chi_01453",
+        "id": "2081678175189557249",
+        "is_identity_verified": false,
+        "location": "やみあか",
+        "most_recent_tweet_id": "2095524825272074736",
+        "name": "躁鬱",
+        "pinned_tweet_id": "2094939519435133362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081678175189557249/1788308456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083465914373361664/dk2KxGrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 10,
+          "like_count": 797,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "9acgy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

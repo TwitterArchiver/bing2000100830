@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098806113500282880"
+      ],
+      "media_source_tweet_id": [
+        "2098806566036320474"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099078136772358306",
+    "created_at": "2026-09-13T10:10:01.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099078136772358306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112944103346515969",
+          "start": 3,
+          "username": "RoseNyan21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSyhfX1zVv",
+          "end": 52,
+          "expanded_url": "https://x.com/RoseNyan21/status/2098806566036320474/photo/1",
+          "media_key": "3_2098806113500282880",
+          "start": 29,
+          "url": "https://t.co/uSyhfX1zVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099078136772358306",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098806113500282880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098806566036320474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RoseNyan21: こういう靴大好き（定期） https://t.co/uSyhfX1zVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1651,
+        "media_key": "3_2098806113500282880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB1Ck-aQAAqw4w.jpg",
+        "width": 2026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098806113500282880"
+          ],
+          "media_source_tweet_id": [
+            "2098806566036320474"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099078136772358306",
+        "created_at": "2026-09-13T10:10:01.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099078136772358306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112944103346515969",
+              "start": 3,
+              "username": "RoseNyan21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSyhfX1zVv",
+              "end": 52,
+              "expanded_url": "https://x.com/RoseNyan21/status/2098806566036320474/photo/1",
+              "media_key": "3_2098806113500282880",
+              "start": 29,
+              "url": "https://t.co/uSyhfX1zVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099078136772358306",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098806113500282880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806566036320474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RoseNyan21: こういう靴大好き（定期） https://t.co/uSyhfX1zVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098806113500282880"
+          ]
+        },
+        "author_id": "1112944103346515969",
+        "conversation_id": "2098806566036320474",
+        "created_at": "2026-09-12T16:10:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098806566036320474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSyhfX1zVv",
+              "end": 36,
+              "expanded_url": "https://x.com/RoseNyan21/status/2098806566036320474/photo/1",
+              "media_key": "3_2098806113500282880",
+              "start": 13,
+              "url": "https://t.co/uSyhfX1zVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098806566036320474",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098806113500282880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 37098,
+          "like_count": 2824,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "こういう靴大好き（定期） https://t.co/uSyhfX1zVv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099078136772358306",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 65061,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3968
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-02T05:05:26.000Z",
+        "description": "Illustrator┊ケモミミ描いてます！┊ お仕事募集中┊✉️lows21contact@gmail.com┊FANBOX▶︎ https://t.co/WwnwGfZp7Q┊リンク▶︎https://t.co/g3PSAeFdza┊OC▶︎ルカ・ロア Sub▶︎@Rose_Sub21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Rose_Sub21"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/o6HOi",
+                "end": 89,
+                "expanded_url": "https://x.gd/o6HOi",
+                "start": 66,
+                "url": "https://t.co/WwnwGfZp7Q"
+              },
+              {
+                "display_url": "lit.link/rouse",
+                "end": 118,
+                "expanded_url": "https://lit.link/rouse",
+                "start": 95,
+                "url": "https://t.co/g3PSAeFdza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/iaml…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/iamlows21",
+                "start": 0,
+                "url": "https://t.co/FLTjTPD0X8"
+              }
+            ]
+          }
+        },
+        "id": "1112944103346515969",
+        "is_identity_verified": false,
+        "location": "🚫無断転載･AI学習禁止",
+        "most_recent_tweet_id": "2099064154254651577",
+        "name": "ろうず🥀お仕事募集中",
+        "pinned_tweet_id": "2087101716533526968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112944103346515969/1777829413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984626792557322240/jObssNFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37725,
+          "following_count": 109,
+          "like_count": 95818,
+          "listed_count": 361,
+          "media_count": 460,
+          "tweet_count": 8138
+        },
+        "url": "https://t.co/FLTjTPD0X8",
+        "username": "RoseNyan21",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

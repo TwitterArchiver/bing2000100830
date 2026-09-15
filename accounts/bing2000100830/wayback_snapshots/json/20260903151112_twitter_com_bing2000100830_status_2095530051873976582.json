@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095175598369067008"
+      ],
+      "media_source_tweet_id": [
+        "2095175606489268571"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095530051873976582",
+    "created_at": "2026-09-03T15:11:12.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095530051873976582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020887851882409984",
+          "start": 3,
+          "username": "omoti_uyuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fODZS9Udor",
+          "end": 52,
+          "expanded_url": "https://x.com/omoti_uyuu/status/2095175606489268571/photo/1",
+          "media_key": "3_2095175598369067008",
+          "start": 29,
+          "url": "https://t.co/fODZS9Udor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095530051873976582",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095175598369067008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095175606489268571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omoti_uyuu: 解釈違いにならないように https://t.co/fODZS9Udor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2095175598369067008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROPGyLa0AAiG67.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095175598369067008"
+          ],
+          "media_source_tweet_id": [
+            "2095175606489268571"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095530051873976582",
+        "created_at": "2026-09-03T15:11:12.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095530051873976582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020887851882409984",
+              "start": 3,
+              "username": "omoti_uyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fODZS9Udor",
+              "end": 52,
+              "expanded_url": "https://x.com/omoti_uyuu/status/2095175606489268571/photo/1",
+              "media_key": "3_2095175598369067008",
+              "start": 29,
+              "url": "https://t.co/fODZS9Udor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095530051873976582",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095175598369067008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095175606489268571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omoti_uyuu: 解釈違いにならないように https://t.co/fODZS9Udor"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095175598369067008"
+          ]
+        },
+        "author_id": "2020887851882409984",
+        "conversation_id": "2095175606489268571",
+        "created_at": "2026-09-02T15:42:45.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095175606489268571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fODZS9Udor",
+              "end": 36,
+              "expanded_url": "https://x.com/omoti_uyuu/status/2095175606489268571/photo/1",
+              "media_key": "3_2095175598369067008",
+              "start": 13,
+              "url": "https://t.co/fODZS9Udor"
+            },
+            {
+              "display_url": "x.com/omoti_uyuu/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/omoti_uyuu/status/2095173606921904401",
+              "start": 37,
+              "url": "https://t.co/UE3IXbzdX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095175606489268571",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095175598369067008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4349,
+          "like_count": 446,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095173606921904401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解釈違いにならないように https://t.co/fODZS9Udor https://t.co/UE3IXbzdX8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095530051873976582",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1442,
+          "like_count": 63402,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T15:50:04.000Z",
+        "description": "適当にします￤生後7ヶ月",
+        "id": "2020887851882409984",
+        "is_identity_verified": false,
+        "location": "無断使用無断転載禁止",
+        "most_recent_tweet_id": "2095518448713654330",
+        "name": "〆ガ盛りメガメガ太",
+        "pinned_tweet_id": "2094053839720874004",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094480950268985344/hraCRcyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 25,
+          "like_count": 10894,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1826
+        },
+        "url": "",
+        "username": "omoti_uyuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

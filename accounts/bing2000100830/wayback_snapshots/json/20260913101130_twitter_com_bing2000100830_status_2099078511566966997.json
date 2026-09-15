@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099078506428985344"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099045721651778012",
+    "created_at": "2026-09-13T10:11:30.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099078511566966997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFu7jp3kaw",
+          "end": 46,
+          "expanded_url": "https://x.com/bing2000100830/status/2099078511566966997/photo/1",
+          "media_key": "3_2099078506428985344",
+          "start": 23,
+          "url": "https://t.co/eFu7jp3kaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099078511566966997",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099078506428985344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099045721651778012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 粉色阿p被糖糖掐时的幻觉 https://t.co/eFu7jp3kaw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "3_2099078506428985344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFsx7tbcAAzOgL.jpg",
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099078506428985344"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099045721651778012",
+        "created_at": "2026-09-13T10:11:30.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099078511566966997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFu7jp3kaw",
+              "end": 46,
+              "expanded_url": "https://x.com/bing2000100830/status/2099078511566966997/photo/1",
+              "media_key": "3_2099078506428985344",
+              "start": 23,
+              "url": "https://t.co/eFu7jp3kaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099078511566966997",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099078506428985344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099045721651778012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 粉色阿p被糖糖掐时的幻觉 https://t.co/eFu7jp3kaw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2099045721651778012",
+        "created_at": "2026-09-13T08:01:13.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099045721651778012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099045721651778012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界是不是虚构的。感觉不真实。神奇。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099078511566966997",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 65061,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 3971
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2099073541102830077",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1788821751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 714,
+          "like_count": 18792,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 8815
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

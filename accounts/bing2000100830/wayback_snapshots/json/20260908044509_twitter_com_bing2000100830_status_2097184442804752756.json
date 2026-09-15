@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096958601357402113"
+      ],
+      "media_source_tweet_id": [
+        "2096958608181186627"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2097184442804752756",
+    "created_at": "2026-09-08T04:45:09.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097184442804752756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "593071014",
+          "start": 3,
+          "username": "luvcarello"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8GU4nJrvvU",
+          "end": 87,
+          "expanded_url": "https://x.com/luvcarello/status/2096958608181186627/photo/1",
+          "media_key": "3_2096958601357402113",
+          "start": 64,
+          "url": "https://t.co/8GU4nJrvvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097184442804752756",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2096958601357402113"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12027
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096958608181186627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luvcarello: quando eu tinha 13 anos meu sonho era ser assim https://t.co/8GU4nJrvvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2096958601357402113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnkvN6boAEa5-1.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096958601357402113"
+          ],
+          "media_source_tweet_id": [
+            "2096958608181186627"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2097184442804752756",
+        "created_at": "2026-09-08T04:45:09.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097184442804752756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "593071014",
+              "start": 3,
+              "username": "luvcarello"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GU4nJrvvU",
+              "end": 87,
+              "expanded_url": "https://x.com/luvcarello/status/2096958608181186627/photo/1",
+              "media_key": "3_2096958601357402113",
+              "start": 64,
+              "url": "https://t.co/8GU4nJrvvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097184442804752756",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2096958601357402113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096958608181186627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luvcarello: quando eu tinha 13 anos meu sonho era ser assim https://t.co/8GU4nJrvvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096958601357402113"
+          ]
+        },
+        "author_id": "593071014",
+        "conversation_id": "2096958608181186627",
+        "created_at": "2026-09-07T13:47:46.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096958608181186627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GU4nJrvvU",
+              "end": 71,
+              "expanded_url": "https://x.com/luvcarello/status/2096958608181186627/photo/1",
+              "media_key": "3_2096958601357402113",
+              "start": 48,
+              "url": "https://t.co/8GU4nJrvvU"
+            },
+            {
+              "display_url": "x.com/johnny316_/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/johnny316_/status/2096638404356194637",
+              "start": 72,
+              "url": "https://t.co/aqQ6gN9HYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096958608181186627",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2096958601357402113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 493828,
+          "like_count": 43318,
+          "quote_count": 235,
+          "reply_count": 67,
+          "retweet_count": 12027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096638404356194637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "quando eu tinha 13 anos meu sonho era ser assim https://t.co/8GU4nJrvvU https://t.co/aqQ6gN9HYV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2097184442804752756",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64365,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3829
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-28T19:20:24.000Z",
+        "description": "⚢\ni cant stop thinking about those tragic little gay men, they consume my every waking thought",
+        "id": "593071014",
+        "is_identity_verified": false,
+        "location": "ela!dela",
+        "most_recent_tweet_id": "2097117135549915548",
+        "name": "raf!ta de lioncourt 🥀",
+        "pinned_tweet_id": "2055128568716259838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/593071014/1786896070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089018477096980480/FUgI1ilY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 1375,
+          "like_count": 76566,
+          "listed_count": 17,
+          "media_count": 7616,
+          "tweet_count": 102133
+        },
+        "url": "",
+        "username": "luvcarello",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

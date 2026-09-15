@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096124202378240266",
+    "created_at": "2026-09-06T02:47:34.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096430075973423165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096430075973423165",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096124202378240266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52978,
+        "height": 1280,
+        "media_key": "13_2096123698759737345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096123698759737345/img/c-AlhLGB4HIzZE5z.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096123698759737345/vid/avc1/320x710/Fyvzcg6qOje1Op1d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096123698759737345/vid/avc1/480x1066/5jX6QHOcqc3rC6i7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096123698759737345/vid/avc1/576x1280/5MrUzNi4aZ5y-Vcj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096123698759737345/pl/L6SzdnYVxmdkXKi_.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096124202378240266",
+        "created_at": "2026-09-06T02:47:34.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096430075973423165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096430075973423165",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096124202378240266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096123698759737345"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "conversation_id": "2096124202378240266",
+        "created_at": "2026-09-05T06:32:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096124202378240266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebDw3rV7qj",
+              "end": 23,
+              "expanded_url": "https://x.com/woaiuai0721/status/2096124202378240266/video/1",
+              "media_key": "13_2096123698759737345",
+              "start": 0,
+              "url": "https://t.co/ebDw3rV7qj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096124202378240266",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2096123698759737345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ebDw3rV7qj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096430075973423165",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1446,
+          "like_count": 64006,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3794
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰或者别的 很友善 别对我有太多恶意呀 直fo就是觉得你很好 互fo都是好人 骂我什么的随便吧\n@yumumu_msknb 挂上了\nip：浙江",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yumumu_msknb"
+              }
+            ]
+          }
+        },
+        "id": "1975129821111074816",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2096266688463577540",
+        "name": "朱雨辰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975129821111074816/1780457001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296700907839488/2A_JIihW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 202,
+          "like_count": 8294,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2144
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

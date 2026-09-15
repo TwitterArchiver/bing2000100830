@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2098635872572973069",
+    "created_at": "2026-09-12T04:52:37.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098635872572973069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025617002975645696",
+          "start": 3,
+          "username": "nerd_man_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098635872572973069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098067258333610395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nerd_man_404: SNS見てると老後まで生きるつもりの人が結構いてびっくりする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2098635872572973069",
+        "created_at": "2026-09-12T04:52:37.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098635872572973069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025617002975645696",
+              "start": 3,
+              "username": "nerd_man_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098635872572973069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098067258333610395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nerd_man_404: SNS見てると老後まで生きるつもりの人が結構いてびっくりする"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025617002975645696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2098067258333610395",
+        "created_at": "2026-09-10T15:13:09.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098067258333610395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098067258333610395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 62113,
+          "like_count": 2391,
+          "quote_count": 29,
+          "reply_count": 18,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "SNS見てると老後まで生きるつもりの人が結構いてびっくりする"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098635877241217382",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1461,
+          "like_count": 64765,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3891
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-22T17:01:50.000Z",
+        "description": "穏やかな人生応援アカウント / 避難垢▶︎@nerd_man_808",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nerd_man_808"
+              }
+            ]
+          }
+        },
+        "id": "2025617002975645696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098429621331173376",
+        "name": "虚無",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025617002975645696/1788663217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068981877885865984/uehSo5Cm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 390,
+          "like_count": 22569,
+          "listed_count": 15,
+          "media_count": 50,
+          "tweet_count": 1634
+        },
+        "url": "",
+        "username": "nerd_man_404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

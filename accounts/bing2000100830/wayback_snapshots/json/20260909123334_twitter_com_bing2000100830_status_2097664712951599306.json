@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2097664693750075392"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2097664328459534840",
+    "created_at": "2026-09-09T12:33:34.000Z",
+    "display_text_range": [
+      8,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097664712951599306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808535836247609347",
+          "start": 0,
+          "username": "YuBanTV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HGLFXVv1u2",
+          "end": 32,
+          "expanded_url": "https://x.com/bing2000100830/status/2097664712951599306/photo/1",
+          "media_key": "16_2097664693750075392",
+          "start": 9,
+          "url": "https://t.co/HGLFXVv1u2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097664712951599306",
+    "in_reply_to_user_id": "1808535836247609347",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2097664693750075392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097664328459534840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuBanTV https://t.co/HGLFXVv1u2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "16_2097664693750075392",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRxm7NDaEAA8v3d.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRxm7NDaEAA8v3d.mp4"
+          }
+        ],
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097664693750075392"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2097664328459534840",
+        "created_at": "2026-09-09T12:33:34.000Z",
+        "display_text_range": [
+          8,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097664712951599306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808535836247609347",
+              "start": 0,
+              "username": "YuBanTV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGLFXVv1u2",
+              "end": 32,
+              "expanded_url": "https://x.com/bing2000100830/status/2097664712951599306/photo/1",
+              "media_key": "16_2097664693750075392",
+              "start": 9,
+              "url": "https://t.co/HGLFXVv1u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097664712951599306",
+        "in_reply_to_user_id": "1808535836247609347",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2097664693750075392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097664328459534840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuBanTV https://t.co/HGLFXVv1u2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808535836247609347",
+        "conversation_id": "2097664328459534840",
+        "created_at": "2026-09-09T12:32:03.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097664328459534840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "超级御御御坂美琴's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1wGWj…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/spaces/1wGWjlnBRMpKQ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2097664330128834560/U9wN8-k-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097664330128834560/U9wN8-k-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Happening now: 一龍嗎你炸我一次你馮炸一次 / X",
+              "unwound_url": "https://x.com/i/spaces/1wGWjlnBRMpKQ",
+              "url": "https://t.co/uhdY7G6bhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097664328459534840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一龍嗎你炸我一次你馮炸一次 https://t.co/uhdY7G6bhN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2097664712951599306",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1458,
+          "like_count": 64551,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3844
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "PDW 現任審核兼編輯 Chinese（TaiWan)/English /Japanese/ Cantonese/公民記者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/eeb205XMJw"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "is_identity_verified": false,
+        "location": "Tainan City, Taiwan",
+        "most_recent_tweet_id": "2097664328459534840",
+        "name": "超级御御御坂美琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808535836247609347/1721098112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065877393802444800/GbE57W8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 911,
+          "like_count": 5200,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/eeb205XMJw",
+        "username": "YuBanTV",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

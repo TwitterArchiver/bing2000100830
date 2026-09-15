@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096283159000474018",
+    "created_at": "2026-09-06T00:02:49.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096388615760904692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "135134664",
+          "start": 0,
+          "username": "yume_icky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096388615760904692",
+    "in_reply_to_user_id": "135134664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096283159000474018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yume_icky happy birthday!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "16_2096282947590725632",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRd-O_faoAAKqAq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRd-O_faoAAKqAq.mp4"
+          }
+        ],
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096283159000474018",
+        "created_at": "2026-09-06T00:02:49.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096388615760904692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "135134664",
+              "start": 0,
+              "username": "yume_icky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096388615760904692",
+        "in_reply_to_user_id": "135134664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096283159000474018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yume_icky happy birthday!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096282947590725632"
+          ]
+        },
+        "author_id": "135134664",
+        "conversation_id": "2096283159000474018",
+        "created_at": "2026-09-05T17:03:46.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096283159000474018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Afn4AouGux",
+              "end": 210,
+              "expanded_url": "https://x.com/yume_icky/status/2096283159000474018/photo/1",
+              "media_key": "16_2096282947590725632",
+              "start": 187,
+              "url": "https://t.co/Afn4AouGux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096283159000474018",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2096282947590725632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 11440,
+          "like_count": 1409,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "good morning everyone! TODAY IS MY BIRTHDAY! i made this gif to celebrate! thank you all so much for enjoying my silly creations with Ame. feel free to use it to celebrate yours too! 🥳🥳🥳 https://t.co/Afn4AouGux"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096388615760904692",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1443,
+          "like_count": 63940,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-20T12:39:49.000Z",
+        "description": "˚ʚ♡ɞ˚ hikikomori girlfailure ˚ʚ♡ɞ˚\n\nhad to delete b4 :(\ni make AMVs & memes sometimes\nhopelessly addicted to sad media ꨄ︎\n@pinkphosphylite 's #1 FAN\n\ntaken 𖹭.ᐟ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "pinkphosphylite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yume-icky.straw.page",
+                "end": 23,
+                "expanded_url": "https://yume-icky.straw.page/",
+                "start": 0,
+                "url": "https://t.co/1HfIGsawls"
+              }
+            ]
+          }
+        },
+        "id": "135134664",
+        "is_identity_verified": false,
+        "location": "(25f) Cyberia (eng/rus)",
+        "most_recent_tweet_id": "2096386707939795086",
+        "name": "Yume Icky",
+        "pinned_tweet_id": "2088444848332292519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135134664/1786771030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094274406264745984/m7APZf1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 219,
+          "like_count": 2228,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/1HfIGsawls",
+        "username": "yume_icky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098763329770869087",
+    "created_at": "2026-09-12T14:53:24.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098787066264129860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090425492339892224",
+          "start": 0,
+          "username": "twelve6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098787066264129860",
+    "in_reply_to_user_id": "2090425492339892224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098763329770869087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twelve6639 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098763329770869087].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098763329770869087",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098763329770869087"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098763329770869087",
+        "created_at": "2026-09-12T14:53:24.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787066264129860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090425492339892224",
+              "start": 0,
+              "username": "twelve6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787066264129860",
+        "in_reply_to_user_id": "2090425492339892224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098763329770869087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelve6639 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098787066264129860",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 64856,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:09:35.000Z",
+        "description": "",
+        "id": "2090425492339892224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092976350412112266",
+        "name": "twelve",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093351378504880128/1yResLSw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "twelve6639",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

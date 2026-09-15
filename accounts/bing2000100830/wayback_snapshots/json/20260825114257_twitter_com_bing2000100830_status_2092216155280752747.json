@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2092171890018455760",
+    "created_at": "2026-08-25T11:42:57.000Z",
+    "display_text_range": [
+      19,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092216155280752747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989587056994258945",
+          "start": 0,
+          "username": "tomatomonte"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092216155280752747",
+    "in_reply_to_user_id": "1989587056994258945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092174816208154635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomatomonte @grok 是不是私密账号@不了哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092174816208154635].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092174816208154635",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092174816208154635"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2092171890018455760",
+        "created_at": "2026-08-25T11:42:57.000Z",
+        "display_text_range": [
+          19,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092216155280752747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989587056994258945",
+              "start": 0,
+              "username": "tomatomonte"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092216155280752747",
+        "in_reply_to_user_id": "1989587056994258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092174816208154635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomatomonte @grok 是不是私密账号@不了哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2092216155280752747",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1410,
+          "like_count": 61035,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3618
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T06:51:54.000Z",
+        "description": "追求青春永驻天才艺术家不知天地为何物的生活是吗对的对的。尝试学习语言和绘画。",
+        "id": "1989587056994258945",
+        "is_identity_verified": false,
+        "location": "*狂乱的鸡尾酒",
+        "most_recent_tweet_id": "2089972592497365307",
+        "name": "Kayune",
+        "pinned_tweet_id": "2078965697255014802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989587056994258945/1784605743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078963812812959744/akKU8W-m_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 161,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "tomatomonte",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092216164751458813",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9006315,
+          "following_count": 6,
+          "like_count": 133,
+          "listed_count": 7432,
+          "media_count": 9301128,
+          "tweet_count": 137297809
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

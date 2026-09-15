@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099077855250436516",
+    "created_at": "2026-09-13T10:08:54.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099077855250436516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951421885687930881",
+          "start": 3,
+          "username": "I_0310_I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099077855250436516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098967355112251887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_0310_I: もしかすると、良い家庭環境で育った精神障害者が一番予後悪いのでは"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099077855250436516",
+        "created_at": "2026-09-13T10:08:54.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099077855250436516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951421885687930881",
+              "start": 3,
+              "username": "I_0310_I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099077855250436516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098967355112251887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_0310_I: もしかすると、良い家庭環境で育った精神障害者が一番予後悪いのでは"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951421885687930881",
+        "conversation_id": "2098967355112251887",
+        "created_at": "2026-09-13T02:49:49.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098967355112251887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098967355112251887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 241558,
+          "like_count": 3473,
+          "quote_count": 217,
+          "reply_count": 11,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "もしかすると、良い家庭環境で育った精神障害者が一番予後悪いのでは"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099077855250436516",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 65056,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3967
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T23:17:02.000Z",
+        "description": "25歳(00)│双極性障害│🚹│旅行/カメラ/読書/映画/ギター│前向きに闘病中💪",
+        "id": "1951421885687930881",
+        "is_identity_verified": false,
+        "location": "九州",
+        "most_recent_tweet_id": "2098971549747519626",
+        "name": "い",
+        "pinned_tweet_id": "2065713571104010320",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968223927089721344/jNnM0unj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 275,
+          "like_count": 1691,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 917
+        },
+        "url": "",
+        "username": "I_0310_I",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

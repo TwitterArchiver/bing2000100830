@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098986146609127484",
+    "created_at": "2026-09-13T04:04:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098986146609127484"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 93,
+          "tag": "amechan"
+        },
+        {
+          "end": 111,
+          "start": 102,
+          "tag": "selfharm"
+        },
+        {
+          "end": 134,
+          "start": 112,
+          "tag": "needystreameroverload"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2093006112945819649",
+          "start": 3,
+          "username": "arunnnazao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098986146609127484",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098916785961697373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arunnnazao: Had to repost since the last one got takedown\n\nTW : SH\n\n!!FAKE SITUATION!! \n\n#amechan #selfharm #needystreameroverload #twt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098916779485757440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDZsL5bAAANCpf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098986146609127484",
+        "created_at": "2026-09-13T04:04:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098986146609127484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 93,
+              "tag": "amechan"
+            },
+            {
+              "end": 111,
+              "start": 102,
+              "tag": "selfharm"
+            },
+            {
+              "end": 134,
+              "start": 112,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2093006112945819649",
+              "start": 3,
+              "username": "arunnnazao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098986146609127484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098916785961697373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arunnnazao: Had to repost since the last one got takedown\n\nTW : SH\n\n!!FAKE SITUATION!! \n\n#amechan #selfharm #needystreameroverload #twt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098916779485757440"
+          ]
+        },
+        "author_id": "2093006112945819649",
+        "conversation_id": "2098916785961697373",
+        "created_at": "2026-09-12T23:28:52.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T00:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098916785961697373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "amechan"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "selfharm"
+            },
+            {
+              "end": 118,
+              "start": 96,
+              "tag": "needystreameroverload"
+            },
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "twtcuts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6C8bcY3vA",
+              "end": 151,
+              "expanded_url": "https://x.com/arunnnazao/status/2098916785961697373/photo/1",
+              "media_key": "3_2098916779485757440",
+              "start": 128,
+              "url": "https://t.co/T6C8bcY3vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098916785961697373",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098916779485757440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 7032,
+          "like_count": 1445,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "Had to repost since the last one got takedown\n\nTW : SH\n\n!!FAKE SITUATION!! \n\n#amechan #selfharm #needystreameroverload #twtcuts https://t.co/T6C8bcY3vA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098986146609127484",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 64988,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3942
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T16:07:50.000Z",
+        "description": "she/her\n🇮🇩🇺🇸",
+        "id": "2093006112945819649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098984252193038484",
+        "name": "runaa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093006112945819649/1789141951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098439551341703168/Y7b95zgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 4,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "arunnnazao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2092861549065236858",
+    "created_at": "2026-08-27T07:17:08.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092874035764117564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2081009888818278400",
+          "start": 0,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092874035764117564",
+    "in_reply_to_user_id": "2081009888818278400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092861549065236858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiGuang_Lab 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2092861549065236858",
+        "created_at": "2026-08-27T07:17:08.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092874035764117564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2081009888818278400",
+              "start": 0,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092874035764117564",
+        "in_reply_to_user_id": "2081009888818278400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092861549065236858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiGuang_Lab 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2092861549065236858",
+        "created_at": "2026-08-27T06:27:31.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092861549065236858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092861549065236858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百科的传播开来，可能确实给社会带来了一些麻烦，但我觉得自杀率绝对是下降了。特别是年轻女孩。\n不管是极乐还是什么，只要有“可以逃避现实的出口”，都是非常重要的事情。\n“有不会走向死亡的选择真的太好了，比死掉好太多了。”\n这句话是我的主治医生对我说的，一直深深留在我的心里。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2092874035764117564",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1408,
+          "like_count": 61398,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3634
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2092861549065236858",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 738,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

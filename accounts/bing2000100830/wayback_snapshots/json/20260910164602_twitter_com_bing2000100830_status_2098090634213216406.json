@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098090634213216406",
+    "created_at": "2026-09-10T16:46:02.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T17:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098090634213216406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1917974642830258176",
+          "start": 3,
+          "username": "aoiro_ver1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098090634213216406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097533482822152304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoiro_ver1: 生まれてきたくなかったなぁ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098090634213216406",
+        "created_at": "2026-09-10T16:46:02.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098090634213216406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1917974642830258176",
+              "start": 3,
+              "username": "aoiro_ver1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098090634213216406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097533482822152304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoiro_ver1: 生まれてきたくなかったなぁ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917974642830258176",
+        "conversation_id": "2097533482822152304",
+        "created_at": "2026-09-09T03:52:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097533482822152304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097533482822152304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10091,
+          "like_count": 755,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "生まれてきたくなかったなぁ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098090634213216406",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1464,
+          "like_count": 64707,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3873
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-01T16:09:44.000Z",
+        "description": "08/電子工作/鍵垢:@aoiro_tar_gz/251 @kgicekgura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aoiro_tar_gz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "kgicekgura"
+              }
+            ]
+          }
+        },
+        "id": "1917974642830258176",
+        "is_identity_verified": false,
+        "location": "自宅",
+        "most_recent_tweet_id": "2098031084441309347",
+        "name": "あおいろ",
+        "pinned_tweet_id": "1958444026002333951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917974642830258176/1748176390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079225245362520064/686N3ELI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 295,
+          "like_count": 9777,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9282
+        },
+        "url": "",
+        "username": "aoiro_ver1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

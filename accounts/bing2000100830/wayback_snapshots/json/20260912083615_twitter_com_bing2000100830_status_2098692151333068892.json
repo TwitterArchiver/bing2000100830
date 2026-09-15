@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098692151333068892",
+    "created_at": "2026-09-12T08:36:15.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098692151333068892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096172013996089344",
+          "start": 3,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098692151333068892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098690199383580993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink4: 有谁去过强制戒毒所吗？\n我想知道里面的条件和环境\n我一个墙内好友要被扭送强制戒毒所两年了 她非常害怕 崩溃\n我希望了解一下里面的情况\n我通过AI查到收到强制戒毒通知书也是可以进行行政复议的\n或许还有机会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098692151333068892",
+        "created_at": "2026-09-12T08:36:15.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098692151333068892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096172013996089344",
+              "start": 3,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098692151333068892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098690199383580993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink4: 有谁去过强制戒毒所吗？\n我想知道里面的条件和环境\n我一个墙内好友要被扭送强制戒毒所两年了 她非常害怕 崩溃\n我希望了解一下里面的情况\n我通过AI查到收到强制戒毒通知书也是可以进行行政复议的\n或许还有机会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096172013996089344",
+        "conversation_id": "2098690199383580993",
+        "created_at": "2026-09-12T08:28:29.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098690199383580993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098690199383580993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有谁去过强制戒毒所吗？\n我想知道里面的条件和环境\n我一个墙内好友要被扭送强制戒毒所两年了 她非常害怕 崩溃\n我希望了解一下里面的情况\n我通过AI查到收到强制戒毒通知书也是可以进行行政复议的\n或许还有机会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098692151333068892",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1457,
+          "like_count": 64828,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3895
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "166cm/41kg/前世@Mintink3 个人频道https://t.co/7Nto1YSCMk❤️互fo请私我 我想寻回好友们 感谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Mintink3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 50,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 27,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098691743038505059",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2097412785592557783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 346,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/7Nto1YSCMk",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

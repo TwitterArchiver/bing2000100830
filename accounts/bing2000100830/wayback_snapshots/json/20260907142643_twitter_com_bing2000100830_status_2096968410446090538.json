@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096682737239298052"
+      ],
+      "media_source_tweet_id": [
+        "2096682743341978024"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096968410446090538",
+    "created_at": "2026-09-07T14:26:43.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096968410446090538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2891431824",
+          "start": 3,
+          "username": "dxthisa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgnRFsmIaw",
+          "end": 36,
+          "expanded_url": "https://x.com/dxthisa/status/2096682743341978024/photo/1",
+          "media_key": "3_2096682737239298052",
+          "start": 13,
+          "url": "https://t.co/LgnRFsmIaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096968410446090538",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096682737239298052"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096682743341978024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dxthisa: https://t.co/LgnRFsmIaw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2096682737239298052",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjp1z_XkAQxd7n.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096682737239298052"
+          ],
+          "media_source_tweet_id": [
+            "2096682743341978024"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096968410446090538",
+        "created_at": "2026-09-07T14:26:43.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096968410446090538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2891431824",
+              "start": 3,
+              "username": "dxthisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgnRFsmIaw",
+              "end": 36,
+              "expanded_url": "https://x.com/dxthisa/status/2096682743341978024/photo/1",
+              "media_key": "3_2096682737239298052",
+              "start": 13,
+              "url": "https://t.co/LgnRFsmIaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096968410446090538",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096682737239298052"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096682743341978024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dxthisa: https://t.co/LgnRFsmIaw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096682737239298052"
+          ]
+        },
+        "author_id": "2891431824",
+        "conversation_id": "2096682743341978024",
+        "created_at": "2026-09-06T19:31:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096682743341978024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgnRFsmIaw",
+              "end": 23,
+              "expanded_url": "https://x.com/dxthisa/status/2096682743341978024/photo/1",
+              "media_key": "3_2096682737239298052",
+              "start": 0,
+              "url": "https://t.co/LgnRFsmIaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096682743341978024",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096682737239298052"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 47709,
+          "like_count": 7437,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LgnRFsmIaw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096968410446090538",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1452,
+          "like_count": 64320,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3825
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-06T01:35:50.000Z",
+        "description": "life",
+        "id": "2891431824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096682743341978024",
+        "name": "໊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2891431824/1780882068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095531247137181700/9fyJjhf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 51,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "dxthisa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

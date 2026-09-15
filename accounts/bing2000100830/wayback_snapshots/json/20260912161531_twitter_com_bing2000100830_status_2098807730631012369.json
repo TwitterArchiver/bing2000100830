@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098807730631012369",
+    "created_at": "2026-09-12T16:15:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098807730631012369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948233853241569280",
+          "start": 3,
+          "username": "EZKO70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098807730631012369",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098137784284590589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EZKO70: Amor y si nos teñimos un mechón del mismo color para q sepan q somos almas gemelas como en gacha life noo amor porque me bloque…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098807730631012369",
+        "created_at": "2026-09-12T16:15:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098807730631012369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948233853241569280",
+              "start": 3,
+              "username": "EZKO70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098807730631012369",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098137784284590589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EZKO70: Amor y si nos teñimos un mechón del mismo color para q sepan q somos almas gemelas como en gacha life noo amor porque me bloque…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948233853241569280",
+        "conversation_id": "2098137784284590589",
+        "created_at": "2026-09-10T19:53:23.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098137784284590589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098137784284590589",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2154,
+          "impression_count": 288607,
+          "like_count": 48617,
+          "quote_count": 319,
+          "reply_count": 54,
+          "retweet_count": 12403
+        },
+        "reply_settings": "everyone",
+        "text": "Amor y si nos teñimos un mechón del mismo color para q sepan q somos almas gemelas como en gacha life noo amor porque me bloqueas"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098807730631012369",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1455,
+          "like_count": 64943,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3921
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T04:08:54.000Z",
+        "description": "@paleebunny ig- eztupido70\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "paleebunny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paa.ge/piasboyfriend",
+                "end": 23,
+                "expanded_url": "https://paa.ge/piasboyfriend",
+                "start": 0,
+                "url": "https://t.co/8ogRL8yBc8"
+              }
+            ]
+          }
+        },
+        "id": "1948233853241569280",
+        "is_identity_verified": false,
+        "location": "Sadico",
+        "most_recent_tweet_id": "2098680473828614459",
+        "name": "ENZOO",
+        "pinned_tweet_id": "2042322494825324755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948233853241569280/1785468852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083032833321480192/oYyIScZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 1,
+          "like_count": 27566,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 8041
+        },
+        "url": "https://t.co/8ogRL8yBc8",
+        "username": "EZKO70",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

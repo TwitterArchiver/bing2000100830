@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1188908088570470400",
+          "name": "School entrance exams"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2096521370595455057",
+    "created_at": "2026-09-06T08:50:20.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096521370595455057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2037723216576192512",
+          "start": 3,
+          "username": "eiln_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096521370595455057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089261020934291635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eiln_b: 今すぐにやめた方がいいこと❣️❣️\n・受験生なのに勉強せずスマホを深夜までいじる\n・なにか失敗をする度に言い訳して反省をしない\n・可愛い子を見て妬む\n・0d\n・Twitter\n・人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School entrance exams"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2096521370595455057",
+        "created_at": "2026-09-06T08:50:20.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096521370595455057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2037723216576192512",
+              "start": 3,
+              "username": "eiln_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096521370595455057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089261020934291635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eiln_b: 今すぐにやめた方がいいこと❣️❣️\n・受験生なのに勉強せずスマホを深夜までいじる\n・なにか失敗をする度に言い訳して反省をしない\n・可愛い子を見て妬む\n・0d\n・Twitter\n・人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037723216576192512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School entrance exams"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2089261020934291635",
+        "created_at": "2026-08-17T08:00:18.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089261020934291635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089261020934291635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 63378,
+          "like_count": 4411,
+          "quote_count": 61,
+          "reply_count": 5,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "今すぐにやめた方がいいこと❣️❣️\n・受験生なのに勉強せずスマホを深夜までいじる\n・なにか失敗をする度に言い訳して反省をしない\n・可愛い子を見て妬む\n・0d\n・Twitter\n・人生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096521370595455057",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 64115,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3814
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T02:48:09.000Z",
+        "description": "大好きちゃん @tenshi0326\n彼女 @Axch1025\n251 @Umi_no_Yami21\n大切 @ram_DA12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "tenshi0326"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Axch1025"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Umi_no_Yami21"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "ram_DA12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/p94ph3e4ui601g…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/p94ph3e4ui601gh?t=oavhJi&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/gJWxUJQXem"
+              }
+            ]
+          }
+        },
+        "id": "2037723216576192512",
+        "is_identity_verified": false,
+        "location": "凍結解除された🎶",
+        "most_recent_tweet_id": "2096324717045252098",
+        "name": "瀬戸",
+        "pinned_tweet_id": "2089261020934291635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037723216576192512/1785824226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095507661320249344/EeQtvZZv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 839,
+          "like_count": 8024,
+          "listed_count": 13,
+          "media_count": 44,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/gJWxUJQXem",
+        "username": "eiln_b",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

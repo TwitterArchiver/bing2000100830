@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095967485623472128"
+      ],
+      "media_source_tweet_id": [
+        "2096085411982393592"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2096130116695060977",
+    "created_at": "2026-09-05T06:55:38.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096130116695060977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053082671308562432",
+          "start": 3,
+          "username": "Nobara_kugii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xqnaZaO7lg",
+          "end": 41,
+          "expanded_url": "https://x.com/Nobara_kugii/status/2096085411982393592/photo/1",
+          "media_key": "3_2095967485623472128",
+          "start": 18,
+          "url": "https://t.co/xqnaZaO7lg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096130116695060977",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095967485623472128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096085411982393592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nobara_kugii: https://t.co/xqnaZaO7lg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2095967485623472128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZfUsFbEAAncnn.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095967485623472128"
+          ],
+          "media_source_tweet_id": [
+            "2096085411982393592"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2096130116695060977",
+        "created_at": "2026-09-05T06:55:38.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096130116695060977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053082671308562432",
+              "start": 3,
+              "username": "Nobara_kugii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqnaZaO7lg",
+              "end": 41,
+              "expanded_url": "https://x.com/Nobara_kugii/status/2096085411982393592/photo/1",
+              "media_key": "3_2095967485623472128",
+              "start": 18,
+              "url": "https://t.co/xqnaZaO7lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096130116695060977",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095967485623472128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096085411982393592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nobara_kugii: https://t.co/xqnaZaO7lg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095967485623472128"
+          ]
+        },
+        "author_id": "2053082671308562432",
+        "conversation_id": "2096085411982393592",
+        "created_at": "2026-09-05T03:58:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096085411982393592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqnaZaO7lg",
+              "end": 23,
+              "expanded_url": "https://x.com/Nobara_kugii/status/2096085411982393592/photo/1",
+              "media_key": "3_2095967485623472128",
+              "start": 0,
+              "url": "https://t.co/xqnaZaO7lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096085411982393592",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095967485623472128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1037,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xqnaZaO7lg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096130116695060977",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1443,
+          "like_count": 63822,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3774
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T12:00:28.000Z",
+        "description": "✩ ✮ 𖤓ᰔ 𐔌՞ ܸ.ˬ.ܸ՞𐦯",
+        "id": "2053082671308562432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096122153947304020",
+        "name": "𖤓",
+        "pinned_tweet_id": "2055939888428486950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053082671308562432/1778328255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053083138071646208/otm2MCLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 976,
+          "like_count": 2239,
+          "listed_count": 4,
+          "media_count": 1437,
+          "tweet_count": 2285
+        },
+        "url": "",
+        "username": "Nobara_kugii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

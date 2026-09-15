@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097641240607002624"
+      ],
+      "media_source_tweet_id": [
+        "2097641243056414902"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2098078442285932792",
+    "created_at": "2026-09-10T15:57:35.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098078442285932792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "9334242",
+          "start": 3,
+          "username": "gigazine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IxhzAYNm3V",
+          "end": 72,
+          "expanded_url": "https://x.com/gigazine/status/2097641243056414902/photo/1",
+          "media_key": "3_2097641240607002624",
+          "start": 49,
+          "url": "https://t.co/IxhzAYNm3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098078442285932792",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097641240607002624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097641243056414902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gigazine: 「1週間以内に自殺しようとする人」を75％の精度で予測することに成功 https://t.co/IxhzAYNm3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2097641240607002624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxRmDSXEAAcIGl.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097641240607002624"
+          ],
+          "media_source_tweet_id": [
+            "2097641243056414902"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2098078442285932792",
+        "created_at": "2026-09-10T15:57:35.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098078442285932792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "9334242",
+              "start": 3,
+              "username": "gigazine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxhzAYNm3V",
+              "end": 72,
+              "expanded_url": "https://x.com/gigazine/status/2097641243056414902/photo/1",
+              "media_key": "3_2097641240607002624",
+              "start": 49,
+              "url": "https://t.co/IxhzAYNm3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098078442285932792",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097641240607002624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097641243056414902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gigazine: 「1週間以内に自殺しようとする人」を75％の精度で予測することに成功 https://t.co/IxhzAYNm3V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097641240607002624"
+          ]
+        },
+        "author_id": "9334242",
+        "conversation_id": "2097641243056414902",
+        "created_at": "2026-09-09T11:00:19.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097641243056414902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxhzAYNm3V",
+              "end": 58,
+              "expanded_url": "https://x.com/gigazine/status/2097641243056414902/photo/1",
+              "media_key": "3_2097641240607002624",
+              "start": 35,
+              "url": "https://t.co/IxhzAYNm3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097641243056414902",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097641240607002624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 123397,
+          "like_count": 1667,
+          "quote_count": 39,
+          "reply_count": 6,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "「1週間以内に自殺しようとする人」を75％の精度で予測することに成功 https://t.co/IxhzAYNm3V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2098078442285932792",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1463,
+          "like_count": 64684,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3868
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-10-09T18:50:45.000Z",
+        "description": "ニュースサイト「GIGAZINE」（ギガジン）公式アカウント。最新ニュースを速報中。365日年中無休で更新しています。誤字脱字指摘や記事ネタの連絡はGIGAZINEページ一番下にあるメールフォームへのリンクから送ってくれると助かります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gigazine.net",
+                "end": 23,
+                "expanded_url": "http://gigazine.net/",
+                "start": 0,
+                "url": "https://t.co/kkbXYbAfwV"
+              }
+            ]
+          }
+        },
+        "id": "9334242",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2098060185843462148",
+        "name": "GIGAZINE(ギガジン)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9334242/1461292998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876998955627827204/IuoxMaM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610619,
+          "following_count": 16,
+          "like_count": 41,
+          "listed_count": 14676,
+          "media_count": 22204,
+          "tweet_count": 163018
+        },
+        "url": "https://t.co/kkbXYbAfwV",
+        "username": "gigazine",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

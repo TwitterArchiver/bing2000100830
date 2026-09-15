@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095357966132416774",
+    "created_at": "2026-09-03T03:47:23.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095357966132416774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692033371915132928",
+          "start": 3,
+          "username": "_O_O_O_0_O_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095357966132416774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095120502339809579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_O_O_O_0_O_0: リスカ跡が急に痒くなったり痛くなったりする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095357966132416774",
+        "created_at": "2026-09-03T03:47:23.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095357966132416774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692033371915132928",
+              "start": 3,
+              "username": "_O_O_O_0_O_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095357966132416774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095120502339809579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_O_O_O_0_O_0: リスカ跡が急に痒くなったり痛くなったりする"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692033371915132928",
+        "conversation_id": "2095120502339809579",
+        "created_at": "2026-09-02T12:03:47.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095120502339809579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095120502339809579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 27972,
+          "like_count": 1529,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "リスカ跡が急に痒くなったり痛くなったりする"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095357966132416774",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1437,
+          "like_count": 63267,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T04:39:37.000Z",
+        "description": "男 🐿🦟 ブスです 音楽好きです サブ@headphone_wo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "headphone_wo"
+              }
+            ]
+          }
+        },
+        "id": "1692033371915132928",
+        "is_identity_verified": false,
+        "location": "真ん中らへん",
+        "most_recent_tweet_id": "2095201326020096352",
+        "name": "🍋",
+        "pinned_tweet_id": "2027401198148751590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692033371915132928/1695728989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964934845425152000/WIqDWGs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 101,
+          "like_count": 12782,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2226
+        },
+        "url": "",
+        "username": "_O_O_O_0_O_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

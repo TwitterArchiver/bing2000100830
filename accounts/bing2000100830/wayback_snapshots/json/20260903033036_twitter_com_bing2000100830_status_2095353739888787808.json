@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095340118210969603"
+      ],
+      "media_source_tweet_id": [
+        "2095340141904585024"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095353739888787808",
+    "created_at": "2026-09-03T03:30:36.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095353739888787808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032144916294385664",
+          "start": 3,
+          "username": "Lightk0yu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LLndP9V5cF",
+          "end": 38,
+          "expanded_url": "https://x.com/Lightk0yu/status/2095340141904585024/video/1",
+          "media_key": "13_2095340118210969603",
+          "start": 15,
+          "url": "https://t.co/LLndP9V5cF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095353739888787808",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095340118210969603"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095340141904585024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lightk0yu: https://t.co/LLndP9V5cF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3780,
+        "height": 720,
+        "media_key": "13_2095340118210969603",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095340118210969603/img/bYLqR-rIu-uyq81J.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095340118210969603/vid/avc1/320x320/9F1PIusPlcqGe7fX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095340118210969603/vid/avc1/540x540/_d3bPKPHMkAN2Oky.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095340118210969603/vid/avc1/720x720/x-jKzGV-7MijueXQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095340118210969603/pl/Ves1tVOrbprd-L3m.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095340118210969603"
+          ],
+          "media_source_tweet_id": [
+            "2095340141904585024"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095353739888787808",
+        "created_at": "2026-09-03T03:30:36.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095353739888787808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032144916294385664",
+              "start": 3,
+              "username": "Lightk0yu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLndP9V5cF",
+              "end": 38,
+              "expanded_url": "https://x.com/Lightk0yu/status/2095340141904585024/video/1",
+              "media_key": "13_2095340118210969603",
+              "start": 15,
+              "url": "https://t.co/LLndP9V5cF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095353739888787808",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095340118210969603"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095340141904585024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lightk0yu: https://t.co/LLndP9V5cF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095340118210969603"
+          ]
+        },
+        "author_id": "2032144916294385664",
+        "conversation_id": "2095340141904585024",
+        "created_at": "2026-09-03T02:36:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095340141904585024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLndP9V5cF",
+              "end": 23,
+              "expanded_url": "https://x.com/Lightk0yu/status/2095340141904585024/video/1",
+              "media_key": "13_2095340118210969603",
+              "start": 0,
+              "url": "https://t.co/LLndP9V5cF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095340141904585024",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095340118210969603"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LLndP9V5cF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095353750563303531",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1436,
+          "like_count": 63256,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3736
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T17:22:54.000Z",
+        "description": "light",
+        "id": "2032144916294385664",
+        "is_identity_verified": false,
+        "location": "木叶村",
+        "most_recent_tweet_id": "2095343834989293861",
+        "name": "light",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032144916294385664/1777284136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047649497829048321/pekEyMWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 116,
+          "like_count": 4213,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "Lightk0yu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

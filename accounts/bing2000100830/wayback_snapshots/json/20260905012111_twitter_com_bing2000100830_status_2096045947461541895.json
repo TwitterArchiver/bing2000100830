@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2095974871851495424"
+      ],
+      "media_source_tweet_id": [
+        "2095975333556269267"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096045947461541895",
+    "created_at": "2026-09-05T01:21:11.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T02:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096045947461541895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "135134664",
+          "start": 3,
+          "username": "yume_icky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsU7SzV8ys",
+          "end": 64,
+          "expanded_url": "https://x.com/yume_icky/status/2095975333556269267/photo/1",
+          "media_key": "16_2095974871851495424",
+          "start": 41,
+          "url": "https://t.co/bsU7SzV8ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096045947461541895",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2095974871851495424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095975333556269267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yume_icky: time to get sillier, ame! https://t.co/bsU7SzV8ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "16_2095974871851495424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRZmCn7acAAVyXc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRZmCn7acAAVyXc.mp4"
+          }
+        ],
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095974871851495424"
+          ],
+          "media_source_tweet_id": [
+            "2095975333556269267"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096045947461541895",
+        "created_at": "2026-09-05T01:21:11.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096045947461541895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "135134664",
+              "start": 3,
+              "username": "yume_icky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsU7SzV8ys",
+              "end": 64,
+              "expanded_url": "https://x.com/yume_icky/status/2095975333556269267/photo/1",
+              "media_key": "16_2095974871851495424",
+              "start": 41,
+              "url": "https://t.co/bsU7SzV8ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096045947461541895",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2095974871851495424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095975333556269267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yume_icky: time to get sillier, ame! https://t.co/bsU7SzV8ys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095974871851495424"
+          ]
+        },
+        "author_id": "135134664",
+        "conversation_id": "2095975333556269267",
+        "created_at": "2026-09-04T20:40:35.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095975333556269267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsU7SzV8ys",
+              "end": 49,
+              "expanded_url": "https://x.com/yume_icky/status/2095975333556269267/photo/1",
+              "media_key": "16_2095974871851495424",
+              "start": 26,
+              "url": "https://t.co/bsU7SzV8ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095975333556269267",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2095974871851495424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 3418,
+          "like_count": 519,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "time to get sillier, ame! https://t.co/bsU7SzV8ys"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2096045947461541895",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1445,
+          "like_count": 63784,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3770
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-20T12:39:49.000Z",
+        "description": "˚ʚ♡ɞ˚ hikikomori girlfailure ˚ʚ♡ɞ˚\n\nhad to delete b4 :(\ni make AMVs & memes sometimes\nhopelessly addicted to sad media ꨄ︎\n@pinkphosphylite 's #1 FAN\n\ntaken 𖹭.ᐟ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "pinkphosphylite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yume-icky.straw.page",
+                "end": 23,
+                "expanded_url": "https://yume-icky.straw.page/",
+                "start": 0,
+                "url": "https://t.co/1HfIGsb4b0"
+              }
+            ]
+          }
+        },
+        "id": "135134664",
+        "is_identity_verified": false,
+        "location": "(25f) Cyberia (eng/rus)",
+        "most_recent_tweet_id": "2096036595476660359",
+        "name": "Yume Icky",
+        "pinned_tweet_id": "2093584543559401900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135134664/1786771030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094274406264745984/m7APZf1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 217,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/1HfIGsb4b0",
+        "username": "yume_icky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

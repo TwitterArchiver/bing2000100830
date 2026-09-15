@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337415114329182208",
+          "name": "Seiko Oomori"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2097660305434427581",
+    "created_at": "2026-09-09T12:16:04.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097660305434427581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1886990091735998464",
+          "start": 3,
+          "username": "mirumiru_nano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097660305434427581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097326423627473182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirumiru_nano00: 【絶対にハマらないと思っていたのにハマったもの】\n・大森靖子\n・マイメロ\n・リスカ\n・Twitter\n・地雷系の女の子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097660305434427581",
+        "created_at": "2026-09-09T12:16:04.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097660305434427581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1886990091735998464",
+              "start": 3,
+              "username": "mirumiru_nano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097660305434427581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097326423627473182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirumiru_nano00: 【絶対にハマらないと思っていたのにハマったもの】\n・大森靖子\n・マイメロ\n・リスカ\n・Twitter\n・地雷系の女の子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886990091735998464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337415114329182208",
+              "name": "Seiko Oomori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097326423627473182",
+        "created_at": "2026-09-08T14:09:20.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097326423627473182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097326423627473182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 19774,
+          "like_count": 1536,
+          "quote_count": 29,
+          "reply_count": 5,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "【絶対にハマらないと思っていたのにハマったもの】\n・大森靖子\n・マイメロ\n・リスカ\n・Twitter\n・地雷系の女の子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2097660305434427581",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 64540,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 3843
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-05T04:07:59.000Z",
+        "description": "@fucx7_xx 避難中ඉ́  ̫ ඉ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "fucx7_xx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/d1oi6nju029fd2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/d1oi6nju029fd2x?t=2B2eLI&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/rkCoKzeoIJ"
+              }
+            ]
+          }
+        },
+        "id": "1886990091735998464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097657126336581633",
+        "name": "カロミル@避難垢",
+        "pinned_tweet_id": "2094015034787836156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886990091735998464/1782364136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094226853443895296/P83H4JmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 332,
+          "like_count": 16485,
+          "listed_count": 11,
+          "media_count": 47,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/rkCoKzeoIJ",
+        "username": "mirumiru_nano00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

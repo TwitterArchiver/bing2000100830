@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2094749098905911733",
+    "created_at": "2026-09-01T11:27:58.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094749098905911733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1327716517677584393",
+          "start": 3,
+          "username": "ptvchen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094749098905911733",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21548
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094390434311077903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ptvchen: queria avaliar filmes no letterbox mas eu tenho a opinião cinematográfica de uma criança de 5 anos e todo filme que vejo fico…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "16_2094390423477194752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRDE_lxWkAAp1Ek.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRDE_lxWkAAp1Ek.mp4"
+          }
+        ],
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2094749098905911733",
+        "created_at": "2026-09-01T11:27:58.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094749098905911733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1327716517677584393",
+              "start": 3,
+              "username": "ptvchen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094749098905911733",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21548
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094390434311077903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ptvchen: queria avaliar filmes no letterbox mas eu tenho a opinião cinematográfica de uma criança de 5 anos e todo filme que vejo fico…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2094390423477194752"
+          ]
+        },
+        "author_id": "1327716517677584393",
+        "conversation_id": "2094390434311077903",
+        "created_at": "2026-08-31T11:42:46.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094390434311077903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHezAiFIZ9",
+              "end": 155,
+              "expanded_url": "https://x.com/ptvchen/status/2094390434311077903/photo/1",
+              "media_key": "16_2094390423477194752",
+              "start": 132,
+              "url": "https://t.co/UHezAiFIZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094390434311077903",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "16_2094390423477194752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2242,
+          "impression_count": 741595,
+          "like_count": 95641,
+          "quote_count": 1403,
+          "reply_count": 279,
+          "retweet_count": 21548
+        },
+        "reply_settings": "everyone",
+        "text": "queria avaliar filmes no letterbox mas eu tenho a opinião cinematográfica de uma criança de 5 anos e todo filme que vejo fico assim https://t.co/UHezAiFIZ9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2094749098905911733",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1423,
+          "like_count": 62630,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3697
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-14T20:54:35.000Z",
+        "description": "⠀\n\n⠀",
+        "id": "1327716517677584393",
+        "is_identity_verified": false,
+        "location": "He, she, both.",
+        "most_recent_tweet_id": "2094746508536991776",
+        "name": "݁",
+        "pinned_tweet_id": "1962359427966579052",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327716517677584393/1787279499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090627813158125568/VolTrLON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 69,
+          "like_count": 3481,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2439
+        },
+        "url": "",
+        "username": "ptvchen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

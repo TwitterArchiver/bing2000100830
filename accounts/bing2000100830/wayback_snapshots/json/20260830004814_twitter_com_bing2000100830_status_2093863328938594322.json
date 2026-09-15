@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093610527369146368"
+      ],
+      "media_source_tweet_id": [
+        "2093610582482301115"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2093863328938594322",
+    "created_at": "2026-08-30T00:48:14.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T01:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093863328938594322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907794558550945793",
+          "start": 3,
+          "username": "yeza5911"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3gjg6soxjo",
+          "end": 50,
+          "expanded_url": "https://x.com/yeza5911/status/2093610582482301115/video/1",
+          "media_key": "13_2093610527369146368",
+          "start": 27,
+          "url": "https://t.co/3gjg6soxjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093863328938594322",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2093610527369146368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093610582482301115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeza5911: 存一下 下个月生日发这个 https://t.co/3gjg6soxjo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23800,
+        "height": 576,
+        "media_key": "13_2093610527369146368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093610527369146368/img/xnJb24WNOaOSy4HI.jpg",
+        "public_metrics": {
+          "view_count": 84076
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093610527369146368/vid/avc1/370x270/gIsf9YzBYCWFleCE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093610527369146368/vid/avc1/492x360/aHlu8-073Lmf2KA7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093610527369146368/vid/avc1/790x576/OM6tUHU2D7rDLcd0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093610527369146368/pl/5JbT-MPfuPw0ScFn.m3u8?v=beb"
+          }
+        ],
+        "width": 790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093610527369146368"
+          ],
+          "media_source_tweet_id": [
+            "2093610582482301115"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093863328938594322",
+        "created_at": "2026-08-30T00:48:14.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093863328938594322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907794558550945793",
+              "start": 3,
+              "username": "yeza5911"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gjg6soxjo",
+              "end": 50,
+              "expanded_url": "https://x.com/yeza5911/status/2093610582482301115/video/1",
+              "media_key": "13_2093610527369146368",
+              "start": 27,
+              "url": "https://t.co/3gjg6soxjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093863328938594322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093610527369146368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093610582482301115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeza5911: 存一下 下个月生日发这个 https://t.co/3gjg6soxjo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093610527369146368"
+          ]
+        },
+        "author_id": "1907794558550945793",
+        "conversation_id": "2093610582482301115",
+        "created_at": "2026-08-29T08:03:54.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093610582482301115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gjg6soxjo",
+              "end": 36,
+              "expanded_url": "https://x.com/yeza5911/status/2093610582482301115/video/1",
+              "media_key": "13_2093610527369146368",
+              "start": 13,
+              "url": "https://t.co/3gjg6soxjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093610582482301115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093610527369146368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1055,
+          "impression_count": 152357,
+          "like_count": 3798,
+          "quote_count": 10,
+          "reply_count": 124,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "存一下 下个月生日发这个 https://t.co/3gjg6soxjo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2093863328938594322",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1407,
+          "like_count": 61847,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3650
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-03T13:57:36.000Z",
+        "description": "Strawberry Fields Forever -",
+        "id": "1907794558550945793",
+        "is_identity_verified": false,
+        "location": "傻逼退散 阿门🙏🏻",
+        "most_recent_tweet_id": "2093770623717958035",
+        "name": "保鲜室里的尸块",
+        "pinned_tweet_id": "2093590456810790975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907794558550945793/1785439202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957941973391986688/DpMCyKOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 377,
+          "like_count": 7523,
+          "listed_count": 4,
+          "media_count": 1819,
+          "tweet_count": 4242
+        },
+        "url": "",
+        "username": "yeza5911",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

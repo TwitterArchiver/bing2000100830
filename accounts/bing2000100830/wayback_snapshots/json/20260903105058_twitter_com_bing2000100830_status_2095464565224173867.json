@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095400462942195712"
+      ],
+      "media_source_tweet_id": [
+        "2095400467220287928"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2095464565224173867",
+    "created_at": "2026-09-03T10:50:58.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095464565224173867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1169898780142866433",
+          "start": 3,
+          "username": "huako31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQww1w4qmj",
+          "end": 59,
+          "expanded_url": "https://x.com/huako31/status/2095400467220287928/photo/1",
+          "media_key": "3_2095400462942195712",
+          "start": 36,
+          "url": "https://t.co/XQww1w4qmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095464565224173867",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095400462942195712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095400467220287928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huako31: この表情を見てください\nまどかは\"攻め\"です https://t.co/XQww1w4qmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2095400462942195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRbnn_b0AAmnm1.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095400462942195712"
+          ],
+          "media_source_tweet_id": [
+            "2095400467220287928"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2095464565224173867",
+        "created_at": "2026-09-03T10:50:58.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095464565224173867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1169898780142866433",
+              "start": 3,
+              "username": "huako31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQww1w4qmj",
+              "end": 59,
+              "expanded_url": "https://x.com/huako31/status/2095400467220287928/photo/1",
+              "media_key": "3_2095400462942195712",
+              "start": 36,
+              "url": "https://t.co/XQww1w4qmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095464565224173867",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095400462942195712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095400467220287928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huako31: この表情を見てください\nまどかは\"攻め\"です https://t.co/XQww1w4qmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095400462942195712"
+          ]
+        },
+        "author_id": "1169898780142866433",
+        "conversation_id": "2095400467220287928",
+        "created_at": "2026-09-03T06:36:16.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095400467220287928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQww1w4qmj",
+              "end": 46,
+              "expanded_url": "https://x.com/huako31/status/2095400467220287928/photo/1",
+              "media_key": "3_2095400462942195712",
+              "start": 23,
+              "url": "https://t.co/XQww1w4qmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095400467220287928",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095400462942195712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 8464,
+          "like_count": 720,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "この表情を見てください\nまどかは\"攻め\"です https://t.co/XQww1w4qmj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2095464565224173867",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1441,
+          "like_count": 63358,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3747
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-06T09:03:05.000Z",
+        "description": "20↑モブおじです。百合が好きです女の子描きます例大祭に向けてレイマリ多め\nあんスタ垢@huwanaannsuta　\nAI❌無断転載❌保存⭕️何かあったらDMかhuakoirai@gmail.com　リトリンhttps://t.co/oRuRX7aT7y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huwanaannsuta"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/fuako31",
+                "end": 127,
+                "expanded_url": "https://lit.link/fuako31",
+                "start": 104,
+                "url": "https://t.co/oRuRX7aT7y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@huako31",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@huako31",
+                "start": 0,
+                "url": "https://t.co/1vRvXnIRJO"
+              }
+            ]
+          }
+        },
+        "id": "1169898780142866433",
+        "is_identity_verified": false,
+        "location": "サークル恋色少女",
+        "most_recent_tweet_id": "2095402018668163096",
+        "name": "ふあこ",
+        "pinned_tweet_id": "2025427469755711977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169898780142866433/1733715225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082410637314183168/xRQC3LPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 2119,
+          "like_count": 47130,
+          "listed_count": 49,
+          "media_count": 3075,
+          "tweet_count": 12852
+        },
+        "url": "https://t.co/1vRvXnIRJO",
+        "username": "huako31",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
