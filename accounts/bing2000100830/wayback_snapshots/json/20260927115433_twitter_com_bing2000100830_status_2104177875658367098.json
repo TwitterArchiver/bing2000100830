@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104177875658367098",
+    "created_at": "2026-09-27T11:54:33.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104177875658367098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1625971259786817536",
+          "start": 3,
+          "username": "elnvdejooyeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104177875658367098",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103938893460459520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elnvdejooyeon: apaga tu cigarro en mi piel"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104177875658367098",
+        "created_at": "2026-09-27T11:54:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104177875658367098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1625971259786817536",
+              "start": 3,
+              "username": "elnvdejooyeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104177875658367098",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103938893460459520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elnvdejooyeon: apaga tu cigarro en mi piel"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625971259786817536",
+        "conversation_id": "2103938893460459520",
+        "created_at": "2026-09-26T20:04:56.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103938893460459520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103938893460459520",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 6922,
+          "like_count": 880,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "apaga tu cigarro en mi piel"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104177875658367098",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 66739,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4350
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-15T21:32:33.000Z",
+        "description": "@lmaokavhw❣️\ndni: lolisho \n#shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "lmaokavhw"
+              }
+            ]
+          }
+        },
+        "id": "1625971259786817536",
+        "is_identity_verified": false,
+        "location": "he/die - mlm",
+        "most_recent_tweet_id": "2104082957593895049",
+        "name": "sushinito 7\\",
+        "pinned_tweet_id": "2074495984579567651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625971259786817536/1785557827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101727363482484736/IGj7DaPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 691,
+          "like_count": 43973,
+          "listed_count": 8,
+          "media_count": 1100,
+          "tweet_count": 13890
+        },
+        "url": "",
+        "username": "elnvdejooyeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

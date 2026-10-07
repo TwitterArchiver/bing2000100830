@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102244442027737088",
+        "3_2102244442036195329",
+        "3_2102244442031992832"
+      ],
+      "media_source_tweet_id": [
+        "2102244449674043625",
+        "2102244449674043625",
+        "2102244449674043625"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102320970442915875",
+    "created_at": "2026-09-22T08:55:53.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102320970442915875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J40jBgB9u2",
+          "end": 40,
+          "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+          "media_key": "3_2102244442027737088",
+          "start": 17,
+          "url": "https://t.co/J40jBgB9u2"
+        },
+        {
+          "display_url": "pic.x.com/J40jBgB9u2",
+          "end": 40,
+          "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+          "media_key": "3_2102244442036195329",
+          "start": 17,
+          "url": "https://t.co/J40jBgB9u2"
+        },
+        {
+          "display_url": "pic.x.com/J40jBgB9u2",
+          "end": 40,
+          "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+          "media_key": "3_2102244442031992832",
+          "start": 17,
+          "url": "https://t.co/J40jBgB9u2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102320970442915875",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102244442027737088"
+      },
+      {
+        "media_key": "3_2102244442036195329"
+      },
+      {
+        "media_key": "3_2102244442031992832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102244449674043625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: 自主 https://t.co/J40jBgB9u2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2019,
+        "media_key": "3_2102244442027737088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSysLo4aQAACzV6.jpg",
+        "width": 1136
+      },
+      {
+        "height": 2021,
+        "media_key": "3_2102244442036195329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSysLo6bUAEU1sG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2021,
+        "media_key": "3_2102244442031992832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSysLo5bMAA_9ex.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102244442027737088",
+            "3_2102244442036195329",
+            "3_2102244442031992832"
+          ],
+          "media_source_tweet_id": [
+            "2102244449674043625",
+            "2102244449674043625",
+            "2102244449674043625"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102320970442915875",
+        "created_at": "2026-09-22T08:55:53.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102320970442915875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 40,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442027737088",
+              "start": 17,
+              "url": "https://t.co/J40jBgB9u2"
+            },
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 40,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442036195329",
+              "start": 17,
+              "url": "https://t.co/J40jBgB9u2"
+            },
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 40,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442031992832",
+              "start": 17,
+              "url": "https://t.co/J40jBgB9u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102320970442915875",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102244442027737088"
+          },
+          {
+            "media_key": "3_2102244442036195329"
+          },
+          {
+            "media_key": "3_2102244442031992832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102244449674043625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: 自主 https://t.co/J40jBgB9u2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102244442027737088",
+            "3_2102244442036195329",
+            "3_2102244442031992832"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102244449674043625",
+        "created_at": "2026-09-22T03:51:49.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102244449674043625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 26,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442027737088",
+              "start": 3,
+              "url": "https://t.co/J40jBgB9u2"
+            },
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 26,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442036195329",
+              "start": 3,
+              "url": "https://t.co/J40jBgB9u2"
+            },
+            {
+              "display_url": "pic.x.com/J40jBgB9u2",
+              "end": 26,
+              "expanded_url": "https://x.com/i_loxe_u/status/2102244449674043625/photo/1",
+              "media_key": "3_2102244442031992832",
+              "start": 3,
+              "url": "https://t.co/J40jBgB9u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102244449674043625",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102244442027737088"
+          },
+          {
+            "media_key": "3_2102244442036195329"
+          },
+          {
+            "media_key": "3_2102244442031992832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 5308,
+          "like_count": 719,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "自主 https://t.co/J40jBgB9u2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102320970442915875",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1450,
+          "like_count": 65885,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4155
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "is_identity_verified": false,
+        "location": "依頼/DM",
+        "most_recent_tweet_id": "2102244449674043625",
+        "name": "໊",
+        "pinned_tweet_id": "2102244449674043625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776466730489163776/1784210580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755835292524544/oKnjJt2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10367,
+          "following_count": 15,
+          "like_count": 33780,
+          "listed_count": 20,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "i_loxe_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

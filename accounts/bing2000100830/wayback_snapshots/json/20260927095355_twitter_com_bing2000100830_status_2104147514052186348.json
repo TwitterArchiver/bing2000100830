@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103787065414742016"
+      ],
+      "media_source_tweet_id": [
+        "2103787205684810238"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104147514052186348",
+    "created_at": "2026-09-27T09:53:55.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104147514052186348"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 29,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1244876008794324992",
+          "start": 3,
+          "username": "BtUDDOjukD3930D"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKYTpr2rxn",
+          "end": 84,
+          "expanded_url": "https://x.com/BtUDDOjukD3930D/status/2103787205684810238/photo/1",
+          "media_key": "3_2103787065414742016",
+          "start": 61,
+          "url": "https://t.co/xKYTpr2rxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104147514052186348",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103787065414742016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103787205684810238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BtUDDOjukD3930D: てへぺろ許して\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/xKYTpr2rxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103787065414742016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTInMI0bcAAtxE8.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103787065414742016"
+          ],
+          "media_source_tweet_id": [
+            "2103787205684810238"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104147514052186348",
+        "created_at": "2026-09-27T09:53:55.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104147514052186348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 29,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1244876008794324992",
+              "start": 3,
+              "username": "BtUDDOjukD3930D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKYTpr2rxn",
+              "end": 84,
+              "expanded_url": "https://x.com/BtUDDOjukD3930D/status/2103787205684810238/photo/1",
+              "media_key": "3_2103787065414742016",
+              "start": 61,
+              "url": "https://t.co/xKYTpr2rxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104147514052186348",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103787065414742016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103787205684810238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BtUDDOjukD3930D: てへぺろ許して\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/xKYTpr2rxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103787065414742016"
+          ]
+        },
+        "author_id": "1244876008794324992",
+        "conversation_id": "2103787205684810238",
+        "created_at": "2026-09-26T10:02:10.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103787205684810238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 8,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKYTpr2rxn",
+              "end": 63,
+              "expanded_url": "https://x.com/BtUDDOjukD3930D/status/2103787205684810238/photo/1",
+              "media_key": "3_2103787065414742016",
+              "start": 40,
+              "url": "https://t.co/xKYTpr2rxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103787205684810238",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103787065414742016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2364,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "てへぺろ許して\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/xKYTpr2rxn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104147514052186348",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1456,
+          "like_count": 66653,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4333
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-31T06:36:05.000Z",
+        "description": "お絵描きと自作アニメのアカウントです。\n(不定期投稿)\n声優天城サリー推しです。\nニディガにはまっています。",
+        "id": "1244876008794324992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104044476524347872",
+        "name": "裏世界の住民",
+        "pinned_tweet_id": "2074149558733656260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244876008794324992/1770740798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021259512074878976/WQS8Ji47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 70,
+          "like_count": 89625,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8080
+        },
+        "url": "",
+        "username": "BtUDDOjukD3930D",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

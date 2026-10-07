@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101053854871871488"
+      ],
+      "media_source_tweet_id": [
+        "2101053858990502056"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101357029797642577",
+    "created_at": "2026-09-19T17:05:31.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101357029797642577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2101042936943083520",
+          "start": 3,
+          "username": "nauseius"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3mNg3VQOw",
+          "end": 37,
+          "expanded_url": "https://x.com/nauseius/status/2101053858990502056/photo/1",
+          "media_key": "3_2101053854871871488",
+          "start": 14,
+          "url": "https://t.co/w3mNg3VQOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101357029797642577",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101053854871871488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101053858990502056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nauseius: https://t.co/w3mNg3VQOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2101053854871871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HShxWWGaYAAF-Mf.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101053854871871488"
+          ],
+          "media_source_tweet_id": [
+            "2101053858990502056"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101357029797642577",
+        "created_at": "2026-09-19T17:05:31.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101357029797642577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2101042936943083520",
+              "start": 3,
+              "username": "nauseius"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3mNg3VQOw",
+              "end": 37,
+              "expanded_url": "https://x.com/nauseius/status/2101053858990502056/photo/1",
+              "media_key": "3_2101053854871871488",
+              "start": 14,
+              "url": "https://t.co/w3mNg3VQOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101357029797642577",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101053854871871488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101053858990502056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nauseius: https://t.co/w3mNg3VQOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101053854871871488"
+          ]
+        },
+        "author_id": "2101042936943083520",
+        "conversation_id": "2101053858990502056",
+        "created_at": "2026-09-18T21:00:50.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101053858990502056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3mNg3VQOw",
+              "end": 23,
+              "expanded_url": "https://x.com/nauseius/status/2101053858990502056/photo/1",
+              "media_key": "3_2101053854871871488",
+              "start": 0,
+              "url": "https://t.co/w3mNg3VQOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101053858990502056",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101053854871871488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 6486,
+          "like_count": 998,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w3mNg3VQOw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101357045056512197",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1452,
+          "like_count": 65496,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4071
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-18T20:21:21.000Z",
+        "description": "(;_,)",
+        "id": "2101042936943083520",
+        "is_identity_verified": false,
+        "location": "bmi 15",
+        "most_recent_tweet_id": "2101105474883969432",
+        "name": "ٰ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101042936943083520/1789763630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101105236136050688/UXOr1Q--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 13,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "nauseius",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102409737807724553",
+    "created_at": "2026-09-22T14:48:37.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102409737807724553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1665885109428404224",
+          "start": 3,
+          "username": "_eloahmattos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102409737807724553",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102190223379628234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_eloahmattos: odeio abrir o olho de manhã e perceber que ainda to viva"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102409737807724553",
+        "created_at": "2026-09-22T14:48:37.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102409737807724553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1665885109428404224",
+              "start": 3,
+              "username": "_eloahmattos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102409737807724553",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102190223379628234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_eloahmattos: odeio abrir o olho de manhã e perceber que ainda to viva"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665885109428404224",
+        "conversation_id": "2102190223379628234",
+        "created_at": "2026-09-22T00:16:20.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102190223379628234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102190223379628234",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 22180,
+          "like_count": 2957,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 1170
+        },
+        "reply_settings": "everyone",
+        "text": "odeio abrir o olho de manhã e perceber que ainda to viva"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102409737807724553",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 65947,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4165
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-06T00:55:45.000Z",
+        "description": "“ɐ lonɔnɹɐ pǝ nus é ɐ ɹǝɐlᴉpɐpǝ pǝ onʇɹos.”\n愛\n💍@meunamoradolindolucasvinicius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 47,
+                "username": "meunamoradolindoluca"
+              }
+            ]
+          }
+        },
+        "id": "1665885109428404224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102407230859436215",
+        "name": "eloah",
+        "pinned_tweet_id": "2093114799949320534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665885109428404224/1787977806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093556499347857408/XeB30_Q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "_eloahmattos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

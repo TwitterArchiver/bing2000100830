@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2106346845123264966",
+    "created_at": "2026-10-03T11:33:16.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106346845123264966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964790653621014529",
+          "start": 3,
+          "username": "tobbxxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106346845123264966",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105997843945460026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tobbxxu: Me han dedicado más pajas que canciones"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2106346845123264966",
+        "created_at": "2026-10-03T11:33:16.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106346845123264966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964790653621014529",
+              "start": 3,
+              "username": "tobbxxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106346845123264966",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105997843945460026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tobbxxu: Me han dedicado más pajas que canciones"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964790653621014529",
+        "conversation_id": "2105997843945460026",
+        "created_at": "2026-10-02T12:26:28.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105997843945460026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105997843945460026",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4508,
+          "like_count": 460,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "Me han dedicado más pajas que canciones"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106346845123264966",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1457,
+          "like_count": 68068,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4506
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T20:39:47.000Z",
+        "description": "el creo la depresión? 💜",
+        "id": "1964790653621014529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106260910796836878",
+        "name": "tobias",
+        "pinned_tweet_id": "2081466618828218491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964790653621014529/1766093417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098201520441298947/NoXRLAGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8482,
+          "following_count": 5647,
+          "like_count": 109262,
+          "listed_count": 86,
+          "media_count": 1571,
+          "tweet_count": 47321
+        },
+        "url": "",
+        "username": "tobbxxu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

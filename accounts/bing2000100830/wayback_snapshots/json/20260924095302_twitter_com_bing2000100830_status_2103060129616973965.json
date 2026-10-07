@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "2103060129616973965",
+    "created_at": "2026-09-24T09:53:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103060129616973965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482679035557781504",
+          "start": 3,
+          "username": "mina_anko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103060129616973965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102789439848071246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mina_anko: 授業中にグーグー寝ちゃってる学生がいたので、授業後に「もしかして何か服用してますか？」と聞いたらやはり精神科で薬を処方されているとのこと。薬の名前は分からなかったがお大事にと伝えた。精神医学特論を履習してよかった。履習してなかったらみんなの前で注意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2103060129616973965",
+        "created_at": "2026-09-24T09:53:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103060129616973965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482679035557781504",
+              "start": 3,
+              "username": "mina_anko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103060129616973965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102789439848071246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mina_anko: 授業中にグーグー寝ちゃってる学生がいたので、授業後に「もしかして何か服用してますか？」と聞いたらやはり精神科で薬を処方されているとのこと。薬の名前は分からなかったがお大事にと伝えた。精神医学特論を履習してよかった。履習してなかったらみんなの前で注意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482679035557781504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2102789439848071246",
+        "created_at": "2026-09-23T15:57:25.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102789439848071246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102789439848071246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2400,
+          "impression_count": 2568696,
+          "like_count": 37084,
+          "quote_count": 208,
+          "reply_count": 36,
+          "retweet_count": 1316
+        },
+        "reply_settings": "everyone",
+        "text": "授業中にグーグー寝ちゃってる学生がいたので、授業後に「もしかして何か服用してますか？」と聞いたらやはり精神科で薬を処方されているとのこと。薬の名前は分からなかったがお大事にと伝えた。精神医学特論を履習してよかった。履習してなかったらみんなの前で注意してたかも。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103060129616973965",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 66064,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4200
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-16T11:40:16.000Z",
+        "description": "社会人放送大生。ここで放送大生とお喋りしたい。\n編み物、ドラマ、下手ギター。肌オタク。",
+        "id": "1482679035557781504",
+        "is_identity_verified": false,
+        "location": "紫外線の当たらない涼しい所",
+        "most_recent_tweet_id": "2103051376490107170",
+        "name": "まりんこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482679035557781504/1775479994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023137698123239424/I-ZtLA7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 155,
+          "like_count": 32103,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "mina_anko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

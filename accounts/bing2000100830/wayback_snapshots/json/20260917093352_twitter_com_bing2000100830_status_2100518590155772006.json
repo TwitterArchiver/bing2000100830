@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100312857057636352"
+      ],
+      "media_source_tweet_id": [
+        "2100320622119456866"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100518590155772006",
+    "created_at": "2026-09-17T09:33:52.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100518590155772006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1141011395674136576",
+          "start": 3,
+          "username": "f41co_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lf9X6TPnsf",
+          "end": 35,
+          "expanded_url": "https://x.com/f41co_/status/2100320622119456866/photo/1",
+          "media_key": "3_2100312857057636352",
+          "start": 12,
+          "url": "https://t.co/lf9X6TPnsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100518590155772006",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100312857057636352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100320622119456866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @f41co_: https://t.co/lf9X6TPnsf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2100312857057636352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXPamIbMAACYsM.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100312857057636352"
+          ],
+          "media_source_tweet_id": [
+            "2100320622119456866"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100518590155772006",
+        "created_at": "2026-09-17T09:33:52.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100518590155772006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1141011395674136576",
+              "start": 3,
+              "username": "f41co_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lf9X6TPnsf",
+              "end": 35,
+              "expanded_url": "https://x.com/f41co_/status/2100320622119456866/photo/1",
+              "media_key": "3_2100312857057636352",
+              "start": 12,
+              "url": "https://t.co/lf9X6TPnsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100518590155772006",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100312857057636352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100320622119456866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @f41co_: https://t.co/lf9X6TPnsf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100312857057636352"
+          ]
+        },
+        "author_id": "1141011395674136576",
+        "conversation_id": "2100320622119456866",
+        "created_at": "2026-09-16T20:27:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T21:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100320622119456866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lf9X6TPnsf",
+              "end": 23,
+              "expanded_url": "https://x.com/f41co_/status/2100320622119456866/photo/1",
+              "media_key": "3_2100312857057636352",
+              "start": 0,
+              "url": "https://t.co/lf9X6TPnsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100320622119456866",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100312857057636352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 17956,
+          "like_count": 2464,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lf9X6TPnsf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100518590155772006",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1454,
+          "like_count": 65267,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4040
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-18T15:54:50.000Z",
+        "description": "絵と動画を出す Skeb▶︎https://t.co/uYsuoLyAc3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@w4tanuk1",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@w4tanuk1",
+                "start": 14,
+                "url": "https://t.co/uYsuoLyAc3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/w4tanuk1",
+                "end": 23,
+                "expanded_url": "https://lit.link/w4tanuk1",
+                "start": 0,
+                "url": "https://t.co/NwCYR3Jtm8"
+              }
+            ]
+          }
+        },
+        "id": "1141011395674136576",
+        "is_identity_verified": true,
+        "location": "音mad合作×",
+        "most_recent_tweet_id": "2100485244621381754",
+        "name": "四月一日",
+        "pinned_tweet_id": "2099120922439627240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141011395674136576/1780223467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995227870093017088/ZIuSg-Lr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16808,
+          "following_count": 680,
+          "like_count": 7620,
+          "listed_count": 83,
+          "media_count": 1866,
+          "tweet_count": 8309
+        },
+        "url": "https://t.co/NwCYR3Jtm8",
+        "username": "f41co_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

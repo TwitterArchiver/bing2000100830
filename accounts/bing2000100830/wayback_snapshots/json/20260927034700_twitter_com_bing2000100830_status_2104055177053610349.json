@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103870121412567041"
+      ],
+      "media_source_tweet_id": [
+        "2103870130644258865"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104055177053610349",
+    "created_at": "2026-09-27T03:47:00.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104055177053610349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032349359900409860",
+          "start": 3,
+          "username": "yushimazaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5FWOTmvZVP",
+          "end": 52,
+          "expanded_url": "https://x.com/yushimazaki/status/2103870130644258865/photo/1",
+          "media_key": "3_2103870121412567041",
+          "start": 29,
+          "url": "https://t.co/5FWOTmvZVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104055177053610349",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103870121412567041"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103870130644258865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yushimazaki: どんな顔が見れるかな？ https://t.co/5FWOTmvZVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2103870121412567041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJyuohaoAECWIu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103870121412567041"
+          ],
+          "media_source_tweet_id": [
+            "2103870130644258865"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104055177053610349",
+        "created_at": "2026-09-27T03:47:00.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104055177053610349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032349359900409860",
+              "start": 3,
+              "username": "yushimazaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FWOTmvZVP",
+              "end": 52,
+              "expanded_url": "https://x.com/yushimazaki/status/2103870130644258865/photo/1",
+              "media_key": "3_2103870121412567041",
+              "start": 29,
+              "url": "https://t.co/5FWOTmvZVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104055177053610349",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103870121412567041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103870130644258865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yushimazaki: どんな顔が見れるかな？ https://t.co/5FWOTmvZVP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103870121412567041"
+          ]
+        },
+        "author_id": "2032349359900409860",
+        "conversation_id": "2103870130644258865",
+        "created_at": "2026-09-26T15:31:41.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103870130644258865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FWOTmvZVP",
+              "end": 35,
+              "expanded_url": "https://x.com/yushimazaki/status/2103870130644258865/photo/1",
+              "media_key": "3_2103870121412567041",
+              "start": 12,
+              "url": "https://t.co/5FWOTmvZVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103870130644258865",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103870121412567041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 977,
+          "impression_count": 110254,
+          "like_count": 6845,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "どんな顔が見れるかな？ https://t.co/5FWOTmvZVP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104055177053610349",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1457,
+          "like_count": 66606,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4323
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T07:17:03.000Z",
+        "description": "pixiv: https://t.co/RSYzjlowbR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/127847936",
+                "end": 30,
+                "expanded_url": "http://pixiv.net/users/127847936",
+                "start": 7,
+                "url": "https://t.co/RSYzjlowbR"
+              }
+            ]
+          }
+        },
+        "id": "2032349359900409860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103993856094327000",
+        "name": "冷野",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032349359900409860/1789475945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058438741895856128/rqwOTlxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 56,
+          "like_count": 1756,
+          "listed_count": 15,
+          "media_count": 36,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "yushimazaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

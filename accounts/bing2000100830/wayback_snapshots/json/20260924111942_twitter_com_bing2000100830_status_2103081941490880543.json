@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103081941490880543",
+    "created_at": "2026-09-24T11:19:42.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103081941490880543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1613145484121747465",
+          "start": 3,
+          "username": "uih7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103081941490880543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102929064130748460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uih7w: 432した人の勇気や覚悟は確かに凄いと思うし憧れることもあるけど、希ﾀﾋ念慮を抱えながらこんな地獄みたいな社会で生き続けてることだって称賛されるべきだと思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103081941490880543",
+        "created_at": "2026-09-24T11:19:42.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103081941490880543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1613145484121747465",
+              "start": 3,
+              "username": "uih7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103081941490880543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102929064130748460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uih7w: 432した人の勇気や覚悟は確かに凄いと思うし憧れることもあるけど、希ﾀﾋ念慮を抱えながらこんな地獄みたいな社会で生き続けてることだって称賛されるべきだと思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613145484121747465",
+        "conversation_id": "2102929064130748460",
+        "created_at": "2026-09-24T01:12:14.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102929064130748460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102929064130748460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 18906,
+          "like_count": 770,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "432した人の勇気や覚悟は確かに凄いと思うし憧れることもあるけど、希ﾀﾋ念慮を抱えながらこんな地獄みたいな社会で生き続けてることだって称賛されるべきだと思う"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103081951573995819",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1453,
+          "like_count": 66130,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4213
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T12:07:54.000Z",
+        "description": "ただの愚痴掃き溜め/毒親持ち/双極性障害",
+        "id": "1613145484121747465",
+        "is_identity_verified": false,
+        "location": "毎日が生き地獄",
+        "most_recent_tweet_id": "2103071461552673126",
+        "name": "𝕁𝕦𝕝𝕚𝕒",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613145484121747465/1736075345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635071245820772355/SBpuuC20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 470,
+          "like_count": 2917,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 1464
+        },
+        "url": "",
+        "username": "uih7w",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

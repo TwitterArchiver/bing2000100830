@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101739136654979318",
+    "created_at": "2026-09-20T18:23:53.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101739136654979318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060806401363210240",
+          "start": 3,
+          "username": "gotolu1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101739136654979318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2749
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101332261769720194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gotolu1t: 痩せてえーーーーーーーーーーーーーーーーーーーーーー授業中ぶっ倒れるくらい痩せてえーーーーーーーーーーー骨浮き出るくらい痩せてえーーーーーーーーーーーー一生太る心配しなくていいくらい痩せてえーーーー"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101739136654979318",
+        "created_at": "2026-09-20T18:23:53.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101739136654979318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060806401363210240",
+              "start": 3,
+              "username": "gotolu1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101739136654979318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2749
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101332261769720194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gotolu1t: 痩せてえーーーーーーーーーーーーーーーーーーーーーー授業中ぶっ倒れるくらい痩せてえーーーーーーーーーーー骨浮き出るくらい痩せてえーーーーーーーーーーーー一生太る心配しなくていいくらい痩せてえーーーー"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060806401363210240",
+        "conversation_id": "2101332261769720194",
+        "created_at": "2026-09-19T15:27:06.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101332261769720194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101332261769720194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 802,
+          "impression_count": 762831,
+          "like_count": 28908,
+          "quote_count": 132,
+          "reply_count": 19,
+          "retweet_count": 2749
+        },
+        "reply_settings": "everyone",
+        "text": "痩せてえーーーーーーーーーーーーーーーーーーーーーー授業中ぶっ倒れるくらい痩せてえーーーーーーーーーーー骨浮き出るくらい痩せてえーーーーーーーーーーーー一生太る心配しなくていいくらい痩せてえーーーー"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101739136654979318",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1453,
+          "like_count": 65672,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4104
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T19:32:51.000Z",
+        "description": "sjc|雑多|日常|微腐|微姫|顔面コンプ| 🇹🇭コンプ|愚痴\n怠惰で甘えなだめ人間。自己嫌悪からくる愚痴を吐きます。ツイ消し多⃝無言フォロー、タメ失礼します\n鍵→@Gotocekm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "Gotocekm"
+              }
+            ]
+          }
+        },
+        "id": "2060806401363210240",
+        "is_identity_verified": false,
+        "location": "陰ｷｬ 無ｷｬ ｺﾐｭｼｮｳ",
+        "most_recent_tweet_id": "2101720952287756636",
+        "name": "ごとう",
+        "pinned_tweet_id": "2091566886840627293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060806401363210240/1789570916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086080301303058432/pCXHclQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 349,
+          "like_count": 36035,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "gotolu1t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

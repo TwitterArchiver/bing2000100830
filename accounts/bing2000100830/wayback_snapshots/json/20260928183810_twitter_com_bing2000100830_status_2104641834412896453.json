@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2104478866840698881"
+      ],
+      "media_source_tweet_id": [
+        "2104478875938062381"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2104641834412896453",
+    "created_at": "2026-09-28T18:38:10.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104641834412896453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929542308573364224",
+          "start": 3,
+          "username": "yareisn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xbi4hbRkte",
+          "end": 119,
+          "expanded_url": "https://x.com/yareisn/status/2104478875938062381/photo/1",
+          "media_key": "16_2104478866840698881",
+          "start": 96,
+          "url": "https://t.co/Xbi4hbRkte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104641834412896453",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "alt_text": "Fairs GIF",
+        "media_key": "16_2104478866840698881"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104478875938062381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yareisn: Me and my friend both cheated from each other in a test she got 22/30 and i failed https://t.co/Xbi4hbRkte"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2104478866840698881",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTScYR9bQAEBtBw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTScYR9bQAEBtBw.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2104478866840698881"
+          ],
+          "media_source_tweet_id": [
+            "2104478875938062381"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2104641834412896453",
+        "created_at": "2026-09-28T18:38:10.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104641834412896453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929542308573364224",
+              "start": 3,
+              "username": "yareisn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xbi4hbRkte",
+              "end": 119,
+              "expanded_url": "https://x.com/yareisn/status/2104478875938062381/photo/1",
+              "media_key": "16_2104478866840698881",
+              "start": 96,
+              "url": "https://t.co/Xbi4hbRkte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104641834412896453",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "Fairs GIF",
+            "media_key": "16_2104478866840698881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104478875938062381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yareisn: Me and my friend both cheated from each other in a test she got 22/30 and i failed https://t.co/Xbi4hbRkte"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2104478866840698881"
+          ]
+        },
+        "author_id": "1929542308573364224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2104478875938062381",
+        "created_at": "2026-09-28T07:50:38.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104478875938062381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xbi4hbRkte",
+              "end": 106,
+              "expanded_url": "https://x.com/yareisn/status/2104478875938062381/photo/1",
+              "media_key": "16_2104478866840698881",
+              "start": 83,
+              "url": "https://t.co/Xbi4hbRkte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104478875938062381",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "Fairs GIF",
+            "media_key": "16_2104478866840698881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 8373,
+          "like_count": 1075,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "Me and my friend both cheated from each other in a test she got 22/30 and i failed https://t.co/Xbi4hbRkte"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104641834412896453",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1453,
+          "like_count": 66937,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4385
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T14:15:18.000Z",
+        "description": "꒰ঌ ᴉ TIQYU 💮; any prns ! ⋆ 6teen ^_^ ☔️꒱\n𓏵 ⚚ AI'S NO.1 FAN ! 💉 𝄞 priv: @tiqcure 🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 71,
+                "username": "tiqcure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aikisser.carrd.co",
+                "end": 23,
+                "expanded_url": "https://aikisser.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/aiETJqfIDX"
+              }
+            ]
+          }
+        },
+        "id": "1929542308573364224",
+        "is_identity_verified": false,
+        "location": "Aiqyu is CANON 🥹",
+        "most_recent_tweet_id": "2104614188006166934",
+        "name": "𑣲 Tiqyu ! 🪷",
+        "pinned_tweet_id": "2092515856458850685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929542308573364224/1787773478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092268006256852992/3sVkrDOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 610,
+          "like_count": 12117,
+          "listed_count": 6,
+          "media_count": 439,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/aiETJqfIDX",
+        "username": "yareisn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

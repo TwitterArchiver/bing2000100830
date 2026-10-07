@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100081558212182030",
+    "created_at": "2026-09-16T04:37:15.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100081558212182030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2091822794191626240",
+          "start": 3,
+          "username": "4ha9saiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100081558212182030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099459278537175458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ha9saiii: 躁鬱の「鬱期」に入っちゃった人へ\n\n・風呂は入らなくていい\n・ご飯はゼリーかコンビニでいい\n・LINEは全員無視していい\n・1日中天井見てていい\n\n躁のときに頑張りすぎた脳を休めてるだけ\nサボりじゃないよ生きてるだけで偉いよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100081558212182030",
+        "created_at": "2026-09-16T04:37:15.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100081558212182030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2091822794191626240",
+              "start": 3,
+              "username": "4ha9saiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100081558212182030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099459278537175458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ha9saiii: 躁鬱の「鬱期」に入っちゃった人へ\n\n・風呂は入らなくていい\n・ご飯はゼリーかコンビニでいい\n・LINEは全員無視していい\n・1日中天井見てていい\n\n躁のときに頑張りすぎた脳を休めてるだけ\nサボりじゃないよ生きてるだけで偉いよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091822794191626240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099459278537175458",
+        "created_at": "2026-09-14T11:24:32.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099459278537175458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099459278537175458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 975,
+          "impression_count": 333734,
+          "like_count": 11504,
+          "quote_count": 270,
+          "reply_count": 20,
+          "retweet_count": 1136
+        },
+        "reply_settings": "everyone",
+        "text": "躁鬱の「鬱期」に入っちゃった人へ\n\n・風呂は入らなくていい\n・ご飯はゼリーかコンビニでいい\n・LINEは全員無視していい\n・1日中天井見てていい\n\n躁のときに頑張りすぎた脳を休めてるだけ\nサボりじゃないよ生きてるだけで偉いよ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100081558212182030",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 65257,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4016
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T09:41:50.000Z",
+        "description": "16歳 発達障害 精神疾患 彼氏います\n鍵垢 @4ha9saii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "4ha9saii"
+              }
+            ]
+          }
+        },
+        "id": "2091822794191626240",
+        "is_identity_verified": false,
+        "location": "人生の最終日記",
+        "most_recent_tweet_id": "2100054517995991311",
+        "name": "酸素.",
+        "pinned_tweet_id": "2093316146678411473",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091826321848737792/d_qp0Rtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 190,
+          "like_count": 811,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "4ha9saiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

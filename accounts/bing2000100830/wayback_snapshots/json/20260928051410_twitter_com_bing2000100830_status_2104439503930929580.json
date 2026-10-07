@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104317766883028992",
+        "3_2104317766937559040"
+      ],
+      "media_source_tweet_id": [
+        "2104317772297880046",
+        "2104317772297880046"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104439503930929580",
+    "created_at": "2026-09-28T05:14:10.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104439503930929580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1126507338024620033",
+          "start": 3,
+          "username": "x_spidekawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRGdS4MID9",
+          "end": 64,
+          "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+          "media_key": "3_2104317766883028992",
+          "start": 41,
+          "url": "https://t.co/MRGdS4MID9"
+        },
+        {
+          "display_url": "pic.x.com/MRGdS4MID9",
+          "end": 64,
+          "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+          "media_key": "3_2104317766937559040",
+          "start": 41,
+          "url": "https://t.co/MRGdS4MID9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104439503930929580",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104317766883028992"
+      },
+      {
+        "media_key": "3_2104317766937559040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104317772297880046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_spidekawaii_x: かわいい服あったからあめちゃんに着せた https://t.co/MRGdS4MID9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104317766883028992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQJ3B2bMAAQupU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104317766937559040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQJ3CDbQAALCfu.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104317766883028992",
+            "3_2104317766937559040"
+          ],
+          "media_source_tweet_id": [
+            "2104317772297880046",
+            "2104317772297880046"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104439503930929580",
+        "created_at": "2026-09-28T05:14:10.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104439503930929580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1126507338024620033",
+              "start": 3,
+              "username": "x_spidekawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRGdS4MID9",
+              "end": 64,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+              "media_key": "3_2104317766883028992",
+              "start": 41,
+              "url": "https://t.co/MRGdS4MID9"
+            },
+            {
+              "display_url": "pic.x.com/MRGdS4MID9",
+              "end": 64,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+              "media_key": "3_2104317766937559040",
+              "start": 41,
+              "url": "https://t.co/MRGdS4MID9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104439503930929580",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104317766883028992"
+          },
+          {
+            "media_key": "3_2104317766937559040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104317772297880046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_spidekawaii_x: かわいい服あったからあめちゃんに着せた https://t.co/MRGdS4MID9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104317766883028992",
+            "3_2104317766937559040"
+          ]
+        },
+        "author_id": "1126507338024620033",
+        "conversation_id": "2104317772297880046",
+        "created_at": "2026-09-27T21:10:27.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104317772297880046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRGdS4MID9",
+              "end": 43,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+              "media_key": "3_2104317766883028992",
+              "start": 20,
+              "url": "https://t.co/MRGdS4MID9"
+            },
+            {
+              "display_url": "pic.x.com/MRGdS4MID9",
+              "end": 43,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2104317772297880046/photo/1",
+              "media_key": "3_2104317766937559040",
+              "start": 20,
+              "url": "https://t.co/MRGdS4MID9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104317772297880046",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104317766883028992"
+          },
+          {
+            "media_key": "3_2104317766937559040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 57941,
+          "like_count": 7221,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 704
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい服あったからあめちゃんに着せた https://t.co/MRGdS4MID9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104439503930929580",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1455,
+          "like_count": 66808,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4369
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-09T15:20:53.000Z",
+        "description": "お行儀の良いインターネット生活◆fanbox:https://t.co/oRkD9LxFX3 ◆@x_mothkawaii_x◆pixiv:https://t.co/nDrNcLfqj8 ◆イラストのご依頼はDMで対応しているよ(受付中10月以降着手)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "x_mothkawaii_x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spidekawaii.fanbox.cc",
+                "end": 46,
+                "expanded_url": "http://spidekawaii.fanbox.cc/",
+                "start": 23,
+                "url": "https://t.co/oRkD9LxFX3"
+              },
+              {
+                "display_url": "pixiv.net/users/43450519",
+                "end": 93,
+                "expanded_url": "https://www.pixiv.net/users/43450519",
+                "start": 70,
+                "url": "https://t.co/nDrNcLfqj8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/GOWTA7TBMQNP?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/MN18Q6E4Du"
+              }
+            ]
+          }
+        },
+        "id": "1126507338024620033",
+        "is_identity_verified": false,
+        "location": "AI学習、無断転載禁止",
+        "most_recent_tweet_id": "2104317772297880046",
+        "name": "静寂より",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126507338024620033/1788234145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098782700002004992/IbOtKm6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36818,
+          "following_count": 196,
+          "like_count": 85588,
+          "listed_count": 156,
+          "media_count": 1189,
+          "tweet_count": 16411
+        },
+        "url": "https://t.co/MN18Q6E4Du",
+        "username": "x_spidekawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

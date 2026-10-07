@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106022165564854272"
+      ],
+      "media_source_tweet_id": [
+        "2106022170925162996"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2106333429352813014",
+    "created_at": "2026-10-03T10:39:57.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106333429352813014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860473494246453249",
+          "start": 3,
+          "username": "divinocanibal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YdgcDBgufA",
+          "end": 69,
+          "expanded_url": "https://x.com/divinocanibal/status/2106022170925162996/photo/1",
+          "media_key": "3_2106022165564854272",
+          "start": 46,
+          "url": "https://t.co/YdgcDBgufA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106333429352813014",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2106022165564854272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106022170925162996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @divinocanibal: Adios colegio hola Twitter https://t.co/YdgcDBgufA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 137,
+        "media_key": "3_2106022165564854272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToYAFuXkAAjLG9.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106022165564854272"
+          ],
+          "media_source_tweet_id": [
+            "2106022170925162996"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106333429352813014",
+        "created_at": "2026-10-03T10:39:57.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106333429352813014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860473494246453249",
+              "start": 3,
+              "username": "divinocanibal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdgcDBgufA",
+              "end": 69,
+              "expanded_url": "https://x.com/divinocanibal/status/2106022170925162996/photo/1",
+              "media_key": "3_2106022165564854272",
+              "start": 46,
+              "url": "https://t.co/YdgcDBgufA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106333429352813014",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2106022165564854272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106022170925162996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @divinocanibal: Adios colegio hola Twitter https://t.co/YdgcDBgufA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106022165564854272"
+          ]
+        },
+        "author_id": "1860473494246453249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106022170925162996",
+        "created_at": "2026-10-02T14:03:08.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106022170925162996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdgcDBgufA",
+              "end": 50,
+              "expanded_url": "https://x.com/divinocanibal/status/2106022170925162996/photo/1",
+              "media_key": "3_2106022165564854272",
+              "start": 27,
+              "url": "https://t.co/YdgcDBgufA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106022170925162996",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2106022165564854272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7972,
+          "like_count": 1163,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "Adios colegio hola Twitter https://t.co/YdgcDBgufA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106333429352813014",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1457,
+          "like_count": 68045,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4504
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T00:00:38.000Z",
+        "description": "最後にもう一度。私は夢を見るだろう！\nig: divinoanticriisto",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/divinoanticrii…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/divinoanticriisto?igsh=MXE5YTZwZW42ZGtwag==",
+                "start": 0,
+                "url": "https://t.co/3Nlhaw7anR"
+              }
+            ]
+          }
+        },
+        "id": "1860473494246453249",
+        "is_identity_verified": false,
+        "location": "la re concha de la lora",
+        "most_recent_tweet_id": "2106202384091214027",
+        "name": "Girliam no sabe que ponerse de user",
+        "pinned_tweet_id": "2105710438638031099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860473494246453249/1790990189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106190143145029633/5F1Vqg3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 199,
+          "like_count": 4771,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/3Nlhaw7anR",
+        "username": "divinocanibal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103218703563436247",
+    "created_at": "2026-09-24T20:23:09.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T21:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103218703563436247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786436323756163072",
+          "start": 3,
+          "username": "toyaorin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103218703563436247",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103102973995893210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toyaorin: girl who cant handle change dies after finding out her comfort game is about to change"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103218703563436247",
+        "created_at": "2026-09-24T20:23:09.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103218703563436247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786436323756163072",
+              "start": 3,
+              "username": "toyaorin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103218703563436247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103102973995893210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toyaorin: girl who cant handle change dies after finding out her comfort game is about to change"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786436323756163072",
+        "conversation_id": "2103102973995893210",
+        "created_at": "2026-09-24T12:43:17.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103102973995893210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ColorfulStageE…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ColorfulStageEN/status/2103088368816918882",
+              "start": 87,
+              "url": "https://t.co/rkcy0TnP45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103102973995893210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 19621,
+          "like_count": 1857,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103088368816918882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "girl who cant handle change dies after finding out her comfort game is about to change https://t.co/rkcy0TnP45"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103218703563436247",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 66285,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4240
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-03T16:43:31.000Z",
+        "description": "i love aoyagi toya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blenders.straw.page",
+                "end": 23,
+                "expanded_url": "https://blenders.straw.page",
+                "start": 0,
+                "url": "https://t.co/zUU02UsVG0"
+              }
+            ]
+          }
+        },
+        "id": "1786436323756163072",
+        "is_identity_verified": false,
+        "location": "she 18",
+        "most_recent_tweet_id": "2103217260634714197",
+        "name": "Rayne ♡ the first concerto",
+        "pinned_tweet_id": "2084684471849087182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786436323756163072/1788663950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098786123644563456/PvorSMcI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 1242,
+          "like_count": 20357,
+          "listed_count": 12,
+          "media_count": 3385,
+          "tweet_count": 14477
+        },
+        "url": "https://t.co/zUU02UsVG0",
+        "username": "toyaorin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

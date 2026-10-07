@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103196480559612169",
+    "created_at": "2026-09-24T18:54:51.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103196480559612169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "362766258",
+          "start": 3,
+          "username": "biciclotimia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103196480559612169",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102923854918115358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biciclotimia: En un mundo tan culero el mayor acto de amor por un hijo es no tenerlo, si me lo preguntan."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103196480559612169",
+        "created_at": "2026-09-24T18:54:51.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103196480559612169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "362766258",
+              "start": 3,
+              "username": "biciclotimia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103196480559612169",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102923854918115358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biciclotimia: En un mundo tan culero el mayor acto de amor por un hijo es no tenerlo, si me lo preguntan."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362766258",
+        "conversation_id": "2102923854918115358",
+        "created_at": "2026-09-24T00:51:32.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102923854918115358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102923854918115358",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 475,
+          "impression_count": 175233,
+          "like_count": 19334,
+          "quote_count": 152,
+          "reply_count": 92,
+          "retweet_count": 3597
+        },
+        "reply_settings": "everyone",
+        "text": "En un mundo tan culero el mayor acto de amor por un hijo es no tenerlo, si me lo preguntan."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103196480559612169",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 66184,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4225
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-26T23:25:41.000Z",
+        "description": "y esta bonita cumbia titulada cumbia lunera",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/biciclotimia",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/biciclotimia",
+                "start": 0,
+                "url": "https://t.co/G8HPAf9gIG"
+              }
+            ]
+          }
+        },
+        "id": "362766258",
+        "is_identity_verified": false,
+        "location": "Isla de Pala",
+        "most_recent_tweet_id": "2102923854918115358",
+        "name": "gustavo",
+        "pinned_tweet_id": "1171653354965127168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/362766258/1676513651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096866980724879361/qmSzJkUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32075,
+          "following_count": 729,
+          "like_count": 210984,
+          "listed_count": 17,
+          "media_count": 4150,
+          "tweet_count": 22575
+        },
+        "url": "https://t.co/G8HPAf9gIG",
+        "username": "biciclotimia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

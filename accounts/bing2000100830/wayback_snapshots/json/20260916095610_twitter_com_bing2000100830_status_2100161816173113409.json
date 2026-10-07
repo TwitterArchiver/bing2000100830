@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100161816173113409",
+    "created_at": "2026-09-16T09:56:10.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100161816173113409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2077214073297760256",
+          "start": 3,
+          "username": "ametyansinja55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100161816173113409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099804579072500161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametyansinja55: INTERNET YAMEROの、｢ほんとうは幸せを知っているのに 不幸なフリ やめられないね｣っていう歌詞がずっと心をえぐってる\n自分は不幸なんだって思って縋ってないと、生きていられないんだよな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100161816173113409",
+        "created_at": "2026-09-16T09:56:10.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100161816173113409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2077214073297760256",
+              "start": 3,
+              "username": "ametyansinja55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100161816173113409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099804579072500161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametyansinja55: INTERNET YAMEROの、｢ほんとうは幸せを知っているのに 不幸なフリ やめられないね｣っていう歌詞がずっと心をえぐってる\n自分は不幸なんだって思って縋ってないと、生きていられないんだよな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077214073297760256",
+        "conversation_id": "2099804579072500161",
+        "created_at": "2026-09-15T10:16:38.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099804579072500161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099804579072500161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11979,
+          "like_count": 491,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "INTERNET YAMEROの、｢ほんとうは幸せを知っているのに 不幸なフリ やめられないね｣っていう歌詞がずっと心をえぐってる\n自分は不幸なんだって思って縋ってないと、生きていられないんだよな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100161816173113409",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 65279,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T02:11:11.000Z",
+        "description": "にひゃくです 前垢凍結➡️@ametyansinja\nFFちゃん戻ってきて😭😭😭😭\nペア画➡️@Onigiri0ees\n\nsjc┊︎🚺┊︎病み垢┊︎雑多垢┊︎自傷┊︎希死念慮┊︎顔面コンプ┊︎基本フォロバ\n\n趣味語りもしばしば(腐、百合あり)\n\nニディガ、まどマギ、その他だいすき\n\nDMリプ返遅いです",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "ametyansinja"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Onigiri0ees"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taittsuu.com/users/sorasora…",
+                "end": 23,
+                "expanded_url": "https://taittsuu.com/users/sorasorasky11",
+                "start": 0,
+                "url": "https://t.co/Y9j1LoQKiq"
+              }
+            ]
+          }
+        },
+        "id": "2077214073297760256",
+        "is_identity_verified": false,
+        "location": "消費税199円",
+        "most_recent_tweet_id": "2100143559022412123",
+        "name": "価格は200円",
+        "pinned_tweet_id": "2089210933281484838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077214073297760256/1789206940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086370358467366913/21Gg7JDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 305,
+          "like_count": 10110,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/Y9j1LoQKiq",
+        "username": "ametyansinja55",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

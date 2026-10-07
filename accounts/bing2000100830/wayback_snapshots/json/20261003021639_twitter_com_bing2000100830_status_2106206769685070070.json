@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105979400324014080"
+      ],
+      "media_source_tweet_id": [
+        "2105979406133141811"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2106206769685070070",
+    "created_at": "2026-10-03T02:16:39.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106206769685070070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1537062854146174978",
+          "start": 3,
+          "username": "piyo_kich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kP4duvApVj",
+          "end": 75,
+          "expanded_url": "https://x.com/piyo_kich/status/2105979406133141811/photo/1",
+          "media_key": "3_2105979400324014080",
+          "start": 52,
+          "url": "https://t.co/kP4duvApVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106206769685070070",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105979400324014080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105979406133141811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piyo_kich: 君の辛い思いに病名がつかないと優しくしてくれない人達に期待しちゃいけない https://t.co/kP4duvApVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105979400324014080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnxG0yaYAAdSyK.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105979400324014080"
+          ],
+          "media_source_tweet_id": [
+            "2105979406133141811"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2106206769685070070",
+        "created_at": "2026-10-03T02:16:39.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106206769685070070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1537062854146174978",
+              "start": 3,
+              "username": "piyo_kich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kP4duvApVj",
+              "end": 75,
+              "expanded_url": "https://x.com/piyo_kich/status/2105979406133141811/photo/1",
+              "media_key": "3_2105979400324014080",
+              "start": 52,
+              "url": "https://t.co/kP4duvApVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106206769685070070",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105979400324014080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105979406133141811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piyo_kich: 君の辛い思いに病名がつかないと優しくしてくれない人達に期待しちゃいけない https://t.co/kP4duvApVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105979400324014080"
+          ]
+        },
+        "author_id": "1537062854146174978",
+        "conversation_id": "2105979406133141811",
+        "created_at": "2026-10-02T11:13:12.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105979406133141811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kP4duvApVj",
+              "end": 60,
+              "expanded_url": "https://x.com/piyo_kich/status/2105979406133141811/photo/1",
+              "media_key": "3_2105979400324014080",
+              "start": 37,
+              "url": "https://t.co/kP4duvApVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105979406133141811",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105979400324014080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3014,
+          "like_count": 311,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "君の辛い思いに病名がつかないと優しくしてくれない人達に期待しちゃいけない https://t.co/kP4duvApVj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106206769685070070",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1453,
+          "like_count": 67957,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4500
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-15T13:22:08.000Z",
+        "description": "ぴんくのｺﾝｶﾌｪ嬢❕あえる🤍ྀི@piyosann_きてね🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "piyosann_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pyonito",
+                "end": 23,
+                "expanded_url": "https://lit.link/pyonito",
+                "start": 0,
+                "url": "https://t.co/gvb5AyLT5T"
+              }
+            ]
+          }
+        },
+        "id": "1537062854146174978",
+        "is_identity_verified": false,
+        "location": "他SNSもみてね🎀",
+        "most_recent_tweet_id": "2105979627332383139",
+        "name": "ぴょ🤍ﾆｰﾄ🤍",
+        "pinned_tweet_id": "2102668767314760021",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1537062854146174978/1723084212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084778128015319040/a0XXNEU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42638,
+          "following_count": 21,
+          "like_count": 4150,
+          "listed_count": 70,
+          "media_count": 195,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/gvb5AyLT5T",
+        "username": "piyo_kich",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

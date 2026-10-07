@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102384764007174144"
+      ],
+      "media_source_tweet_id": [
+        "2102384770437218614"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102663488430588163",
+    "created_at": "2026-09-23T07:36:55.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102663488430588163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937538542256705536",
+          "start": 3,
+          "username": "cupidmink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7P6ffLAC65",
+          "end": 38,
+          "expanded_url": "https://x.com/cupidmink/status/2102384770437218614/photo/1",
+          "media_key": "3_2102384764007174144",
+          "start": 15,
+          "url": "https://t.co/7P6ffLAC65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102663488430588163",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102384764007174144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102384770437218614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupidmink: https://t.co/7P6ffLAC65"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2102384764007174144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0rzc_XUAAcTVH.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102384764007174144"
+          ],
+          "media_source_tweet_id": [
+            "2102384770437218614"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102663488430588163",
+        "created_at": "2026-09-23T07:36:55.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102663488430588163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937538542256705536",
+              "start": 3,
+              "username": "cupidmink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P6ffLAC65",
+              "end": 38,
+              "expanded_url": "https://x.com/cupidmink/status/2102384770437218614/photo/1",
+              "media_key": "3_2102384764007174144",
+              "start": 15,
+              "url": "https://t.co/7P6ffLAC65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102663488430588163",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102384764007174144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102384770437218614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupidmink: https://t.co/7P6ffLAC65"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102384764007174144"
+          ]
+        },
+        "author_id": "1937538542256705536",
+        "conversation_id": "2102384770437218614",
+        "created_at": "2026-09-22T13:09:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102384770437218614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P6ffLAC65",
+              "end": 23,
+              "expanded_url": "https://x.com/cupidmink/status/2102384770437218614/photo/1",
+              "media_key": "3_2102384764007174144",
+              "start": 0,
+              "url": "https://t.co/7P6ffLAC65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102384770437218614",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102384764007174144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 753,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7P6ffLAC65"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102663488430588163",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 66031,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4187
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T15:49:26.000Z",
+        "description": "妹 diary of a perverted himedere ♡\n\n16 ┊I love my captor ♀ profiction",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/enstars",
+                "end": 23,
+                "expanded_url": "http://discord.gg/enstars",
+                "start": 0,
+                "url": "https://t.co/y5xUELOs8N"
+              }
+            ]
+          }
+        },
+        "id": "1937538542256705536",
+        "is_identity_verified": false,
+        "location": " クラウド ストライフ",
+        "most_recent_tweet_id": "2102633283452551391",
+        "name": "oli ♔ harmony",
+        "pinned_tweet_id": "2101482365159661727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937538542256705536/1789867639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101483689595015168/SKD2Pp1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1434,
+          "like_count": 15119,
+          "listed_count": 24,
+          "media_count": 865,
+          "tweet_count": 4508
+        },
+        "url": "https://t.co/y5xUELOs8N",
+        "username": "cupidmink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

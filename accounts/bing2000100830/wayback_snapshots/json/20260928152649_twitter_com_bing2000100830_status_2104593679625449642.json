@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2104593679625449642",
+    "created_at": "2026-09-28T15:26:49.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104593679625449642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028400918677671936",
+          "start": 3,
+          "username": "Acaciaisgogusr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104593679625449642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104490691825164290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Acaciaisgogusr: なんかTwitterって時間たったら前いいねした投稿でもいいね外れてることあるくね？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2104593679625449642",
+        "created_at": "2026-09-28T15:26:49.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104593679625449642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028400918677671936",
+              "start": 3,
+              "username": "Acaciaisgogusr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104593679625449642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104490691825164290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Acaciaisgogusr: なんかTwitterって時間たったら前いいねした投稿でもいいね外れてることあるくね？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028400918677671936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2104490691825164290",
+        "created_at": "2026-09-28T08:37:35.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104490691825164290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104490691825164290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 384335,
+          "like_count": 9810,
+          "quote_count": 70,
+          "reply_count": 20,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "なんかTwitterって時間たったら前いいねした投稿でもいいね外れてることあるくね？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104593679625449642",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 66883,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4380
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T09:41:54.000Z",
+        "description": "シーズンMC瞬間4578位！\nAcacia好き！ポケモン初心者。アイコン書いてくれた神\n@mioshan4120\nサブ\nhttps://t.co/lmEqkhddbG\n相方https://t.co/p1G4163JQN\n俺誕生日アリサちゃんと一緒！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "mioshan4120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/yeskshpa?s=21",
+                "end": 83,
+                "expanded_url": "https://x.com/yeskshpa?s=21",
+                "start": 60,
+                "url": "https://t.co/lmEqkhddbG"
+              },
+              {
+                "display_url": "x.com/doutokumanosab…",
+                "end": 109,
+                "expanded_url": "https://x.com/doutokumanosaba?s=21",
+                "start": 86,
+                "url": "https://t.co/p1G4163JQN"
+              }
+            ]
+          }
+        },
+        "id": "2028400918677671936",
+        "is_identity_verified": false,
+        "location": "プロイセン公国",
+        "most_recent_tweet_id": "2104567980176929090",
+        "name": "ぷろしあ。@共犯者",
+        "pinned_tweet_id": "2056506863710359610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028400918677671936/1787102681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102190733130407936/GLH965Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 4822,
+          "like_count": 17228,
+          "listed_count": 3,
+          "media_count": 768,
+          "tweet_count": 8595
+        },
+        "url": "",
+        "username": "Acaciaisgogusr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

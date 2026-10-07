@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101780716862251008"
+      ],
+      "media_source_tweet_id": [
+        "2101780725049524647"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101947285714440226",
+    "created_at": "2026-09-21T08:10:59.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101947285714440226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046647581011279872",
+          "start": 3,
+          "username": "MotherAia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDoYONKkej",
+          "end": 38,
+          "expanded_url": "https://x.com/MotherAia/status/2101780725049524647/photo/1",
+          "media_key": "3_2101780716862251008",
+          "start": 15,
+          "url": "https://t.co/UDoYONKkej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101947285714440226",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101780716862251008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101780725049524647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MotherAia: https://t.co/UDoYONKkej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2101780716862251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsGbSBXIAAMr07.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101780716862251008"
+          ],
+          "media_source_tweet_id": [
+            "2101780725049524647"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101947285714440226",
+        "created_at": "2026-09-21T08:10:59.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101947285714440226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046647581011279872",
+              "start": 3,
+              "username": "MotherAia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDoYONKkej",
+              "end": 38,
+              "expanded_url": "https://x.com/MotherAia/status/2101780725049524647/photo/1",
+              "media_key": "3_2101780716862251008",
+              "start": 15,
+              "url": "https://t.co/UDoYONKkej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101947285714440226",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101780716862251008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101780725049524647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MotherAia: https://t.co/UDoYONKkej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101780716862251008"
+          ]
+        },
+        "author_id": "2046647581011279872",
+        "conversation_id": "2101780725049524647",
+        "created_at": "2026-09-20T21:09:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T22:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101780725049524647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDoYONKkej",
+              "end": 23,
+              "expanded_url": "https://x.com/MotherAia/status/2101780725049524647/photo/1",
+              "media_key": "3_2101780716862251008",
+              "start": 0,
+              "url": "https://t.co/UDoYONKkej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101780725049524647",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101780716862251008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 9290,
+          "like_count": 1296,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UDoYONKkej"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101947285714440226",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1451,
+          "like_count": 65773,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4134
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T17:57:47.000Z",
+        "description": "Affectionate Affiliate Vtuber | Horror, cute, FPS & indie games 💙 Comics & manga enthusiast | Supportive vibes & mama hugs 🫧\nPFP @Stxrry4_ Banner @konamarumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 129,
+                "username": "Stxrry4_"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "konamarumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/goddessaia",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/goddessaia",
+                "start": 0,
+                "url": "https://t.co/nI27NXcJZl"
+              }
+            ]
+          }
+        },
+        "id": "2046647581011279872",
+        "is_identity_verified": false,
+        "location": "MDNI",
+        "most_recent_tweet_id": "2101780725049524647",
+        "name": "Goddess Aia ❤️‍🩹 emergency fundraising",
+        "pinned_tweet_id": "2101780263306932611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046647581011279872/1782290960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092362501887307776/B0YHLByo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 107,
+          "like_count": 1855,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/nI27NXcJZl",
+        "username": "MotherAia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

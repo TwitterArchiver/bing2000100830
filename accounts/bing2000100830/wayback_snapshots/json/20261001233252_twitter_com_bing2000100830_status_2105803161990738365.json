@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2105803161990738365",
+    "created_at": "2026-10-01T23:32:52.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T00:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105803161990738365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1609817592843362304",
+          "start": 3,
+          "username": "nyanoeee_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105803161990738365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 444
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105617353170202814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyanoeee_y: あーもう18までに死ぬって小6の時から決めてたのに進路決まったし振袖どうしようとか考えてて生きる気満々なのほんまにはやく死ねって感じ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2105803161990738365",
+        "created_at": "2026-10-01T23:32:52.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105803161990738365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1609817592843362304",
+              "start": 3,
+              "username": "nyanoeee_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105803161990738365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 444
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105617353170202814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyanoeee_y: あーもう18までに死ぬって小6の時から決めてたのに進路決まったし振袖どうしようとか考えてて生きる気満々なのほんまにはやく死ねって感じ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609817592843362304",
+        "conversation_id": "2105617353170202814",
+        "created_at": "2026-10-01T11:14:32.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105617353170202814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105617353170202814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 338533,
+          "like_count": 10627,
+          "quote_count": 192,
+          "reply_count": 14,
+          "retweet_count": 444
+        },
+        "reply_settings": "everyone",
+        "text": "あーもう18までに死ぬって小6の時から決めてたのに進路決まったし振袖どうしようとか考えてて生きる気満々なのほんまにはやく死ねって感じ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105803161990738365",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 67721,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4481
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-02T07:43:38.000Z",
+        "description": "害児",
+        "id": "1609817592843362304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105629064270942251",
+        "name": "ゆる",
+        "pinned_tweet_id": "2094683836454256650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609817592843362304/1787570454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093147220392701952/fxIpZTHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 782,
+          "like_count": 5249,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "nyanoeee_y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

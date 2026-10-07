@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103070345737678848",
+        "3_2103070345762832384",
+        "3_2103070345716756480",
+        "3_2103070345712619521"
+      ],
+      "media_source_tweet_id": [
+        "2103070352796754053",
+        "2103070352796754053",
+        "2103070352796754053",
+        "2103070352796754053"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103195548224459156",
+    "created_at": "2026-09-24T18:51:08.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103195548224459156"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634889685532311552",
+          "start": 3,
+          "username": "0984mony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTugfUY21o",
+          "end": 58,
+          "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+          "media_key": "3_2103070345737678848",
+          "start": 35,
+          "url": "https://t.co/kTugfUY21o"
+        },
+        {
+          "display_url": "pic.x.com/kTugfUY21o",
+          "end": 58,
+          "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+          "media_key": "3_2103070345762832384",
+          "start": 35,
+          "url": "https://t.co/kTugfUY21o"
+        },
+        {
+          "display_url": "pic.x.com/kTugfUY21o",
+          "end": 58,
+          "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+          "media_key": "3_2103070345716756480",
+          "start": 35,
+          "url": "https://t.co/kTugfUY21o"
+        },
+        {
+          "display_url": "pic.x.com/kTugfUY21o",
+          "end": 58,
+          "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+          "media_key": "3_2103070345712619521",
+          "start": 35,
+          "url": "https://t.co/kTugfUY21o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103195548224459156",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2103070345737678848"
+      },
+      {
+        "media_key": "3_2103070345762832384"
+      },
+      {
+        "media_key": "3_2103070345716756480"
+      },
+      {
+        "media_key": "3_2103070345712619521"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103070352796754053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0984mony: #NEEDY_pic\n\n⊹ ࣪ ₊ ໒꒱ https://t.co/kTugfUY21o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2103070345737678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-bVj9aMAAwVk4.jpg",
+        "width": 519
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2103070345762832384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-bVkDaAAADZK8.jpg",
+        "width": 518
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2103070345716756480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-bVj4a8AA64Rk.jpg",
+        "width": 519
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2103070345712619521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-bVj3b0AEI_f1.jpg",
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103070345737678848",
+            "3_2103070345762832384",
+            "3_2103070345716756480",
+            "3_2103070345712619521"
+          ],
+          "media_source_tweet_id": [
+            "2103070352796754053",
+            "2103070352796754053",
+            "2103070352796754053",
+            "2103070352796754053"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103195548224459156",
+        "created_at": "2026-09-24T18:51:08.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103195548224459156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634889685532311552",
+              "start": 3,
+              "username": "0984mony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 58,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345737678848",
+              "start": 35,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 58,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345762832384",
+              "start": 35,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 58,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345716756480",
+              "start": 35,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 58,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345712619521",
+              "start": 35,
+              "url": "https://t.co/kTugfUY21o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103195548224459156",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2103070345737678848"
+          },
+          {
+            "media_key": "3_2103070345762832384"
+          },
+          {
+            "media_key": "3_2103070345716756480"
+          },
+          {
+            "media_key": "3_2103070345712619521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103070352796754053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0984mony: #NEEDY_pic\n\n⊹ ࣪ ₊ ໒꒱ https://t.co/kTugfUY21o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103070345737678848",
+            "3_2103070345762832384",
+            "3_2103070345716756480",
+            "3_2103070345712619521"
+          ]
+        },
+        "author_id": "1634889685532311552",
+        "conversation_id": "2103070352796754053",
+        "created_at": "2026-09-24T10:33:39.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103070352796754053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 44,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345737678848",
+              "start": 21,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 44,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345762832384",
+              "start": 21,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 44,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345716756480",
+              "start": 21,
+              "url": "https://t.co/kTugfUY21o"
+            },
+            {
+              "display_url": "pic.x.com/kTugfUY21o",
+              "end": 44,
+              "expanded_url": "https://x.com/0984mony/status/2103070352796754053/photo/1",
+              "media_key": "3_2103070345712619521",
+              "start": 21,
+              "url": "https://t.co/kTugfUY21o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103070352796754053",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2103070345737678848"
+          },
+          {
+            "media_key": "3_2103070345762832384"
+          },
+          {
+            "media_key": "3_2103070345716756480"
+          },
+          {
+            "media_key": "3_2103070345712619521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3889,
+          "like_count": 651,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_pic\n\n⊹ ࣪ ₊ ໒꒱ https://t.co/kTugfUY21o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103195548224459156",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 66171,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4221
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-12T12:10:58.000Z",
+        "description": "₍ᐢ. .ᐢ₎",
+        "id": "1634889685532311552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103070352796754053",
+        "name": "Tede",
+        "pinned_tweet_id": "2039878087714992347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634889685532311552/1698786170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741978605352349696/8YcJoY_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 91,
+          "like_count": 906,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "0984mony",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

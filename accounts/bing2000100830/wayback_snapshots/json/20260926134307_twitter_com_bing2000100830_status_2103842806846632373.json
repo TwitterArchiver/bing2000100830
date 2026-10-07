@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103682094744682497"
+      ],
+      "media_source_tweet_id": [
+        "2103682141221785857"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103842806846632373",
+    "created_at": "2026-09-26T13:43:07.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103842806846632373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2094276807185113088",
+          "start": 3,
+          "username": "shijiedeyifano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybmurn2MYW",
+          "end": 49,
+          "expanded_url": "https://x.com/shijiedeyifano/status/2103682141221785857/photo/1",
+          "media_key": "3_2103682094744682497",
+          "start": 26,
+          "url": "https://t.co/ybmurn2MYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103842806846632373",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103682094744682497"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103682141221785857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shijiedeyifano: これつらい https://t.co/ybmurn2MYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2103682094744682497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHHuCmbQAEZrtn.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103682094744682497"
+          ],
+          "media_source_tweet_id": [
+            "2103682141221785857"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103842806846632373",
+        "created_at": "2026-09-26T13:43:07.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103842806846632373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2094276807185113088",
+              "start": 3,
+              "username": "shijiedeyifano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybmurn2MYW",
+              "end": 49,
+              "expanded_url": "https://x.com/shijiedeyifano/status/2103682141221785857/photo/1",
+              "media_key": "3_2103682094744682497",
+              "start": 26,
+              "url": "https://t.co/ybmurn2MYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103842806846632373",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103682094744682497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103682141221785857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shijiedeyifano: これつらい https://t.co/ybmurn2MYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103682094744682497"
+          ]
+        },
+        "author_id": "2094276807185113088",
+        "conversation_id": "2103682141221785857",
+        "created_at": "2026-09-26T03:04:41.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103682141221785857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybmurn2MYW",
+              "end": 29,
+              "expanded_url": "https://x.com/shijiedeyifano/status/2103682141221785857/photo/1",
+              "media_key": "3_2103682094744682497",
+              "start": 6,
+              "url": "https://t.co/ybmurn2MYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103682141221785857",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103682094744682497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 660626,
+          "like_count": 21271,
+          "quote_count": 189,
+          "reply_count": 108,
+          "retweet_count": 1286
+        },
+        "reply_settings": "everyone",
+        "text": "これつらい https://t.co/ybmurn2MYW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103842806846632373",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1454,
+          "like_count": 66561,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4310
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T04:11:51.000Z",
+        "description": "受験生 |  🚺 |  ljc |  👊🩸| 全身コンプ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rmyo53yfonebve…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rmyo53yfonebvev?t=Tessfz&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/A8akvbCTpt"
+              }
+            ]
+          }
+        },
+        "id": "2094276807185113088",
+        "is_identity_verified": false,
+        "location": "地獄中学校",
+        "most_recent_tweet_id": "2103841997308182866",
+        "name": "ぼっち",
+        "pinned_tweet_id": "2094659461256565151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094276807185113088/1788152826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094289644380999680/xZgb-b6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 61,
+          "like_count": 1403,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/A8akvbCTpt",
+        "username": "shijiedeyifano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

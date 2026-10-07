@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086358831500787713"
+      ],
+      "media_source_tweet_id": [
+        "2086358865747304625"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102111878948556895",
+    "created_at": "2026-09-21T19:05:01.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102111878948556895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027008861719130112",
+          "start": 3,
+          "username": "julyameixa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAh1lZN1d0",
+          "end": 127,
+          "expanded_url": "https://x.com/hellokuttii/status/2086358865747304625/video/1",
+          "media_key": "13_2086358831500787713",
+          "start": 104,
+          "url": "https://t.co/gAh1lZN1d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102111878948556895",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2086358831500787713"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101778159158935773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @julyameixa: Eu quando não fico instantaneamente bom em algo que pessoas levaram anos para aprender: https://t.co/gAh1lZN1d0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13846,
+        "height": 720,
+        "media_key": "13_2086358831500787713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086358831500787713/img/13Y6p68L-SrIBe1Z.jpg",
+        "public_metrics": {
+          "view_count": 580573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086358831500787713/vid/avc1/284x270/tXM8T15LabO7M46C.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086358831500787713/vid/avc1/380x360/8053Xzq1C174MCK0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086358831500787713/vid/avc1/760x720/sR3npHXNyuWxNq-x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086358831500787713/pl/F2FzT6w6_kbYr_4l.m3u8?v=cfc"
+          }
+        ],
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086358831500787713"
+          ],
+          "media_source_tweet_id": [
+            "2086358865747304625"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102111878948556895",
+        "created_at": "2026-09-21T19:05:01.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102111878948556895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027008861719130112",
+              "start": 3,
+              "username": "julyameixa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAh1lZN1d0",
+              "end": 127,
+              "expanded_url": "https://x.com/hellokuttii/status/2086358865747304625/video/1",
+              "media_key": "13_2086358831500787713",
+              "start": 104,
+              "url": "https://t.co/gAh1lZN1d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102111878948556895",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2086358831500787713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101778159158935773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @julyameixa: Eu quando não fico instantaneamente bom em algo que pessoas levaram anos para aprender: https://t.co/gAh1lZN1d0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086358831500787713"
+          ],
+          "media_source_tweet_id": [
+            "2086358865747304625"
+          ]
+        },
+        "author_id": "2027008861719130112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101778159158935773",
+        "created_at": "2026-09-20T20:58:56.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101778159158935773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAh1lZN1d0",
+              "end": 111,
+              "expanded_url": "https://x.com/hellokuttii/status/2086358865747304625/video/1",
+              "media_key": "13_2086358831500787713",
+              "start": 88,
+              "url": "https://t.co/gAh1lZN1d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101778159158935773",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2086358831500787713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 127597,
+          "like_count": 13926,
+          "quote_count": 61,
+          "reply_count": 13,
+          "retweet_count": 3693
+        },
+        "reply_settings": "everyone",
+        "text": "Eu quando não fico instantaneamente bom em algo que pessoas levaram anos para aprender: https://t.co/gAh1lZN1d0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086358831500787713"
+          ]
+        },
+        "author_id": "1421133911963291653",
+        "conversation_id": "2086358865747304625",
+        "created_at": "2026-08-09T07:48:10.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086358865747304625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkMJw2bti1",
+              "end": 61,
+              "expanded_url": "https://x.com/hellokuttii/status/2086358865747304625/video/1",
+              "media_key": "13_2086358831500787713",
+              "start": 38,
+              "url": "https://t.co/pkMJw2bti1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086358865747304625",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086358831500787713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 525904,
+          "like_count": 2264,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "they mistook my kindness for weakness https://t.co/pkMJw2bti1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102111878948556895",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1452,
+          "like_count": 65818,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4148
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-26T13:15:14.000Z",
+        "description": "｡⋆. ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧ᢉ𐭩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pin.it/28UydVgqA",
+                "end": 23,
+                "expanded_url": "https://pin.it/28UydVgqA",
+                "start": 0,
+                "url": "https://t.co/uKLbz5ILoG"
+              }
+            ]
+          }
+        },
+        "id": "2027008861719130112",
+        "is_identity_verified": false,
+        "location": "cu de minas ",
+        "most_recent_tweet_id": "2102111041190502684",
+        "name": "𝒿ℴ𝓁𝒾ℯ𑁤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027008861719130112/1789686159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100723017298894848/mQ858SCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 547,
+          "like_count": 8541,
+          "listed_count": 1,
+          "media_count": 2283,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/uKLbz5ILoG",
+        "username": "julyameixa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

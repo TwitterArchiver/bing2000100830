@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1864141123121205248"
+      ],
+      "media_source_tweet_id": [
+        "1864141141890719881"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101938013140029952",
+    "created_at": "2026-09-21T07:34:09.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T08:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101938013140029952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1646301619435237376",
+          "start": 3,
+          "username": "Mnherarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MkYANJIeEZ",
+          "end": 56,
+          "expanded_url": "https://x.com/ZombyeNEET/status/1864141141890719881/video/1",
+          "media_key": "7_1864141123121205248",
+          "start": 33,
+          "url": "https://t.co/MkYANJIeEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101938013140029952",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_1864141123121205248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864141141890719881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mnherarin: ごみちゃんはまだ失敗作だ 🚬 ww https://t.co/MkYANJIeEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3126,
+        "height": 720,
+        "media_key": "7_1864141123121205248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864141123121205248/pu/img/AGyF_MDAsEWzVc02.jpg",
+        "public_metrics": {
+          "view_count": 560
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864141123121205248/pu/vid/avc1/398x270/8DY3R8ZEvfaWu4tk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864141123121205248/pu/vid/avc1/530x360/d2Gar5Eq1yvNzrg5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864141123121205248/pu/vid/avc1/1062x720/kIOkPG8aI2oEYiwC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864141123121205248/pu/pl/o-rPvbSylj3geqBv.m3u8?tag=12"
+          }
+        ],
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1864141123121205248"
+          ],
+          "media_source_tweet_id": [
+            "1864141141890719881"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101938013140029952",
+        "created_at": "2026-09-21T07:34:09.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101938013140029952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646301619435237376",
+              "start": 3,
+              "username": "Mnherarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkYANJIeEZ",
+              "end": 56,
+              "expanded_url": "https://x.com/ZombyeNEET/status/1864141141890719881/video/1",
+              "media_key": "7_1864141123121205248",
+              "start": 33,
+              "url": "https://t.co/MkYANJIeEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101938013140029952",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1864141123121205248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864141141890719881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mnherarin: ごみちゃんはまだ失敗作だ 🚬 ww https://t.co/MkYANJIeEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1864141123121205248"
+          ]
+        },
+        "author_id": "1646301619435237376",
+        "conversation_id": "1864141141890719881",
+        "created_at": "2024-12-04T02:54:16.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864141141890719881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkYANJIeEZ",
+              "end": 41,
+              "expanded_url": "https://x.com/ZombyeNEET/status/1864141141890719881/video/1",
+              "media_key": "7_1864141123121205248",
+              "start": 18,
+              "url": "https://t.co/MkYANJIeEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864141141890719881",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1864141123121205248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1601,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ごみちゃんはまだ失敗作だ 🚬 ww https://t.co/MkYANJIeEZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101938013140029952",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1451,
+          "like_count": 65739,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4119
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-12T23:58:19.000Z",
+        "description": "精神的に不安定だけど、猫が大好き！これがコリンチャンスです🎀꒦꒷꒦꒷病みかわいい💢NEET 420\n私は働くのが大嫌いだ ! 未来のDJ \n@divineleison 女朋友🩸‼️下坠下坠下坠❤️‍🩹\n2１y 🐾 INFP ❤️‍🩹　　sh/drugｔｗｔ‼️ br📍🎀 \n@mnheraaa reserve acc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "divineleison"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "mnheraaa"
+              }
+            ]
+          }
+        },
+        "id": "1646301619435237376",
+        "is_identity_verified": false,
+        "location": "nb 💢 SHE/HE",
+        "most_recent_tweet_id": "2101913217593212970",
+        "name": "🎀メンヘラ 🎀",
+        "pinned_tweet_id": "1867676264351641629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646301619435237376/1771630687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072880015004332032/fOkZx4MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 503,
+          "like_count": 20215,
+          "listed_count": 2,
+          "media_count": 832,
+          "tweet_count": 6524
+        },
+        "url": "",
+        "username": "Mnherarin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

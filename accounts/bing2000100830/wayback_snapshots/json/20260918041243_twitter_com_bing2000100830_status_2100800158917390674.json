@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2100800158917390674",
+    "created_at": "2026-09-18T04:12:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100800158917390674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477798893400334345",
+          "start": 3,
+          "username": "limpialmejas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100800158917390674",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100626799621226738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @limpialmejas: Cosas que decirle a tu psicólogo:\n-He traído mi propia silla\n-Esto de ahora no lo apuntes\n-Tus pastillas me hacen tener m…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2100800158917390674",
+        "created_at": "2026-09-18T04:12:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100800158917390674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477798893400334345",
+              "start": 3,
+              "username": "limpialmejas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100800158917390674",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100626799621226738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @limpialmejas: Cosas que decirle a tu psicólogo:\n-He traído mi propia silla\n-Esto de ahora no lo apuntes\n-Tus pastillas me hacen tener m…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477798893400334345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2100626799621226738",
+        "created_at": "2026-09-17T16:43:51.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100626799621226738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100626799621226738",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 81624,
+          "like_count": 10572,
+          "quote_count": 32,
+          "reply_count": 32,
+          "retweet_count": 1181
+        },
+        "reply_settings": "everyone",
+        "text": "Cosas que decirle a tu psicólogo:\n-He traído mi propia silla\n-Esto de ahora no lo apuntes\n-Tus pastillas me hacen tener menos chistes\n-Espero que no trabajes para el gobierno\n-Véndeme este boli"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100800158917390674",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1453,
+          "like_count": 65340,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4052
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-03T00:28:36.000Z",
+        "description": "⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/toastedyeri",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/toastedyeri",
+                "start": 0,
+                "url": "https://t.co/QXQttayJVa"
+              }
+            ]
+          }
+        },
+        "id": "1477798893400334345",
+        "is_identity_verified": false,
+        "location": "Andalucía!!",
+        "most_recent_tweet_id": "2100648846321922547",
+        "name": "Yerí 🍓",
+        "pinned_tweet_id": "2085445878354198587",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477798893400334345/1769633917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084047409479405568/l7t7_hNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 438,
+          "like_count": 57144,
+          "listed_count": 1,
+          "media_count": 1803,
+          "tweet_count": 21289
+        },
+        "url": "https://t.co/QXQttayJVa",
+        "username": "limpialmejas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

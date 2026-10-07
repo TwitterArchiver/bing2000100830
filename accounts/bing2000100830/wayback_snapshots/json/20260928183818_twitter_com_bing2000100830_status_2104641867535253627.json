@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104354871440736256"
+      ],
+      "media_source_tweet_id": [
+        "2104354875211694436"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104641867535253627",
+    "created_at": "2026-09-28T18:38:18.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104641867535253627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956460355174998016",
+          "start": 3,
+          "username": "Not_Fritz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kinzKpZkV1",
+          "end": 58,
+          "expanded_url": "https://x.com/Not_Fritz_/status/2104354875211694436/photo/1",
+          "media_key": "3_2104354871440736256",
+          "start": 35,
+          "url": "https://t.co/kinzKpZkV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104641867535253627",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104354871440736256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104354875211694436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not_Fritz_: New pfp for autumn https://t.co/kinzKpZkV1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2104354871440736256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQrmzGWgAA5iCR.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104354871440736256"
+          ],
+          "media_source_tweet_id": [
+            "2104354875211694436"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104641867535253627",
+        "created_at": "2026-09-28T18:38:18.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104641867535253627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956460355174998016",
+              "start": 3,
+              "username": "Not_Fritz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kinzKpZkV1",
+              "end": 58,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2104354875211694436/photo/1",
+              "media_key": "3_2104354871440736256",
+              "start": 35,
+              "url": "https://t.co/kinzKpZkV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104641867535253627",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104354871440736256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104354875211694436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not_Fritz_: New pfp for autumn https://t.co/kinzKpZkV1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104354871440736256"
+          ]
+        },
+        "author_id": "1956460355174998016",
+        "conversation_id": "2104354875211694436",
+        "created_at": "2026-09-27T23:37:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104354875211694436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kinzKpZkV1",
+              "end": 42,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2104354875211694436/photo/1",
+              "media_key": "3_2104354871440736256",
+              "start": 19,
+              "url": "https://t.co/kinzKpZkV1"
+            },
+            {
+              "display_url": "x.com/not_fritz_/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/not_fritz_/status/2103988258749415907",
+              "start": 43,
+              "url": "https://t.co/7otQRIzSwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104354875211694436",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104354871440736256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3650,
+          "like_count": 431,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103988258749415907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "New pfp for autumn https://t.co/kinzKpZkV1 https://t.co/7otQRIzSwX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104641867535253627",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1453,
+          "like_count": 66937,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4386
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T20:58:04.000Z",
+        "description": "Hispanic (🇪🇸🇲🇽&🇺🇸) daily dose of Girls' Last Tour content, will occasionally post other things • priv: @Fritz_Private_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "Fritz_Private_"
+              }
+            ]
+          }
+        },
+        "id": "1956460355174998016",
+        "is_identity_verified": false,
+        "location": "age: 18",
+        "most_recent_tweet_id": "2104608451485712430",
+        "name": "𝙵𝚛𝚒𝚝𝚣",
+        "pinned_tweet_id": "2080137486236348508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956460355174998016/1790552479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104354725248278528/hYS9amIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6723,
+          "following_count": 829,
+          "like_count": 29482,
+          "listed_count": 21,
+          "media_count": 2639,
+          "tweet_count": 8271
+        },
+        "url": "",
+        "username": "Not_Fritz_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100162806519927016",
+    "created_at": "2026-09-16T10:00:06.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T11:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100162806519927016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964790653621014529",
+          "start": 3,
+          "username": "tobbxxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100162806519927016",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099876000632873089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tobbxxu: Mi pareja nunca tendrá frío gracias al infierno que vivirá conmigo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100162806519927016",
+        "created_at": "2026-09-16T10:00:06.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100162806519927016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964790653621014529",
+              "start": 3,
+              "username": "tobbxxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100162806519927016",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099876000632873089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tobbxxu: Mi pareja nunca tendrá frío gracias al infierno que vivirá conmigo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964790653621014529",
+        "conversation_id": "2099876000632873089",
+        "created_at": "2026-09-15T15:00:27.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099876000632873089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099876000632873089",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 12247,
+          "like_count": 1451,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "Mi pareja nunca tendrá frío gracias al infierno que vivirá conmigo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100162806519927016",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1456,
+          "like_count": 65285,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4024
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T20:39:47.000Z",
+        "description": "el creo la depresión? 💜",
+        "id": "1964790653621014529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100068061751525379",
+        "name": "tobias",
+        "pinned_tweet_id": "2081466618828218491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964790653621014529/1766093417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098201520441298947/NoXRLAGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7866,
+          "following_count": 5299,
+          "like_count": 103352,
+          "listed_count": 79,
+          "media_count": 1452,
+          "tweet_count": 45236
+        },
+        "url": "",
+        "username": "tobbxxu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

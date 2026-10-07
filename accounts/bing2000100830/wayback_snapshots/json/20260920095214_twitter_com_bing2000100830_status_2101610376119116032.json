@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101610376119116032",
+    "created_at": "2026-09-20T09:52:14.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101610376119116032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1844067175079804928",
+          "start": 3,
+          "username": "saeyoungversion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101610376119116032",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4915
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100964206577062001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saeyoungversion: solía ser muy inteligente pero la vida me nerfeó con mi salud mental"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101610376119116032",
+        "created_at": "2026-09-20T09:52:14.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101610376119116032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1844067175079804928",
+              "start": 3,
+              "username": "saeyoungversion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101610376119116032",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4915
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100964206577062001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saeyoungversion: solía ser muy inteligente pero la vida me nerfeó con mi salud mental"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844067175079804928",
+        "conversation_id": "2100964206577062001",
+        "created_at": "2026-09-18T15:04:35.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100964206577062001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100964206577062001",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 104134,
+          "like_count": 16284,
+          "quote_count": 93,
+          "reply_count": 14,
+          "retweet_count": 4915
+        },
+        "reply_settings": "everyone",
+        "text": "solía ser muy inteligente pero la vida me nerfeó con mi salud mental"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101610376119116032",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 65568,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4090
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T17:27:43.000Z",
+        "description": "casada en la estación espacial",
+        "id": "1844067175079804928",
+        "is_identity_verified": false,
+        "location": "she | booktwt | 606 | 🇵🇾 ",
+        "most_recent_tweet_id": "2101503322238705889",
+        "name": "brenchu 707 novia || 🎗️",
+        "pinned_tweet_id": "2035576824478966112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844067175079804928/1786893643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055837971484381184/HXTtz5zr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 1154,
+          "like_count": 16843,
+          "listed_count": 28,
+          "media_count": 674,
+          "tweet_count": 10419
+        },
+        "url": "",
+        "username": "saeyoungversion",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

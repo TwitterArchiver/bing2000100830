@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103588923780043196",
+    "created_at": "2026-09-25T20:54:16.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103588923780043196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564950162929483778",
+          "start": 3,
+          "username": "ru__to_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103588923780043196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103425019842109500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ru__to_o: 結局、1番幸せな恋愛ってのは\n「お互いに溺愛しまくってる」 \nこれに尽きるんだよな。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103588923780043196",
+        "created_at": "2026-09-25T20:54:16.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103588923780043196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564950162929483778",
+              "start": 3,
+              "username": "ru__to_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103588923780043196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103425019842109500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ru__to_o: 結局、1番幸せな恋愛ってのは\n「お互いに溺愛しまくってる」 \nこれに尽きるんだよな。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564950162929483778",
+        "conversation_id": "2103425019842109500",
+        "created_at": "2026-09-25T10:02:59.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103425019842109500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103425019842109500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 13054,
+          "like_count": 603,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "結局、1番幸せな恋愛ってのは\n「お互いに溺愛しまくってる」 \nこれに尽きるんだよな。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103588931271004254",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1458,
+          "like_count": 66518,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4302
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-31T12:17:02.000Z",
+        "description": "誰かの心の支えになれたら。",
+        "id": "1564950162929483778",
+        "is_identity_verified": false,
+        "location": "みんなで幸せになろう2026 /この垢以外偽物です",
+        "most_recent_tweet_id": "2103425019842109500",
+        "name": "るーと。",
+        "pinned_tweet_id": "1820446273088135364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564950162929483778/1716744053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779885911444271105/oIlDVIBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25366,
+          "following_count": 1,
+          "like_count": 3161,
+          "listed_count": 56,
+          "media_count": 0,
+          "tweet_count": 2109
+        },
+        "url": "",
+        "username": "ru__to_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

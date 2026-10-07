@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104283807511957739",
+    "created_at": "2026-09-27T18:55:30.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104283807511957739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992033555585937408",
+          "start": 3,
+          "username": "ye8zig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104283807511957739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103983298984944010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye8zig: かわいい子が病んでたら可哀想だけど、私が病んでても病んでるブスでしかない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104283807511957739",
+        "created_at": "2026-09-27T18:55:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104283807511957739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992033555585937408",
+              "start": 3,
+              "username": "ye8zig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104283807511957739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103983298984944010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye8zig: かわいい子が病んでたら可哀想だけど、私が病んでても病んでるブスでしかない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992033555585937408",
+        "conversation_id": "2103983298984944010",
+        "created_at": "2026-09-26T23:01:23.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103983298984944010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103983298984944010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2157,
+          "like_count": 158,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい子が病んでたら可哀想だけど、私が病んでても病んでるブスでしかない"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104283807511957739",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66772,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4356
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T00:54:35.000Z",
+        "description": "fjc│⚪︎Ð│不登校\n\n避難垢▶︎@komeko_pan1\nアイコン▶︎ @neruri_nn 様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "komeko_pan1"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "neruri_nn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/3ecpauanc42dzi…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/3ecpauanc42dzit?t=Fo4unQ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/WNKg4cZ2XV"
+              }
+            ]
+          }
+        },
+        "id": "1992033555585937408",
+        "is_identity_verified": false,
+        "location": "関東",
+        "most_recent_tweet_id": "2104226838063218708",
+        "name": "みぃ",
+        "pinned_tweet_id": "2089352200279740692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992033555585937408/1789890963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101396508306526208/hmkyw6O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 197,
+          "like_count": 21729,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/WNKg4cZ2XV",
+        "username": "ye8zig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

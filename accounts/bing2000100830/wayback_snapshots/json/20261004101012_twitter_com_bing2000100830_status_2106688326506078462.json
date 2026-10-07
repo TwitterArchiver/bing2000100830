@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2106688326506078462",
+    "created_at": "2026-10-04T10:10:12.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106688326506078462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829615084915634176",
+          "start": 3,
+          "username": "KarenSm56293084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106688326506078462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106338495916810472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KarenSm56293084: えっちしたいんじゃなくて\nぎゅーしてちゅーして可愛いっていっぱい言われたいだけ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2106688326506078462",
+        "created_at": "2026-10-04T10:10:12.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106688326506078462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829615084915634176",
+              "start": 3,
+              "username": "KarenSm56293084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106688326506078462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106338495916810472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KarenSm56293084: えっちしたいんじゃなくて\nぎゅーしてちゅーして可愛いっていっぱい言われたいだけ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829615084915634176",
+        "conversation_id": "2106338495916810472",
+        "created_at": "2026-10-03T11:00:05.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106338495916810472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106338495916810472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 286455,
+          "like_count": 4690,
+          "quote_count": 57,
+          "reply_count": 8,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "えっちしたいんじゃなくて\nぎゅーしてちゅーして可愛いっていっぱい言われたいだけ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106688326506078462",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1451,
+          "like_count": 68226,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4523
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T20:20:16.000Z",
+        "description": "なんとなく気になったら→",
+        "id": "1829615084915634176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106635945332318503",
+        "name": "舞衣",
+        "pinned_tweet_id": "2106338495916810472",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104469337549803520/TfJ-Uk_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "KarenSm56293084",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100432553962295797",
+    "created_at": "2026-09-17T03:51:59.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100432553962295797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901223432127438848",
+          "start": 3,
+          "username": "h1_nardo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100432553962295797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100181364238872720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h1_nardo: 不登校  「学校行けていいな」\n登校してる人  「休める環境羨ましい」\nお互い分かり合えてないんだよね😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100432553962295797",
+        "created_at": "2026-09-17T03:51:59.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100432553962295797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901223432127438848",
+              "start": 3,
+              "username": "h1_nardo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100432553962295797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100181364238872720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h1_nardo: 不登校  「学校行けていいな」\n登校してる人  「休める環境羨ましい」\nお互い分かり合えてないんだよね😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901223432127438848",
+        "conversation_id": "2100181364238872720",
+        "created_at": "2026-09-16T11:13:51.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100181364238872720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100181364238872720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 195099,
+          "like_count": 8997,
+          "quote_count": 183,
+          "reply_count": 32,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "不登校  「学校行けていいな」\n登校してる人  「休める環境羨ましい」\nお互い分かり合えてないんだよね😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100432553962295797",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1457,
+          "like_count": 65237,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4035
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T10:46:16.000Z",
+        "description": "ljc/👊🩸/不登校気味/雑多/初手タメ𝑮𝒐𝒐𝒅🪄︎︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/r6o7ec60w8r9g4…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/r6o7ec60w8r9g4s?t=6ouDw9&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/agBykfzUz6"
+              }
+            ]
+          }
+        },
+        "id": "1901223432127438848",
+        "is_identity_verified": false,
+        "location": "無言フォロー失礼します🎶",
+        "most_recent_tweet_id": "2100405838381003146",
+        "name": "☪︎ᶻ",
+        "pinned_tweet_id": "2069322644034597319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901223432127438848/1778313306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096187193391984640/h9Ixl5E4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 142,
+          "like_count": 9985,
+          "listed_count": 11,
+          "media_count": 17,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/agBykfzUz6",
+        "username": "h1_nardo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

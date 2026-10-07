@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104658125425111153",
+    "created_at": "2026-09-28T19:42:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104658125425111153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1316424071542788097",
+          "start": 3,
+          "username": "jaakuuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104658125425111153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103254037697057126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaakuuna: The thought kept coming back. Everyday, my mind went back to it. Everyone would be better off if I didn’t exist. https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2103254033506906112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBCZmOWMAAepGl.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104658125425111153",
+        "created_at": "2026-09-28T19:42:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104658125425111153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1316424071542788097",
+              "start": 3,
+              "username": "jaakuuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104658125425111153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103254037697057126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaakuuna: The thought kept coming back. Everyday, my mind went back to it. Everyone would be better off if I didn’t exist. https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103254033506906112"
+          ]
+        },
+        "author_id": "1316424071542788097",
+        "conversation_id": "2103254037697057126",
+        "created_at": "2026-09-24T22:43:33.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103254037697057126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4KmSF9qFL",
+              "end": 136,
+              "expanded_url": "https://x.com/jaakuuna/status/2103254037697057126/photo/1",
+              "media_key": "3_2103254033506906112",
+              "start": 113,
+              "url": "https://t.co/W4KmSF9qFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103254037697057126",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103254033506906112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "The thought kept coming back. Everyday, my mind went back to it. Everyone would be better off if I didn’t exist. https://t.co/W4KmSF9qFL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104658125425111153",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66990,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4406
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-14T17:02:29.000Z",
+        "description": "昇り竜 🐉 \nYakuza/Metal Gear Enthusiast 🌸 \np-chan retweets and postings 🎀🙏\ncheck strawpage for additional info",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaakuna.straw.page",
+                "end": 23,
+                "expanded_url": "https://jaakuna.straw.page/",
+                "start": 0,
+                "url": "https://t.co/cbBIAWRuEL"
+              }
+            ]
+          }
+        },
+        "id": "1316424071542788097",
+        "is_identity_verified": false,
+        "location": "NA EST",
+        "most_recent_tweet_id": "2104641556271505781",
+        "name": "Jaakuna 悪 | playing p5r",
+        "pinned_tweet_id": "2080399760297492496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316424071542788097/1779656210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101913208957063168/Xh00QEDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 154,
+          "like_count": 22478,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/cbBIAWRuEL",
+        "username": "jaakuuna",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

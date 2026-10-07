@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099885911584747923",
+    "created_at": "2026-09-15T15:39:49.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099885911584747923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1187843813278208005",
+          "start": 3,
+          "username": "Roger38498238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099885911584747923",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1699
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099620696011776448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Roger38498238: Deus está pondo em prática um plano muito engenhoso para me persuardir a tirar minha própria vida"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099885911584747923",
+        "created_at": "2026-09-15T15:39:49.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099885911584747923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1187843813278208005",
+              "start": 3,
+              "username": "Roger38498238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099885911584747923",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1699
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099620696011776448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Roger38498238: Deus está pondo em prática um plano muito engenhoso para me persuardir a tirar minha própria vida"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187843813278208005",
+        "conversation_id": "2099620696011776448",
+        "created_at": "2026-09-14T22:05:57.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099620696011776448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099620696011776448",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 62876,
+          "like_count": 5935,
+          "quote_count": 68,
+          "reply_count": 16,
+          "retweet_count": 1699
+        },
+        "reply_settings": "everyone",
+        "text": "Deus está pondo em prática um plano muito engenhoso para me persuardir a tirar minha própria vida"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099885911584747923",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1459,
+          "like_count": 65212,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3999
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-25T21:30:28.000Z",
+        "description": "Roger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Rog.er",
+                "end": 23,
+                "expanded_url": "http://Rog.er",
+                "start": 0,
+                "url": "https://t.co/kY0U2SLuOK"
+              }
+            ]
+          }
+        },
+        "id": "1187843813278208005",
+        "is_identity_verified": false,
+        "location": "Roger",
+        "most_recent_tweet_id": "2099620696011776448",
+        "name": "Roger",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350594997008084993/HTtNCkk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167263,
+          "following_count": 0,
+          "like_count": 154,
+          "listed_count": 22,
+          "media_count": 140,
+          "tweet_count": 4827
+        },
+        "url": "https://t.co/kY0U2SLuOK",
+        "username": "Roger38498238",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105060513411428352"
+      ],
+      "media_source_tweet_id": [
+        "2105060526342513116"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2105203195203195130",
+    "created_at": "2026-09-30T07:48:49.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105203195203195130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041566777335750656",
+          "start": 3,
+          "username": "candiedecay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NW3CfoUn6F",
+          "end": 67,
+          "expanded_url": "https://x.com/candiedecay/status/2105060526342513116/video/1",
+          "media_key": "13_2105060513411428352",
+          "start": 44,
+          "url": "https://t.co/NW3CfoUn6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105203195203195130",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2105060513411428352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105060526342513116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @candiedecay: me when i get a new figure https://t.co/NW3CfoUn6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1000,
+        "height": 686,
+        "media_key": "13_2105060513411428352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105060513411428352/img/ivFOxp5v8qEAVgFu.jpg",
+        "public_metrics": {
+          "view_count": 1360
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105060513411428352/vid/avc1/386x270/SnJL5_9nQlgNV0PE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105060513411428352/vid/avc1/516x360/KrYhXhTWdZx1ju6p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105060513411428352/vid/avc1/984x686/qGmRFxXiGRVfZa7i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105060513411428352/pl/Gsll9WfhL_mKJJDm.m3u8"
+          }
+        ],
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105060513411428352"
+          ],
+          "media_source_tweet_id": [
+            "2105060526342513116"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2105203195203195130",
+        "created_at": "2026-09-30T07:48:49.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105203195203195130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041566777335750656",
+              "start": 3,
+              "username": "candiedecay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW3CfoUn6F",
+              "end": 67,
+              "expanded_url": "https://x.com/candiedecay/status/2105060526342513116/video/1",
+              "media_key": "13_2105060513411428352",
+              "start": 44,
+              "url": "https://t.co/NW3CfoUn6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105203195203195130",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2105060513411428352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105060526342513116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @candiedecay: me when i get a new figure https://t.co/NW3CfoUn6F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105060513411428352"
+          ]
+        },
+        "author_id": "2041566777335750656",
+        "conversation_id": "2105060526342513116",
+        "created_at": "2026-09-29T22:21:54.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105060526342513116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW3CfoUn6F",
+              "end": 50,
+              "expanded_url": "https://x.com/candiedecay/status/2105060526342513116/video/1",
+              "media_key": "13_2105060513411428352",
+              "start": 27,
+              "url": "https://t.co/NW3CfoUn6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105060526342513116",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2105060513411428352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 7472,
+          "like_count": 1069,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "me when i get a new figure https://t.co/NW3CfoUn6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105203195203195130",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1455,
+          "like_count": 67253,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4451
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T17:22:47.000Z",
+        "description": "oh who cares about anything anymore? one, two, the internet is the fuckin best !!! 🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelcandy.straw.page",
+                "end": 23,
+                "expanded_url": "https://angelcandy.straw.page",
+                "start": 0,
+                "url": "https://t.co/nYcegXFINh"
+              }
+            ]
+          }
+        },
+        "id": "2041566777335750656",
+        "is_identity_verified": false,
+        "location": "heaven ",
+        "most_recent_tweet_id": "2105192137323057350",
+        "name": "angel 𝜗𝜚",
+        "pinned_tweet_id": "2082274575514227092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041566777335750656/1789773610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087323733199642624/awateeQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 287,
+          "like_count": 3028,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/nYcegXFINh",
+        "username": "candiedecay",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

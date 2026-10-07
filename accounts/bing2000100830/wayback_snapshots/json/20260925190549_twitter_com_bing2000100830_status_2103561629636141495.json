@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2103561629636141495",
+    "created_at": "2026-09-25T19:05:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103561629636141495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068873952337055744",
+          "start": 3,
+          "username": "subgame334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103561629636141495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103371052097372614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subgame334: 「少女終末旅行」「シメジシミュレーション」の作者であるつくみず先生の最新作、「階層都市断片集」がくじらバンチというアプリで公開されています\n最新話は有料ですが一ヶ月後に無料公開されていて、現在三話まで無料で読むことができます\nもしよければ読んで見…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2262,
+        "media_key": "3_2103371045747204096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCs0myaoAAs3wm.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2103561629636141495",
+        "created_at": "2026-09-25T19:05:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103561629636141495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068873952337055744",
+              "start": 3,
+              "username": "subgame334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103561629636141495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103371052097372614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subgame334: 「少女終末旅行」「シメジシミュレーション」の作者であるつくみず先生の最新作、「階層都市断片集」がくじらバンチというアプリで公開されています\n最新話は有料ですが一ヶ月後に無料公開されていて、現在三話まで無料で読むことができます\nもしよければ読んで見…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103371045747204096"
+          ]
+        },
+        "author_id": "2068873952337055744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2103371052097372614",
+        "created_at": "2026-09-25T06:28:32.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103371052097372614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 152,
+              "expanded_url": "https://play.google.com/store/apps/details?id=jp.ne.hatena.kujirabunch",
+              "start": 129,
+              "status": 200,
+              "unwound_url": "https://play.google.com/store/apps/details?id=jp.ne.hatena.kujirabunch",
+              "url": "https://t.co/ShHaVGH6RU"
+            },
+            {
+              "display_url": "pic.x.com/im9aRdvKUA",
+              "end": 176,
+              "expanded_url": "https://x.com/subgame334/status/2103371052097372614/photo/1",
+              "media_key": "3_2103371045747204096",
+              "start": 153,
+              "url": "https://t.co/im9aRdvKUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103371052097372614",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103371045747204096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 15448,
+          "like_count": 670,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "「少女終末旅行」「シメジシミュレーション」の作者であるつくみず先生の最新作、「階層都市断片集」がくじらバンチというアプリで公開されています\n最新話は有料ですが一ヶ月後に無料公開されていて、現在三話まで無料で読むことができます\nもしよければ読んで見てください\nhttps://t.co/ShHaVGH6RU https://t.co/im9aRdvKUA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103561637643038878",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66435,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4275
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T01:54:28.000Z",
+        "description": "少女終末旅行とシメジシミュレーション、ボカロが好き\nアイコン作・推し→@rai_0132様\nイラスト垢→@kame_wakaba/鍵垢→@stankey334",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "rai_0132"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "kame_wakaba"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "stankey334"
+              }
+            ]
+          }
+        },
+        "id": "2068873952337055744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103538410090852365",
+        "name": "かめおばけ",
+        "pinned_tweet_id": "2102269908013003110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068873952337055744/1789392042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069996466245169152/8rlsPOun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 550,
+          "like_count": 17999,
+          "listed_count": 2,
+          "media_count": 634,
+          "tweet_count": 6150
+        },
+        "url": "",
+        "username": "subgame334",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

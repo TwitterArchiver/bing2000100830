@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103554650968662386",
+    "created_at": "2026-09-25T18:38:05.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103554650968662386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048765505474031616",
+          "start": 3,
+          "username": "7jfg7hw7bq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103554650968662386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103403217745010713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7jfg7hw7bq: ちょっと注意されただけで一生ひきずるしその人のこと嫌いになる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103554650968662386",
+        "created_at": "2026-09-25T18:38:05.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103554650968662386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048765505474031616",
+              "start": 3,
+              "username": "7jfg7hw7bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103554650968662386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103403217745010713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7jfg7hw7bq: ちょっと注意されただけで一生ひきずるしその人のこと嫌いになる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048765505474031616",
+        "conversation_id": "2103403217745010713",
+        "created_at": "2026-09-25T08:36:21.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103403217745010713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103403217745010713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 486002,
+          "like_count": 19484,
+          "quote_count": 393,
+          "reply_count": 36,
+          "retweet_count": 1547
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと注意されただけで一生ひきずるしその人のこと嫌いになる"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103554650968662386",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1455,
+          "like_count": 66418,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4267
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T14:10:12.000Z",
+        "description": "SJK/09/雑多/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aaaequ4qdl4mc8…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aaaequ4qdl4mc8b?t=gtuwdQ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/RsJlkcDBeO"
+              }
+            ]
+          }
+        },
+        "id": "2048765505474031616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103523440296956075",
+        "name": "にこみ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099073009139187712/o03Urb8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 192,
+          "like_count": 10205,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/RsJlkcDBeO",
+        "username": "7jfg7hw7bq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

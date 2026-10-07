@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104665199332692285",
+    "created_at": "2026-09-29T02:29:00.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104760323593170945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021385985612001280",
+          "start": 0,
+          "username": "msksml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104760323593170945",
+    "in_reply_to_user_id": "2021385985612001280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104730228400783516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msksml8964 呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104665199332692285",
+        "created_at": "2026-09-29T02:29:00.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104760323593170945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021385985612001280",
+              "start": 0,
+              "username": "msksml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104760323593170945",
+        "in_reply_to_user_id": "2021385985612001280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104730228400783516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msksml8964 呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021385985612001280",
+        "conversation_id": "2104665199332692285",
+        "created_at": "2026-09-29T00:29:25.000Z",
+        "display_text_range": [
+          16,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104730228400783516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104730228400783516",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104665199332692285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 我也觉得在od右美里面很喜欢和人交流……但是od不好，od不好……一定要好好爱自己🥺我也会试着帮在你的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104760323593170945",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 67013,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 4419
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T00:49:25.000Z",
+        "description": "梦想是和所有人成为朋友！！！！\n“你可听到人们在唱愤怒的人群歌声嘹亮……”",
+        "id": "2021385985612001280",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2104760298787987890",
+        "name": "偷面包的米格鲁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021385985612001280/1770771337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103770733524758528/eDiPscKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 723,
+          "like_count": 5410,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2601
+        },
+        "url": "",
+        "username": "msksml8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100591875522785584",
+    "created_at": "2026-09-17T14:25:04.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T15:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100591875522785584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1109549718785396737",
+          "start": 3,
+          "username": "sophiamraes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100591875522785584",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100017091067670972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sophiamraes: e quando voce tem um potencial do caralhokkkkkkk mas ta com depressaokkkkkkkkk ein tropakkkkkkkkkkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100591875522785584",
+        "created_at": "2026-09-17T14:25:04.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100591875522785584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1109549718785396737",
+              "start": 3,
+              "username": "sophiamraes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100591875522785584",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100017091067670972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sophiamraes: e quando voce tem um potencial do caralhokkkkkkk mas ta com depressaokkkkkkkkk ein tropakkkkkkkkkkk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109549718785396737",
+        "conversation_id": "2100017091067670972",
+        "created_at": "2026-09-16T00:21:05.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100017091067670972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100017091067670972",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 747,
+          "impression_count": 254198,
+          "like_count": 31975,
+          "quote_count": 396,
+          "reply_count": 68,
+          "retweet_count": 9679
+        },
+        "reply_settings": "everyone",
+        "text": "e quando voce tem um potencial do caralhokkkkkkk mas ta com depressaokkkkkkkkk ein tropakkkkkkkkkkk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100591875522785584",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 65298,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4045
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-23T20:17:22.000Z",
+        "description": "vício, perversão e socialismo \n@sophiamraess",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "sophiamraess"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sophiamraes?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sophiamraes?igsh=dTYzdzUyZXR3bHVo&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/O5an3W2ESW"
+              }
+            ]
+          }
+        },
+        "id": "1109549718785396737",
+        "is_identity_verified": false,
+        "location": "belém, pa",
+        "most_recent_tweet_id": "2100429586039214161",
+        "name": "mraes⁴⁴",
+        "pinned_tweet_id": "1859944343643312228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109549718785396737/1789398543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085553492056297472/NkbPtoZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 137,
+          "like_count": 11784,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 6214
+        },
+        "url": "https://t.co/O5an3W2ESW",
+        "username": "sophiamraes",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103941962424545280"
+      ],
+      "media_source_tweet_id": [
+        "2103941968795689023"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104177546900422943",
+    "created_at": "2026-09-27T11:53:15.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104177546900422943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858031583686705153",
+          "start": 3,
+          "username": "jjucheonjae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZD6spUFQlu",
+          "end": 62,
+          "expanded_url": "https://x.com/jjucheonjae/status/2103941968795689023/photo/1",
+          "media_key": "3_2103941962424545280",
+          "start": 39,
+          "url": "https://t.co/ZD6spUFQlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104177546900422943",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2103941962424545280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103941968795689023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jjucheonjae: 나는 뽀용뽀용한 마마마도 좋더ㄹr... https://t.co/ZD6spUFQlu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2103941962424545280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTK0EVJacAAItXT.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103941962424545280"
+          ],
+          "media_source_tweet_id": [
+            "2103941968795689023"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104177546900422943",
+        "created_at": "2026-09-27T11:53:15.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104177546900422943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858031583686705153",
+              "start": 3,
+              "username": "jjucheonjae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZD6spUFQlu",
+              "end": 62,
+              "expanded_url": "https://x.com/jjucheonjae/status/2103941968795689023/photo/1",
+              "media_key": "3_2103941962424545280",
+              "start": 39,
+              "url": "https://t.co/ZD6spUFQlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104177546900422943",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2103941962424545280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103941968795689023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jjucheonjae: 나는 뽀용뽀용한 마마마도 좋더ㄹr... https://t.co/ZD6spUFQlu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103941962424545280"
+          ]
+        },
+        "author_id": "1858031583686705153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103941968795689023",
+        "created_at": "2026-09-26T20:17:09.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103941968795689023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZD6spUFQlu",
+              "end": 45,
+              "expanded_url": "https://x.com/jjucheonjae/status/2103941968795689023/photo/1",
+              "media_key": "3_2103941962424545280",
+              "start": 22,
+              "url": "https://t.co/ZD6spUFQlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103941968795689023",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2103941962424545280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2663,
+          "like_count": 272,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "나는 뽀용뽀용한 마마마도 좋더ㄹr... https://t.co/ZD6spUFQlu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104177546900422943",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 66738,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4349
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-17T06:17:12.000Z",
+        "description": "꼴릴레오 꼴릴레이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/jjucheonjae",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/jjucheonjae",
+                "start": 0,
+                "url": "https://t.co/VrhXgJOkIy"
+              }
+            ]
+          }
+        },
+        "id": "1858031583686705153",
+        "is_identity_verified": false,
+        "location": "성향은링크나메인트타래자기소개표",
+        "most_recent_tweet_id": "2103978798937227603",
+        "name": "주양",
+        "pinned_tweet_id": "1938869136177909935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858031583686705153/1786264856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096588608362921984/UcJyWt4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 136,
+          "like_count": 7006,
+          "listed_count": 2,
+          "media_count": 2930,
+          "tweet_count": 15653
+        },
+        "url": "https://t.co/VrhXgJOkIy",
+        "username": "jjucheonjae",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

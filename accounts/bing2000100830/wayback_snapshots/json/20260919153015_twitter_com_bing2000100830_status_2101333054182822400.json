@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101333054182822400",
+    "created_at": "2026-09-19T15:30:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101333054182822400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937013095219527680",
+          "start": 3,
+          "username": "Keoohate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101333054182822400",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3339
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100972399436939641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Keoohate: tener que rogarle a alguien que haga algo contigo y luego verlo hacerlo con otros voluntariamente, es un tipo diferente de de…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101333054182822400",
+        "created_at": "2026-09-19T15:30:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101333054182822400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937013095219527680",
+              "start": 3,
+              "username": "Keoohate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101333054182822400",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3339
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100972399436939641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Keoohate: tener que rogarle a alguien que haga algo contigo y luego verlo hacerlo con otros voluntariamente, es un tipo diferente de de…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937013095219527680",
+        "conversation_id": "2100972399436939641",
+        "created_at": "2026-09-18T15:37:08.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100972399436939641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100972399436939641",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 828,
+          "impression_count": 115286,
+          "like_count": 12304,
+          "quote_count": 284,
+          "reply_count": 44,
+          "retweet_count": 3339
+        },
+        "reply_settings": "everyone",
+        "text": "tener que rogarle a alguien que haga algo contigo y luego verlo hacerlo con otros voluntariamente, es un tipo diferente de desamor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101333054182822400",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1452,
+          "like_count": 65465,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4064
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T05:01:57.000Z",
+        "description": "",
+        "id": "1937013095219527680",
+        "is_identity_verified": false,
+        "location": "(⁠╥⁠﹏⁠╥⁠)",
+        "most_recent_tweet_id": "2101327903786991875",
+        "name": "Keo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937013095219527680/1787620490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091986078773215232/4JOwvS5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10129,
+          "following_count": 7279,
+          "like_count": 14892,
+          "listed_count": 23,
+          "media_count": 821,
+          "tweet_count": 4813
+        },
+        "url": "",
+        "username": "Keoohate",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

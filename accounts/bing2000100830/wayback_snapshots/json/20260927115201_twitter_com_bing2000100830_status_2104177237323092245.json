@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2103887479119962112"
+      ],
+      "media_source_tweet_id": [
+        "2103887490859905250"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104177237323092245",
+    "created_at": "2026-09-27T11:52:01.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104177237323092245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2021784287666917376",
+          "start": 3,
+          "username": "tecitoybesitoss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBPUaXTk5m",
+          "end": 95,
+          "expanded_url": "https://x.com/tecitoybesitoss/status/2103887490859905250/photo/1",
+          "media_key": "16_2103887479119962112",
+          "start": 72,
+          "url": "https://t.co/QBPUaXTk5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104177237323092245",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "16_2103887479119962112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 762
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103887490859905250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tecitoybesitoss: kada ejercicio d mate q me salga mal es un krte ok https://t.co/QBPUaXTk5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "16_2103887479119962112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTKCg_BWYAATsfa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTKCg_BWYAATsfa.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103887479119962112"
+          ],
+          "media_source_tweet_id": [
+            "2103887490859905250"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104177237323092245",
+        "created_at": "2026-09-27T11:52:01.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104177237323092245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2021784287666917376",
+              "start": 3,
+              "username": "tecitoybesitoss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBPUaXTk5m",
+              "end": 95,
+              "expanded_url": "https://x.com/tecitoybesitoss/status/2103887490859905250/photo/1",
+              "media_key": "16_2103887479119962112",
+              "start": 72,
+              "url": "https://t.co/QBPUaXTk5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104177237323092245",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2103887479119962112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 762
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103887490859905250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tecitoybesitoss: kada ejercicio d mate q me salga mal es un krte ok https://t.co/QBPUaXTk5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103887479119962112"
+          ]
+        },
+        "author_id": "2021784287666917376",
+        "conversation_id": "2103887490859905250",
+        "created_at": "2026-09-26T16:40:40.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103887490859905250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBPUaXTk5m",
+              "end": 74,
+              "expanded_url": "https://x.com/tecitoybesitoss/status/2103887490859905250/photo/1",
+              "media_key": "16_2103887479119962112",
+              "start": 51,
+              "url": "https://t.co/QBPUaXTk5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103887490859905250",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2103887479119962112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 20800,
+          "like_count": 2645,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 762
+        },
+        "reply_settings": "everyone",
+        "text": "kada ejercicio d mate q me salga mal es un krte ok https://t.co/QBPUaXTk5m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104177237323092245",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 66733,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4347
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-12T03:12:04.000Z",
+        "description": "︶︶ ⊹ ︶︶︶ ୨♡୧ ︶︶︶ ⊹ ︶︶ \nㅤㅤㅤㅤ𝐇єу ηαηα.. ₍˄·͈༝·͈˄₎ 𖹭\n⸝⸝ ⧣₊˚ #wlw #wlm #shtwt #ciggaretteslover 𖹭\n⏝֢⏝͜⏝֢⏝͜⏝֢⏝͜⏝֢⏝͜⏝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "wlw"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "tag": "wlm"
+              },
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "shtwt"
+              },
+              {
+                "end": 91,
+                "start": 74,
+                "tag": "ciggaretteslover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/korazonsuaveci…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/korazonsuavecitoo?igsh=dmowNjZ1d24zam00",
+                "start": 0,
+                "url": "https://t.co/7V1kkRDoaJ"
+              }
+            ]
+          }
+        },
+        "id": "2021784287666917376",
+        "is_identity_verified": false,
+        "location": "Rancagua, Chile",
+        "most_recent_tweet_id": "2104045038678209001",
+        "name": "hachii:3",
+        "pinned_tweet_id": "2101853653954867383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021784287666917376/1790461249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102053256734150656/BqG0POXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 167,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/7V1kkRDoaJ",
+        "username": "tecitoybesitoss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

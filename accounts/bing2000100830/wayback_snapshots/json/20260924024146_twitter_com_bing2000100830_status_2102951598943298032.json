@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102951598943298032",
+    "created_at": "2026-09-24T02:41:46.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102951598943298032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861336167544975360",
+          "start": 3,
+          "username": "llo6ylx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102951598943298032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1928
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102718813766832586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llo6ylx2: 女の子みんなレズだったらいいのに"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102951598943298032",
+        "created_at": "2026-09-24T02:41:46.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102951598943298032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861336167544975360",
+              "start": 3,
+              "username": "llo6ylx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102951598943298032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1928
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102718813766832586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llo6ylx2: 女の子みんなレズだったらいいのに"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861336167544975360",
+        "conversation_id": "2102718813766832586",
+        "created_at": "2026-09-23T11:16:46.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102718813766832586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102718813766832586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 200665,
+          "like_count": 12436,
+          "quote_count": 130,
+          "reply_count": 47,
+          "retweet_count": 1928
+        },
+        "reply_settings": "everyone",
+        "text": "女の子みんなレズだったらいいのに"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102951598943298032",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 66042,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4194
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T09:08:33.000Z",
+        "description": "L 10 東海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/82u74qu7keo67f…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/82u74qu7keo67fd?t=VnqT6T&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/AGdNmetzfD"
+              }
+            ]
+          }
+        },
+        "id": "1861336167544975360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102718813766832586",
+        "name": "なこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861336167544975360/1789302897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099134840037953536/rZ7kDHM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 31,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/AGdNmetzfD",
+        "username": "llo6ylx2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

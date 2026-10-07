@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106329640331857920"
+      ],
+      "media_source_tweet_id": [
+        "2106329663891198206"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106337505561997500",
+    "created_at": "2026-10-03T10:56:09.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106337505561997500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1518919142132547584",
+          "start": 3,
+          "username": "otukun_yami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wW8w93cXZJ",
+          "end": 43,
+          "expanded_url": "https://x.com/otukun_yami/status/2106329663891198206/video/1",
+          "media_key": "13_2106329640331857920",
+          "start": 20,
+          "url": "https://t.co/wW8w93cXZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106337505561997500",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2106329640331857920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106329663891198206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otukun_yami: 乖離 https://t.co/wW8w93cXZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8853,
+        "height": 1110,
+        "media_key": "13_2106329640331857920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106329640331857920/img/blH4aWoYDnzzvf04.jpg",
+        "public_metrics": {
+          "view_count": 101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106329640331857920/vid/avc1/320x562/69Iv2-68NSMmgsRD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106329640331857920/vid/avc1/480x842/_KKYl_rsA_5pnTs6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106329640331857920/vid/avc1/632x1110/9Q-PZ3tF8F09o9Pi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106329640331857920/pl/otFnrmxCgvVbHjDr.m3u8"
+          }
+        ],
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106329640331857920"
+          ],
+          "media_source_tweet_id": [
+            "2106329663891198206"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106337505561997500",
+        "created_at": "2026-10-03T10:56:09.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106337505561997500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1518919142132547584",
+              "start": 3,
+              "username": "otukun_yami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wW8w93cXZJ",
+              "end": 43,
+              "expanded_url": "https://x.com/otukun_yami/status/2106329663891198206/video/1",
+              "media_key": "13_2106329640331857920",
+              "start": 20,
+              "url": "https://t.co/wW8w93cXZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106337505561997500",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106329640331857920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106329663891198206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otukun_yami: 乖離 https://t.co/wW8w93cXZJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106329640331857920"
+          ]
+        },
+        "author_id": "1518919142132547584",
+        "conversation_id": "2106329663891198206",
+        "created_at": "2026-10-03T10:25:00.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106329663891198206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wW8w93cXZJ",
+              "end": 26,
+              "expanded_url": "https://x.com/otukun_yami/status/2106329663891198206/video/1",
+              "media_key": "13_2106329640331857920",
+              "start": 3,
+              "url": "https://t.co/wW8w93cXZJ"
+            },
+            {
+              "display_url": "x.com/otukun_yami/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/otukun_yami/status/2106313884659524094",
+              "start": 27,
+              "url": "https://t.co/AAnzrK4rfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106329663891198206",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106329640331857920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 360,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106313884659524094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乖離 https://t.co/wW8w93cXZJ https://t.co/AAnzrK4rfS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106337505561997500",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1457,
+          "like_count": 68051,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4505
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-26T11:47:30.000Z",
+        "description": "不定期投稿pixiv(🔞要素あり) https://t.co/LRDjReLhlM自我や没絵、その他を載せるアカウント⤵︎⤵︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89094318",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/89094318",
+                "start": 18,
+                "url": "https://t.co/LRDjReLhlM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/otuknu_yami?s=…",
+                "end": 23,
+                "expanded_url": "https://x.com/otuknu_yami?s=21",
+                "start": 0,
+                "url": "https://t.co/MlICHu6pnU"
+              }
+            ]
+          }
+        },
+        "id": "1518919142132547584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106329663891198206",
+        "name": "残高29円",
+        "pinned_tweet_id": "2097565518547075412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518919142132547584/1784580381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080954958816673792/wChtGbHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 41,
+          "like_count": 3338,
+          "listed_count": 7,
+          "media_count": 21,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/MlICHu6pnU",
+        "username": "otukun_yami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

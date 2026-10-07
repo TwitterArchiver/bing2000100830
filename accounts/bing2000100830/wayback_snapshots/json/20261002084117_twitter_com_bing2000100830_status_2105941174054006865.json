@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105937560182706176"
+      ],
+      "media_source_tweet_id": [
+        "2105937574636478849"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105941174054006865",
+    "created_at": "2026-10-02T08:41:17.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105941174054006865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dL4BajxWmB",
+          "end": 55,
+          "expanded_url": "https://x.com/AsahinaShikure/status/2105937574636478849/photo/1",
+          "media_key": "3_2105937560182706176",
+          "start": 32,
+          "url": "https://t.co/dL4BajxWmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105941174054006865",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105937560182706176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105937574636478849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 没骂过他们的你将得到： https://t.co/dL4BajxWmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2105937560182706176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnLDaHX0AACznx.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105937560182706176"
+          ],
+          "media_source_tweet_id": [
+            "2105937574636478849"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105941174054006865",
+        "created_at": "2026-10-02T08:41:17.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105941174054006865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dL4BajxWmB",
+              "end": 55,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2105937574636478849/photo/1",
+              "media_key": "3_2105937560182706176",
+              "start": 32,
+              "url": "https://t.co/dL4BajxWmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105941174054006865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105937560182706176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105937574636478849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 没骂过他们的你将得到： https://t.co/dL4BajxWmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105937560182706176"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105937574636478849",
+        "created_at": "2026-10-02T08:26:58.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105937574636478849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dL4BajxWmB",
+              "end": 35,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2105937574636478849/photo/1",
+              "media_key": "3_2105937560182706176",
+              "start": 12,
+              "url": "https://t.co/dL4BajxWmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105937574636478849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105937560182706176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 52,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没骂过他们的你将得到： https://t.co/dL4BajxWmB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105941174054006865",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1454,
+          "like_count": 67811,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4492
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| Sec 4 Stu | 15 yr | MtF🏳️‍⚧️| President of @urggov | Project Sekai | Mafuyu Mizuki /N25 ❤️|🇺🇸🇨🇳🇯🇵🇫🇷 and Esperanto | Friend @Lzy2859905CH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "urggov"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Lzy2859905CH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://president.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/qO9KGP3jOc"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Empty Sekai",
+        "most_recent_tweet_id": "2105937574636478849",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2104021376021540934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1790319820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091024711375368192/sRv1R2U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 1784,
+          "like_count": 6948,
+          "listed_count": 13,
+          "media_count": 263,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/qO9KGP3jOc",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

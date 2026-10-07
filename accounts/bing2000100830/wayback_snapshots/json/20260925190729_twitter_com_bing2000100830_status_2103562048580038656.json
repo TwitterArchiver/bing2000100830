@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2103562048580038656",
+    "created_at": "2026-09-25T19:07:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103562048580038656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1608778531173199879",
+          "start": 3,
+          "username": "uwpa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103562048580038656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103532010874740999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwpa_: 19才\n\n死にたいな~って思いながら行くネイルサロン\n結びにくいな~って思いながら括るツインテール\n鳥になれるかな~って思いながら手をかける19階\n\n死にたくなるような春でした\n殺してやりたい春でした\n\n友達は欲しいけど馴染めない\n分かり合えないなら要らな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2103562048580038656",
+        "created_at": "2026-09-25T19:07:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103562048580038656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1608778531173199879",
+              "start": 3,
+              "username": "uwpa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103562048580038656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103532010874740999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwpa_: 19才\n\n死にたいな~って思いながら行くネイルサロン\n結びにくいな~って思いながら括るツインテール\n鳥になれるかな~って思いながら手をかける19階\n\n死にたくなるような春でした\n殺してやりたい春でした\n\n友達は欲しいけど馴染めない\n分かり合えないなら要らな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608778531173199879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2103532010874740999",
+        "created_at": "2026-09-25T17:08:07.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103532010874740999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103532010874740999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "19才\n\n死にたいな~って思いながら行くネイルサロン\n結びにくいな~って思いながら括るツインテール\n鳥になれるかな~って思いながら手をかける19階\n\n死にたくなるような春でした\n殺してやりたい春でした\n\n友達は欲しいけど馴染めない\n分かり合えないなら要らないもんって強がっちゃう\n\n分からないよこんな商材\n今日もミスするキーボード\n\n並んで乗ってた埼京線\nひとり分だけ空いたまま\nイヤホンだけがうるさい朝\n\n帰って飲もう秘密の錠剤\nみんなには内緒の裏垢で\n今日もつぶやくの\n死ねなかったって\n\nキミがボクにくれた大丈夫は\n包装だけきれいな処方箋みたいで\n飲み込んだあとに気づいたの\n効いてほしかったのはキミのほう\n\n平気だよって笑うたび\n少しずつ泣き声が混ざってたのに\nボクは優しさだと勘違いして\n傷口の深さを数えもしなかった\n\nキミがボクにくれた言葉は全部\nキミが自分に言えなかった言葉だったんだね\n\n大丈夫は魔法じゃなくて\n抱きしめて欲しかっただけなんだ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 43242,
+          "like_count": 537,
+          "quote_count": 48,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "19才\n\n死にたいな~って思いながら行くネイルサロン\n結びにくいな~って思いながら括るツインテール\n鳥になれるかな~って思いながら手をかける19階\n\n死にたくなるような春でした\n殺してやりたい春でした\n\n友達は欲しいけど馴染めない\n分かり合えないなら要らないもんって強がっちゃう"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103562048580038656",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66438,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4279
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T10:54:35.000Z",
+        "description": "毎日かわいい更新👶🏻🍥 #あかちゃんなると◁見てる♥  @_a_15_z\nサブ@unfy_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "あかちゃんなると"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "_a_15_z"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "username": "unfy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1HP286QEQNV0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/ypfXaWvDGD"
+              }
+            ]
+          }
+        },
+        "id": "1608778531173199879",
+        "is_identity_verified": false,
+        "location": "送り先♥東京都中央区築地4-12-2シグネットビル8くれあ宛",
+        "most_recent_tweet_id": "2103550512557932995",
+        "name": "癇癪持ち",
+        "pinned_tweet_id": "2101209422790066279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608778531173199879/1783529910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051264560842285056/mX71edtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50654,
+          "following_count": 35,
+          "like_count": 16566,
+          "listed_count": 45,
+          "media_count": 680,
+          "tweet_count": 9554
+        },
+        "url": "https://t.co/ypfXaWvDGD",
+        "username": "uwpa_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

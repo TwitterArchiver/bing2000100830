@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2106642708081340868",
+    "created_at": "2026-10-04T07:08:55.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106642708081340868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051640182894649344",
+          "start": 3,
+          "username": "PLA_STC"
+        },
+        {
+          "end": 25,
+          "id": "2062190491991744512",
+          "start": 13,
+          "username": "Sypshenlipu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106642708081340868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106492985882050658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PLA_STC: @Sypshenlipu 同志请放下刀，您流的血是国的眼泪💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2106642708081340868",
+        "created_at": "2026-10-04T07:08:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106642708081340868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051640182894649344",
+              "start": 3,
+              "username": "PLA_STC"
+            },
+            {
+              "end": 25,
+              "id": "2062190491991744512",
+              "start": 13,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106642708081340868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106492985882050658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PLA_STC: @Sypshenlipu 同志请放下刀，您流的血是国的眼泪💧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051640182894649344",
+        "conversation_id": "2106339644447285309",
+        "created_at": "2026-10-03T21:13:59.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T22:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106492985882050658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062190491991744512",
+              "start": 0,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106492985882050658",
+        "in_reply_to_user_id": "2062190491991744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106339644447285309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sypshenlipu 同志请放下刀，您流的血是国的眼泪💧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106642708081340868",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 68156,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4521
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T12:29:28.000Z",
+        "description": "传播主战声音，展示强军风采。",
+        "id": "2051640182894649344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106637962037559756",
+        "name": "南部战区",
+        "pinned_tweet_id": "2106494767660191762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051640182894649344/1791062523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106295241452195840/1Qj6jDPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "PLA_STC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106639392655978768",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 430,
+          "like_count": 67904,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

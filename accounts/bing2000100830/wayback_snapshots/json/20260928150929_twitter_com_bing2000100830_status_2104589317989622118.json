@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104245072661532672"
+      ],
+      "media_source_tweet_id": [
+        "2104245741531304210"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104589317989622118",
+    "created_at": "2026-09-28T15:09:29.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104589317989622118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GLKki2LmOl",
+          "end": 54,
+          "expanded_url": "https://x.com/748cm/status/2104245741531304210/photo/1",
+          "media_key": "3_2104245072661532672",
+          "start": 31,
+          "url": "https://t.co/GLKki2LmOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104589317989622118",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104245072661532672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104245741531304210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: 私のこと好きなフリだけは上手かったね。 https://t.co/GLKki2LmOl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2104245072661532672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPHvqxbUAAtU8P.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104245072661532672"
+          ],
+          "media_source_tweet_id": [
+            "2104245741531304210"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104589317989622118",
+        "created_at": "2026-09-28T15:09:29.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104589317989622118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLKki2LmOl",
+              "end": 54,
+              "expanded_url": "https://x.com/748cm/status/2104245741531304210/photo/1",
+              "media_key": "3_2104245072661532672",
+              "start": 31,
+              "url": "https://t.co/GLKki2LmOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104589317989622118",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104245072661532672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104245741531304210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: 私のこと好きなフリだけは上手かったね。 https://t.co/GLKki2LmOl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104245072661532672"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2104245741531304210",
+        "created_at": "2026-09-27T16:24:14.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104245741531304210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLKki2LmOl",
+              "end": 43,
+              "expanded_url": "https://x.com/748cm/status/2104245741531304210/photo/1",
+              "media_key": "3_2104245072661532672",
+              "start": 20,
+              "url": "https://t.co/GLKki2LmOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104245741531304210",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104245072661532672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 35824,
+          "like_count": 3637,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "私のこと好きなフリだけは上手かったね。 https://t.co/GLKki2LmOl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104589317989622118",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 66874,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4379
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "is_identity_verified": false,
+        "location": "Created by \"AI\" 100%",
+        "most_recent_tweet_id": "2104427400071463413",
+        "name": "惡意",
+        "pinned_tweet_id": "2078577248287007097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2766725377/1771423410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130135,
+          "following_count": 207,
+          "like_count": 15423,
+          "listed_count": 643,
+          "media_count": 4367,
+          "tweet_count": 13147
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

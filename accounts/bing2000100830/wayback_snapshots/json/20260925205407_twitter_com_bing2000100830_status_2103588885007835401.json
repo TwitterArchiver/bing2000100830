@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103588885007835401",
+    "created_at": "2026-09-25T20:54:07.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103588885007835401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2096515603414806528",
+          "start": 3,
+          "username": "amehuruhinokoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103588885007835401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103480722212409354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amehuruhinokoto: 散々突き放す言葉かけるけどそれでも無理やりにでも手をとって離さないで"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103588885007835401",
+        "created_at": "2026-09-25T20:54:07.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103588885007835401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2096515603414806528",
+              "start": 3,
+              "username": "amehuruhinokoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103588885007835401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103480722212409354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amehuruhinokoto: 散々突き放す言葉かけるけどそれでも無理やりにでも手をとって離さないで"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096515603414806528",
+        "conversation_id": "2103480722212409354",
+        "created_at": "2026-09-25T13:44:19.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103480722212409354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103480722212409354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 31805,
+          "like_count": 582,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "散々突き放す言葉かけるけどそれでも無理やりにでも手をとって離さないで"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103588885007835401",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1458,
+          "like_count": 66516,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4300
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T08:27:52.000Z",
+        "description": "",
+        "id": "2096515603414806528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103481631826911421",
+        "name": "あめ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096515797355266048/qB2sH4C2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 8,
+          "like_count": 310,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "amehuruhinokoto",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1744060721963401216"
+      ],
+      "media_source_tweet_id": [
+        "1744060777391116498"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104980158512070783",
+    "created_at": "2026-09-29T17:02:33.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T18:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104980158512070783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766809316089118720",
+          "start": 3,
+          "username": "annylovelyol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kHdEZz9wXZ",
+          "end": 71,
+          "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+          "media_key": "7_1744060721963401216",
+          "start": 48,
+          "url": "https://t.co/kHdEZz9wXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104980158512070783",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "7_1744060721963401216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104724698554581252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @annylovelyol: quero picotar meu braço fora  https://t.co/kHdEZz9wXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17858,
+        "height": 596,
+        "media_key": "7_1744060721963401216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1744060721963401216/pu/img/yFdQ2JG8zLU8MHQ7.jpg",
+        "public_metrics": {
+          "view_count": 2749368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/464x270/dsk_v-ig80F0RuIc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/620x360/buC-Fl1usfTO9IZW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/1028x596/ElR6oIX5rcrMgpNx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/pl/egxyvi3fxD1TjMQW.m3u8?tag=12&v=a15"
+          }
+        ],
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1744060721963401216"
+          ],
+          "media_source_tweet_id": [
+            "1744060777391116498"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104980158512070783",
+        "created_at": "2026-09-29T17:02:33.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104980158512070783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766809316089118720",
+              "start": 3,
+              "username": "annylovelyol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHdEZz9wXZ",
+              "end": 71,
+              "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+              "media_key": "7_1744060721963401216",
+              "start": 48,
+              "url": "https://t.co/kHdEZz9wXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104980158512070783",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1744060721963401216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104724698554581252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @annylovelyol: quero picotar meu braço fora  https://t.co/kHdEZz9wXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1744060721963401216"
+          ],
+          "media_source_tweet_id": [
+            "1744060777391116498"
+          ]
+        },
+        "author_id": "1766809316089118720",
+        "conversation_id": "2104724698554581252",
+        "created_at": "2026-09-29T00:07:26.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104724698554581252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHdEZz9wXZ",
+              "end": 53,
+              "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+              "media_key": "7_1744060721963401216",
+              "start": 30,
+              "url": "https://t.co/kHdEZz9wXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104724698554581252",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1744060721963401216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 6343,
+          "like_count": 769,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "quero picotar meu braço fora  https://t.co/kHdEZz9wXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1744060721963401216"
+          ]
+        },
+        "author_id": "1592289603834331139",
+        "conversation_id": "1744060777391116498",
+        "created_at": "2024-01-07T18:17:47.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2024-01-07T19:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1744060777391116498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIY08zhmL7",
+              "end": 55,
+              "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+              "media_key": "7_1744060721963401216",
+              "start": 32,
+              "url": "https://t.co/IIY08zhmL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1744060777391116498",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1744060721963401216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1004,
+          "impression_count": 3763568,
+          "like_count": 2015,
+          "quote_count": 71,
+          "reply_count": 9,
+          "retweet_count": 593
+        },
+        "reply_settings": "everyone",
+        "text": "Eu se não chegar na Mf esse ano https://t.co/IIY08zhmL7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104980158512070783",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1458,
+          "like_count": 67186,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4443
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T12:52:44.000Z",
+        "description": "por dentro, tudo já desabou.        eu morri",
+        "id": "1766809316089118720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104970619670475238",
+        "name": "라이앤",
+        "pinned_tweet_id": "2104054231728611483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766809316089118720/1789351250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099318497792708619/-9BYCtZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 16,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 4847
+        },
+        "url": "",
+        "username": "annylovelyol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

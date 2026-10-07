@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1438916416346853378",
+          "name": "Setembro Amarelo (Yellow September)"
+        }
+      }
+    ],
+    "conversation_id": "2103331592307408954",
+    "created_at": "2026-09-25T03:51:44.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T04:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103331592307408954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1226570811714285568",
+          "start": 3,
+          "username": "__lamarquesita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103331592307408954",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14847
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102893779930034613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__lamarquesita: esse é o setembro amarelo mais suicidável que eu ja vivi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1438916416346853378",
+              "name": "Setembro Amarelo (Yellow September)"
+            }
+          }
+        ],
+        "conversation_id": "2103331592307408954",
+        "created_at": "2026-09-25T03:51:44.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103331592307408954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1226570811714285568",
+              "start": 3,
+              "username": "__lamarquesita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103331592307408954",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14847
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102893779930034613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__lamarquesita: esse é o setembro amarelo mais suicidável que eu ja vivi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226570811714285568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1438916416346853378",
+              "name": "Setembro Amarelo (Yellow September)"
+            }
+          }
+        ],
+        "conversation_id": "2102893779930034613",
+        "created_at": "2026-09-23T22:52:01.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102893779930034613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102893779930034613",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 311755,
+          "like_count": 39642,
+          "quote_count": 582,
+          "reply_count": 137,
+          "retweet_count": 14847
+        },
+        "reply_settings": "everyone",
+        "text": "esse é o setembro amarelo mais suicidável que eu ja vivi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103331592307408954",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1456,
+          "like_count": 66288,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4243
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-09T18:17:49.000Z",
+        "description": "ta no inferno abraça o capeta",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itsgabimaia?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/itsgabimaia?igsh=MTI1d2hicTBib3loNg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/2DKCc6Qnkl"
+              }
+            ]
+          }
+        },
+        "id": "1226570811714285568",
+        "is_identity_verified": false,
+        "location": "Sao Paulo, Brazil",
+        "most_recent_tweet_id": "2103302897421205969",
+        "name": "gabriella",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226570811714285568/1788802410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097034630977257472/fDM0_MGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 492,
+          "like_count": 102128,
+          "listed_count": 0,
+          "media_count": 1086,
+          "tweet_count": 39320
+        },
+        "url": "https://t.co/2DKCc6Qnkl",
+        "username": "__lamarquesita",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

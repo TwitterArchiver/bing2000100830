@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102154691895255040"
+      ],
+      "media_source_tweet_id": [
+        "2102154699956723879"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102320940868878459",
+    "created_at": "2026-09-22T08:55:46.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102320940868878459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2031951825835081729",
+          "start": 3,
+          "username": "gotasdesangree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5qegFO10z",
+          "end": 109,
+          "expanded_url": "https://x.com/gotasdesangree/status/2102154699956723879/photo/1",
+          "media_key": "3_2102154691895255040",
+          "start": 86,
+          "url": "https://t.co/l5qegFO10z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102320940868878459",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2102154691895255040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 979
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102154699956723879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gotasdesangree: yo durmiendo como si no fuera el fracaso mas grande de la familia https://t.co/l5qegFO10z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2102154691895255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxajflWYAAVBQI.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102154691895255040"
+          ],
+          "media_source_tweet_id": [
+            "2102154699956723879"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102320940868878459",
+        "created_at": "2026-09-22T08:55:46.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102320940868878459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2031951825835081729",
+              "start": 3,
+              "username": "gotasdesangree"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5qegFO10z",
+              "end": 109,
+              "expanded_url": "https://x.com/gotasdesangree/status/2102154699956723879/photo/1",
+              "media_key": "3_2102154691895255040",
+              "start": 86,
+              "url": "https://t.co/l5qegFO10z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102320940868878459",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2102154691895255040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102154699956723879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gotasdesangree: yo durmiendo como si no fuera el fracaso mas grande de la familia https://t.co/l5qegFO10z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102154691895255040"
+          ]
+        },
+        "author_id": "2031951825835081729",
+        "conversation_id": "2102154699956723879",
+        "created_at": "2026-09-21T21:55:11.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102154699956723879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5qegFO10z",
+              "end": 89,
+              "expanded_url": "https://x.com/gotasdesangree/status/2102154699956723879/photo/1",
+              "media_key": "3_2102154691895255040",
+              "start": 66,
+              "url": "https://t.co/l5qegFO10z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102154699956723879",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2102154691895255040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 13215,
+          "like_count": 2626,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 979
+        },
+        "reply_settings": "everyone",
+        "text": "yo durmiendo como si no fuera el fracaso mas grande de la familia https://t.co/l5qegFO10z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102320940868878459",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1450,
+          "like_count": 65884,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4154
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T04:34:13.000Z",
+        "description": "Cannibalism is love",
+        "id": "2031951825835081729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102244845943234665",
+        "name": "🪷",
+        "pinned_tweet_id": "2087647138603770014",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031951825835081729/1786221840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084090520817618944/LTZTR2ri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 340,
+          "like_count": 5911,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "gotasdesangree",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

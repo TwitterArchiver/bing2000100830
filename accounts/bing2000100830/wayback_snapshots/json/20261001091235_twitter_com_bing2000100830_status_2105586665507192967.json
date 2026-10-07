@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2105586665507192967",
+    "created_at": "2026-10-01T09:12:35.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105586665507192967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036079525172523008",
+          "start": 3,
+          "username": "mnheraaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105586665507192967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105550655876182044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnheraaa: 我16岁那年，人生发生了彻底的改变\n我从来就不是一个心理健康的人\n那件事发生之后，我彻底失去了对生命的渴望\n\n这些日子我只等着死亡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2105586665507192967",
+        "created_at": "2026-10-01T09:12:35.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105586665507192967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036079525172523008",
+              "start": 3,
+              "username": "mnheraaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105586665507192967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105550655876182044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnheraaa: 我16岁那年，人生发生了彻底的改变\n我从来就不是一个心理健康的人\n那件事发生之后，我彻底失去了对生命的渴望\n\n这些日子我只等着死亡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036079525172523008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2105550655876182044",
+        "created_at": "2026-10-01T06:49:30.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105550655876182044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105550655876182044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我16岁那年，人生发生了彻底的改变\n我从来就不是一个心理健康的人\n那件事发生之后，我彻底失去了对生命的渴望\n\n这些日子我只等着死亡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105586665507192967",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 67625,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4482
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T13:56:26.000Z",
+        "description": "NEET 一个年轻、孤独、爱猫且精神不稳定的女孩 \n我想逃离这个世界 💢 21y / br\nmain: @VirtualShoujo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "VirtualShoujo"
+              }
+            ]
+          }
+        },
+        "id": "2036079525172523008",
+        "is_identity_verified": false,
+        "location": "nb 💢 she/he",
+        "most_recent_tweet_id": "2105553888011030683",
+        "name": "メンヘラ💢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036079525172523008/1790816236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105462011911901184/Unkybotv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 160,
+          "like_count": 1920,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "mnheraaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

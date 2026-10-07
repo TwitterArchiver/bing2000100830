@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103556884104130846",
+    "created_at": "2026-09-25T18:46:58.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103556884104130846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994939111040512000",
+          "start": 3,
+          "username": "Ameliuhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103556884104130846",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3844
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103290455878455753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ameliuhhhh: I’m going to kill yourself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103556884104130846",
+        "created_at": "2026-09-25T18:46:58.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103556884104130846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994939111040512000",
+              "start": 3,
+              "username": "Ameliuhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103556884104130846",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3844
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103290455878455753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ameliuhhhh: I’m going to kill yourself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994939111040512000",
+        "conversation_id": "2103290455878455753",
+        "created_at": "2026-09-25T01:08:16.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103290455878455753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103290455878455753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 865,
+          "impression_count": 286477,
+          "like_count": 31055,
+          "quote_count": 59,
+          "reply_count": 134,
+          "retweet_count": 3844
+        },
+        "reply_settings": "everyone",
+        "text": "I’m going to kill yourself"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103556884104130846",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66429,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4270
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T01:19:13.000Z",
+        "description": "trans girl on the internet, I’m a minor (17). I like linguistics and programming",
+        "id": "1994939111040512000",
+        "is_identity_verified": false,
+        "location": "Earth 2",
+        "most_recent_tweet_id": "2103553844676350422",
+        "name": "Amelia",
+        "pinned_tweet_id": "2068201233039454294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994939111040512000/1789519571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100639202807271425/4a7kFWPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 118,
+          "like_count": 9242,
+          "listed_count": 8,
+          "media_count": 275,
+          "tweet_count": 2858
+        },
+        "url": "",
+        "username": "Ameliuhhhh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

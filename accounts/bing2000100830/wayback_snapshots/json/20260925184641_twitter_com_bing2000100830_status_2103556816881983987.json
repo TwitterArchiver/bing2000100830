@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103344347173527552"
+      ],
+      "media_source_tweet_id": [
+        "2103344358355525826"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103556816881983987",
+    "created_at": "2026-09-25T18:46:41.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103556816881983987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "842278046748966912",
+          "start": 3,
+          "username": "rnatataki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCLSTICsRg",
+          "end": 38,
+          "expanded_url": "https://x.com/rnatataki/status/2103344358355525826/photo/1",
+          "media_key": "3_2103344347173527552",
+          "start": 15,
+          "url": "https://t.co/OCLSTICsRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103556816881983987",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2103344347173527552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103344358355525826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnatataki: https://t.co/OCLSTICsRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2103344347173527552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCUii2aoAAea6V.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103344347173527552"
+          ],
+          "media_source_tweet_id": [
+            "2103344358355525826"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103556816881983987",
+        "created_at": "2026-09-25T18:46:41.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103556816881983987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "842278046748966912",
+              "start": 3,
+              "username": "rnatataki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCLSTICsRg",
+              "end": 38,
+              "expanded_url": "https://x.com/rnatataki/status/2103344358355525826/photo/1",
+              "media_key": "3_2103344347173527552",
+              "start": 15,
+              "url": "https://t.co/OCLSTICsRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103556816881983987",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103344347173527552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103344358355525826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnatataki: https://t.co/OCLSTICsRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103344347173527552"
+          ]
+        },
+        "author_id": "842278046748966912",
+        "conversation_id": "2103344358355525826",
+        "created_at": "2026-09-25T04:42:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103344358355525826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCLSTICsRg",
+              "end": 23,
+              "expanded_url": "https://x.com/rnatataki/status/2103344358355525826/photo/1",
+              "media_key": "3_2103344347173527552",
+              "start": 0,
+              "url": "https://t.co/OCLSTICsRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103344358355525826",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103344347173527552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 12148,
+          "like_count": 1329,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OCLSTICsRg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103556823181848613",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66427,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4269
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-16T07:35:09.000Z",
+        "description": "渦になる / お仕事募集❌ / skeb https://t.co/z7gZVwbqfY / FANBOX https://t.co/o3E3qVVNvx / FA等 #のろたんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "のろたんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rnatataki",
+                "end": 44,
+                "expanded_url": "https://skeb.jp/@rnatataki",
+                "start": 21,
+                "url": "https://t.co/z7gZVwbqfY"
+              },
+              {
+                "display_url": "rnatataki.fanbox.cc",
+                "end": 77,
+                "expanded_url": "https://rnatataki.fanbox.cc/",
+                "start": 54,
+                "url": "https://t.co/o3E3qVVNvx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rnatataki",
+                "end": 23,
+                "expanded_url": "https://lit.link/rnatataki",
+                "start": 0,
+                "url": "https://t.co/Of0neavDeG"
+              }
+            ]
+          }
+        },
+        "id": "842278046748966912",
+        "is_identity_verified": false,
+        "location": "お仕事 ▶︎ rnatataki.exe@gmail.com",
+        "most_recent_tweet_id": "2103344358355525826",
+        "name": "のろヰ",
+        "pinned_tweet_id": "2096736916624617553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842278046748966912/1787552274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137491982404603906/iRcXCVNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65922,
+          "following_count": 97,
+          "like_count": 1377,
+          "listed_count": 429,
+          "media_count": 705,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/Of0neavDeG",
+        "username": "rnatataki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

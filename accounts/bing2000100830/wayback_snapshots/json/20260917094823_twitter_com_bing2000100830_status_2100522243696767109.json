@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100522243696767109",
+    "created_at": "2026-09-17T09:48:23.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100522243696767109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1170576478725128192",
+          "start": 3,
+          "username": "fcktsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100522243696767109",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2323
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100086986279104589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fcktsuki: eu quero ser o motivo dele bater uma quando acorda sem querer de madrugada"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100522243696767109",
+        "created_at": "2026-09-17T09:48:23.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100522243696767109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1170576478725128192",
+              "start": 3,
+              "username": "fcktsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522243696767109",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2323
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100086986279104589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fcktsuki: eu quero ser o motivo dele bater uma quando acorda sem querer de madrugada"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170576478725128192",
+        "conversation_id": "2100086986279104589",
+        "created_at": "2026-09-16T04:58:49.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100086986279104589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100086986279104589",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 122296,
+          "like_count": 14852,
+          "quote_count": 65,
+          "reply_count": 18,
+          "retweet_count": 2323
+        },
+        "reply_settings": "everyone",
+        "text": "eu quero ser o motivo dele bater uma quando acorda sem querer de madrugada"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100522243696767109",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1454,
+          "like_count": 65292,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4045
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-08T05:56:29.000Z",
+        "description": "23y ୭̥ \nSwitch",
+        "id": "1170576478725128192",
+        "is_identity_verified": false,
+        "location": "mdni",
+        "most_recent_tweet_id": "2100363929075802326",
+        "name": "tsu",
+        "pinned_tweet_id": "1849609430939115797",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170576478725128192/1772683462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029407540505989120/y2mcHFLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6431,
+          "following_count": 165,
+          "like_count": 7192,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 6970
+        },
+        "url": "",
+        "username": "fcktsuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

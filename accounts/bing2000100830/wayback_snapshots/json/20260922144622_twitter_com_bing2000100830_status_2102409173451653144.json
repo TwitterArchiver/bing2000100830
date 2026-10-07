@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102349162163699712",
+        "3_2102349162239098881",
+        "3_2102349162243350528"
+      ],
+      "media_source_tweet_id": [
+        "2102349169696629044",
+        "2102349169696629044",
+        "2102349169696629044"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102409173451653144",
+    "created_at": "2026-09-22T14:46:22.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102409173451653144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 17,
+          "tag": "シルバーウィーク中はフォロワーが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704678798816673793",
+          "start": 3,
+          "username": "PAKIRUCHANG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLqCLDYxWU",
+          "end": 71,
+          "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+          "media_key": "3_2102349162163699712",
+          "start": 48,
+          "url": "https://t.co/kLqCLDYxWU"
+        },
+        {
+          "display_url": "pic.x.com/kLqCLDYxWU",
+          "end": 71,
+          "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+          "media_key": "3_2102349162239098881",
+          "start": 48,
+          "url": "https://t.co/kLqCLDYxWU"
+        },
+        {
+          "display_url": "pic.x.com/kLqCLDYxWU",
+          "end": 71,
+          "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+          "media_key": "3_2102349162243350528",
+          "start": 48,
+          "url": "https://t.co/kLqCLDYxWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102409173451653144",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102349162163699712"
+      },
+      {
+        "media_key": "3_2102349162239098881"
+      },
+      {
+        "media_key": "3_2102349162243350528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102349169696629044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PAKIRUCHANG: #シルバーウィーク中はフォロワーが増えるらしい\nぐろぴんく🎀 https://t.co/kLqCLDYxWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102349162163699712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0LbJybgAAzZKt.jpg",
+        "width": 1061
+      },
+      {
+        "height": 1997,
+        "media_key": "3_2102349162239098881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0LbKEaAAEPdNL.jpg",
+        "width": 1044
+      },
+      {
+        "height": 1969,
+        "media_key": "3_2102349162243350528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0LbKFa4AAU6Tc.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102349162163699712",
+            "3_2102349162239098881",
+            "3_2102349162243350528"
+          ],
+          "media_source_tweet_id": [
+            "2102349169696629044",
+            "2102349169696629044",
+            "2102349169696629044"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102409173451653144",
+        "created_at": "2026-09-22T14:46:22.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102409173451653144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 17,
+              "tag": "シルバーウィーク中はフォロワーが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704678798816673793",
+              "start": 3,
+              "username": "PAKIRUCHANG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 71,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162163699712",
+              "start": 48,
+              "url": "https://t.co/kLqCLDYxWU"
+            },
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 71,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162239098881",
+              "start": 48,
+              "url": "https://t.co/kLqCLDYxWU"
+            },
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 71,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162243350528",
+              "start": 48,
+              "url": "https://t.co/kLqCLDYxWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102409173451653144",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102349162163699712"
+          },
+          {
+            "media_key": "3_2102349162239098881"
+          },
+          {
+            "media_key": "3_2102349162243350528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102349169696629044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PAKIRUCHANG: #シルバーウィーク中はフォロワーが増えるらしい\nぐろぴんく🎀 https://t.co/kLqCLDYxWU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102349162163699712",
+            "3_2102349162239098881",
+            "3_2102349162243350528"
+          ]
+        },
+        "author_id": "1704678798816673793",
+        "conversation_id": "2102349169696629044",
+        "created_at": "2026-09-22T10:47:56.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102349169696629044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "シルバーウィーク中はフォロワーが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 54,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162163699712",
+              "start": 31,
+              "url": "https://t.co/kLqCLDYxWU"
+            },
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 54,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162239098881",
+              "start": 31,
+              "url": "https://t.co/kLqCLDYxWU"
+            },
+            {
+              "display_url": "pic.x.com/kLqCLDYxWU",
+              "end": 54,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2102349169696629044/photo/1",
+              "media_key": "3_2102349162243350528",
+              "start": 31,
+              "url": "https://t.co/kLqCLDYxWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102349169696629044",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102349162163699712"
+          },
+          {
+            "media_key": "3_2102349162239098881"
+          },
+          {
+            "media_key": "3_2102349162243350528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 339,
+          "impression_count": 37283,
+          "like_count": 2465,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "#シルバーウィーク中はフォロワーが増えるらしい\nぐろぴんく🎀 https://t.co/kLqCLDYxWU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102409173451653144",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 65942,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4164
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-21T02:08:20.000Z",
+        "description": "休業中m(_ _)m HP♡https://t.co/1bZH3lGe3d skeb停止中→https://t.co/amJLrtih8P ✉️→PAKIRUCHANG@gmail.com  #NJDガールズといっしょ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 96,
+                "tag": "NJDガールズといっしょ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "piku.page/@NOUMENCHANG/N…",
+                "end": 37,
+                "expanded_url": "https://piku.page/@NOUMENCHANG/NJDHOME",
+                "start": 14,
+                "url": "https://t.co/1bZH3lGe3d"
+              },
+              {
+                "display_url": "skeb.jp/@PAKIRUCHANG",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@PAKIRUCHANG",
+                "start": 46,
+                "url": "https://t.co/amJLrtih8P"
+              }
+            ]
+          }
+        },
+        "id": "1704678798816673793",
+        "is_identity_verified": false,
+        "location": "🇯🇵",
+        "most_recent_tweet_id": "2102391845045301741",
+        "name": "猫浄土",
+        "pinned_tweet_id": "2102349169696629044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704678798816673793/1788261197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038512817008152576/M3SA7ztI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18826,
+          "following_count": 162,
+          "like_count": 15142,
+          "listed_count": 86,
+          "media_count": 347,
+          "tweet_count": 5382
+        },
+        "url": "",
+        "username": "PAKIRUCHANG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

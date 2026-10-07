@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103573863854649492",
+    "created_at": "2026-09-25T19:54:26.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103573863854649492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088263823027306496",
+          "start": 3,
+          "username": "Ariadnahol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103573863854649492",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103564792220791157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ariadnahol: SE ACABO SOY LIBRE 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️♥️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103573863854649492",
+        "created_at": "2026-09-25T19:54:26.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103573863854649492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088263823027306496",
+              "start": 3,
+              "username": "Ariadnahol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103573863854649492",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103564792220791157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ariadnahol: SE ACABO SOY LIBRE 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️♥️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088263823027306496",
+        "conversation_id": "2103564792220791157",
+        "created_at": "2026-09-25T19:18:23.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103564792220791157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ariadnahol/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Ariadnahol/status/2103530798246924449",
+              "start": 42,
+              "url": "https://t.co/6wzMxoxroq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103564792220791157",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1789,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103530798246924449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SE ACABO SOY LIBRE 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️♥️ https://t.co/6wzMxoxroq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103573863854649492",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66482,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4286
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T13:58:20.000Z",
+        "description": "Española y trans",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MmrJ5xstbN",
+                "end": 23,
+                "expanded_url": "https://discord.gg/MmrJ5xstbN",
+                "start": 0,
+                "url": "https://t.co/1zKObGIljB"
+              }
+            ]
+          }
+        },
+        "id": "2088263823027306496",
+        "is_identity_verified": false,
+        "location": "Madrid, Comunidad de Madrid",
+        "most_recent_tweet_id": "2103568260973183488",
+        "name": "Ariadna🏳️‍⚧️",
+        "pinned_tweet_id": "2099162968390832505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088263823027306496/1787788675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089748509805146113/IDWpQb_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 516,
+          "like_count": 3646,
+          "listed_count": 18,
+          "media_count": 667,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/1zKObGIljB",
+        "username": "Ariadnahol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

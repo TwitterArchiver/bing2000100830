@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "2104060474673520688",
+    "created_at": "2026-09-27T04:08:03.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104060474673520688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2912794009",
+          "start": 3,
+          "username": "ohp_pho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104060474673520688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2478
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103811256834740450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohp_pho: 「キレートレモンを飲んでる男はオカマかゲイ」となんかのショート動画で見てから積極的に飲んでいる\nオカマとゲイが愛用するのはだいたい良い物だから"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2104060474673520688",
+        "created_at": "2026-09-27T04:08:03.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104060474673520688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2912794009",
+              "start": 3,
+              "username": "ohp_pho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104060474673520688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2478
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103811256834740450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohp_pho: 「キレートレモンを飲んでる男はオカマかゲイ」となんかのショート動画で見てから積極的に飲んでいる\nオカマとゲイが愛用するのはだいたい良い物だから"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2912794009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2103811256834740450",
+        "created_at": "2026-09-26T11:37:45.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103811256834740450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103811256834740450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1401,
+          "impression_count": 1417706,
+          "like_count": 34269,
+          "quote_count": 165,
+          "reply_count": 26,
+          "retweet_count": 2474
+        },
+        "reply_settings": "everyone",
+        "text": "「キレートレモンを飲んでる男はオカマかゲイ」となんかのショート動画で見てから積極的に飲んでいる\nオカマとゲイが愛用するのはだいたい良い物だから"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104060474673520688",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1458,
+          "like_count": 66624,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4329
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-28T13:23:55.000Z",
+        "description": "質問箱 https://t.co/Q4tEatPCgp\nnote https://t.co/qbZuxCGtQd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/ohp_pho",
+                "end": 27,
+                "expanded_url": "https://mond.how/ja/ohp_pho",
+                "start": 4,
+                "url": "https://t.co/Q4tEatPCgp"
+              },
+              {
+                "display_url": "note.com/ohp_pho",
+                "end": 56,
+                "expanded_url": "http://note.com/ohp_pho",
+                "start": 33,
+                "url": "https://t.co/qbZuxCGtQd"
+              }
+            ]
+          }
+        },
+        "id": "2912794009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104022562279936346",
+        "name": "pho",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2912794009/1750548968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097806997869711360/bu65487d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16838,
+          "following_count": 248,
+          "like_count": 52254,
+          "listed_count": 155,
+          "media_count": 4258,
+          "tweet_count": 51230
+        },
+        "url": "",
+        "username": "ohp_pho",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

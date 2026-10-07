@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102750861344784385"
+      ],
+      "media_source_tweet_id": [
+        "2102750865790791785"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2102956273151168875",
+    "created_at": "2026-09-24T03:00:21.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102956273151168875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997272591145500672",
+          "start": 3,
+          "username": "prozac1229"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZhSNnGR6ys",
+          "end": 122,
+          "expanded_url": "https://x.com/prozac1229/status/2102750865790791785/photo/1",
+          "media_key": "3_2102750861344784385",
+          "start": 99,
+          "url": "https://t.co/ZhSNnGR6ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102956273151168875",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2102750861344784385"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 362
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102750865790791785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prozac1229: 니디걸 처음 했었을 땐\n아메쨩보고\n\"ㅋㅋ정신질환자 과장 ㅈㄴ심하게 햇네\"\n이랬었는데\n현실이든 넷상이든 멘헤라들 자주 접한 뒤론 아메쨩이 선녀로 보임 https://t.co/ZhSNnGR6ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2102750861344784385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS54xH2aQAEgvhj.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102750861344784385"
+          ],
+          "media_source_tweet_id": [
+            "2102750865790791785"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2102956273151168875",
+        "created_at": "2026-09-24T03:00:21.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102956273151168875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997272591145500672",
+              "start": 3,
+              "username": "prozac1229"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhSNnGR6ys",
+              "end": 122,
+              "expanded_url": "https://x.com/prozac1229/status/2102750865790791785/photo/1",
+              "media_key": "3_2102750861344784385",
+              "start": 99,
+              "url": "https://t.co/ZhSNnGR6ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102956273151168875",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2102750861344784385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102750865790791785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prozac1229: 니디걸 처음 했었을 땐\n아메쨩보고\n\"ㅋㅋ정신질환자 과장 ㅈㄴ심하게 햇네\"\n이랬었는데\n현실이든 넷상이든 멘헤라들 자주 접한 뒤론 아메쨩이 선녀로 보임 https://t.co/ZhSNnGR6ys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102750861344784385"
+          ]
+        },
+        "author_id": "1997272591145500672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2102750865790791785",
+        "created_at": "2026-09-23T13:24:08.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102750865790791785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhSNnGR6ys",
+              "end": 106,
+              "expanded_url": "https://x.com/prozac1229/status/2102750865790791785/photo/1",
+              "media_key": "3_2102750861344784385",
+              "start": 83,
+              "url": "https://t.co/ZhSNnGR6ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102750865790791785",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2102750861344784385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 27418,
+          "like_count": 1755,
+          "quote_count": 58,
+          "reply_count": 4,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "니디걸 처음 했었을 땐\n아메쨩보고\n\"ㅋㅋ정신질환자 과장 ㅈㄴ심하게 햇네\"\n이랬었는데\n현실이든 넷상이든 멘헤라들 자주 접한 뒤론 아메쨩이 선녀로 보임 https://t.co/ZhSNnGR6ys"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102956273151168875",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 66047,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4195
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-06T11:51:54.000Z",
+        "description": "09/남성/약좋아 청년(OD 안함. 순수하게 약의 작용기전이나 효과에 관심있음)",
+        "id": "1997272591145500672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102830705848066122",
+        "name": "야블로코",
+        "pinned_tweet_id": "2043021267536880087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997272591145500672/1777048225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046806895080640512/GV6W9LXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 187,
+          "like_count": 25580,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "prozac1229",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

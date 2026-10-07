@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101026926899183734",
+    "created_at": "2026-09-18T19:13:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101026926899183734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2095633359753900034",
+          "start": 3,
+          "username": "Chomychanpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101026926899183734",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100673586495213715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chomychanpc: Una ves como pendeja hice el \"me quiere, no me quiere\" con la chapita de una monster y me salió \"me quiere\" y yo como estu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2100673574893711360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HScXfIyW8AAPmqp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HScXfIyW8AAPmqp.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101026926899183734",
+        "created_at": "2026-09-18T19:13:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101026926899183734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2095633359753900034",
+              "start": 3,
+              "username": "Chomychanpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101026926899183734",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100673586495213715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chomychanpc: Una ves como pendeja hice el \"me quiere, no me quiere\" con la chapita de una monster y me salió \"me quiere\" y yo como estu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100673574893711360"
+          ]
+        },
+        "author_id": "2095633359753900034",
+        "conversation_id": "2100673586495213715",
+        "created_at": "2026-09-17T19:49:46.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100673586495213715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mE0hGGuKew",
+              "end": 188,
+              "expanded_url": "https://x.com/Chomychanpc/status/2100673586495213715/photo/1",
+              "media_key": "16_2100673574893711360",
+              "start": 165,
+              "url": "https://t.co/mE0hGGuKew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100673586495213715",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2100673574893711360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2258,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Una ves como pendeja hice el \"me quiere, no me quiere\" con la chapita de una monster y me salió \"me quiere\" y yo como estupida la guarde y la acabo de encontrar xdd https://t.co/mE0hGGuKew"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101026926899183734",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1453,
+          "like_count": 65413,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4057
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T22:02:55.000Z",
+        "description": "⊹₊˚‧︵‿₊୨ hii ୧₊‿︵‧˚₊⊹\n .ᐟ.ᐟWarning: shrtwt and venttwt .ᐟ.ᐟ\nDni: +25, pedo, zoo, normaltwt, nsfw\nIf you're going to judge, block me\n14yo",
+        "id": "2095633359753900034",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100840653022244921",
+        "name": "𖥻 ׁ ׅ ame.ᐟ.ᐟchan 🍙 ! ﹒ ◡◡",
+        "pinned_tweet_id": "2096861155306209692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095633359753900034/1788479058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100431539389550592/m6NJUV_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 171,
+          "like_count": 1082,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "Chomychanpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

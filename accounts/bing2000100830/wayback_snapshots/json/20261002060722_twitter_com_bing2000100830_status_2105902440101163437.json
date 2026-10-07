@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105639937462726656",
+        "3_2105639937521442816",
+        "3_2105639937659822080",
+        "3_2105639937705938945"
+      ],
+      "media_source_tweet_id": [
+        "2105651948636496267",
+        "2105651948636496267",
+        "2105651948636496267",
+        "2105651948636496267"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2105902440101163437",
+    "created_at": "2026-10-02T06:07:22.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105902440101163437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1678786722",
+          "start": 3,
+          "username": "Iammoremylrds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LFWuStUxx3",
+          "end": 98,
+          "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+          "media_key": "3_2105639937462726656",
+          "start": 75,
+          "url": "https://t.co/LFWuStUxx3"
+        },
+        {
+          "display_url": "pic.x.com/LFWuStUxx3",
+          "end": 98,
+          "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+          "media_key": "3_2105639937521442816",
+          "start": 75,
+          "url": "https://t.co/LFWuStUxx3"
+        },
+        {
+          "display_url": "pic.x.com/LFWuStUxx3",
+          "end": 98,
+          "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+          "media_key": "3_2105639937659822080",
+          "start": 75,
+          "url": "https://t.co/LFWuStUxx3"
+        },
+        {
+          "display_url": "pic.x.com/LFWuStUxx3",
+          "end": 98,
+          "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+          "media_key": "3_2105639937705938945",
+          "start": 75,
+          "url": "https://t.co/LFWuStUxx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105902440101163437",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "media_key": "3_2105639937462726656"
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "media_key": "3_2105639937521442816"
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "media_key": "3_2105639937659822080"
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "media_key": "3_2105639937705938945"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 705
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105651948636496267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iammoremylrds: feliz mês do orgulho e visibilidade assexual\n\nDIA 1🖤💜🩶🤍 https://t.co/LFWuStUxx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "height": 720,
+        "media_key": "3_2105639937462726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi8XfFXcAAfpyZ.png",
+        "width": 1200
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "height": 720,
+        "media_key": "3_2105639937521442816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi8XfTXYAAOARx.png",
+        "width": 1200
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "height": 720,
+        "media_key": "3_2105639937659822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi8Xf0W4AA7_EO.png",
+        "width": 1200
+      },
+      {
+        "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+        "height": 720,
+        "media_key": "3_2105639937705938945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi8Xf_WkAEi_z7.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105639937462726656",
+            "3_2105639937521442816",
+            "3_2105639937659822080",
+            "3_2105639937705938945"
+          ],
+          "media_source_tweet_id": [
+            "2105651948636496267",
+            "2105651948636496267",
+            "2105651948636496267",
+            "2105651948636496267"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2105902440101163437",
+        "created_at": "2026-10-02T06:07:22.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105902440101163437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1678786722",
+              "start": 3,
+              "username": "Iammoremylrds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 98,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937462726656",
+              "start": 75,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 98,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937521442816",
+              "start": 75,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 98,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937659822080",
+              "start": 75,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 98,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937705938945",
+              "start": 75,
+              "url": "https://t.co/LFWuStUxx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105902440101163437",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937462726656"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937521442816"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937659822080"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937705938945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 705
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105651948636496267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iammoremylrds: feliz mês do orgulho e visibilidade assexual\n\nDIA 1🖤💜🩶🤍 https://t.co/LFWuStUxx3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105639937462726656",
+            "3_2105639937521442816",
+            "3_2105639937659822080",
+            "3_2105639937705938945"
+          ]
+        },
+        "author_id": "1678786722",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2105651948636496267",
+        "created_at": "2026-10-01T13:32:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105651948636496267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 79,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937462726656",
+              "start": 56,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 79,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937521442816",
+              "start": 56,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 79,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937659822080",
+              "start": 56,
+              "url": "https://t.co/LFWuStUxx3"
+            },
+            {
+              "display_url": "pic.x.com/LFWuStUxx3",
+              "end": 79,
+              "expanded_url": "https://x.com/Iammoremylrds/status/2105651948636496267/photo/1",
+              "media_key": "3_2105639937705938945",
+              "start": 56,
+              "url": "https://t.co/LFWuStUxx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105651948636496267",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937462726656"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937521442816"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937659822080"
+          },
+          {
+            "alt_text": "bandeira assexual\n4 listras horizontais nas seguintes cores:\npreto\ncinza\nbranco\nroxo\n",
+            "media_key": "3_2105639937705938945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 12484,
+          "like_count": 1816,
+          "quote_count": 44,
+          "reply_count": 9,
+          "retweet_count": 705
+        },
+        "reply_settings": "everyone",
+        "text": "feliz mês do orgulho e visibilidade assexual\n\nDIA 1🖤💜🩶🤍 https://t.co/LFWuStUxx3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105902440101163437",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 67773,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4486
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-17T18:00:36.000Z",
+        "description": "se a vida te der limões faça limonada, agora se ela te der ÍDOLOS FAÇA UM EXORCISMO PQ ISSO NÃO É DO BEM! zumbi nas horas vagas 📚⚖ a/ela/a| ace🍰♠️ fan account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maratona.app/estante/clpen4…",
+                "end": 23,
+                "expanded_url": "https://maratona.app/estante/clpen4gsk00cnl8080ykqn97f",
+                "start": 0,
+                "url": "https://t.co/0BYEUWwjRJ"
+              }
+            ]
+          }
+        },
+        "id": "1678786722",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105842747362189695",
+        "name": "Lucille🎈 advogata e embaixadora assexual do país",
+        "pinned_tweet_id": "2006561215468679419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678786722/1763381869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990413095546552320/u2ulqiy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222486,
+          "following_count": 203296,
+          "like_count": 125447,
+          "listed_count": 228,
+          "media_count": 56383,
+          "tweet_count": 453256
+        },
+        "url": "https://t.co/0BYEUWwjRJ",
+        "username": "Iammoremylrds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

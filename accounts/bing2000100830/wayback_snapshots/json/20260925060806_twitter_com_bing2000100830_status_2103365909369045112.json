@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103365909369045112",
+    "created_at": "2026-09-25T06:08:06.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103365909369045112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103365909369045112",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 454
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103103392856019002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 내 미래를 내가 만들어가야한다는 사실이 너무 싫다좆같음걍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103365909369045112",
+        "created_at": "2026-09-25T06:08:06.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103365909369045112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103365909369045112",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 454
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103103392856019002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 내 미래를 내가 만들어가야한다는 사실이 너무 싫다좆같음걍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2103103392856019002",
+        "created_at": "2026-09-24T12:44:57.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103103392856019002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103103392856019002",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 31818,
+          "like_count": 2026,
+          "quote_count": 26,
+          "reply_count": 2,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "내 미래를 내가 만들어가야한다는 사실이 너무 싫다좆같음걍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103365909369045112",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1457,
+          "like_count": 66334,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4256
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "is_identity_verified": false,
+        "location": "썅노무시끼",
+        "most_recent_tweet_id": "2103172693550141538",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 91,
+          "like_count": 8644,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

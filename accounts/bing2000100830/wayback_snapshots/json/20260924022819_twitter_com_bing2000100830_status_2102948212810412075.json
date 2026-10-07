@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100135589446307840"
+      ],
+      "media_source_tweet_id": [
+        "2102747560628858902"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102948212810412075",
+    "created_at": "2026-09-24T02:28:19.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102948212810412075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LuYtMxjyW8",
+          "end": 55,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2102747560628858902/photo/1",
+          "media_key": "3_2100135589446307840",
+          "start": 32,
+          "url": "https://t.co/LuYtMxjyW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102948212810412075",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100135589446307840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1007
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102747560628858902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: あはっあはっ…たはは https://t.co/LuYtMxjyW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2100135589446307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUuMQ0aUAAZove.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100135589446307840"
+          ],
+          "media_source_tweet_id": [
+            "2102747560628858902"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102948212810412075",
+        "created_at": "2026-09-24T02:28:19.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102948212810412075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuYtMxjyW8",
+              "end": 55,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2102747560628858902/photo/1",
+              "media_key": "3_2100135589446307840",
+              "start": 32,
+              "url": "https://t.co/LuYtMxjyW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102948212810412075",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100135589446307840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1007
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102747560628858902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: あはっあはっ…たはは https://t.co/LuYtMxjyW8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100135589446307840"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2102747560628858902",
+        "created_at": "2026-09-23T13:11:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102747560628858902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuYtMxjyW8",
+              "end": 34,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2102747560628858902/photo/1",
+              "media_key": "3_2100135589446307840",
+              "start": 11,
+              "url": "https://t.co/LuYtMxjyW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102747560628858902",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100135589446307840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 90276,
+          "like_count": 8760,
+          "quote_count": 33,
+          "reply_count": 21,
+          "retweet_count": 1007
+        },
+        "reply_settings": "everyone",
+        "text": "あはっあはっ…たはは https://t.co/LuYtMxjyW8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102948212810412075",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1452,
+          "like_count": 66033,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4192
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2102747560628858902",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545889,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1152,
+          "media_count": 882,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100080754328043630",
+    "created_at": "2026-09-16T04:34:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100080754328043630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060711019031474176",
+          "start": 3,
+          "username": "bu1tercup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100080754328043630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16662
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099930974478127242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bu1tercup: bdsm ( been depressed since march 2020 )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100080754328043630",
+        "created_at": "2026-09-16T04:34:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100080754328043630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060711019031474176",
+              "start": 3,
+              "username": "bu1tercup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100080754328043630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16662
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099930974478127242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bu1tercup: bdsm ( been depressed since march 2020 )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060711019031474176",
+        "conversation_id": "2099930974478127242",
+        "created_at": "2026-09-15T18:38:53.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099930974478127242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099930974478127242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1790,
+          "impression_count": 664497,
+          "like_count": 54451,
+          "quote_count": 409,
+          "reply_count": 56,
+          "retweet_count": 16641
+        },
+        "reply_settings": "everyone",
+        "text": "bdsm ( been depressed since march 2020 )"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100080754328043630",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 65243,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4010
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T13:17:18.000Z",
+        "description": "mai insan nh concept hun\n\nhttps://t.co/LYIw7hB9ld",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bu1tercup",
+                "end": 49,
+                "expanded_url": "https://ngl.link/bu1tercup",
+                "start": 26,
+                "url": "https://t.co/LYIw7hB9ld"
+              }
+            ]
+          }
+        },
+        "id": "2060711019031474176",
+        "is_identity_verified": false,
+        "location": "Barbie Dreamhouse",
+        "most_recent_tweet_id": "2099961329323032897",
+        "name": "u.",
+        "pinned_tweet_id": "2061172196073214150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060711019031474176/1782317723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063712866608578560/1bu_eQep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 281,
+          "like_count": 8370,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "bu1tercup",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

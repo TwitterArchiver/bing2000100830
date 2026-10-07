@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097975472701513728"
+      ],
+      "media_source_tweet_id": [
+        "2100225190332412225"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100429489704722650",
+    "created_at": "2026-09-17T03:39:49.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100429489704722650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lruun21YTM",
+          "end": 113,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2100225190332412225/photo/1",
+          "media_key": "3_2097975472701513728",
+          "start": 90,
+          "url": "https://t.co/Lruun21YTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100429489704722650",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097975472701513728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100225190332412225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: やかんは吹きこぼれるし\n薬を飲み忘れるし\nバスの降車ボタンは押せないし\nお風呂はぬるいし\nパンは黒焦げになるし\nしょうゆは動いて見えるし https://t.co/Lruun21YTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2097975472701513728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2Bk63bIAAncoj.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097975472701513728"
+          ],
+          "media_source_tweet_id": [
+            "2100225190332412225"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100429489704722650",
+        "created_at": "2026-09-17T03:39:49.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100429489704722650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lruun21YTM",
+              "end": 113,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2100225190332412225/photo/1",
+              "media_key": "3_2097975472701513728",
+              "start": 90,
+              "url": "https://t.co/Lruun21YTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100429489704722650",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097975472701513728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100225190332412225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: やかんは吹きこぼれるし\n薬を飲み忘れるし\nバスの降車ボタンは押せないし\nお風呂はぬるいし\nパンは黒焦げになるし\nしょうゆは動いて見えるし https://t.co/Lruun21YTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097975472701513728"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100225190332412225",
+        "created_at": "2026-09-16T14:08:00.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100225190332412225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lruun21YTM",
+              "end": 92,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2100225190332412225/photo/1",
+              "media_key": "3_2097975472701513728",
+              "start": 69,
+              "url": "https://t.co/Lruun21YTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100225190332412225",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097975472701513728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 110512,
+          "like_count": 10107,
+          "quote_count": 35,
+          "reply_count": 13,
+          "retweet_count": 1322
+        },
+        "reply_settings": "everyone",
+        "text": "やかんは吹きこぼれるし\n薬を飲み忘れるし\nバスの降車ボタンは押せないし\nお風呂はぬるいし\nパンは黒焦げになるし\nしょうゆは動いて見えるし https://t.co/Lruun21YTM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100429489704722650",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1457,
+          "like_count": 65219,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4029
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2100225190332412225",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545221,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1150,
+          "media_count": 874,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103586730662334558",
+    "created_at": "2026-09-25T20:45:33.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103586730662334558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1647035916685565954",
+          "start": 3,
+          "username": "xx00__y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103586730662334558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103438966439743987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx00__y: 依存した側のまけだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103586730662334558",
+        "created_at": "2026-09-25T20:45:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103586730662334558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1647035916685565954",
+              "start": 3,
+              "username": "xx00__y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103586730662334558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103438966439743987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx00__y: 依存した側のまけだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647035916685565954",
+        "conversation_id": "2103438966439743987",
+        "created_at": "2026-09-25T10:58:24.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103438966439743987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103438966439743987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 19949,
+          "like_count": 621,
+          "quote_count": 23,
+          "reply_count": 9,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "依存した側のまけだよ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103586730662334558",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1457,
+          "like_count": 66505,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4297
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T00:35:51.000Z",
+        "description": "",
+        "id": "1647035916685565954",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103438966439743987",
+        "name": "ゆむ",
+        "pinned_tweet_id": "2099495344115699899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647035916685565954/1772788383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099141432187740160/qebA1opT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 91,
+          "like_count": 4407,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "xx00__y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

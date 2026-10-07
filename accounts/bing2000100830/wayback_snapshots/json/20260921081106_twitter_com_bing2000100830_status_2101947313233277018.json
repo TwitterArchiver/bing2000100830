@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101854796600979456"
+      ],
+      "media_source_tweet_id": [
+        "2101854994777665832"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101947313233277018",
+    "created_at": "2026-09-21T08:11:06.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101947313233277018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "226488830",
+          "start": 3,
+          "username": "rnmrn0614"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AndaDufAP8",
+          "end": 59,
+          "expanded_url": "https://x.com/rnmrn0614/status/2101854994777665832/photo/1",
+          "media_key": "3_2101854796600979456",
+          "start": 36,
+          "url": "https://t.co/AndaDufAP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101947313233277018",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101854796600979456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101854994777665832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnmrn0614: 円環ちゃんはどこからでもずっと見張ってる https://t.co/AndaDufAP8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3759,
+        "media_key": "3_2101854796600979456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStJzSjaMAAR4VM.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101854796600979456"
+          ],
+          "media_source_tweet_id": [
+            "2101854994777665832"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101947313233277018",
+        "created_at": "2026-09-21T08:11:06.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101947313233277018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "226488830",
+              "start": 3,
+              "username": "rnmrn0614"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AndaDufAP8",
+              "end": 59,
+              "expanded_url": "https://x.com/rnmrn0614/status/2101854994777665832/photo/1",
+              "media_key": "3_2101854796600979456",
+              "start": 36,
+              "url": "https://t.co/AndaDufAP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101947313233277018",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101854796600979456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101854994777665832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnmrn0614: 円環ちゃんはどこからでもずっと見張ってる https://t.co/AndaDufAP8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101854796600979456"
+          ]
+        },
+        "author_id": "226488830",
+        "conversation_id": "2101854994777665832",
+        "created_at": "2026-09-21T02:04:15.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101854994777665832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AndaDufAP8",
+              "end": 44,
+              "expanded_url": "https://x.com/rnmrn0614/status/2101854994777665832/photo/1",
+              "media_key": "3_2101854796600979456",
+              "start": 21,
+              "url": "https://t.co/AndaDufAP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101854994777665832",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101854796600979456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 459,
+          "impression_count": 49015,
+          "like_count": 5087,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "円環ちゃんはどこからでもずっと見張ってる https://t.co/AndaDufAP8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101947313233277018",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1451,
+          "like_count": 65774,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4135
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-12-14T08:24:12.000Z",
+        "description": "好きなものを好きなだけ描きます 20↑ 基本♀×♀\nｽﾀｧﾗｲﾄ/まどﾏｷﾞ(外伝含む)/あだしま/ﾕｰﾌｫ/ﾏｲﾑｼﾞ/藤子・F・不二雄 他雑多 遅筆です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7834804",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7834804",
+                "start": 0,
+                "url": "https://t.co/ABMZRsxsw9"
+              }
+            ]
+          }
+        },
+        "id": "226488830",
+        "is_identity_verified": false,
+        "location": "試される大地(元)",
+        "most_recent_tweet_id": "2101854994777665832",
+        "name": "ろなめろん🍈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226488830/1779727891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074918716983427072/DamcBbfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 88,
+          "like_count": 7366,
+          "listed_count": 12,
+          "media_count": 2910,
+          "tweet_count": 27214
+        },
+        "url": "https://t.co/ABMZRsxsw9",
+        "username": "rnmrn0614",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

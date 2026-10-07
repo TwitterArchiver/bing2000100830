@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100081368898433184",
+    "created_at": "2026-09-16T04:36:30.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100081368898433184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901223432127438848",
+          "start": 3,
+          "username": "h1_nardo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100081368898433184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099505252802429433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h1_nardo: 死んだら今学校で使ってる席とかどうなるの❓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100081368898433184",
+        "created_at": "2026-09-16T04:36:30.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100081368898433184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901223432127438848",
+              "start": 3,
+              "username": "h1_nardo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100081368898433184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099505252802429433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h1_nardo: 死んだら今学校で使ってる席とかどうなるの❓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901223432127438848",
+        "conversation_id": "2099505252802429433",
+        "created_at": "2026-09-14T14:27:13.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099505252802429433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099505252802429433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 743,
+          "impression_count": 1976266,
+          "like_count": 28826,
+          "quote_count": 101,
+          "reply_count": 68,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "死んだら今学校で使ってる席とかどうなるの❓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100081384660652495",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 65254,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4015
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T10:46:16.000Z",
+        "description": "ljc/👊🩸/不登校気味/雑多/初手タメ𝑮𝒐𝒐𝒅🪄︎︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/r6o7ec60w8r9g4…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/r6o7ec60w8r9g4s?t=6ouDw9&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/agBykfzUz6"
+              }
+            ]
+          }
+        },
+        "id": "1901223432127438848",
+        "is_identity_verified": false,
+        "location": "無言フォロー失礼します🎶",
+        "most_recent_tweet_id": "2100013885185290572",
+        "name": "☪︎ᶻ",
+        "pinned_tweet_id": "2069322644034597319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901223432127438848/1778313306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096187193391984640/h9Ixl5E4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 140,
+          "like_count": 9620,
+          "listed_count": 11,
+          "media_count": 17,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/agBykfzUz6",
+        "username": "h1_nardo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

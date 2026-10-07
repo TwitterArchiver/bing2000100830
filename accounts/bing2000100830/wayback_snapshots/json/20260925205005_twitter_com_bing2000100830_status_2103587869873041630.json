@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103587869873041630",
+    "created_at": "2026-09-25T20:50:05.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103587869873041630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "838269820843896832",
+          "start": 3,
+          "username": "Sano_dess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103587869873041630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103432999874548225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sano_dess: 好きな人に対して、\n嫉妬しないって無理だよね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103587869873041630",
+        "created_at": "2026-09-25T20:50:05.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103587869873041630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "838269820843896832",
+              "start": 3,
+              "username": "Sano_dess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103587869873041630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103432999874548225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sano_dess: 好きな人に対して、\n嫉妬しないって無理だよね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838269820843896832",
+        "conversation_id": "2103432999874548225",
+        "created_at": "2026-09-25T10:34:41.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103432999874548225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103432999874548225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 36636,
+          "like_count": 1320,
+          "quote_count": 25,
+          "reply_count": 7,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人に対して、\n嫉妬しないって無理だよね。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103587869873041630",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1457,
+          "like_count": 66508,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4298
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-05T06:07:54.000Z",
+        "description": "あなたに届ける恋の言葉",
+        "id": "838269820843896832",
+        "is_identity_verified": false,
+        "location": "恋愛で悩む人への手助け🕊️",
+        "most_recent_tweet_id": "2103432999874548225",
+        "name": "佐野くん",
+        "pinned_tweet_id": "2073967188386680841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838269820843896832/1780849094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063655584713555968/2DvqZ5fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1,
+          "like_count": 811,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "Sano_dess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

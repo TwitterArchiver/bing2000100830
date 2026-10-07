@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104290474068721841",
+    "created_at": "2026-09-27T19:21:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104290474068721841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876735601879269376",
+          "start": 3,
+          "username": "hqnamakis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104290474068721841",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103966169116049635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hqnamakis: yo en el espejo: pq estoy tan fea\nyo en mi casa: pq estoy tan fea\nyo en el colegio: pq estoy tan fea\nyo en la calle: pq esto…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104290474068721841",
+        "created_at": "2026-09-27T19:21:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104290474068721841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876735601879269376",
+              "start": 3,
+              "username": "hqnamakis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104290474068721841",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103966169116049635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hqnamakis: yo en el espejo: pq estoy tan fea\nyo en mi casa: pq estoy tan fea\nyo en el colegio: pq estoy tan fea\nyo en la calle: pq esto…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876735601879269376",
+        "conversation_id": "2103966169116049635",
+        "created_at": "2026-09-26T21:53:19.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103966169116049635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103966169116049635",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5706,
+          "like_count": 605,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "yo en el espejo: pq estoy tan fea\nyo en mi casa: pq estoy tan fea\nyo en el colegio: pq estoy tan fea\nyo en la calle: pq estoy tan fea\nyo en yo: pq estoy tan fea"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104290486865596763",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66790,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4361
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T21:00:30.000Z",
+        "description": "me encantan las mujeres lptm\n⠀ 　   @ccjjxxo bry mosha ෆ.̮ෆ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "ccjjxxo"
+              }
+            ]
+          }
+        },
+        "id": "1876735601879269376",
+        "is_identity_verified": false,
+        "location": "lesbiana",
+        "most_recent_tweet_id": "2104238374974628227",
+        "name": "♡ 𝓁uu",
+        "pinned_tweet_id": "2094959011850260950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876735601879269376/1790206220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102903413444857857/4R9hHu2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 489,
+          "like_count": 7483,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "hqnamakis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

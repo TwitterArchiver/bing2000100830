@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1794124772466434048",
+        "7_1794124893421723648",
+        "7_1794124972480180224"
+      ],
+      "media_source_tweet_id": [
+        "1794125137693856026",
+        "1794125137693856026",
+        "1794125137693856026"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101408440849711284",
+    "created_at": "2026-09-19T20:29:49.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T21:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101408440849711284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165914901845630976",
+          "start": 3,
+          "username": "madinumber2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNQ5CCHFJV",
+          "end": 49,
+          "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+          "media_key": "7_1794124772466434048",
+          "start": 26,
+          "url": "https://t.co/dNQ5CCHFJV"
+        },
+        {
+          "display_url": "pic.x.com/dNQ5CCHFJV",
+          "end": 49,
+          "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+          "media_key": "7_1794124893421723648",
+          "start": 26,
+          "url": "https://t.co/dNQ5CCHFJV"
+        },
+        {
+          "display_url": "pic.x.com/dNQ5CCHFJV",
+          "end": 49,
+          "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+          "media_key": "7_1794124972480180224",
+          "start": 26,
+          "url": "https://t.co/dNQ5CCHFJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101408440849711284",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_1794124772466434048"
+      },
+      {
+        "media_key": "7_1794124893421723648"
+      },
+      {
+        "media_key": "7_1794124972480180224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794125137693856026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madinumber2: tw || sh https://t.co/dNQ5CCHFJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16157,
+        "height": 1088,
+        "media_key": "7_1794124772466434048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1794124772466434048/pu/img/OZ1pyJt5TjzeOegE.jpg",
+        "public_metrics": {
+          "view_count": 16505
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124772466434048/pu/vid/avc1/320x482/603Gr5Ht7YQ-dDE4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124772466434048/pu/vid/avc1/480x724/1RA5Jhs2PtH6KciJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124772466434048/pu/vid/avc1/720x1088/QBhhv9hG-znCCfpW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1794124772466434048/pu/pl/53LSzMCev5g_l65u.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 17377,
+        "height": 1088,
+        "media_key": "7_1794124893421723648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1794124893421723648/pu/img/YlMDsuCXAWqy7kAy.jpg",
+        "public_metrics": {
+          "view_count": 5887
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124893421723648/pu/vid/avc1/320x482/TZcTqVxu--NX1QHo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124893421723648/pu/vid/avc1/480x724/RHH-WQ3zocff5-l-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124893421723648/pu/vid/avc1/720x1088/OswrKHOkn29SJU4j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1794124893421723648/pu/pl/XPhQrTKy0dP4FQKQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6513,
+        "height": 1280,
+        "media_key": "7_1794124972480180224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1794124972480180224/pu/img/8B-BEFs8s1Da5Yv-.jpg",
+        "public_metrics": {
+          "view_count": 3085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124972480180224/pu/vid/avc1/320x568/iajNiCdh_3AHdxu6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124972480180224/pu/vid/avc1/480x852/duEqwAtPJkAzl5fW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1794124972480180224/pu/vid/avc1/720x1280/MZeVqKd32DNzZUcb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1794124972480180224/pu/pl/Qzw-n9KSJYZaMVCr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1794124772466434048",
+            "7_1794124893421723648",
+            "7_1794124972480180224"
+          ],
+          "media_source_tweet_id": [
+            "1794125137693856026",
+            "1794125137693856026",
+            "1794125137693856026"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101408440849711284",
+        "created_at": "2026-09-19T20:29:49.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T21:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101408440849711284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165914901845630976",
+              "start": 3,
+              "username": "madinumber2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 49,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124772466434048",
+              "start": 26,
+              "url": "https://t.co/dNQ5CCHFJV"
+            },
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 49,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124893421723648",
+              "start": 26,
+              "url": "https://t.co/dNQ5CCHFJV"
+            },
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 49,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124972480180224",
+              "start": 26,
+              "url": "https://t.co/dNQ5CCHFJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101408440849711284",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1794124772466434048"
+          },
+          {
+            "media_key": "7_1794124893421723648"
+          },
+          {
+            "media_key": "7_1794124972480180224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794125137693856026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madinumber2: tw || sh https://t.co/dNQ5CCHFJV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1794124772466434048",
+            "7_1794124893421723648",
+            "7_1794124972480180224"
+          ]
+        },
+        "author_id": "1165914901845630976",
+        "conversation_id": "1794125137693856026",
+        "created_at": "2024-05-24T21:55:40.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2024-05-24T22:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794125137693856026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 32,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124772466434048",
+              "start": 9,
+              "url": "https://t.co/dNQ5CCHFJV"
+            },
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 32,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124893421723648",
+              "start": 9,
+              "url": "https://t.co/dNQ5CCHFJV"
+            },
+            {
+              "display_url": "pic.x.com/dNQ5CCHFJV",
+              "end": 32,
+              "expanded_url": "https://x.com/madinumber2/status/1794125137693856026/video/1",
+              "media_key": "7_1794124972480180224",
+              "start": 9,
+              "url": "https://t.co/dNQ5CCHFJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794125137693856026",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1794124772466434048"
+          },
+          {
+            "media_key": "7_1794124893421723648"
+          },
+          {
+            "media_key": "7_1794124972480180224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 31497,
+          "like_count": 2149,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "tw || sh https://t.co/dNQ5CCHFJV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101408440849711284",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 65544,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4083
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-26T09:12:39.000Z",
+        "description": "backup for @madilinluv\n20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "madilinluv"
+              }
+            ]
+          }
+        },
+        "id": "1165914901845630976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101118770060099809",
+        "name": "madilin | shtwt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165914901845630976/1691816346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690226253876404226/Ot-_qRex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 220,
+          "like_count": 2257,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "madinumber2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

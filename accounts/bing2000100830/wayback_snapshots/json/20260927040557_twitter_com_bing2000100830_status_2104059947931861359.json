@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103741649096687616"
+      ],
+      "media_source_tweet_id": [
+        "2103741890860650924"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2104059947931861359",
+    "created_at": "2026-09-27T04:05:57.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104059947931861359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600824799097327618",
+          "start": 3,
+          "username": "SD14346377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmH1rqsVZ9",
+          "end": 82,
+          "expanded_url": "https://x.com/SD14346377/status/2103741890860650924/video/1",
+          "media_key": "13_2103741649096687616",
+          "start": 59,
+          "url": "https://t.co/GmH1rqsVZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104059947931861359",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2103741649096687616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2965
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103741890860650924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SD14346377: 90年台の東京、誰一人スマホ持ってない。\nファッションも「古さ」を感じないんだよな。 https://t.co/GmH1rqsVZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116308,
+        "height": 642,
+        "media_key": "13_2103741649096687616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103741649096687616/img/YBRU8nPMu4pMXjrR.jpg",
+        "public_metrics": {
+          "view_count": 3422331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103741649096687616/vid/avc1/302x270/cr8GBrtofDNZBb8n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103741649096687616/vid/avc1/402x360/PEI8Trpgew0YDoKZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103741649096687616/vid/avc1/720x642/i36vwi3RHAZKjolr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103741649096687616/pl/bZG8_dbGYGUgRMWW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103741649096687616"
+          ],
+          "media_source_tweet_id": [
+            "2103741890860650924"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2104059947931861359",
+        "created_at": "2026-09-27T04:05:57.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104059947931861359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600824799097327618",
+              "start": 3,
+              "username": "SD14346377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmH1rqsVZ9",
+              "end": 82,
+              "expanded_url": "https://x.com/SD14346377/status/2103741890860650924/video/1",
+              "media_key": "13_2103741649096687616",
+              "start": 59,
+              "url": "https://t.co/GmH1rqsVZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104059947931861359",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103741649096687616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2965
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103741890860650924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SD14346377: 90年台の東京、誰一人スマホ持ってない。\nファッションも「古さ」を感じないんだよな。 https://t.co/GmH1rqsVZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103741649096687616"
+          ]
+        },
+        "author_id": "1600824799097327618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2103741890860650924",
+        "created_at": "2026-09-26T07:02:07.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103741890860650924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmH1rqsVZ9",
+              "end": 66,
+              "expanded_url": "https://x.com/SD14346377/status/2103741890860650924/video/1",
+              "media_key": "13_2103741649096687616",
+              "start": 43,
+              "url": "https://t.co/GmH1rqsVZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103741890860650924",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103741649096687616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6261,
+          "impression_count": 7243788,
+          "like_count": 39649,
+          "quote_count": 987,
+          "reply_count": 863,
+          "retweet_count": 2964
+        },
+        "reply_settings": "everyone",
+        "text": "90年台の東京、誰一人スマホ持ってない。\nファッションも「古さ」を感じないんだよな。 https://t.co/GmH1rqsVZ9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104059947931861359",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1458,
+          "like_count": 66621,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4328
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-08T12:09:27.000Z",
+        "description": "情報商材、乞食は嫌いです😮‍💨\n好き:スポーツ、株、特に為替。",
+        "id": "1600824799097327618",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2104050051106681336",
+        "name": "Ikura",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600824799097327618/1719715746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084465429406416896/NsQeCgZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18229,
+          "following_count": 2076,
+          "like_count": 32624,
+          "listed_count": 26,
+          "media_count": 2825,
+          "tweet_count": 38632
+        },
+        "url": "",
+        "username": "SD14346377",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

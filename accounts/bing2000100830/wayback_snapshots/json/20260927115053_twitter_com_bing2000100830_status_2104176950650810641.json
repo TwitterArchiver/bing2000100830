@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104003589173567488"
+      ],
+      "media_source_tweet_id": [
+        "2104003596685615248"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104176950650810641",
+    "created_at": "2026-09-27T11:50:53.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104176950650810641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1208684704322531328",
+          "start": 3,
+          "username": "77keloke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKXpWKGM2k",
+          "end": 76,
+          "expanded_url": "https://x.com/77keloke/status/2104003596685615248/photo/1",
+          "media_key": "3_2104003589173567488",
+          "start": 53,
+          "url": "https://t.co/lKXpWKGM2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104176950650810641",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2104003589173567488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1068
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104003596685615248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77keloke: visualizando la persona que quiero ser https://t.co/lKXpWKGM2k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2104003589173567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLsHerWYAAY8GK.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104003589173567488"
+          ],
+          "media_source_tweet_id": [
+            "2104003596685615248"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104176950650810641",
+        "created_at": "2026-09-27T11:50:53.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104176950650810641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1208684704322531328",
+              "start": 3,
+              "username": "77keloke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKXpWKGM2k",
+              "end": 76,
+              "expanded_url": "https://x.com/77keloke/status/2104003596685615248/photo/1",
+              "media_key": "3_2104003589173567488",
+              "start": 53,
+              "url": "https://t.co/lKXpWKGM2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104176950650810641",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104003589173567488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1068
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104003596685615248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77keloke: visualizando la persona que quiero ser https://t.co/lKXpWKGM2k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104003589173567488"
+          ]
+        },
+        "author_id": "1208684704322531328",
+        "conversation_id": "2104003596685615248",
+        "created_at": "2026-09-27T00:22:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104003596685615248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKXpWKGM2k",
+              "end": 62,
+              "expanded_url": "https://x.com/77keloke/status/2104003596685615248/photo/1",
+              "media_key": "3_2104003589173567488",
+              "start": 39,
+              "url": "https://t.co/lKXpWKGM2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104003596685615248",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104003589173567488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 36845,
+          "like_count": 5849,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 1068
+        },
+        "reply_settings": "everyone",
+        "text": "visualizando la persona que quiero ser https://t.co/lKXpWKGM2k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104176950650810641",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 66726,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4344
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-22T09:44:33.000Z",
+        "description": "This is the Remix📍Rancho Aparte",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kick.com/77keloke",
+                "end": 23,
+                "expanded_url": "https://kick.com/77keloke",
+                "start": 0,
+                "url": "https://t.co/KBcpvwOCH6"
+              }
+            ]
+          }
+        },
+        "id": "1208684704322531328",
+        "is_identity_verified": false,
+        "location": "Tranki Keloke",
+        "most_recent_tweet_id": "2104095400344928416",
+        "name": "🔥🔥🔥",
+        "pinned_tweet_id": "2066251277651091866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1208684704322531328/1786214342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023604790291558404/qJ0hXx0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 516,
+          "like_count": 39818,
+          "listed_count": 0,
+          "media_count": 776,
+          "tweet_count": 7561
+        },
+        "url": "https://t.co/KBcpvwOCH6",
+        "username": "77keloke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

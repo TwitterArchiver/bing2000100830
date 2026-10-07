@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103196516244746248",
+    "created_at": "2026-09-24T18:54:59.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103196516244746248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1296789808618942464",
+          "start": 3,
+          "username": "kohe_barblue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103196516244746248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103044012298928288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohe_barblue: うつ病がひどかった時、夜中の3時まで布団でスマホをみるのが習慣だった。何にハマってたわけでもない。ただ手を止められなかった。今思えば、ただ脳死で触れるものに依存していたただけで何も生み出さない無価値な時間だった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103196516244746248",
+        "created_at": "2026-09-24T18:54:59.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103196516244746248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1296789808618942464",
+              "start": 3,
+              "username": "kohe_barblue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103196516244746248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103044012298928288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohe_barblue: うつ病がひどかった時、夜中の3時まで布団でスマホをみるのが習慣だった。何にハマってたわけでもない。ただ手を止められなかった。今思えば、ただ脳死で触れるものに依存していたただけで何も生み出さない無価値な時間だった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296789808618942464",
+        "conversation_id": "2103044012298928288",
+        "created_at": "2026-09-24T08:48:59.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103044012298928288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103044012298928288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1112,
+          "impression_count": 409510,
+          "like_count": 7239,
+          "quote_count": 409,
+          "reply_count": 22,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "うつ病がひどかった時、夜中の3時まで布団でスマホをみるのが習慣だった。何にハマってたわけでもない。ただ手を止められなかった。今思えば、ただ脳死で触れるものに依存していたただけで何も生み出さない無価値な時間だった"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103196516244746248",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 66186,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4226
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-21T12:42:47.000Z",
+        "description": "新卒・休職中・仕事がつまらない・毎日しんどい。\n新卒で公務員になりパワハラでうつ病に。Non-alcohol bar「うつCAFE」代表。公式LINE登録2,500名以上。首都圏とオンラインで毎月開催、年間500人と対話しています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsucafe.sakura.ne.jp/line_x_sato.ht…",
+                "end": 23,
+                "expanded_url": "https://utsucafe.sakura.ne.jp/line_x_sato.html",
+                "start": 0,
+                "url": "https://t.co/RL7gsULkIZ"
+              }
+            ]
+          }
+        },
+        "id": "1296789808618942464",
+        "is_identity_verified": false,
+        "location": "完全予約制。うつCAFE予約は公式LINEから↓",
+        "most_recent_tweet_id": "2103092511673581831",
+        "name": "佐藤 康平 | うつCAFE代表 ~ひとりぼっちにしない場所~",
+        "pinned_tweet_id": "2039688780190548102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296789808618942464/1747534595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084233706072645632/XpU5JVtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 697,
+          "like_count": 62356,
+          "listed_count": 30,
+          "media_count": 315,
+          "tweet_count": 19609
+        },
+        "url": "https://t.co/RL7gsULkIZ",
+        "username": "kohe_barblue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

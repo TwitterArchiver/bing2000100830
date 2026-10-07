@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2100081384660652495",
+    "created_at": "2026-09-16T04:36:34.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100081384660652495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000881261217505281",
+          "start": 3,
+          "username": "nikkotya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100081384660652495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099725193568825798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikkotya0: 【これから中高校生になる人】\n\n・Xのフォロワーをステータスだと思うな\n\n・趣味は音楽を聴くことにしとけ\n\n・交換するのはインスタとLINEだけでいい\n(Twitterは絶対交換するな💢💢❣️)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2100081384660652495",
+        "created_at": "2026-09-16T04:36:34.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100081384660652495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000881261217505281",
+              "start": 3,
+              "username": "nikkotya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100081384660652495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099725193568825798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikkotya0: 【これから中高校生になる人】\n\n・Xのフォロワーをステータスだと思うな\n\n・趣味は音楽を聴くことにしとけ\n\n・交換するのはインスタとLINEだけでいい\n(Twitterは絶対交換するな💢💢❣️)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000881261217505281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2099725193568825798",
+        "created_at": "2026-09-15T05:01:11.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099725193568825798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099725193568825798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 32986,
+          "like_count": 2743,
+          "quote_count": 36,
+          "reply_count": 1,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "【これから中高校生になる人】\n\n・Xのフォロワーをステータスだと思うな\n\n・趣味は音楽を聴くことにしとけ\n\n・交換するのはインスタとLINEだけでいい\n(Twitterは絶対交換するな💢💢❣️)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100081384660652495",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 65254,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4015
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-16T10:51:36.000Z",
+        "description": "13|👊🩸|多雑|壁打ち|フォロバ100|不登校|都民 |バイ|エロ垢❌\n\nさぶ▶︎@niko_o_25 🗝\n\n𝐈𝐭'𝐬 𝐌𝐞お姉さんです❣️\n\nいっしょに幸せになろ‼️‼️\n\n❥私の大好きなにこいち︎︎︎︎▷@7hdy0\n\nため🙆‍♀️\n脳死ツイ幸せツイあり！\n自衛よろ🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "niko_o_25"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "username": "7hdy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/115o29og9mtx19…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/115o29og9mtx193?t=6akxrG&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/hKXLuFlQLt"
+              }
+            ]
+          }
+        },
+        "id": "2000881261217505281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100078929193345318",
+        "name": "にこ",
+        "pinned_tweet_id": "2098364181816996271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000881261217505281/1788941307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096398329823535104/mGypcgOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 620,
+          "like_count": 2767,
+          "listed_count": 12,
+          "media_count": 108,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/hKXLuFlQLt",
+        "username": "nikkotya0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

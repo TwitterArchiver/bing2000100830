@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104210028328796160"
+      ],
+      "media_source_tweet_id": [
+        "2104210050491490532"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104213586705043653",
+    "created_at": "2026-09-27T14:16:28.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104213586705043653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543160318616293377",
+          "start": 3,
+          "username": "Kawai1pien"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzFZKpRG3j",
+          "end": 61,
+          "expanded_url": "https://x.com/Kawai1pien/status/2104210050491490532/photo/1",
+          "media_key": "3_2104210028328796160",
+          "start": 38,
+          "url": "https://t.co/XzFZKpRG3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104213586705043653",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2104210028328796160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104210050491490532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kawai1pien: ( ⁎ o̴̶̷᷄ ‸ o̴̶̷̥᷅ ⁎マ https://t.co/XzFZKpRG3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2270,
+        "media_key": "3_2104210028328796160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOn30daQAA54GD.jpg",
+        "width": 3480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104210028328796160"
+          ],
+          "media_source_tweet_id": [
+            "2104210050491490532"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104213586705043653",
+        "created_at": "2026-09-27T14:16:28.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104213586705043653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543160318616293377",
+              "start": 3,
+              "username": "Kawai1pien"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzFZKpRG3j",
+              "end": 61,
+              "expanded_url": "https://x.com/Kawai1pien/status/2104210050491490532/photo/1",
+              "media_key": "3_2104210028328796160",
+              "start": 38,
+              "url": "https://t.co/XzFZKpRG3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104213586705043653",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2104210028328796160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104210050491490532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kawai1pien: ( ⁎ o̴̶̷᷄ ‸ o̴̶̷̥᷅ ⁎マ https://t.co/XzFZKpRG3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104210028328796160"
+          ]
+        },
+        "author_id": "1543160318616293377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104210050491490532",
+        "created_at": "2026-09-27T14:02:25.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104210050491490532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzFZKpRG3j",
+              "end": 45,
+              "expanded_url": "https://x.com/Kawai1pien/status/2104210050491490532/photo/1",
+              "media_key": "3_2104210028328796160",
+              "start": 22,
+              "url": "https://t.co/XzFZKpRG3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104210050491490532",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2104210028328796160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "( ⁎ o̴̶̷᷄ ‸ o̴̶̷̥᷅ ⁎マ https://t.co/XzFZKpRG3j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104213586705043653",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66773,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4353
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-02T09:11:22.000Z",
+        "description": "🏳️‍⚧️ || 𝐀𝐫𝐭𝐢𝐬𝐭 𝐏𝐢𝐞𝐧 || ❝『𝚆𝚑𝚒𝚝𝚎 𝚖𝚘𝚗𝚜𝚝𝚎𝚛 𝚊𝚍𝚍𝚒𝚌𝚝𝚎𝚍 𝚙𝚒𝚎𝚗𝚙𝚒𝚕𝚕𝚎𝚍 𝚙𝚒𝚎𝚗𝚌𝚎𝚕』❞ ( ⁎ o̴̶̷᷄ ‸ o̴̶̷̥᷅ ⁎マ🩷  .⊹˙∘•",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pchan",
+                "end": 23,
+                "expanded_url": "http://discord.gg/pchan",
+                "start": 0,
+                "url": "https://t.co/YfQQPWmC3p"
+              }
+            ]
+          }
+        },
+        "id": "1543160318616293377",
+        "is_identity_verified": false,
+        "location": "Electronic sea, Internet",
+        "most_recent_tweet_id": "2104210050491490532",
+        "name": "( ⁎ o̴̶̷᷄ ‸ o̴̶̷̥᷅ ⁎マ ₊˚⊹🩷『ぴえん』♡🩷💗—𝜗𝜚",
+        "pinned_tweet_id": "2089073025790656854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543160318616293377/1787797351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097547536542412800/6Ik60QuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 388,
+          "like_count": 4266,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/YfQQPWmC3p",
+        "username": "Kawai1pien",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

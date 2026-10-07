@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103573150160375974",
+    "created_at": "2026-09-25T19:51:36.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103573150160375974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "724285713571807232",
+          "start": 3,
+          "username": "xMillice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103573150160375974",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103446958274728007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xMillice: l’esclavage était légal\nbattre sa femme était légal\n\nla loi n’a jamais été une boussole morale"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103573150160375974",
+        "created_at": "2026-09-25T19:51:36.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103573150160375974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "724285713571807232",
+              "start": 3,
+              "username": "xMillice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103573150160375974",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103446958274728007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xMillice: l’esclavage était légal\nbattre sa femme était légal\n\nla loi n’a jamais été une boussole morale"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "724285713571807232",
+        "conversation_id": "2103446958274728007",
+        "created_at": "2026-09-25T11:30:09.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103446958274728007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103446958274728007",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 112327,
+          "like_count": 12235,
+          "quote_count": 34,
+          "reply_count": 31,
+          "retweet_count": 2174
+        },
+        "reply_settings": "everyone",
+        "text": "l’esclavage était légal\nbattre sa femme était légal\n\nla loi n’a jamais été une boussole morale"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103573150160375974",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66472,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4281
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-24T17:15:45.000Z",
+        "description": "business architect & cybersecurity — 7 FIGS",
+        "id": "724285713571807232",
+        "is_identity_verified": false,
+        "location": "paris / dubai",
+        "most_recent_tweet_id": "2103572215132307824",
+        "name": "милиция",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724285713571807232/1739986100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971140845664600070/M_4YBxJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14502,
+          "following_count": 450,
+          "like_count": 15363,
+          "listed_count": 18,
+          "media_count": 2644,
+          "tweet_count": 32128
+        },
+        "url": "",
+        "username": "xMillice",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

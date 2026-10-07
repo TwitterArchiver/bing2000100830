@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102408699348451779",
+    "created_at": "2026-09-22T14:44:29.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102408699348451779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049500924381667328",
+          "start": 3,
+          "username": "utu_tyan0118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102408699348451779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102311418221793445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @utu_tyan0118: 私の人生\n\n小1 HAPPY😆‼️\n小2 HAPPY😆‼️\n小3 HAPPY😆‼️\n小4 HAPPY😆‼️\n小5 HAPPY😁‼️\n小6 HAPPY😆‼️\n中1あれ？\n中2死にたい\n中３死にたい\n高1ドカ鬱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102408699348451779",
+        "created_at": "2026-09-22T14:44:29.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102408699348451779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049500924381667328",
+              "start": 3,
+              "username": "utu_tyan0118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102408699348451779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102311418221793445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @utu_tyan0118: 私の人生\n\n小1 HAPPY😆‼️\n小2 HAPPY😆‼️\n小3 HAPPY😆‼️\n小4 HAPPY😆‼️\n小5 HAPPY😁‼️\n小6 HAPPY😆‼️\n中1あれ？\n中2死にたい\n中３死にたい\n高1ドカ鬱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049500924381667328",
+        "conversation_id": "2102311418221793445",
+        "created_at": "2026-09-22T08:17:55.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102311418221793445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102311418221793445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 79090,
+          "like_count": 1972,
+          "quote_count": 65,
+          "reply_count": 8,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "私の人生\n\n小1 HAPPY😆‼️\n小2 HAPPY😆‼️\n小3 HAPPY😆‼️\n小4 HAPPY😆‼️\n小5 HAPPY😁‼️\n小6 HAPPY😆‼️\n中1あれ？\n中2死にたい\n中３死にたい\n高1ドカ鬱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102408699348451779",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 65935,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4162
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T14:49:23.000Z",
+        "description": "病み垢 鬱 人生はクソ\nお友達達募集中です!!DMとかでたくさん話しかけてね🤍🫧\n猫派",
+        "id": "2049500924381667328",
+        "is_identity_verified": false,
+        "location": "ここしか居場所ないの",
+        "most_recent_tweet_id": "2102400372489003378",
+        "name": "momotyan",
+        "pinned_tweet_id": "2053419326091522096",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049500924381667328/1777474324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099422157537435648/RgTebEkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 260,
+          "like_count": 6729,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "utu_tyan0118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

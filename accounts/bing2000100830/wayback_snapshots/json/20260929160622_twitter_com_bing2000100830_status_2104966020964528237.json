@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104639970518716416"
+      ],
+      "media_source_tweet_id": [
+        "2104640602071830840"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104966020964528237",
+    "created_at": "2026-09-29T16:06:22.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T17:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104966020964528237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790877593249742848",
+          "start": 3,
+          "username": "NF8WSuPIpm75633"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqcwJNReCp",
+          "end": 59,
+          "expanded_url": "https://x.com/NF8WSuPIpm75633/status/2104640602071830840/photo/1",
+          "media_key": "3_2104639970518716416",
+          "start": 36,
+          "url": "https://t.co/SqcwJNReCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104966020964528237",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104639970518716416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104640602071830840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NF8WSuPIpm75633: 終わるまでは終わらないよーん https://t.co/SqcwJNReCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3549,
+        "media_key": "3_2104639970518716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUu5v7bUAAfJec.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104639970518716416"
+          ],
+          "media_source_tweet_id": [
+            "2104640602071830840"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104966020964528237",
+        "created_at": "2026-09-29T16:06:22.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104966020964528237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790877593249742848",
+              "start": 3,
+              "username": "NF8WSuPIpm75633"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqcwJNReCp",
+              "end": 59,
+              "expanded_url": "https://x.com/NF8WSuPIpm75633/status/2104640602071830840/photo/1",
+              "media_key": "3_2104639970518716416",
+              "start": 36,
+              "url": "https://t.co/SqcwJNReCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104966020964528237",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104639970518716416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104640602071830840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NF8WSuPIpm75633: 終わるまでは終わらないよーん https://t.co/SqcwJNReCp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104639970518716416"
+          ]
+        },
+        "author_id": "1790877593249742848",
+        "conversation_id": "2104640602071830840",
+        "created_at": "2026-09-28T18:33:16.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104640602071830840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqcwJNReCp",
+              "end": 38,
+              "expanded_url": "https://x.com/NF8WSuPIpm75633/status/2104640602071830840/photo/1",
+              "media_key": "3_2104639970518716416",
+              "start": 15,
+              "url": "https://t.co/SqcwJNReCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104640602071830840",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104639970518716416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4110,
+          "like_count": 624,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "終わるまでは終わらないよーん https://t.co/SqcwJNReCp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104966028111556662",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 67128,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 4432
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-15T22:52:25.000Z",
+        "description": "手書きのイラストを投稿するアカウントです。\nあとうつ病です ジャンル雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58541487",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58541487",
+                "start": 0,
+                "url": "https://t.co/zsiVTFuXQj"
+              }
+            ]
+          }
+        },
+        "id": "1790877593249742848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104640602071830840",
+        "name": "メガネック",
+        "pinned_tweet_id": "2090290792195866947",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790877593249742848/1786769761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088489862425124864/GFMfGs9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 29,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/zsiVTFuXQj",
+        "username": "NF8WSuPIpm75633",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

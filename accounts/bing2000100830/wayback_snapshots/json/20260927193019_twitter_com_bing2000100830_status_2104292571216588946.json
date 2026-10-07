@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104292571216588946",
+    "created_at": "2026-09-27T19:30:19.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104292571216588946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959594329321943040",
+          "start": 3,
+          "username": "frzrn_k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104292571216588946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104090865904033851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frzrn_k: 君にすら求められなくなったならもうどうでもいいよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104292571216588946",
+        "created_at": "2026-09-27T19:30:19.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104292571216588946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959594329321943040",
+              "start": 3,
+              "username": "frzrn_k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104292571216588946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104090865904033851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frzrn_k: 君にすら求められなくなったならもうどうでもいいよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959594329321943040",
+        "conversation_id": "2104090865904033851",
+        "created_at": "2026-09-27T06:08:49.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104090865904033851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104090865904033851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6611,
+          "like_count": 330,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "君にすら求められなくなったならもうどうでもいいよ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104292571216588946",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66805,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4368
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-24T12:31:18.000Z",
+        "description": "独り言。",
+        "id": "1959594329321943040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104114996607348744",
+        "name": "ゅ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959594329321943040/1780749089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959612907974758400/ntgpQ1q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 13,
+          "like_count": 40053,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 2689
+        },
+        "url": "",
+        "username": "frzrn_k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

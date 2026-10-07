@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103585362719510833",
+    "created_at": "2026-09-25T20:40:07.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103585362719510833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798200063883182080",
+          "start": 3,
+          "username": "kim_alameda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103585362719510833",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103353983121428577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kim_alameda: Salimos a fumar ? Ya sabes, fumamos nos besamos y luego fingimos odiarnos como siempre"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103585362719510833",
+        "created_at": "2026-09-25T20:40:07.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103585362719510833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798200063883182080",
+              "start": 3,
+              "username": "kim_alameda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103585362719510833",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103353983121428577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kim_alameda: Salimos a fumar ? Ya sabes, fumamos nos besamos y luego fingimos odiarnos como siempre"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798200063883182080",
+        "conversation_id": "2103353983121428577",
+        "created_at": "2026-09-25T05:20:42.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103353983121428577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103353983121428577",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 17287,
+          "like_count": 1564,
+          "quote_count": 27,
+          "reply_count": 9,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "Salimos a fumar ? Ya sabes, fumamos nos besamos y luego fingimos odiarnos como siempre"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103585362719510833",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1457,
+          "like_count": 66500,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4296
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T03:48:20.000Z",
+        "description": "solo yo, una chica normal enamorada del 4loko",
+        "id": "1798200063883182080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103583130540028342",
+        "name": "kim",
+        "pinned_tweet_id": "2102409950144184826",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798200063883182080/1789486333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102864941757906944/mVOFL5PC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 42,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "kim_alameda",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105107163018309632"
+      ],
+      "media_source_tweet_id": [
+        "2105107245297987907"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105258128501834111",
+    "created_at": "2026-09-30T11:27:06.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105258128501834111"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066598372719427584",
+          "start": 3,
+          "username": "writtnbyari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1VmaT74X9",
+          "end": 49,
+          "expanded_url": "https://x.com/writtnbyari/status/2105107245297987907/video/1",
+          "media_key": "13_2105107163018309632",
+          "start": 26,
+          "url": "https://t.co/K1VmaT74X9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105258128501834111",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2105107163018309632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105107245297987907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @writtnbyari: #drugtwt https://t.co/K1VmaT74X9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36998,
+        "height": 1280,
+        "media_key": "13_2105107163018309632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105107163018309632/img/UEL5-UI-Z1p-p5bs.jpg",
+        "public_metrics": {
+          "view_count": 50301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105107163018309632/vid/avc1/320x568/UQHDZ5iqMM7Fn3Ld.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105107163018309632/vid/avc1/480x852/cBscIf_6qzaKT5gb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105107163018309632/vid/avc1/720x1280/1c3JdRyPb6oRAsLT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105107163018309632/pl/Tnz_bBgBeuP-ruYj.m3u8?v=a70"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105107163018309632"
+          ],
+          "media_source_tweet_id": [
+            "2105107245297987907"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105258128501834111",
+        "created_at": "2026-09-30T11:27:06.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105258128501834111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066598372719427584",
+              "start": 3,
+              "username": "writtnbyari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1VmaT74X9",
+              "end": 49,
+              "expanded_url": "https://x.com/writtnbyari/status/2105107245297987907/video/1",
+              "media_key": "13_2105107163018309632",
+              "start": 26,
+              "url": "https://t.co/K1VmaT74X9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105258128501834111",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2105107163018309632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105107245297987907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @writtnbyari: #drugtwt https://t.co/K1VmaT74X9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105107163018309632"
+          ]
+        },
+        "author_id": "2066598372719427584",
+        "conversation_id": "2105107245297987907",
+        "created_at": "2026-09-30T01:27:32.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105107245297987907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1VmaT74X9",
+              "end": 32,
+              "expanded_url": "https://x.com/writtnbyari/status/2105107245297987907/video/1",
+              "media_key": "13_2105107163018309632",
+              "start": 9,
+              "url": "https://t.co/K1VmaT74X9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105107245297987907",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2105107163018309632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 55445,
+          "like_count": 2118,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "#drugtwt https://t.co/K1VmaT74X9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105258128501834111",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1456,
+          "like_count": 67428,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4466
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T19:08:20.000Z",
+        "description": "— @remcqlzz .𖥔 ݁ ˖ @doggyspinkpills \ni never let them know too much,\nhate getting too emotional",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "remcqlzz"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "doggyspinkpills"
+              }
+            ]
+          }
+        },
+        "id": "2066598372719427584",
+        "is_identity_verified": false,
+        "location": "Paris ⊹ 22 ⊹ trying recovery",
+        "most_recent_tweet_id": "2105252358674378774",
+        "name": "݁ ˖ mads 𝜗𝜚",
+        "pinned_tweet_id": "2104232834558779882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066598372719427584/1790521647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104222243144249344/aon5QxlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 124,
+          "like_count": 4024,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "writtnbyari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104185697259393025"
+      ],
+      "media_source_tweet_id": [
+        "2104185706553720921"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104289331901022674",
+    "created_at": "2026-09-27T19:17:27.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104289331901022674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 35,
+          "tag": "slittwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2103837005864198144",
+          "start": 3,
+          "username": "sherylsarchieve"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJwVzqH6e6",
+          "end": 138,
+          "expanded_url": "https://x.com/sherylsarchieve/status/2104185706553720921/photo/1",
+          "media_key": "3_2104185697259393025",
+          "start": 115,
+          "url": "https://t.co/OJwVzqH6e6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104289331901022674",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104185697259393025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 399
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104185706553720921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sherylsarchieve: Blurry, hazy.\n#slittwt \n.\nNot real. Realistic sfx makeup for theatrical performance purposes. https://t.co/OJwVzqH6e6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2104185697259393025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTORvkKakAEvVu6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104185697259393025"
+          ],
+          "media_source_tweet_id": [
+            "2104185706553720921"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104289331901022674",
+        "created_at": "2026-09-27T19:17:27.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104289331901022674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "slittwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2103837005864198144",
+              "start": 3,
+              "username": "sherylsarchieve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJwVzqH6e6",
+              "end": 138,
+              "expanded_url": "https://x.com/sherylsarchieve/status/2104185706553720921/photo/1",
+              "media_key": "3_2104185697259393025",
+              "start": 115,
+              "url": "https://t.co/OJwVzqH6e6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104289331901022674",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104185697259393025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 399
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104185706553720921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sherylsarchieve: Blurry, hazy.\n#slittwt \n.\nNot real. Realistic sfx makeup for theatrical performance purposes. https://t.co/OJwVzqH6e6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104185697259393025"
+          ]
+        },
+        "author_id": "2103837005864198144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104185706553720921",
+        "created_at": "2026-09-27T12:25:40.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104185706553720921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJwVzqH6e6",
+              "end": 117,
+              "expanded_url": "https://x.com/sherylsarchieve/status/2104185706553720921/photo/1",
+              "media_key": "3_2104185697259393025",
+              "start": 94,
+              "url": "https://t.co/OJwVzqH6e6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104185706553720921",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104185697259393025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 9157,
+          "like_count": 2560,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 399
+        },
+        "reply_settings": "everyone",
+        "text": "Blurry, hazy.\n#slittwt \n.\nNot real. Realistic sfx makeup for theatrical performance purposes. https://t.co/OJwVzqH6e6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104289331901022674",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66784,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4358
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-26T13:22:23.000Z",
+        "description": "𝐬𝐤𝐢𝐧\n(𝒏) 𝐚 𝐜𝐚𝐧𝐯𝐚𝐬; 𝐭𝐡𝐞 𝐚𝐫𝐭𝐢𝐬𝐭'𝐬 𝐫𝐢𝐠𝐡𝐭 𝐭𝐨 𝐝𝐫𝐚𝐰 𝐨𝐧",
+        "id": "2103837005864198144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104260754090443235",
+        "name": "𝒔𝒉𝒆𝒓𝒚𝒍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103837005864198144/1790429447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103840054955364352/eqBb98nP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 27,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "sherylsarchieve",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

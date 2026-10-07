@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105582184656429056"
+      ],
+      "media_source_tweet_id": [
+        "2105582190419480773"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2105588079885177118",
+    "created_at": "2026-10-01T09:18:12.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105588079885177118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2040012390930972672",
+          "start": 3,
+          "username": "raincandyzu_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R85nHIhtgT",
+          "end": 42,
+          "expanded_url": "https://x.com/raincandyzu_u/status/2105582190419480773/photo/1",
+          "media_key": "3_2105582184656429056",
+          "start": 19,
+          "url": "https://t.co/R85nHIhtgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105588079885177118",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2105582184656429056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105582190419480773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @raincandyzu_u: https://t.co/R85nHIhtgT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2105582184656429056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiH11HWYAAK0St.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105582184656429056"
+          ],
+          "media_source_tweet_id": [
+            "2105582190419480773"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2105588079885177118",
+        "created_at": "2026-10-01T09:18:12.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105588079885177118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2040012390930972672",
+              "start": 3,
+              "username": "raincandyzu_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R85nHIhtgT",
+              "end": 42,
+              "expanded_url": "https://x.com/raincandyzu_u/status/2105582190419480773/photo/1",
+              "media_key": "3_2105582184656429056",
+              "start": 19,
+              "url": "https://t.co/R85nHIhtgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105588079885177118",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105582184656429056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105582190419480773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @raincandyzu_u: https://t.co/R85nHIhtgT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105582184656429056"
+          ]
+        },
+        "author_id": "2040012390930972672",
+        "conversation_id": "2105582190419480773",
+        "created_at": "2026-10-01T08:54:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105582190419480773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R85nHIhtgT",
+              "end": 23,
+              "expanded_url": "https://x.com/raincandyzu_u/status/2105582190419480773/photo/1",
+              "media_key": "3_2105582184656429056",
+              "start": 0,
+              "url": "https://t.co/R85nHIhtgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105582190419480773",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105582184656429056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 283,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/R85nHIhtgT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105588079885177118",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 67639,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4483
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T10:24:12.000Z",
+        "description": "your angel 𖹭",
+        "id": "2040012390930972672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105583776956866965",
+        "name": "☁️ ρυρ zᶻ",
+        "pinned_tweet_id": "2102808396797989245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040012390930972672/1784790789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094072924655267840/vaOo08sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 281,
+          "like_count": 12863,
+          "listed_count": 8,
+          "media_count": 412,
+          "tweet_count": 8305
+        },
+        "url": "",
+        "username": "raincandyzu_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

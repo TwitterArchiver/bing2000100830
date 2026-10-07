@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099888962836066741",
+    "created_at": "2026-09-15T15:51:57.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099888962836066741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837150160153153536",
+          "start": 3,
+          "username": "gian_cjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099888962836066741",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3078
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099261700683788404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gian_cjs: si te gusta mi voz imagínate cuando te pida llorando que por favor no me dejes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099888962836066741",
+        "created_at": "2026-09-15T15:51:57.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099888962836066741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837150160153153536",
+              "start": 3,
+              "username": "gian_cjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099888962836066741",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099261700683788404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gian_cjs: si te gusta mi voz imagínate cuando te pida llorando que por favor no me dejes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837150160153153536",
+        "conversation_id": "2099261700683788404",
+        "created_at": "2026-09-13T22:19:26.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T23:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099261700683788404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099261700683788404",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 87402,
+          "like_count": 9996,
+          "quote_count": 112,
+          "reply_count": 11,
+          "retweet_count": 3078
+        },
+        "reply_settings": "everyone",
+        "text": "si te gusta mi voz imagínate cuando te pida llorando que por favor no me dejes"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099888962836066741",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1458,
+          "like_count": 65223,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4003
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-02T03:58:46.000Z",
+        "description": "un poco narcisista // nadir.cjs 120k en ig \n@giancjs_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "giancjs_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/giancjs_?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/giancjs_?igsh=MTE2ZHV6enpqdHhtZg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UyCn5c9vv2"
+              }
+            ]
+          }
+        },
+        "id": "837150160153153536",
+        "is_identity_verified": false,
+        "location": "más allá ",
+        "most_recent_tweet_id": "2099837704854811016",
+        "name": "𝓣𝓱𝓲𝓪𝓰𝓸",
+        "pinned_tweet_id": "2047901724094947539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837150160153153536/1786125815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047874155576766464/G9h_dme0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4654,
+          "following_count": 1256,
+          "like_count": 119361,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 10859
+        },
+        "url": "https://t.co/UyCn5c9vv2",
+        "username": "gian_cjs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

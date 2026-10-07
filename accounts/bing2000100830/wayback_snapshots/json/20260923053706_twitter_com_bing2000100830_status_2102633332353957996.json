@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102633332353957996",
+    "created_at": "2026-09-23T05:37:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102633332353957996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034914036379451392",
+          "start": 3,
+          "username": "chrolluz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102633332353957996",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6812
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102376800785416505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrolluz: nao quero saber de projeto de extensao\nnao quero saber de estagio \nnao quero saber de trabalho\nnao quero saber de prova\nnao q…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102633332353957996",
+        "created_at": "2026-09-23T05:37:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102633332353957996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034914036379451392",
+              "start": 3,
+              "username": "chrolluz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102633332353957996",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102376800785416505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrolluz: nao quero saber de projeto de extensao\nnao quero saber de estagio \nnao quero saber de trabalho\nnao quero saber de prova\nnao q…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034914036379451392",
+        "conversation_id": "2102376800785416505",
+        "created_at": "2026-09-22T12:37:44.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102376800785416505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102376800785416505",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 112439,
+          "like_count": 17180,
+          "quote_count": 234,
+          "reply_count": 33,
+          "retweet_count": 6812
+        },
+        "reply_settings": "everyone",
+        "text": "nao quero saber de projeto de extensao\nnao quero saber de estagio \nnao quero saber de trabalho\nnao quero saber de prova\nnao quero saber de faculdade ."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102633332353957996",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1448,
+          "like_count": 66009,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4179
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T08:44:59.000Z",
+        "description": "",
+        "id": "2034914036379451392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102545187620733065",
+        "name": "mica capetilda",
+        "pinned_tweet_id": "2068457051601461289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034914036379451392/1780447246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034915800834768896/wdctMMrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 591,
+          "like_count": 38008,
+          "listed_count": 23,
+          "media_count": 537,
+          "tweet_count": 8448
+        },
+        "url": "",
+        "username": "chrolluz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

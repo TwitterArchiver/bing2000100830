@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101788910384771072"
+      ],
+      "media_source_tweet_id": [
+        "2101788915065577570"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102109866945130762",
+    "created_at": "2026-09-21T18:57:02.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102109866945130762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964790653621014529",
+          "start": 3,
+          "username": "tobbxxu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTYMe5xMAz",
+          "end": 86,
+          "expanded_url": "https://x.com/tobbxxu/status/2101788915065577570/photo/1",
+          "media_key": "3_2101788910384771072",
+          "start": 63,
+          "url": "https://t.co/QTYMe5xMAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102109866945130762",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2101788910384771072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17905
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101788915065577570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tobbxxu: Como me va a encontrar mi familia un día de estos https://t.co/QTYMe5xMAz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2101788910384771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsN4NRW8AAsINX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101788910384771072"
+          ],
+          "media_source_tweet_id": [
+            "2101788915065577570"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102109866945130762",
+        "created_at": "2026-09-21T18:57:02.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102109866945130762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964790653621014529",
+              "start": 3,
+              "username": "tobbxxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTYMe5xMAz",
+              "end": 86,
+              "expanded_url": "https://x.com/tobbxxu/status/2101788915065577570/photo/1",
+              "media_key": "3_2101788910384771072",
+              "start": 63,
+              "url": "https://t.co/QTYMe5xMAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102109866945130762",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101788910384771072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17905
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101788915065577570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tobbxxu: Como me va a encontrar mi familia un día de estos https://t.co/QTYMe5xMAz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101788910384771072"
+          ]
+        },
+        "author_id": "1964790653621014529",
+        "conversation_id": "2101788915065577570",
+        "created_at": "2026-09-20T21:41:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T22:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101788915065577570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTYMe5xMAz",
+              "end": 73,
+              "expanded_url": "https://x.com/tobbxxu/status/2101788915065577570/photo/1",
+              "media_key": "3_2101788910384771072",
+              "start": 50,
+              "url": "https://t.co/QTYMe5xMAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101788915065577570",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101788910384771072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2578,
+          "impression_count": 390040,
+          "like_count": 63818,
+          "quote_count": 247,
+          "reply_count": 98,
+          "retweet_count": 17905
+        },
+        "reply_settings": "everyone",
+        "text": "Como me va a encontrar mi familia un día de estos https://t.co/QTYMe5xMAz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102109866945130762",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1452,
+          "like_count": 65795,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4144
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T20:39:47.000Z",
+        "description": "el creo la depresión? 💜",
+        "id": "1964790653621014529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102098417153450391",
+        "name": "tobias",
+        "pinned_tweet_id": "2081466618828218491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964790653621014529/1766093417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098201520441298947/NoXRLAGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8060,
+          "following_count": 5403,
+          "like_count": 106127,
+          "listed_count": 84,
+          "media_count": 1504,
+          "tweet_count": 46277
+        },
+        "url": "",
+        "username": "tobbxxu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

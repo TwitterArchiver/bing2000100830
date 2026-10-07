@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1754157363446284288"
+      ],
+      "media_source_tweet_id": [
+        "1754157365920924080"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102320875966218716",
+    "created_at": "2026-09-22T08:55:30.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102320875966218716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4aBk0INoj",
+          "end": 110,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/1754157365920924080/photo/1",
+          "media_key": "3_1754157363446284288",
+          "start": 87,
+          "url": "https://t.co/W4aBk0INoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102320875966218716",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_1754157363446284288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1242
+    },
+    "referenced_tweets": [
+      {
+        "id": "1754157365920924080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: ニディガ展2（ツー）1万人ものオタクが来てくれたんだって、ありがとな！！！\n\nいい悪夢（ユメ）\n見れたかよ？🧬( ⁎ᵕᴗᵕ⁎ )🧬 https://t.co/W4aBk0INoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1754157363446284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GFgE1ABaAAA9k2Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1754157363446284288"
+          ],
+          "media_source_tweet_id": [
+            "1754157365920924080"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102320875966218716",
+        "created_at": "2026-09-22T08:55:30.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102320875966218716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4aBk0INoj",
+              "end": 110,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1754157365920924080/photo/1",
+              "media_key": "3_1754157363446284288",
+              "start": 87,
+              "url": "https://t.co/W4aBk0INoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102320875966218716",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1754157363446284288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1242
+        },
+        "referenced_tweets": [
+          {
+            "id": "1754157365920924080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: ニディガ展2（ツー）1万人ものオタクが来てくれたんだって、ありがとな！！！\n\nいい悪夢（ユメ）\n見れたかよ？🧬( ⁎ᵕᴗᵕ⁎ )🧬 https://t.co/W4aBk0INoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1754157363446284288"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "1754157365920924080",
+        "created_at": "2024-02-04T14:58:01.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2024-02-04T15:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1754157365920924080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4aBk0INoj",
+              "end": 89,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/1754157365920924080/photo/1",
+              "media_key": "3_1754157363446284288",
+              "start": 66,
+              "url": "https://t.co/W4aBk0INoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1754157365920924080",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1754157363446284288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 556288,
+          "like_count": 17191,
+          "quote_count": 138,
+          "reply_count": 50,
+          "retweet_count": 1242
+        },
+        "reply_settings": "everyone",
+        "text": "ニディガ展2（ツー）1万人ものオタクが来てくれたんだって、ありがとな！！！\n\nいい悪夢（ユメ）\n見れたかよ？🧬( ⁎ᵕᴗᵕ⁎ )🧬 https://t.co/W4aBk0INoj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102320875966218716",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1450,
+          "like_count": 65883,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4153
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2102280734350176556",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545779,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1154,
+          "media_count": 881,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102951239927705671",
+    "created_at": "2026-09-24T02:40:21.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102951239927705671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1046276611",
+          "start": 3,
+          "username": "CjrCris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102951239927705671",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102787563190976750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CjrCris: Que me costaba nacer en una familia milloneta y morir a los 27 de sobredosis!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102951239927705671",
+        "created_at": "2026-09-24T02:40:21.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102951239927705671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1046276611",
+              "start": 3,
+              "username": "CjrCris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102951239927705671",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102787563190976750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CjrCris: Que me costaba nacer en una familia milloneta y morir a los 27 de sobredosis!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1046276611",
+        "conversation_id": "2102787563190976750",
+        "created_at": "2026-09-23T15:49:57.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102787563190976750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102787563190976750",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 178676,
+          "like_count": 11533,
+          "quote_count": 32,
+          "reply_count": 22,
+          "retweet_count": 1653
+        },
+        "reply_settings": "everyone",
+        "text": "Que me costaba nacer en una familia milloneta y morir a los 27 de sobredosis!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102951239927705671",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 66039,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4192
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-29T23:30:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/@criscjr",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/@criscjr",
+                "start": 0,
+                "url": "https://t.co/uL0nAKrOJ9"
+              }
+            ]
+          }
+        },
+        "id": "1046276611",
+        "is_identity_verified": false,
+        "location": "Plottier, Argentina",
+        "most_recent_tweet_id": "2102949330013266075",
+        "name": "Cris Javi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046276611/1573186273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838221166986596352/i4RJXN1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 836,
+          "like_count": 407689,
+          "listed_count": 2,
+          "media_count": 1241,
+          "tweet_count": 32614
+        },
+        "url": "https://t.co/uL0nAKrOJ9",
+        "username": "CjrCris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

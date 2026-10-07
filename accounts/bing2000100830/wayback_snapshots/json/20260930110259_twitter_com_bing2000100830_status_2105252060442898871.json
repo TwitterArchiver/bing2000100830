@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104873458362638336"
+      ],
+      "media_source_tweet_id": [
+        "2104873464662516078"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2105252060442898871",
+    "created_at": "2026-09-30T11:02:59.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105252060442898871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031366626231332864",
+          "start": 3,
+          "username": "emunn_8888x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GgPRceVCqD",
+          "end": 69,
+          "expanded_url": "https://x.com/emunn_8888x/status/2104873464662516078/photo/1",
+          "media_key": "3_2104873458362638336",
+          "start": 46,
+          "url": "https://t.co/GgPRceVCqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105252060442898871",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104873458362638336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104873464662516078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emunn_8888x: バカ隠してるようじゃダメか。バカはね、\"魅せ\"てかないと https://t.co/GgPRceVCqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_2104873458362638336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYDQh7aYAArLY6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104873458362638336"
+          ],
+          "media_source_tweet_id": [
+            "2104873464662516078"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2105252060442898871",
+        "created_at": "2026-09-30T11:02:59.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105252060442898871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031366626231332864",
+              "start": 3,
+              "username": "emunn_8888x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgPRceVCqD",
+              "end": 69,
+              "expanded_url": "https://x.com/emunn_8888x/status/2104873464662516078/photo/1",
+              "media_key": "3_2104873458362638336",
+              "start": 46,
+              "url": "https://t.co/GgPRceVCqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105252060442898871",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104873458362638336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104873464662516078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emunn_8888x: バカ隠してるようじゃダメか。バカはね、\"魅せ\"てかないと https://t.co/GgPRceVCqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104873458362638336"
+          ]
+        },
+        "author_id": "2031366626231332864",
+        "conversation_id": "2104873464662516078",
+        "created_at": "2026-09-29T09:58:35.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104873464662516078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgPRceVCqD",
+              "end": 52,
+              "expanded_url": "https://x.com/emunn_8888x/status/2104873464662516078/photo/1",
+              "media_key": "3_2104873458362638336",
+              "start": 29,
+              "url": "https://t.co/GgPRceVCqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104873464662516078",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104873458362638336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 56872,
+          "like_count": 5366,
+          "quote_count": 71,
+          "reply_count": 6,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "バカ隠してるようじゃダメか。バカはね、\"魅せ\"てかないと https://t.co/GgPRceVCqD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105252060442898871",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 67367,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4461
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T13:49:27.000Z",
+        "description": "16歳弱者 @merry_xxoO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "merry_xxoO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mnyyo_8888x?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mnyyo_8888x?igsh=dDA1aTc0Z2t5cTlp&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/cfy7cvIibe"
+              }
+            ]
+          }
+        },
+        "id": "2031366626231332864",
+        "is_identity_verified": false,
+        "location": "なごや",
+        "most_recent_tweet_id": "2105246419682763212",
+        "name": "えむにょ",
+        "pinned_tweet_id": "2097670066691293304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031366626231332864/1773668267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076183008579887104/QKlM0w3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 469,
+          "like_count": 28403,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1239
+        },
+        "url": "https://t.co/cfy7cvIibe",
+        "username": "emunn_8888x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

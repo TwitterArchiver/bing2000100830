@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100082164419445049",
+    "created_at": "2026-09-16T04:39:40.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100082164419445049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067076065819000832",
+          "start": 3,
+          "username": "XwXr432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100082164419445049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099829180074750268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XwXr432: 今日はバイトを飛んだので〇Dしようと思います"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100082164419445049",
+        "created_at": "2026-09-16T04:39:40.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100082164419445049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067076065819000832",
+              "start": 3,
+              "username": "XwXr432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100082164419445049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099829180074750268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XwXr432: 今日はバイトを飛んだので〇Dしようと思います"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067076065819000832",
+        "conversation_id": "2099829180074750268",
+        "created_at": "2026-09-15T11:54:24.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099829180074750268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xwxr432/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xwxr432/status/2099695784564527352",
+              "start": 23,
+              "url": "https://t.co/kVsyOFZD7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099829180074750268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1479,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099695784564527352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日はバイトを飛んだので〇Dしようと思います https://t.co/kVsyOFZD7v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100082164419445049",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1457,
+          "like_count": 65271,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4019
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-17T02:46:51.000Z",
+        "description": "サブ垢▶︎ @432korosu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "432korosu"
+              }
+            ]
+          }
+        },
+        "id": "2067076065819000832",
+        "is_identity_verified": false,
+        "location": "窒息吸って寝よう",
+        "most_recent_tweet_id": "2099868587972501559",
+        "name": "窒素さん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067076065819000832/1788365329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093232466740031488/xnJL-r6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 222,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "XwXr432",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

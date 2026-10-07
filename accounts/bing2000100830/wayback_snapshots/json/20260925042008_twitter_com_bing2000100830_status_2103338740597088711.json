@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103338740597088711",
+    "created_at": "2026-09-25T04:20:08.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103338740597088711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1901429255537315840",
+          "start": 3,
+          "username": "gratiaelua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103338740597088711",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2921
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103075050215600638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gratiaelua: às vezes acho que sou uma personagem escrita por Dostoiévski que vive exausta em uma espécie de melancolia eterna"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103338740597088711",
+        "created_at": "2026-09-25T04:20:08.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103338740597088711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1901429255537315840",
+              "start": 3,
+              "username": "gratiaelua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103338740597088711",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2921
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103075050215600638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gratiaelua: às vezes acho que sou uma personagem escrita por Dostoiévski que vive exausta em uma espécie de melancolia eterna"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901429255537315840",
+        "conversation_id": "2103075050215600638",
+        "created_at": "2026-09-24T10:52:19.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103075050215600638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103075050215600638",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 87631,
+          "like_count": 8730,
+          "quote_count": 99,
+          "reply_count": 26,
+          "retweet_count": 2921
+        },
+        "reply_settings": "everyone",
+        "text": "às vezes acho que sou uma personagem escrita por Dostoiévski que vive exausta em uma espécie de melancolia eterna"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103338740597088711",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1456,
+          "like_count": 66302,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4248
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T00:24:14.000Z",
+        "description": "Católica Apostólica Romana. | 💍",
+        "id": "1901429255537315840",
+        "is_identity_verified": false,
+        "location": "1 Coríntios 13,7",
+        "most_recent_tweet_id": "2103316937929334928",
+        "name": "Luana 🇻🇦",
+        "pinned_tweet_id": "2057977467747328344",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901429255537315840/1777683188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050375408697171968/TkToxqfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 141,
+          "like_count": 1539,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "gratiaelua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

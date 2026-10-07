@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102956433537110463",
+    "created_at": "2026-09-24T03:00:59.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102956433537110463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1335749132011507712",
+          "start": 3,
+          "username": "whaattee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102956433537110463",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3834
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102714620444307725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whaattee: 젊은 나이에 한 분야에서 고점을 찍고 요절하고싶다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102956433537110463",
+        "created_at": "2026-09-24T03:00:59.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102956433537110463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1335749132011507712",
+              "start": 3,
+              "username": "whaattee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102956433537110463",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3834
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102714620444307725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whaattee: 젊은 나이에 한 분야에서 고점을 찍고 요절하고싶다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335749132011507712",
+        "conversation_id": "2102714620444307725",
+        "created_at": "2026-09-23T11:00:06.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102714620444307725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102714620444307725",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 303086,
+          "like_count": 9366,
+          "quote_count": 727,
+          "reply_count": 3,
+          "retweet_count": 3836
+        },
+        "reply_settings": "everyone",
+        "text": "젊은 나이에 한 분야에서 고점을 찍고 요절하고싶다"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102956433537110463",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1452,
+          "like_count": 66051,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4197
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-07T00:53:19.000Z",
+        "description": "뒤에 무엇이 있을지는 스스로가 정하는 것입니다 ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/whaattee",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/whaattee",
+                "start": 0,
+                "url": "https://t.co/5Zn0ee9qSw"
+              }
+            ]
+          }
+        },
+        "id": "1335749132011507712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102952388550410625",
+        "name": "메...",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742605281765490691/l1ULVyAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20708,
+          "following_count": 1466,
+          "like_count": 61289,
+          "listed_count": 25,
+          "media_count": 765,
+          "tweet_count": 54831
+        },
+        "url": "https://t.co/5Zn0ee9qSw",
+        "username": "whaattee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

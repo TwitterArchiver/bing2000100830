@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104532831460610048"
+      ],
+      "media_source_tweet_id": [
+        "2104532837303255424"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104620577382453655",
+    "created_at": "2026-09-28T17:13:42.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104620577382453655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495987382499549184",
+          "start": 3,
+          "username": "uki__bukuro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVitHfNs7J",
+          "end": 47,
+          "expanded_url": "https://x.com/uki__bukuro/status/2104532837303255424/photo/1",
+          "media_key": "3_2104532831460610048",
+          "start": 24,
+          "url": "https://t.co/KVitHfNs7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104620577382453655",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104532831460610048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104532837303255424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uki__bukuro: ちょっと縦長 https://t.co/KVitHfNs7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4094,
+        "media_key": "3_2104532831460610048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTNdb1bUAAd0rP.jpg",
+        "width": 2562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104532831460610048"
+          ],
+          "media_source_tweet_id": [
+            "2104532837303255424"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104620577382453655",
+        "created_at": "2026-09-28T17:13:42.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104620577382453655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495987382499549184",
+              "start": 3,
+              "username": "uki__bukuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVitHfNs7J",
+              "end": 47,
+              "expanded_url": "https://x.com/uki__bukuro/status/2104532837303255424/photo/1",
+              "media_key": "3_2104532831460610048",
+              "start": 24,
+              "url": "https://t.co/KVitHfNs7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104620577382453655",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104532831460610048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104532837303255424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uki__bukuro: ちょっと縦長 https://t.co/KVitHfNs7J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104532831460610048"
+          ]
+        },
+        "author_id": "1495987382499549184",
+        "conversation_id": "2104532837303255424",
+        "created_at": "2026-09-28T11:25:03.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104532837303255424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVitHfNs7J",
+              "end": 30,
+              "expanded_url": "https://x.com/uki__bukuro/status/2104532837303255424/photo/1",
+              "media_key": "3_2104532831460610048",
+              "start": 7,
+              "url": "https://t.co/KVitHfNs7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104532837303255424",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104532831460610048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3947,
+          "like_count": 504,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと縦長 https://t.co/KVitHfNs7J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104620577382453655",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1455,
+          "like_count": 66913,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4383
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-22T05:05:51.000Z",
+        "description": "illustrator│厚塗り│skeb▶ https://t.co/ry7mo45ndW│お仕事10月上旬以降納期のもの受付中│ご連絡はDMまたはメールから│✉️▶ uki.zono04★https://t.co/v6J736DZUg │返信が3日以上無い場合お手数ですかもう一度お問い合わせください│AI学習・無断使用有償",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uki__bukuro",
+                "end": 45,
+                "expanded_url": "https://skeb.jp/@uki__bukuro",
+                "start": 22,
+                "url": "https://t.co/ry7mo45ndW"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 118,
+                "expanded_url": "http://gmail.com",
+                "start": 95,
+                "url": "https://t.co/v6J736DZUg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/55966185",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/55966185",
+                "start": 0,
+                "url": "https://t.co/U7f29t0urr"
+              }
+            ]
+          }
+        },
+        "id": "1495987382499549184",
+        "is_identity_verified": false,
+        "location": "暗黒堕天使の集い",
+        "most_recent_tweet_id": "2104592310109692352",
+        "name": "雨季園/ukizono",
+        "pinned_tweet_id": "2061406806946271473",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495987382499549184/1775738710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358969073020928/47e8UtlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17244,
+          "following_count": 525,
+          "like_count": 23789,
+          "listed_count": 128,
+          "media_count": 446,
+          "tweet_count": 14237
+        },
+        "url": "https://t.co/U7f29t0urr",
+        "username": "uki__bukuro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103588931271004254",
+    "created_at": "2026-09-25T20:54:18.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103588931271004254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1706457128121368576",
+          "start": 3,
+          "username": "a3dyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103588931271004254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103462282412130800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a3dyg: つらくて苦しいだけの人生、興味関心どんどん減ってく。つまらない嫌なことばかりの人生。早く死にたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103588931271004254",
+        "created_at": "2026-09-25T20:54:18.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103588931271004254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1706457128121368576",
+              "start": 3,
+              "username": "a3dyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103588931271004254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103462282412130800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a3dyg: つらくて苦しいだけの人生、興味関心どんどん減ってく。つまらない嫌なことばかりの人生。早く死にたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706457128121368576",
+        "conversation_id": "2103462282412130800",
+        "created_at": "2026-09-25T12:31:03.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103462282412130800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103462282412130800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4830,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "つらくて苦しいだけの人生、興味関心どんどん減ってく。つまらない嫌なことばかりの人生。早く死にたい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103588931271004254",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1458,
+          "like_count": 66518,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4302
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-25T23:54:26.000Z",
+        "description": "02鬱病\n@nnmni02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "nnmni02"
+              }
+            ]
+          }
+        },
+        "id": "1706457128121368576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103480406024827205",
+        "name": "a",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029122177052884993/IbIMi2gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 9,
+          "like_count": 7610,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "a3dyg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

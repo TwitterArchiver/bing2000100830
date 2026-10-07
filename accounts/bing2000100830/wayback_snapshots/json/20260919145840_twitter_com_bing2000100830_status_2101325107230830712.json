@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101323892149338112"
+      ],
+      "media_source_tweet_id": [
+        "2101324193585582278"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101325107230830712",
+    "created_at": "2026-09-19T14:58:40.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101325107230830712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "985557566640934912",
+          "start": 3,
+          "username": "yamikawa02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNPCFpNSPF",
+          "end": 51,
+          "expanded_url": "https://x.com/yamikawa02/status/2101324193585582278/photo/1",
+          "media_key": "3_2101323892149338112",
+          "start": 28,
+          "url": "https://t.co/wNPCFpNSPF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101325107230830712",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101323892149338112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101324193585582278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamikawa02: 躁鬱だけど任せとけー！ https://t.co/wNPCFpNSPF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2101323892149338112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlm8lWaQAAEdWo.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101323892149338112"
+          ],
+          "media_source_tweet_id": [
+            "2101324193585582278"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101325107230830712",
+        "created_at": "2026-09-19T14:58:40.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101325107230830712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "985557566640934912",
+              "start": 3,
+              "username": "yamikawa02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNPCFpNSPF",
+              "end": 51,
+              "expanded_url": "https://x.com/yamikawa02/status/2101324193585582278/photo/1",
+              "media_key": "3_2101323892149338112",
+              "start": 28,
+              "url": "https://t.co/wNPCFpNSPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101325107230830712",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101323892149338112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101324193585582278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamikawa02: 躁鬱だけど任せとけー！ https://t.co/wNPCFpNSPF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101323892149338112"
+          ]
+        },
+        "author_id": "985557566640934912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101324193585582278",
+        "created_at": "2026-09-19T14:55:03.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101324193585582278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNPCFpNSPF",
+              "end": 35,
+              "expanded_url": "https://x.com/yamikawa02/status/2101324193585582278/photo/1",
+              "media_key": "3_2101323892149338112",
+              "start": 12,
+              "url": "https://t.co/wNPCFpNSPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101324193585582278",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101323892149338112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "躁鬱だけど任せとけー！ https://t.co/wNPCFpNSPF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101325107230830712",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1451,
+          "like_count": 65463,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4063
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-15T16:36:49.000Z",
+        "description": "壊れちゃったᜊ♡ᜊ||光のない夜の世界に住んでいる||コミュ障||ゲーム魔||ニディガ好き||大好きな推し→ぜぜちゃん(@zz_zeze2)♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "zz_zeze2"
+              }
+            ]
+          }
+        },
+        "id": "985557566640934912",
+        "is_identity_verified": false,
+        "location": "悪夢",
+        "most_recent_tweet_id": "2101324193585582278",
+        "name": "ヤミ",
+        "pinned_tweet_id": "2021931183563845920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985557566640934912/1759726218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041326937440931840/aqUrHHBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 443,
+          "like_count": 53174,
+          "listed_count": 12,
+          "media_count": 4672,
+          "tweet_count": 19663
+        },
+        "url": "",
+        "username": "yamikawa02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

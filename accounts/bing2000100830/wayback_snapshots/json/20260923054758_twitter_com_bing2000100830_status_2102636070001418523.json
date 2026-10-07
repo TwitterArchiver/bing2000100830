@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102636070001418523",
+    "created_at": "2026-09-23T05:47:58.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102636070001418523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035342407777263616",
+          "start": 3,
+          "username": "bvectorx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102636070001418523",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102270758235889821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bvectorx3: im in class and i wanna hang myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102636070001418523",
+        "created_at": "2026-09-23T05:47:58.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102636070001418523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035342407777263616",
+              "start": 3,
+              "username": "bvectorx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102636070001418523",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102270758235889821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bvectorx3: im in class and i wanna hang myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035342407777263616",
+        "conversation_id": "2102270758235889821",
+        "created_at": "2026-09-22T05:36:21.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102270758235889821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102270758235889821",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7593,
+          "like_count": 1028,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "im in class and i wanna hang myself"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102636070001418523",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1449,
+          "like_count": 66005,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4182
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T13:07:05.000Z",
+        "description": "no one special just a loser.\n\nhttps://t.co/JIeWhPp68O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/f2cAHw7E9E",
+                "end": 53,
+                "expanded_url": "https://discord.gg/f2cAHw7E9E",
+                "start": 30,
+                "url": "https://t.co/JIeWhPp68O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vvectorx3.straw.page",
+                "end": 23,
+                "expanded_url": "https://vvectorx3.straw.page",
+                "start": 0,
+                "url": "https://t.co/xFTXkLqEoE"
+              }
+            ]
+          }
+        },
+        "id": "2035342407777263616",
+        "is_identity_verified": false,
+        "location": "ill die alone with my xanns",
+        "most_recent_tweet_id": "2102635973616263665",
+        "name": "bv3ctor ★",
+        "pinned_tweet_id": "2092971024639815746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035342407777263616/1789126602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090980111365320704/b0Zquop3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 369,
+          "like_count": 14424,
+          "listed_count": 15,
+          "media_count": 277,
+          "tweet_count": 4764
+        },
+        "url": "https://t.co/xFTXkLqEoE",
+        "username": "bvectorx3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

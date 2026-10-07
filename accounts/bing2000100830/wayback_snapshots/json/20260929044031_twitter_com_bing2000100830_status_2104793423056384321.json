@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2093034701024104702",
+    "created_at": "2026-09-29T04:40:31.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104793423056384321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1152753946873741316",
+          "start": 0,
+          "username": "Majiang19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104793423056384321",
+    "in_reply_to_user_id": "1152753946873741316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093034701024104702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Majiang19171107 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093034697991565312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvz9-xasAAzeHk.jpg",
+        "width": 1670
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093034697899282432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvz9-bakAAgUxP.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2093034701024104702",
+        "created_at": "2026-09-29T04:40:31.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104793423056384321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1152753946873741316",
+              "start": 0,
+              "username": "Majiang19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104793423056384321",
+        "in_reply_to_user_id": "1152753946873741316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093034701024104702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Majiang19171107 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093034697991565312",
+            "3_2093034697899282432"
+          ]
+        },
+        "author_id": "1152753946873741316",
+        "conversation_id": "2093034701024104702",
+        "created_at": "2026-08-27T17:55:34.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093034701024104702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPpaz1zBSL",
+              "end": 132,
+              "expanded_url": "https://x.com/Majiang19171107/status/2093034701024104702/photo/1",
+              "media_key": "3_2093034697991565312",
+              "start": 109,
+              "url": "https://t.co/UPpaz1zBSL"
+            },
+            {
+              "display_url": "pic.x.com/UPpaz1zBSL",
+              "end": 132,
+              "expanded_url": "https://x.com/Majiang19171107/status/2093034701024104702/photo/1",
+              "media_key": "3_2093034697899282432",
+              "start": 109,
+              "url": "https://t.co/UPpaz1zBSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093034701024104702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093034697991565312"
+          },
+          {
+            "media_key": "3_2093034697899282432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试了荒木风格的三岛由纪夫。\n仔细想想，用荒木风画三岛也是件很荒诞的事情了。就我个人感觉而言，这两人不管在立场、美学观、死亡观还是思想内核上都恰好各居于天平的两端，此类内容与形式相割裂的做法或许不失为一次有趣的试验。 https://t.co/UPpaz1zBSL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104793423056384321",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1457,
+          "like_count": 67047,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 4421
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-21T01:35:32.000Z",
+        "description": "火花、願望、夕方、快晴",
+        "id": "1152753946873741316",
+        "is_identity_verified": false,
+        "location": "LEO",
+        "most_recent_tweet_id": "2104776046667350142",
+        "name": "麻酱不是酱（足立区北千住駅前観測所）",
+        "pinned_tweet_id": "2008938324116017167",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152753946873741316/1760550939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978520156260466691/IBsqpqLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 935,
+          "like_count": 17807,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "Majiang19171107",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

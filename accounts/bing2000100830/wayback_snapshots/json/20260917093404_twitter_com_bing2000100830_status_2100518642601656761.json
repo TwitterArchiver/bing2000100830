@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100518642601656761",
+    "created_at": "2026-09-17T09:34:04.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100518642601656761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1196941729523306496",
+          "start": 3,
+          "username": "s8tan_____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100518642601656761",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1934
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099961771419140341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s8tan_____: mucha prevención del suicidio pero le tiran mierda a la gente q se droga, q se medica o q va al psiquiatra"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100518642601656761",
+        "created_at": "2026-09-17T09:34:04.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100518642601656761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1196941729523306496",
+              "start": 3,
+              "username": "s8tan_____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100518642601656761",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1934
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099961771419140341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s8tan_____: mucha prevención del suicidio pero le tiran mierda a la gente q se droga, q se medica o q va al psiquiatra"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196941729523306496",
+        "conversation_id": "2099961771419140341",
+        "created_at": "2026-09-15T20:41:16.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099961771419140341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099961771419140341",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 72603,
+          "like_count": 8653,
+          "quote_count": 64,
+          "reply_count": 21,
+          "retweet_count": 1934
+        },
+        "reply_settings": "everyone",
+        "text": "mucha prevención del suicidio pero le tiran mierda a la gente q se droga, q se medica o q va al psiquiatra"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100518642601656761",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1454,
+          "like_count": 65269,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4041
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-20T00:02:22.000Z",
+        "description": "wir teilen ein schweigen, nichts weiter",
+        "id": "1196941729523306496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100356371648516401",
+        "name": "broken shell of a man",
+        "pinned_tweet_id": "1936939807055196277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196941729523306496/1789531517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100073403919056897/wng0hyYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 731,
+          "like_count": 130998,
+          "listed_count": 1,
+          "media_count": 1031,
+          "tweet_count": 43637
+        },
+        "url": "",
+        "username": "s8tan_____",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

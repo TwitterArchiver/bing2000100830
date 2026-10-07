@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101354676776255902",
+    "created_at": "2026-09-19T16:56:10.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101354676776255902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519542044607365121",
+          "start": 3,
+          "username": "ifwaifu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101354676776255902",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1521
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100978349728239818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ifwaifu: ideia de date: mostro foto mulher pelada e se ele ficar de pau duro mato elr com um tiro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101354676776255902",
+        "created_at": "2026-09-19T16:56:10.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101354676776255902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519542044607365121",
+              "start": 3,
+              "username": "ifwaifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101354676776255902",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1521
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100978349728239818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ifwaifu: ideia de date: mostro foto mulher pelada e se ele ficar de pau duro mato elr com um tiro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519542044607365121",
+        "conversation_id": "2100978349728239818",
+        "created_at": "2026-09-18T16:00:47.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100978349728239818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100978349728239818",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 192230,
+          "like_count": 14241,
+          "quote_count": 78,
+          "reply_count": 46,
+          "retweet_count": 1521
+        },
+        "reply_settings": "everyone",
+        "text": "ideia de date: mostro foto mulher pelada e se ele ficar de pau duro mato elr com um tiro"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101354676776255902",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1452,
+          "like_count": 65491,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T05:00:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ifwaifu?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ifwaifu?igsh=MXg4dHRyaDB3ejNxdg==",
+                "start": 0,
+                "url": "https://t.co/g7Ud7xRtnw"
+              }
+            ]
+          }
+        },
+        "id": "1519542044607365121",
+        "is_identity_verified": false,
+        "location": "@oxoxpombo♡",
+        "most_recent_tweet_id": "2101335179562201506",
+        "name": "𐔌 . ⋮ ray .ᐟ ֹ ₊ ꒱",
+        "pinned_tweet_id": "2069647949697622468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519542044607365121/1788113583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094126265301168128/IDSKS0l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 249,
+          "like_count": 43595,
+          "listed_count": 1,
+          "media_count": 2934,
+          "tweet_count": 37613
+        },
+        "url": "https://t.co/g7Ud7xRtnw",
+        "username": "ifwaifu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104570339825164593",
+    "created_at": "2026-09-28T13:54:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104570339825164593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2094147642678972417",
+          "start": 3,
+          "username": "nfxeq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104570339825164593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104238610941923630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nfxeq_: あと半年で17歳になるんだけど、17歳で死ぬの\"テンプレ\"すぎるから絶対に死にたくない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104570339825164593",
+        "created_at": "2026-09-28T13:54:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104570339825164593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2094147642678972417",
+              "start": 3,
+              "username": "nfxeq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104570339825164593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104238610941923630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nfxeq_: あと半年で17歳になるんだけど、17歳で死ぬの\"テンプレ\"すぎるから絶対に死にたくない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094147642678972417",
+        "conversation_id": "2104238610941923630",
+        "created_at": "2026-09-27T15:55:54.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104238610941923630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104238610941923630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 26797,
+          "like_count": 2059,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "あと半年で17歳になるんだけど、17歳で死ぬの\"テンプレ\"すぎるから絶対に死にたくない"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104570339825164593",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 66869,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4378
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T19:41:08.000Z",
+        "description": "君と僕の境界線 超えて会いにきてよ",
+        "id": "2094147642678972417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104550372216070200",
+        "name": "希う",
+        "pinned_tweet_id": "2099062318818787718",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099033523030294528/puaDFa7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 185,
+          "like_count": 3148,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "nfxeq_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

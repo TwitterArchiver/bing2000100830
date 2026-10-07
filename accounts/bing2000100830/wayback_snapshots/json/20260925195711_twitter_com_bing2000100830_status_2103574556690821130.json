@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103574556690821130",
+    "created_at": "2026-09-25T19:57:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103574556690821130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442567381956526082",
+          "start": 3,
+          "username": "ev_gmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103574556690821130",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4907
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103418898557350365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ev_gmr: Tenho 19 anos.\nConsegui ir a semana toda pra faculdade.\nSem pais ricos.\nSem sorte.\nEu estabeleci uma meta e alcancei. https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103418880144121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDYU7zXIAAm8yF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103574556690821130",
+        "created_at": "2026-09-25T19:57:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103574556690821130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442567381956526082",
+              "start": 3,
+              "username": "ev_gmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103574556690821130",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4907
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103418898557350365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ev_gmr: Tenho 19 anos.\nConsegui ir a semana toda pra faculdade.\nSem pais ricos.\nSem sorte.\nEu estabeleci uma meta e alcancei. https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103418880144121856"
+          ]
+        },
+        "author_id": "1442567381956526082",
+        "conversation_id": "2103418898557350365",
+        "created_at": "2026-09-25T09:38:39.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103418898557350365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4k4QnoFHB",
+              "end": 141,
+              "expanded_url": "https://x.com/ev_gmr/status/2103418898557350365/photo/1",
+              "media_key": "3_2103418880144121856",
+              "start": 118,
+              "url": "https://t.co/u4k4QnoFHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103418898557350365",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2103418880144121856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 806,
+          "impression_count": 285500,
+          "like_count": 39185,
+          "quote_count": 633,
+          "reply_count": 211,
+          "retweet_count": 4907
+        },
+        "reply_settings": "everyone",
+        "text": "Tenho 19 anos.\nConsegui ir a semana toda pra faculdade.\nSem pais ricos.\nSem sorte.\nEu estabeleci uma meta e alcancei. https://t.co/u4k4QnoFHB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103574556690821130",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1456,
+          "like_count": 66488,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4289
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T19:11:06.000Z",
+        "description": "AAAAAAAAAAAAAAAAAAAAAAAA",
+        "id": "1442567381956526082",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103542950684696977",
+        "name": "evynn",
+        "pinned_tweet_id": "2082614883351245158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442567381956526082/1684710948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865714584364937216/_AFVPgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 149,
+          "like_count": 28012,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 4991
+        },
+        "url": "",
+        "username": "ev_gmr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

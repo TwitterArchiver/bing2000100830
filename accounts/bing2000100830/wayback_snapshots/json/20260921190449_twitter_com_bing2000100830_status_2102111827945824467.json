@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101821433441841153"
+      ],
+      "media_source_tweet_id": [
+        "2101821439871713332"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2102111827945824467",
+    "created_at": "2026-09-21T19:04:49.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102111827945824467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090044790838882304",
+          "start": 3,
+          "username": "0208_mnk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/653birsGX5",
+          "end": 63,
+          "expanded_url": "https://x.com/0208_mnk/status/2101821439871713332/photo/1",
+          "media_key": "3_2101821433441841153",
+          "start": 40,
+          "url": "https://t.co/653birsGX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102111827945824467",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101821433441841153"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101821439871713332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0208_mnk: 中学の頃の私公園のベンチでメジコン○Dしてて終わり https://t.co/653birsGX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2101821433441841153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsrdTGacAE0WA7.jpg",
+        "width": 1790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101821433441841153"
+          ],
+          "media_source_tweet_id": [
+            "2101821439871713332"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2102111827945824467",
+        "created_at": "2026-09-21T19:04:49.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102111827945824467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090044790838882304",
+              "start": 3,
+              "username": "0208_mnk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/653birsGX5",
+              "end": 63,
+              "expanded_url": "https://x.com/0208_mnk/status/2101821439871713332/photo/1",
+              "media_key": "3_2101821433441841153",
+              "start": 40,
+              "url": "https://t.co/653birsGX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102111827945824467",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101821433441841153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101821439871713332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0208_mnk: 中学の頃の私公園のベンチでメジコン○Dしてて終わり https://t.co/653birsGX5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101821433441841153"
+          ]
+        },
+        "author_id": "2090044790838882304",
+        "conversation_id": "2101821439871713332",
+        "created_at": "2026-09-20T23:50:55.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101821439871713332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/653birsGX5",
+              "end": 49,
+              "expanded_url": "https://x.com/0208_mnk/status/2101821439871713332/photo/1",
+              "media_key": "3_2101821433441841153",
+              "start": 26,
+              "url": "https://t.co/653birsGX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101821439871713332",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101821433441841153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5670,
+          "like_count": 326,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中学の頃の私公園のベンチでメジコン○Dしてて終わり https://t.co/653birsGX5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102111827945824467",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1452,
+          "like_count": 65817,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4147
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:58:01.000Z",
+        "description": "15さい(11世代)｜インスタID：ree020.8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/0208_mnk",
+                "end": 23,
+                "expanded_url": "http://lit.link/0208_mnk",
+                "start": 0,
+                "url": "https://t.co/6YYcfMI7if"
+              }
+            ]
+          }
+        },
+        "id": "2090044790838882304",
+        "is_identity_verified": false,
+        "location": "SO-SOファンです‼️",
+        "most_recent_tweet_id": "2102111364756255133",
+        "name": "れィ",
+        "pinned_tweet_id": "2101530327529460072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090044790838882304/1787141237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098719973724291072/MC_EYeL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 30,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/6YYcfMI7if",
+        "username": "0208_mnk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

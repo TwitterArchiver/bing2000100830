@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101688972816633856"
+      ],
+      "media_source_tweet_id": [
+        "2101688977073815857"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2101941068027818061",
+    "created_at": "2026-09-21T07:46:17.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T08:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101941068027818061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1912411999243288577",
+          "start": 3,
+          "username": "bebemahoshojo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXMR7TGK9v",
+          "end": 71,
+          "expanded_url": "https://x.com/bebemahoshojo/status/2101688977073815857/photo/1",
+          "media_key": "3_2101688972816633856",
+          "start": 48,
+          "url": "https://t.co/VXMR7TGK9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101941068027818061",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2101688972816633856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101688977073815857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bebemahoshojo: Yo solo quería esto contigo. https://t.co/VXMR7TGK9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2101688972816633856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqy_E0XUAA-krZ.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101688972816633856"
+          ],
+          "media_source_tweet_id": [
+            "2101688977073815857"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2101941068027818061",
+        "created_at": "2026-09-21T07:46:17.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101941068027818061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1912411999243288577",
+              "start": 3,
+              "username": "bebemahoshojo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXMR7TGK9v",
+              "end": 71,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2101688977073815857/photo/1",
+              "media_key": "3_2101688972816633856",
+              "start": 48,
+              "url": "https://t.co/VXMR7TGK9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101941068027818061",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101688972816633856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101688977073815857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bebemahoshojo: Yo solo quería esto contigo. https://t.co/VXMR7TGK9v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101688972816633856"
+          ]
+        },
+        "author_id": "1912411999243288577",
+        "conversation_id": "2101688977073815857",
+        "created_at": "2026-09-20T15:04:34.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101688977073815857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXMR7TGK9v",
+              "end": 52,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2101688977073815857/photo/1",
+              "media_key": "3_2101688972816633856",
+              "start": 29,
+              "url": "https://t.co/VXMR7TGK9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101688977073815857",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101688972816633856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 10482,
+          "like_count": 1371,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "Yo solo quería esto contigo. https://t.co/VXMR7TGK9v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2101941068027818061",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1451,
+          "like_count": 65758,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4128
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-16T07:46:24.000Z",
+        "description": "Vince Gilligan se inspiró en mí para crear al personaje de Carol Sturka.\nHomurista y Sayakista de corazón.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "markitten.straw.page",
+                "end": 23,
+                "expanded_url": "https://markitten.straw.page/",
+                "start": 0,
+                "url": "https://t.co/MRrtTVlehv"
+              }
+            ]
+          }
+        },
+        "id": "1912411999243288577",
+        "is_identity_verified": false,
+        "location": "Español/English/Português",
+        "most_recent_tweet_id": "2101901000646754788",
+        "name": "Marquito Sturka",
+        "pinned_tweet_id": "2097144479379571005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912411999243288577/1788523838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101187982380212224/oTdSTKCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 821,
+          "like_count": 36559,
+          "listed_count": 3,
+          "media_count": 928,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/MRrtTVlehv",
+        "username": "bebemahoshojo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

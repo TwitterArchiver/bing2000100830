@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104972139581648937",
+    "created_at": "2026-09-29T16:30:41.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T17:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104972139581648937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1712537778028756992",
+          "start": 3,
+          "username": "KittyH3lloxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104972139581648937",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104707901461807484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KittyH3lloxx_: Gente, cuál consideran que es su fantasía más rara? Yo empiezo, cortarnos mientras cogemos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104972139581648937",
+        "created_at": "2026-09-29T16:30:41.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104972139581648937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712537778028756992",
+              "start": 3,
+              "username": "KittyH3lloxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104972139581648937",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104707901461807484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KittyH3lloxx_: Gente, cuál consideran que es su fantasía más rara? Yo empiezo, cortarnos mientras cogemos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712537778028756992",
+        "conversation_id": "2104707901461807484",
+        "created_at": "2026-09-28T23:00:41.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T00:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104707901461807484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104707901461807484",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 48089,
+          "like_count": 1874,
+          "quote_count": 42,
+          "reply_count": 85,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "Gente, cuál consideran que es su fantasía más rara? Yo empiezo, cortarnos mientras cogemos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104972139581648937",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1458,
+          "like_count": 67150,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 4436
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T18:36:55.000Z",
+        "description": "In my restless dreams I see that town... silent hill. \n#shtwt | #obstwt | #edtwt | #sicklovetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 55,
+                "tag": "shtwt"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "obstwt"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "edtwt"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "sicklovetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kitty.h3lloxx_/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kitty.h3lloxx_/",
+                "start": 0,
+                "url": "https://t.co/xTtL78Wxf5"
+              }
+            ]
+          }
+        },
+        "id": "1712537778028756992",
+        "is_identity_verified": false,
+        "location": "cementerio | she | 18",
+        "most_recent_tweet_id": "2104790522367742131",
+        "name": "Kitty!",
+        "pinned_tweet_id": "2052424967455691128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712537778028756992/1784963545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052586293196890113/MeeMvbET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 596,
+          "like_count": 8713,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/xTtL78Wxf5",
+        "username": "KittyH3lloxx_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

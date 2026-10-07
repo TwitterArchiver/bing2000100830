@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2106079928987127830",
+    "created_at": "2026-10-02T17:52:38.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106079928987127830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1987708954185723904",
+          "start": 3,
+          "username": "sexlarper29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106079928987127830",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105789458708578327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sexlarper29: Ideia de date:\n\nVc me abraça com força e faz cafuné no meu cabelo enquanto diz que não tem nada de errado comigo enquanto…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2106079928987127830",
+        "created_at": "2026-10-02T17:52:38.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106079928987127830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1987708954185723904",
+              "start": 3,
+              "username": "sexlarper29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106079928987127830",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105789458708578327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sexlarper29: Ideia de date:\n\nVc me abraça com força e faz cafuné no meu cabelo enquanto diz que não tem nada de errado comigo enquanto…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987708954185723904",
+        "conversation_id": "2105789458708578327",
+        "created_at": "2026-10-01T22:38:25.000Z",
+        "display_text_range": [
+          0,
+          216
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T23:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105789458708578327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105789458708578327",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 28944,
+          "like_count": 3532,
+          "quote_count": 36,
+          "reply_count": 10,
+          "retweet_count": 1231
+        },
+        "reply_settings": "everyone",
+        "text": "Ideia de date:\n\nVc me abraça com força e faz cafuné no meu cabelo enquanto diz que não tem nada de errado comigo enquanto eu choro até dormir e quando vc perceber q eu dormi vc se deita comigo e dormimos agarradinhos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106079928987127830",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1453,
+          "like_count": 67951,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4499
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T02:28:50.000Z",
+        "description": "¯\\_(ツ)_/¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cgkaiserirl.straw.page",
+                "end": 23,
+                "expanded_url": "https://cgkaiserirl.straw.page",
+                "start": 0,
+                "url": "https://t.co/wNHXiYDhYl"
+              }
+            ]
+          }
+        },
+        "id": "1987708954185723904",
+        "is_identity_verified": false,
+        "location": "⚣",
+        "most_recent_tweet_id": "2106063331282899334",
+        "name": "caio kaiser",
+        "pinned_tweet_id": "2103706430058676427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987708954185723904/1789606875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100392530537844736/65jbzcFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 289,
+          "like_count": 13136,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 8177
+        },
+        "url": "https://t.co/wNHXiYDhYl",
+        "username": "sexlarper29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

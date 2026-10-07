@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103194244370649584",
+    "created_at": "2026-09-24T18:45:57.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103194244370649584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1381208755",
+          "start": 3,
+          "username": "sarfazee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103194244370649584",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2984
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103067071466836390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sarfazee: nggak bunuh diri aja udah sebuah pencapaian besar buat gw."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103194244370649584",
+        "created_at": "2026-09-24T18:45:57.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103194244370649584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1381208755",
+              "start": 3,
+              "username": "sarfazee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103194244370649584",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103067071466836390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sarfazee: nggak bunuh diri aja udah sebuah pencapaian besar buat gw."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381208755",
+        "conversation_id": "2103067071466836390",
+        "created_at": "2026-09-24T10:20:37.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103067071466836390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cowosukamatcha…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/cowosukamatcha/status/2103030783355257140",
+              "start": 59,
+              "url": "https://t.co/zKcAcF0uDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103067071466836390",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 111685,
+          "like_count": 6880,
+          "quote_count": 63,
+          "reply_count": 36,
+          "retweet_count": 2984
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103030783355257140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nggak bunuh diri aja udah sebuah pencapaian besar buat gw. https://t.co/zKcAcF0uDc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103194244370649584",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1453,
+          "like_count": 66155,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4216
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-26T06:09:11.000Z",
+        "description": "her world calls me mom✨",
+        "id": "1381208755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103149210799661560",
+        "name": "sarah",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381208755/1780755964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072544634098864129/EeoXE7-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4986,
+          "following_count": 4565,
+          "like_count": 47508,
+          "listed_count": 1,
+          "media_count": 667,
+          "tweet_count": 57599
+        },
+        "url": "",
+        "username": "sarfazee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

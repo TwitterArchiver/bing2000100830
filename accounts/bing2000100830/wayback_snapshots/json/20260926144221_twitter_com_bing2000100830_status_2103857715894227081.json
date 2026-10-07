@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103627644369846272"
+      ],
+      "media_source_tweet_id": [
+        "2103627648593506459"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2103857715894227081",
+    "created_at": "2026-09-26T14:42:21.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103857715894227081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2097251510564622336",
+          "start": 3,
+          "username": "THEPELUDITO13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRLjt45SAl",
+          "end": 99,
+          "expanded_url": "https://x.com/THEPELUDITO13/status/2103627648593506459/photo/1",
+          "media_key": "3_2103627644369846272",
+          "start": 76,
+          "url": "https://t.co/aRLjt45SAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103857715894227081",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2103627644369846272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103627648593506459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @THEPELUDITO13: Que hermoso día fue ese.\n\nFake no real Make-up HALLOWEEN https://t.co/aRLjt45SAl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103627644369846272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGWMnJbQAAXLMY.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103627644369846272"
+          ],
+          "media_source_tweet_id": [
+            "2103627648593506459"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2103857715894227081",
+        "created_at": "2026-09-26T14:42:21.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103857715894227081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2097251510564622336",
+              "start": 3,
+              "username": "THEPELUDITO13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRLjt45SAl",
+              "end": 99,
+              "expanded_url": "https://x.com/THEPELUDITO13/status/2103627648593506459/photo/1",
+              "media_key": "3_2103627644369846272",
+              "start": 76,
+              "url": "https://t.co/aRLjt45SAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103857715894227081",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2103627644369846272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103627648593506459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @THEPELUDITO13: Que hermoso día fue ese.\n\nFake no real Make-up HALLOWEEN https://t.co/aRLjt45SAl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103627644369846272"
+          ]
+        },
+        "author_id": "2097251510564622336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2103627648593506459",
+        "created_at": "2026-09-25T23:28:09.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103627648593506459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRLjt45SAl",
+              "end": 80,
+              "expanded_url": "https://x.com/THEPELUDITO13/status/2103627648593506459/photo/1",
+              "media_key": "3_2103627644369846272",
+              "start": 57,
+              "url": "https://t.co/aRLjt45SAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103627648593506459",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2103627644369846272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 5460,
+          "like_count": 1269,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "Que hermoso día fue ese.\n\nFake no real Make-up HALLOWEEN https://t.co/aRLjt45SAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103857715894227081",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1454,
+          "like_count": 66577,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-08T09:13:57.000Z",
+        "description": "Que dolor que siento cuando mis palabras no llegan a escucharse",
+        "id": "2097251510564622336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103789714960716093",
+        "name": "LASTPELUDITO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097251510564622336/1788859500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097252277648269312/QUGtTzyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 25,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "THEPELUDITO13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

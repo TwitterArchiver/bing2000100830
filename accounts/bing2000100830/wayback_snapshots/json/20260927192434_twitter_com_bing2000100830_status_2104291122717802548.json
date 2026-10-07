@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104108241399451648"
+      ],
+      "media_source_tweet_id": [
+        "2104108246252339243"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2104291122717802548",
+    "created_at": "2026-09-27T19:24:34.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104291122717802548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1651129186252124160",
+          "start": 3,
+          "username": "sup_bbgirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gx7AO9oyb3",
+          "end": 75,
+          "expanded_url": "https://x.com/sup_bbgirl/status/2104108246252339243/photo/1",
+          "media_key": "3_2104108241399451648",
+          "start": 52,
+          "url": "https://t.co/Gx7AO9oyb3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104291122717802548",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104108241399451648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104108246252339243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sup_bbgirl: 04/08/2023\n\nsfx makeup AI generated https://t.co/Gx7AO9oyb3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2104108241399451648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNLTCmWEAAWe96.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104108241399451648"
+          ],
+          "media_source_tweet_id": [
+            "2104108246252339243"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2104291122717802548",
+        "created_at": "2026-09-27T19:24:34.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104291122717802548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1651129186252124160",
+              "start": 3,
+              "username": "sup_bbgirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx7AO9oyb3",
+              "end": 75,
+              "expanded_url": "https://x.com/sup_bbgirl/status/2104108246252339243/photo/1",
+              "media_key": "3_2104108241399451648",
+              "start": 52,
+              "url": "https://t.co/Gx7AO9oyb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104291122717802548",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104108241399451648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104108246252339243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sup_bbgirl: 04/08/2023\n\nsfx makeup AI generated https://t.co/Gx7AO9oyb3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104108241399451648"
+          ]
+        },
+        "author_id": "1651129186252124160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2104108246252339243",
+        "created_at": "2026-09-27T07:17:53.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104108246252339243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx7AO9oyb3",
+              "end": 59,
+              "expanded_url": "https://x.com/sup_bbgirl/status/2104108246252339243/photo/1",
+              "media_key": "3_2104108241399451648",
+              "start": 36,
+              "url": "https://t.co/Gx7AO9oyb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104108246252339243",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104108241399451648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 3873,
+          "like_count": 1221,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "04/08/2023\n\nsfx makeup AI generated https://t.co/Gx7AO9oyb3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104291122717802548",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66794,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4363
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-26T07:41:12.000Z",
+        "description": "subtwt\n19\nptbr/eng\n@ryuzakiizombie 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "ryuzakiizombie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noisyboy.straw.page",
+                "end": 23,
+                "expanded_url": "https://noisyboy.straw.page",
+                "start": 0,
+                "url": "https://t.co/6twNhfBVqp"
+              }
+            ]
+          }
+        },
+        "id": "1651129186252124160",
+        "is_identity_verified": false,
+        "location": "under yo bed",
+        "most_recent_tweet_id": "2104133604066439454",
+        "name": "dante sparda from twt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1651129186252124160/1771722932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079472361112240128/Q4nIr351_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 766,
+          "like_count": 87521,
+          "listed_count": 3,
+          "media_count": 2166,
+          "tweet_count": 18321
+        },
+        "url": "https://t.co/6twNhfBVqp",
+        "username": "sup_bbgirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

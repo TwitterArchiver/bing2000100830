@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100432379118854598",
+    "created_at": "2026-09-17T03:51:17.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100432379118854598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1698581212678553600",
+          "start": 3,
+          "username": "nSIhkpGbsc34142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100432379118854598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100206531707089372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nSIhkpGbsc34142: 自分が死んだ後に死んだ理由を勝手に解釈されたら嫌だな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100432379118854598",
+        "created_at": "2026-09-17T03:51:17.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100432379118854598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1698581212678553600",
+              "start": 3,
+              "username": "nSIhkpGbsc34142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100432379118854598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100206531707089372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nSIhkpGbsc34142: 自分が死んだ後に死んだ理由を勝手に解釈されたら嫌だな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698581212678553600",
+        "conversation_id": "2100206531707089372",
+        "created_at": "2026-09-16T12:53:51.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100206531707089372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100206531707089372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 217384,
+          "like_count": 10248,
+          "quote_count": 75,
+          "reply_count": 24,
+          "retweet_count": 558
+        },
+        "reply_settings": "everyone",
+        "text": "自分が死んだ後に死んだ理由を勝手に解釈されたら嫌だな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100432379118854598",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1457,
+          "like_count": 65230,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4033
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-04T06:18:41.000Z",
+        "description": "ずっと大失敗 👊🩸/顔面コンプ/人生コンプ/無言フォロー失礼します🙇🏻‍♀️💦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com",
+                "start": 0,
+                "url": "https://t.co/HurM1Akaqc"
+              }
+            ]
+          }
+        },
+        "id": "1698581212678553600",
+        "is_identity_verified": false,
+        "location": "顔面キャンセル界隈",
+        "most_recent_tweet_id": "2100356989062963675",
+        "name": "毎日疲れた",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698581212678553600/1694429229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701185609040338944/mb4ylGsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 554,
+          "like_count": 24189,
+          "listed_count": 11,
+          "media_count": 101,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/HurM1Akaqc",
+        "username": "nSIhkpGbsc34142",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

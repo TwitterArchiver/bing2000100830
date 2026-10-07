@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2106122383790669824"
+      ],
+      "media_source_tweet_id": [
+        "2106122399938646167"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2106205692655026453",
+    "created_at": "2026-10-03T02:12:23.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106205692655026453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2103725806421745664",
+          "start": 3,
+          "username": "Choomychanmn7g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwmkZRnqIv",
+          "end": 131,
+          "expanded_url": "https://x.com/Choomychanmn7g/status/2106122399938646167/photo/1",
+          "media_key": "16_2106122383790669824",
+          "start": 108,
+          "url": "https://t.co/gwmkZRnqIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106205692655026453",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "16_2106122383790669824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106122399938646167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Choomychanmn7g: Saben yo pensaba que Twitter era más tóxico de tiktok pero en tiktok no aguantan ni una https://t.co/gwmkZRnqIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2106122383790669824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTpzJjtXgAAQCVo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTpzJjtXgAAQCVo.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106122383790669824"
+          ],
+          "media_source_tweet_id": [
+            "2106122399938646167"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106205692655026453",
+        "created_at": "2026-10-03T02:12:23.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106205692655026453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2103725806421745664",
+              "start": 3,
+              "username": "Choomychanmn7g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwmkZRnqIv",
+              "end": 131,
+              "expanded_url": "https://x.com/Choomychanmn7g/status/2106122399938646167/photo/1",
+              "media_key": "16_2106122383790669824",
+              "start": 108,
+              "url": "https://t.co/gwmkZRnqIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106205692655026453",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2106122383790669824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106122399938646167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Choomychanmn7g: Saben yo pensaba que Twitter era más tóxico de tiktok pero en tiktok no aguantan ni una https://t.co/gwmkZRnqIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106122383790669824"
+          ]
+        },
+        "author_id": "2103725806421745664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106122399938646167",
+        "created_at": "2026-10-02T20:41:24.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T21:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106122399938646167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwmkZRnqIv",
+              "end": 111,
+              "expanded_url": "https://x.com/Choomychanmn7g/status/2106122399938646167/photo/1",
+              "media_key": "16_2106122383790669824",
+              "start": 88,
+              "url": "https://t.co/gwmkZRnqIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106122399938646167",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2106122383790669824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 898,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Saben yo pensaba que Twitter era más tóxico de tiktok pero en tiktok no aguantan ni una https://t.co/gwmkZRnqIv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2106205692655026453",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1453,
+          "like_count": 67954,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4498
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-26T05:59:48.000Z",
+        "description": "She/Her\nDNI: Pdf, zoo, 25+ and nsfw\n#: vent/ sh\n Baby  Jirai kei",
+        "id": "2103725806421745664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106154788794913131",
+        "name": "˚₊‧꒰აAme-Chan໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2105612710842916913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103725806421745664/1790402552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103726366155788288/z-8tDkMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 211,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "Choomychanmn7g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

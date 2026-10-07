@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103218025935818859",
+    "created_at": "2026-09-24T20:20:27.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T21:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103218025935818859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931692348830056448",
+          "start": 3,
+          "username": "Ne0tan_dayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103218025935818859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103054177031111109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ne0tan_dayo: ネットって才能の塊みたいな人となんの才能もない人に分かれてる気がする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103218025935818859",
+        "created_at": "2026-09-24T20:20:27.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103218025935818859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931692348830056448",
+              "start": 3,
+              "username": "Ne0tan_dayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103218025935818859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103054177031111109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ne0tan_dayo: ネットって才能の塊みたいな人となんの才能もない人に分かれてる気がする"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931692348830056448",
+        "conversation_id": "2103054177031111109",
+        "created_at": "2026-09-24T09:29:23.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103054177031111109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103054177031111109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 55739,
+          "like_count": 1348,
+          "quote_count": 119,
+          "reply_count": 33,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "ネットって才能の塊みたいな人となんの才能もない人に分かれてる気がする"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103218025935818859",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1454,
+          "like_count": 66279,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4239
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-08T12:38:47.000Z",
+        "description": "日常ツイ | ネタツイ |  進▷@Neo_sub2525 | @Ne0Ne0n_tea | 251 @Aisome_0721 @suairo_3 | 相棒 @YK_SuiSei_V9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Neo_sub2525"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Ne0Ne0n_tea"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Aisome_0721"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "suairo_3"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "YK_SuiSei_V9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pcsbcq5gr3z75v…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/pcsbcq5gr3z75vg?t=ZN0ObX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/fSbtlGc0rU"
+              }
+            ]
+          }
+        },
+        "id": "1931692348830056448",
+        "is_identity_verified": false,
+        "location": "万×5 千×11",
+        "most_recent_tweet_id": "2103155638432133196",
+        "name": "ねお",
+        "pinned_tweet_id": "1967473182660849871",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931692348830056448/1779384604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055665746748059648/UomO7KTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 2363,
+          "like_count": 120017,
+          "listed_count": 14,
+          "media_count": 259,
+          "tweet_count": 20168
+        },
+        "url": "https://t.co/fSbtlGc0rU",
+        "username": "Ne0tan_dayo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

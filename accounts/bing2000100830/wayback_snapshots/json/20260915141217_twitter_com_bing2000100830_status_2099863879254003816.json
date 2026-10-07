@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099827094624620545"
+      ],
+      "media_source_tweet_id": [
+        "2099827159598604687"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Body Piercings",
+          "id": "854723787622830080",
+          "name": "Body Piercings"
+        }
+      }
+    ],
+    "conversation_id": "2099863879254003816",
+    "created_at": "2026-09-15T14:12:17.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099863879254003816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689307102710222848",
+          "start": 3,
+          "username": "Shr1mp_P1lled"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7QyjQXc56",
+          "end": 79,
+          "expanded_url": "https://x.com/Shr1mp_P1lled/status/2099827159598604687/photo/1",
+          "media_key": "3_2099827094624620545",
+          "start": 56,
+          "url": "https://t.co/l7QyjQXc56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099863879254003816",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099827094624620545"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099827159598604687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shr1mp_P1lled: Wish I could pierce my ears like Ame https://t.co/l7QyjQXc56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_2099827094624620545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQVngDXUAEufyf.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099827094624620545"
+          ],
+          "media_source_tweet_id": [
+            "2099827159598604687"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Body Piercings",
+              "id": "854723787622830080",
+              "name": "Body Piercings"
+            }
+          }
+        ],
+        "conversation_id": "2099863879254003816",
+        "created_at": "2026-09-15T14:12:17.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099863879254003816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689307102710222848",
+              "start": 3,
+              "username": "Shr1mp_P1lled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7QyjQXc56",
+              "end": 79,
+              "expanded_url": "https://x.com/Shr1mp_P1lled/status/2099827159598604687/photo/1",
+              "media_key": "3_2099827094624620545",
+              "start": 56,
+              "url": "https://t.co/l7QyjQXc56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099863879254003816",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099827094624620545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099827159598604687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shr1mp_P1lled: Wish I could pierce my ears like Ame https://t.co/l7QyjQXc56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099827094624620545"
+          ]
+        },
+        "author_id": "1689307102710222848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Body Piercings",
+              "id": "854723787622830080",
+              "name": "Body Piercings"
+            }
+          }
+        ],
+        "conversation_id": "2099827159598604687",
+        "created_at": "2026-09-15T11:46:22.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099827159598604687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7QyjQXc56",
+              "end": 60,
+              "expanded_url": "https://x.com/Shr1mp_P1lled/status/2099827159598604687/photo/1",
+              "media_key": "3_2099827094624620545",
+              "start": 37,
+              "url": "https://t.co/l7QyjQXc56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099827159598604687",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099827094624620545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 517,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Wish I could pierce my ears like Ame https://t.co/l7QyjQXc56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099863879254003816",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1459,
+          "like_count": 65184,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3993
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-09T16:06:31.000Z",
+        "description": "˚₊‧꒰ა Angel made of lace and ribbon ໒꒱ ‧₊˚\n\n⋆౨ৎ˚⟡˖ #shedrtwt #jiraitwt | 17🇩🇪 | ⚢ | Baby Jirai | priv➡️ @Stirr_friedrice⋆౨ৎ˚⟡˖ ࣪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 51,
+                "tag": "shedrtwt"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "jiraitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Stirr_friedrice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shrimppilled.straw.page",
+                "end": 23,
+                "expanded_url": "https://shrimppilled.straw.page",
+                "start": 0,
+                "url": "https://t.co/bZvJpOFcMC"
+              }
+            ]
+          }
+        },
+        "id": "1689307102710222848",
+        "is_identity_verified": false,
+        "location": "They/them",
+        "most_recent_tweet_id": "2099862171932827774",
+        "name": "Shrimp fried rice 𓉸ྀི 🦐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689307102710222848/1785683207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096489550126399488/w9ZkySgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 150,
+          "like_count": 141411,
+          "listed_count": 6,
+          "media_count": 1858,
+          "tweet_count": 17631
+        },
+        "url": "https://t.co/bZvJpOFcMC",
+        "username": "Shr1mp_P1lled",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

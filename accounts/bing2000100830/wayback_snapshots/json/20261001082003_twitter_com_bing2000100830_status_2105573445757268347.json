@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2105573445757268347",
+    "created_at": "2026-10-01T08:20:03.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105573445757268347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817361351494467584",
+          "start": 3,
+          "username": "resa87125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105573445757268347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105339332064412119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @resa87125: 能用语言表述出来只是第一关，接下来还要面对他者对于已经表达出来的感情进行异化和修饰，然后用完全的另一种形式的语言对你进行回复，之后再去重复这样不断增加的变化，最终一切都是纯粹的幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2105573445757268347",
+        "created_at": "2026-10-01T08:20:03.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105573445757268347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817361351494467584",
+              "start": 3,
+              "username": "resa87125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105573445757268347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105339332064412119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @resa87125: 能用语言表述出来只是第一关，接下来还要面对他者对于已经表达出来的感情进行异化和修饰，然后用完全的另一种形式的语言对你进行回复，之后再去重复这样不断增加的变化，最终一切都是纯粹的幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817361351494467584",
+        "conversation_id": "2105339332064412119",
+        "created_at": "2026-09-30T16:49:46.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105339332064412119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105339332064412119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能用语言表述出来只是第一关，接下来还要面对他者对于已经表达出来的感情进行异化和修饰，然后用完全的另一种形式的语言对你进行回复，之后再去重复这样不断增加的变化，最终一切都是纯粹的幻想"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2105573445757268347",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1454,
+          "like_count": 67604,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4478
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-28T00:49:29.000Z",
+        "description": "可以直接称呼id/或者称呼S/无性恋/生理性别女/心理无性别/随时可以找我唠除了顺性别相关的一切话题/可提供有困难的人资金援助//雷点：骨科为首的乱伦相关话题；黄图；聊骚；梦女/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/void87214",
+                "end": 23,
+                "expanded_url": "http://ngl.link/void87214",
+                "start": 0,
+                "url": "https://t.co/tEfgMsLBzF"
+              }
+            ]
+          }
+        },
+        "id": "1817361351494467584",
+        "is_identity_verified": false,
+        "location": "HELL",
+        "most_recent_tweet_id": "2105410108528492792",
+        "name": "Sare🖤🩶🤍💜",
+        "pinned_tweet_id": "2077225086109770044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817361351494467584/1779746214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055743557710004224/K-DCgKBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 134,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/tEfgMsLBzF",
+        "username": "resa87125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

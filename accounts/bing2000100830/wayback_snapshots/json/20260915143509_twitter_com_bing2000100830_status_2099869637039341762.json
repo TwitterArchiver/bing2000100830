@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099869637039341762",
+    "created_at": "2026-09-15T14:35:09.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099869637039341762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050779529904631808",
+          "start": 3,
+          "username": "urushi_mii_mike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099869637039341762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099773085557698997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @urushi_mii_mike: みんな傷って隠してるの？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099869637039341762",
+        "created_at": "2026-09-15T14:35:09.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099869637039341762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050779529904631808",
+              "start": 3,
+              "username": "urushi_mii_mike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099869637039341762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099773085557698997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @urushi_mii_mike: みんな傷って隠してるの？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050779529904631808",
+        "conversation_id": "2099773085557698997",
+        "created_at": "2026-09-15T08:11:30.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099773085557698997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099773085557698997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7786,
+          "like_count": 318,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "みんな傷って隠してるの？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099869637039341762",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1459,
+          "like_count": 65178,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3995
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T03:28:53.000Z",
+        "description": "自分の生きたいように生きる 統合失調感情障害 ADHD 境界知能  障害持ち お隣🫶🏻️@ne_____ru0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "ne_____ru0"
+              }
+            ]
+          }
+        },
+        "id": "2050779529904631808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099862246709227887",
+        "name": "うるし",
+        "pinned_tweet_id": "2082377832190148883",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091791989641764864/yqgq9HVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 3322,
+          "like_count": 2253,
+          "listed_count": 29,
+          "media_count": 41,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "urushi_mii_mike",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

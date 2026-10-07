@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104230624068296704"
+      ],
+      "media_source_tweet_id": [
+        "2104230632960188477"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2104290486865596763",
+    "created_at": "2026-09-27T19:22:02.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104290486865596763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1469251534412255234",
+          "start": 3,
+          "username": "tripadegasolina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LGKaJHJSft",
+          "end": 69,
+          "expanded_url": "https://x.com/tripadegasolina/status/2104230632960188477/photo/1",
+          "media_key": "3_2104230624068296704",
+          "start": 46,
+          "url": "https://t.co/LGKaJHJSft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104290486865596763",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2104230624068296704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104230632960188477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tripadegasolina: pensando no meu namorado https://t.co/LGKaJHJSft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2104230624068296704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO6mpkW4AAt_lG.jpg",
+        "width": 1675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104230624068296704"
+          ],
+          "media_source_tweet_id": [
+            "2104230632960188477"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2104290486865596763",
+        "created_at": "2026-09-27T19:22:02.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104290486865596763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1469251534412255234",
+              "start": 3,
+              "username": "tripadegasolina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGKaJHJSft",
+              "end": 69,
+              "expanded_url": "https://x.com/tripadegasolina/status/2104230632960188477/photo/1",
+              "media_key": "3_2104230624068296704",
+              "start": 46,
+              "url": "https://t.co/LGKaJHJSft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104290486865596763",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2104230624068296704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104230632960188477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tripadegasolina: pensando no meu namorado https://t.co/LGKaJHJSft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104230624068296704"
+          ]
+        },
+        "author_id": "1469251534412255234",
+        "conversation_id": "2104230632960188477",
+        "created_at": "2026-09-27T15:24:12.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104230632960188477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGKaJHJSft",
+              "end": 48,
+              "expanded_url": "https://x.com/tripadegasolina/status/2104230632960188477/photo/1",
+              "media_key": "3_2104230624068296704",
+              "start": 25,
+              "url": "https://t.co/LGKaJHJSft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104230632960188477",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2104230624068296704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 12172,
+          "like_count": 1579,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "pensando no meu namorado https://t.co/LGKaJHJSft"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2104290486865596763",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1456,
+          "like_count": 66790,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4361
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-10T10:24:08.000Z",
+        "description": "everybody loves me\n@primateintellec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "primateintellec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yandere.𒾏",
+                "end": 23,
+                "expanded_url": "https://yandere.xn--xl7d/",
+                "start": 0,
+                "url": "https://t.co/E84rSWuext"
+              }
+            ]
+          }
+        },
+        "id": "1469251534412255234",
+        "is_identity_verified": false,
+        "location": "one piece",
+        "most_recent_tweet_id": "2104253783274299727",
+        "name": "esther",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469251534412255234/1790362029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103556931184910336/sqLXf3p-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 216,
+          "like_count": 7779,
+          "listed_count": 2,
+          "media_count": 721,
+          "tweet_count": 6301
+        },
+        "url": "https://t.co/E84rSWuext",
+        "username": "tripadegasolina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102416901767118848"
+      ],
+      "media_source_tweet_id": [
+        "2102416922705092928"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2102549781306634559",
+    "created_at": "2026-09-23T00:05:06.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102549781306634559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071693390895616000",
+          "start": 3,
+          "username": "AmJellyCar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEqCkTDonL",
+          "end": 51,
+          "expanded_url": "https://x.com/AmJellyCar/status/2102416922705092928/video/1",
+          "media_key": "13_2102416901767118848",
+          "start": 28,
+          "url": "https://t.co/PEqCkTDonL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102549781306634559",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2102416901767118848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102416922705092928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmJellyCar: dumbass car https://t.co/PEqCkTDonL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2239,
+        "height": 1280,
+        "media_key": "13_2102416901767118848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102416901767118848/img/zUfTMYem4zoVcwTz.jpg",
+        "public_metrics": {
+          "view_count": 4631
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102416901767118848/vid/avc1/320x568/C3gTy8llYkkn3CTn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102416901767118848/vid/avc1/480x852/MNRbxEaAyESZS1Xq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102416901767118848/vid/avc1/720x1280/6HBikWraCmMeJQ6Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102416901767118848/pl/GHxkExoktkvL4wSl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102416901767118848"
+          ],
+          "media_source_tweet_id": [
+            "2102416922705092928"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2102549781306634559",
+        "created_at": "2026-09-23T00:05:06.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102549781306634559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071693390895616000",
+              "start": 3,
+              "username": "AmJellyCar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEqCkTDonL",
+              "end": 51,
+              "expanded_url": "https://x.com/AmJellyCar/status/2102416922705092928/video/1",
+              "media_key": "13_2102416901767118848",
+              "start": 28,
+              "url": "https://t.co/PEqCkTDonL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102549781306634559",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102416901767118848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102416922705092928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmJellyCar: dumbass car https://t.co/PEqCkTDonL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102416901767118848"
+          ]
+        },
+        "author_id": "2071693390895616000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2102416922705092928",
+        "created_at": "2026-09-22T15:17:10.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102416922705092928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEqCkTDonL",
+              "end": 35,
+              "expanded_url": "https://x.com/AmJellyCar/status/2102416922705092928/video/1",
+              "media_key": "13_2102416901767118848",
+              "start": 12,
+              "url": "https://t.co/PEqCkTDonL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102416922705092928",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102416901767118848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 10769,
+          "like_count": 1327,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "dumbass car https://t.co/PEqCkTDonL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2102549781306634559",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1449,
+          "like_count": 65979,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 4171
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:33:32.000Z",
+        "description": "girl EST. 2024 ♀️\nmassively skill issued 🎮\nDMs open, let's be friends? 💖\nneed.... more.... jirai.... outfits.... ✨️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/xskdFx8fPg",
+                "end": 23,
+                "expanded_url": "https://discord.gg/xskdFx8fPg",
+                "start": 0,
+                "url": "https://t.co/DDKqoMKKIr"
+              }
+            ]
+          }
+        },
+        "id": "2071693390895616000",
+        "is_identity_verified": false,
+        "location": "shrimp town",
+        "most_recent_tweet_id": "2102446283491582031",
+        "name": "Angelica 🏳️‍⚧️",
+        "pinned_tweet_id": "2089198210082574390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071693390895616000/1783640016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071785286196133888/UaLXtgHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4737,
+          "following_count": 121,
+          "like_count": 3498,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/DDKqoMKKIr",
+        "username": "AmJellyCar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

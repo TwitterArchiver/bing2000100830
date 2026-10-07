@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2099873433278365914",
+    "created_at": "2026-09-15T14:50:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099873433278365914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1910075508206759936",
+          "start": 3,
+          "username": "4erii09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099873433278365914",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099648141473595587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4erii09: me encanta mi vida 🤣🤣😂😂😂 me encanta despertarme siendo miserable 😂🤣😂😂😂😂🤣🤣🤣😂😂😂😂😂😂😂🤣🤣😂 desperdiciar mi juventud pudriéndome en m…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2099873433278365914",
+        "created_at": "2026-09-15T14:50:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099873433278365914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910075508206759936",
+              "start": 3,
+              "username": "4erii09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099873433278365914",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099648141473595587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4erii09: me encanta mi vida 🤣🤣😂😂😂 me encanta despertarme siendo miserable 😂🤣😂😂😂😂🤣🤣🤣😂😂😂😂😂😂😂🤣🤣😂 desperdiciar mi juventud pudriéndome en m…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910075508206759936",
+        "conversation_id": "2099648141473595587",
+        "created_at": "2026-09-14T23:55:01.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T00:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099648141473595587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099648141473595587",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 16611,
+          "like_count": 2220,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 920
+        },
+        "reply_settings": "everyone",
+        "text": "me encanta mi vida 🤣🤣😂😂😂 me encanta despertarme siendo miserable 😂🤣😂😂😂😂🤣🤣🤣😂😂😂😂😂😂😂🤣🤣😂 desperdiciar mi juventud pudriéndome en mi cuarto 😂😂😂😂😅😅🤣🤣😂😂😂🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2099873433278365914",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1459,
+          "like_count": 65201,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 3996
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-09T21:01:57.000Z",
+        "description": "spiritual gangsta only people seria akí",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nv6sss?stkn=MW…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nv6sss?stkn=MWF5dGllOHllczFrNg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ECafA1pIx7"
+              }
+            ]
+          }
+        },
+        "id": "1910075508206759936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099824146477724064",
+        "name": "somnofilia",
+        "pinned_tweet_id": "2096663258992124325",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910075508206759936/1789353146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099325261913206796/0xziMim6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 261,
+          "like_count": 4178,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/ECafA1pIx7",
+        "username": "4erii09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

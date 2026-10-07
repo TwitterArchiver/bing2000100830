@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103779720156553216"
+      ],
+      "media_source_tweet_id": [
+        "2103779727739953458"
+      ]
+    },
+    "author_id": "1243590342911410176",
+    "conversation_id": "2103996376648646853",
+    "created_at": "2026-09-26T23:53:21.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T00:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103996376648646853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752641549400408064",
+          "start": 3,
+          "username": "mgusqgi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6p2NLCY5VM",
+          "end": 44,
+          "expanded_url": "https://x.com/mgusqgi/status/2103779727739953458/photo/1",
+          "media_key": "3_2103779720156553216",
+          "start": 21,
+          "url": "https://t.co/6p2NLCY5VM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103996376648646853",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103779720156553216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103779727739953458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mgusqgi: よかったね　ピ https://t.co/6p2NLCY5VM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2103779720156553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIgglmaIAAaZLZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103779720156553216"
+          ],
+          "media_source_tweet_id": [
+            "2103779727739953458"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2103996376648646853",
+        "created_at": "2026-09-26T23:53:21.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103996376648646853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752641549400408064",
+              "start": 3,
+              "username": "mgusqgi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p2NLCY5VM",
+              "end": 44,
+              "expanded_url": "https://x.com/mgusqgi/status/2103779727739953458/photo/1",
+              "media_key": "3_2103779720156553216",
+              "start": 21,
+              "url": "https://t.co/6p2NLCY5VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103996376648646853",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103779720156553216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103779727739953458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mgusqgi: よかったね　ピ https://t.co/6p2NLCY5VM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103779720156553216"
+          ]
+        },
+        "author_id": "1752641549400408064",
+        "conversation_id": "2103779727739953458",
+        "created_at": "2026-09-26T09:32:28.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103779727739953458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p2NLCY5VM",
+              "end": 31,
+              "expanded_url": "https://x.com/mgusqgi/status/2103779727739953458/photo/1",
+              "media_key": "3_2103779720156553216",
+              "start": 8,
+              "url": "https://t.co/6p2NLCY5VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103779727739953458",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103779720156553216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6065,
+          "like_count": 962,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "reply_settings": "following",
+        "text": "よかったね　ピ https://t.co/6p2NLCY5VM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2103996376648646853",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1454,
+          "like_count": 66580,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 4318
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T10:34:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mgusagi",
+                "end": 23,
+                "expanded_url": "https://lit.link/mgusagi",
+                "start": 0,
+                "url": "https://t.co/E01RdrfJHX"
+              }
+            ]
+          }
+        },
+        "id": "1752641549400408064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103779727739953458",
+        "name": "𐂯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752641549400408064/1785458208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087931708121452544/J3Uj4b7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 3,
+          "like_count": 14669,
+          "listed_count": 8,
+          "media_count": 156,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/E01RdrfJHX",
+        "username": "mgusqgi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

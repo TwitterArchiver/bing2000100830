@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243590342911410176",
+    "conversation_id": "2100521473345749392",
+    "created_at": "2026-09-17T09:45:19.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100521473345749392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "734645514822504448",
+          "start": 3,
+          "username": "dead_assistant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100521473345749392",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100455739072622988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dead_assistant: 여자아이에게 패배란 없어 이 멍청아\n모두가 승자야"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2100521473345749392",
+        "created_at": "2026-09-17T09:45:19.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100521473345749392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "734645514822504448",
+              "start": 3,
+              "username": "dead_assistant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100521473345749392",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100455739072622988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dead_assistant: 여자아이에게 패배란 없어 이 멍청아\n모두가 승자야"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "734645514822504448",
+        "conversation_id": "2100455739072622988",
+        "created_at": "2026-09-17T05:24:07.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100455739072622988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/waka_skincare/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/waka_skincare/status/2100147689447104714",
+              "start": 28,
+              "url": "https://t.co/ksMvCcthpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100455739072622988",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 337199,
+          "like_count": 18851,
+          "quote_count": 41,
+          "reply_count": 2,
+          "retweet_count": 2362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100147689447104714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "여자아이에게 패배란 없어 이 멍청아\n모두가 승자야 https://t.co/ksMvCcthpF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2100521473345749392",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1454,
+          "like_count": 65280,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4044
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-23T07:21:54.000Z",
+        "description": "(구)교수님 따까리\n투비컨티뉴드 🐱고양이가 너무 많아🐱연재 중\ncontact: dm\n✉️nullwithcat@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobe.aladin.co.kr/t/deadassistant",
+                "end": 23,
+                "expanded_url": "https://tobe.aladin.co.kr/t/deadassistant",
+                "start": 0,
+                "url": "https://t.co/WaZBB7FGWn"
+              }
+            ]
+          }
+        },
+        "id": "734645514822504448",
+        "is_identity_verified": false,
+        "location": "nullwithcat@gmail.com",
+        "most_recent_tweet_id": "2100519257037758820",
+        "name": "김닥갈",
+        "pinned_tweet_id": "2079801321553871198",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/734645514822504448/1683720981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039551548896976896/lhuQADFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12704,
+          "following_count": 797,
+          "like_count": 58600,
+          "listed_count": 32,
+          "media_count": 15591,
+          "tweet_count": 119962
+        },
+        "url": "https://t.co/WaZBB7FGWn",
+        "username": "dead_assistant",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
